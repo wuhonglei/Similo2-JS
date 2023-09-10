@@ -5,6 +5,9 @@ const { Builder, Browser, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 const website = require('../data/website.json');
 const root = path.join(__dirname, '../data/apps');
+const recordedPath = path.join(__dirname, '../data/recorded.txt');
+const recordedContent = fs.readFileSync(recordedPath, 'utf8');
+const recorded = recordedContent.split('\n').filter(Boolean);
 
 const javascript = (function getJavascript() {
   const filepath = path.join(__dirname, '../lib/bundle.js');
@@ -138,8 +141,12 @@ async function start() {
   try {
     await driver.manage().window().maximize(); // 最大化窗口
     for (const site of website) {
-      await getPropertyOfSite(driver, site);
-      console.info(site.name);
+      if (!recorded.includes(site.name)) {
+        await getPropertyOfSite(driver, site);
+        recorded.push(site.name);
+        console.info(`recorded: ${site.name}`);
+        fs.writeFileSync(recordedPath, recorded.join('\n'));
+      }
     }
   } finally {
     // await driver.quit();
