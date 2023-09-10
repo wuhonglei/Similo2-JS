@@ -1,0 +1,551 @@
+[
+  {
+    "alt": "",
+    "area": 5848,
+    "classList": [
+      "paypal-img-logo"
+    ],
+    "href": "https://www.paypal.com/us/webapps/mpp/home",
+    "id": "",
+    "idxpath": "//*[@id='body']/header[1]/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 136,
+      "x": 160,
+      "y": 13
+    },
+    "name": "",
+    "neighborText": [
+      "PayPal",
+      "PERSONALBUSINESSSENDREQUEST",
+      "Log",
+      "In",
+      "Sign",
+      "Up"
+    ],
+    "shape": 316,
+    "tag": "A",
+    "visibleText": "PayPal",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 8978,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/home",
+    "id": "header-personal",
+    "idxpath": "//*[@id='header-personal']",
+    "isButton": false,
+    "location": {
+      "height": 67,
+      "width": 134,
+      "x": 500,
+      "y": 3
+    },
+    "name": "",
+    "neighborText": [
+      "BUSINESS",
+      "PERSONALBUSINESSSENDREQUEST",
+      "PayPal",
+      "PERSONALBUSINESSSENDREQUEST",
+      "Log",
+      "In",
+      "Sign",
+      "Up",
+      "Personal"
+    ],
+    "shape": 200,
+    "tag": "A",
+    "visibleText": "PERSONAL",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1320,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/mobile-apps",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 30,
+      "x": 434,
+      "y": 2535
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 68,
+    "tag": "A",
+    "visibleText": "Apps",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1320,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/shopping-selection",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 30,
+      "x": 495,
+      "y": 2535
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 68,
+    "tag": "A",
+    "visibleText": "Shop",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 768,
+    "classList": [
+      "country",
+      "US"
+    ],
+    "href": "https://www.paypal.com/us/webapps/mpp/country-worldwide",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 32,
+      "x": 1278,
+      "y": 2546
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 133,
+    "tag": "A",
+    "visibleText": "See all countries/regions",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 832,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/about",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 32,
+      "x": 160,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 123,
+    "tag": "A",
+    "visibleText": "About",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 572,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/jobs",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 22,
+      "x": 259,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 84,
+    "tag": "A",
+    "visibleText": "Jobs",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2496,
+    "classList": [],
+    "href": "https://investor.paypal-corp.com/",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 96,
+      "x": 303,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 369,
+    "tag": "A",
+    "visibleText": "Investor Relations",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2366,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/social-innovation",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 91,
+      "x": 421,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 350,
+    "tag": "A",
+    "visibleText": "Social Innovation",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1742,
+    "classList": [],
+    "href": "https://publicpolicy.paypal-corp.com/",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 67,
+      "x": 535,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 257,
+    "tag": "A",
+    "visibleText": "Public Policy",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1118,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/full-sitemap",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 43,
+      "x": 624,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 165,
+    "tag": "A",
+    "visibleText": "Sitemap",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1430,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/enterprise",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 55,
+      "x": 689,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 211,
+    "tag": "A",
+    "visibleText": "Enterprise",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8643,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/merchant",
+    "id": "header-business",
+    "idxpath": "//*[@id='header-business']",
+    "isButton": false,
+    "location": {
+      "height": 67,
+      "width": 129,
+      "x": 635,
+      "y": 3
+    },
+    "name": "",
+    "neighborText": [
+      "SEND",
+      "PERSONALBUSINESSSENDREQUEST",
+      "PayPal",
+      "PERSONALBUSINESSSENDREQUEST",
+      "Log",
+      "In",
+      "Sign",
+      "Up",
+      "Personal",
+      "Business"
+    ],
+    "shape": 192,
+    "tag": "A",
+    "visibleText": "BUSINESS",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1170,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/partner-program",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[2]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 45,
+      "x": 767,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 173,
+    "tag": "A",
+    "visibleText": "Partners",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[2]/li[9]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 988,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/ua/privacy-full",
+    "id": "",
+    "idxpath": "//*[@id='footer-privacy']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 38,
+      "x": 1150,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 146,
+    "tag": "A",
+    "visibleText": "Privacy",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[3]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 702,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/ua/legalhub-full",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[3]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 27,
+      "x": 1210,
+      "y": 2588
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 103,
+    "tag": "A",
+    "visibleText": "Legal",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[3]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3024,
+    "classList": [
+      "btn",
+      "btn-small",
+      "btn-secondary"
+    ],
+    "href": "https://www.paypal.com/us/signin",
+    "id": "ul-btn",
+    "idxpath": "//*[@id='ul-btn']",
+    "isButton": true,
+    "location": {
+      "height": 36,
+      "width": 84,
+      "x": 1107,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "PERSONALBUSINESSSENDREQUEST",
+      "Log",
+      "In",
+      "Sign",
+      "Up",
+      "PayPal",
+      "PERSONALBUSINESSSENDREQUEST",
+      "Log",
+      "In",
+      "Sign",
+      "Up"
+    ],
+    "shape": 233,
+    "tag": "A",
+    "visibleText": "Log In",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3024,
+    "classList": [
+      "btn",
+      "btn-small",
+      "btn-signup"
+    ],
+    "href": "https://www.paypal.com/us/webapps/mpp/account-selection",
+    "id": "signup-button",
+    "idxpath": "//*[@id='signup-button']",
+    "isButton": true,
+    "location": {
+      "height": 36,
+      "width": 84,
+      "x": 1203,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "PERSONALBUSINESSSENDREQUEST",
+      "PayPal",
+      "PERSONALBUSINESSSENDREQUEST",
+      "Log",
+      "In",
+      "Sign",
+      "Up"
+    ],
+    "shape": 233,
+    "tag": "A",
+    "visibleText": "Sign Up",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 15360,
+    "classList": [
+      "btn",
+      "closing-cta",
+      "center-block",
+      "btn-white"
+    ],
+    "href": "https://www.paypal.com/us/webapps/mpp/account-selection",
+    "id": "",
+    "idxpath": "//*[@id='main']/section[5]/div[1]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 48,
+      "width": 320,
+      "x": 575,
+      "y": 2191
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 666,
+    "tag": "A",
+    "visibleText": "Sign Up for Free",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/section[5]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1232,
+    "classList": [],
+    "href": "https://www.paypal.com/us/smarthelp/home",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 28,
+      "x": 160,
+      "y": 2535
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 63,
+    "tag": "A",
+    "visibleText": "Help",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2112,
+    "classList": [],
+    "href": "https://www.paypal.com/us/smarthelp/contact-us",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 48,
+      "x": 218,
+      "y": 2535
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 109,
+    "tag": "A",
+    "visibleText": "Contact",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1188,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/paypal-fees",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 27,
+      "x": 296,
+      "y": 2535
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 61,
+    "tag": "A",
+    "visibleText": "Fees",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2244,
+    "classList": [],
+    "href": "https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security",
+    "id": "",
+    "idxpath": "//*[@id='body']/footer[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 51,
+      "x": 353,
+      "y": 2535
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 115,
+    "tag": "A",
+    "visibleText": "Security",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[4]/a[1]"
+  }
+]

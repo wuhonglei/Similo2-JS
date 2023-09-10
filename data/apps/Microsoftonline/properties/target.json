@@ -1,0 +1,210 @@
+[
+  {
+    "alt": "",
+    "area": 12168,
+    "classList": [
+      "form-control",
+      "ltr_override"
+    ],
+    "href": "",
+    "id": "i0116",
+    "idxpath": "//*[@id='i0116']",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 338,
+      "x": 566,
+      "y": 319
+    },
+    "name": "loginfmt",
+    "neighborText": [
+      "Sign",
+      "in",
+      "Next"
+    ],
+    "shape": 938,
+    "tag": "INPUT",
+    "visibleText": "Email address, phone number or Skype",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 1340,
+    "classList": [
+      "display-inline-block"
+    ],
+    "href": "https://login.live.com/oauth20_authorize.srf?response_type=code&client_id=51483342-085c-4d86-bf88-cf50c7252078&scope=openid+profile+email+offline_access&response_mode=form_post&redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2&state=rQIIAXWSO2_TUACF66SJmqqUCiHBhDqw8HBiX1_fxJE6pE7Io7GdBLepvVSuY8c38Qv75jmydUGdK7GwIDohJuAndKpg68yAmBASiAUJl53lLOcbjs45D9Nsni3fhxzkjeKxQAsG4mgosAxtQIBojucQBxh2wDNcdGt968-9qwfxz7eNk-cvl78effp8RuWOXDy18mbgnVN3HELCuFwozGazfGDb2PxnFN5T1CVFfaWos1TG8un67nkqRhzieQAFxCDEALaEYF5WHSyrvbGudom2bAJFZBilf-C01fFcViWijbpAqtYW2vKJJ40GrgZ0LFX3OSXxEs7TccKr5qLdb3ka0Ig0kl1pec2MWaWusVepm0plQhxwLUGEl9aPVM4OIu8oDGJyln5NKaHlNwdi4PuWSfLXmOUTbBoEB34nCkIrItiKdzDcs2utal8o1QQbh8NIstUSfVi3h5alz0eKzPjTdvy0RisHlsgHrU6zFopdNx6YPrSwWxlLRQLnxrOGJx6H8qhZlPnpgV7xqua4dIgWAInDWGVtqE9q1WEDdOYtSWs2J-LMaS8Mr997l84mtXqBf5HeTEL5eLAdRoGNXetylfq2usFkymtr61s37qa2V36vUq8yyXKjzemLyuJD4-RLw3yz8XjlIlMw96duNPUEcb_QhT1I6nuhM6nGPGuwk15nwBeiKHB2FeIbcIcrs6dZ6jSb_Z5d-Zj739BX67eTs5RoBtAAbbNcGaIyLOp_AQ2&estsfed=1&uaid=29da1efdf57348b089829d7af62bd2d3&signup=1&lw=1&fl=easi2&mkt=en-GB",
+    "id": "signup",
+    "idxpath": "//*[@id='signup']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 67,
+      "x": 644,
+      "y": 424
+    },
+    "name": "",
+    "neighborText": [
+      "Next",
+      "No",
+      "account?",
+      "Create",
+      "one!",
+      "No",
+      "account?",
+      "Create",
+      "one!",
+      "Can’t",
+      "access",
+      "your",
+      "account?"
+    ],
+    "shape": 335,
+    "tag": "A",
+    "visibleText": "Create one!",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2430,
+    "classList": [],
+    "href": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3di4KfEJDW98E9fipgrMfT8-XGfgeeZxjON0nvLsSE-OVeC5oJPIEpCQlsdcn4eilAkM7t4xaqHmCbpNjI7N5vVZAmDck8X6y26CgsT1f4ZuEDgH2PxJMYIIuCwhLyamWR&nonce=636552496066021864.NThiNTRkZTQtYzI2OC00OWVhLTkxNTMtYjQ2MDEyYzFmMjdlY2ZiMDU3OTMtOWVmZi00OTcyLWJmY2YtMjNlMzZiMDk1OGY1&redirect_uri=https%3a%2f%2fwww.office.com%2f&ui_locales=en-GB&mkt=en-GB&client-request-id=29da1efd-f573-48b0-8982-9d7af62bd2d3#",
+    "id": "cantAccessAccount",
+    "idxpath": "//*[@id='cantAccessAccount']",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 162,
+      "x": 566,
+      "y": 462
+    },
+    "name": "",
+    "neighborText": [
+      "No",
+      "account?",
+      "Create",
+      "one!",
+      "No",
+      "account?",
+      "Create",
+      "one!",
+      "Can’t",
+      "access",
+      "your",
+      "account?"
+    ],
+    "shape": 1080,
+    "tag": "A",
+    "visibleText": "Can’t access your account?",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 12168,
+    "classList": [
+      "btn",
+      "btn-block",
+      "btn-primary"
+    ],
+    "href": "",
+    "id": "idSIButton9",
+    "idxpath": "//*[@id='idSIButton9']",
+    "isButton": true,
+    "location": {
+      "height": 36,
+      "width": 338,
+      "x": 566,
+      "y": 372
+    },
+    "name": "",
+    "neighborText": [
+      "Email",
+      "address,",
+      "phone",
+      "number",
+      "or",
+      "Skype",
+      "No",
+      "account?",
+      "Create",
+      "one!",
+      "No",
+      "account?",
+      "Create",
+      "one!",
+      "Can’t",
+      "access",
+      "your",
+      "account?"
+    ],
+    "shape": 938,
+    "tag": "INPUT",
+    "visibleText": "Next",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 1904,
+    "classList": [],
+    "href": "https://www.microsoft.com/en-GB/servicesagreement/",
+    "id": "ftrTerms",
+    "idxpath": "//*[@id='ftrTerms']",
+    "isButton": false,
+    "location": {
+      "height": 28,
+      "width": 68,
+      "x": 1259,
+      "y": 761
+    },
+    "name": "",
+    "neighborText": [
+      "Privacy",
+      "&",
+      "cookies",
+      "©2018",
+      "Microsoft",
+      "©2018",
+      "Microsoft",
+      "Terms",
+      "of",
+      "use",
+      "Privacy",
+      "&",
+      "cookies"
+    ],
+    "shape": 242,
+    "tag": "A",
+    "visibleText": "Terms of use",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[2]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2660,
+    "classList": [],
+    "href": "https://privacy.microsoft.com/en-GB/privacystatement",
+    "id": "ftrPrivacy",
+    "idxpath": "//*[@id='ftrPrivacy']",
+    "isButton": false,
+    "location": {
+      "height": 28,
+      "width": 95,
+      "x": 1347,
+      "y": 761
+    },
+    "name": "",
+    "neighborText": [
+      "©2018",
+      "Microsoft",
+      "Terms",
+      "of",
+      "use",
+      "Privacy",
+      "&",
+      "cookies"
+    ],
+    "shape": 339,
+    "tag": "A",
+    "visibleText": "Privacy & cookies",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[2]/div[1]/div[1]/a[2]"
+  }
+]

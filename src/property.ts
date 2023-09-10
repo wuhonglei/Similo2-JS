@@ -147,6 +147,11 @@ function getNeighborText(element: Element, location: ElementLocation): string[] 
  * @returns
  */
 export function getElementProperties(element: Element): Properties {
+  if (!element) {
+    console.warn('element is null');
+    return {} as Properties;
+  }
+
   const tag = element.tagName as Properties['tag'];
   const classList = getElementClassList(element);
   const name: string = (element as any).name;

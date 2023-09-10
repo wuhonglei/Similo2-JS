@@ -1,13 +1,23 @@
 const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
+const { shuffle } = require('lodash');
 const { Builder, Browser, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
+const cluster = require('cluster');
+
 const website = require('../data/website.json');
 const root = path.join(__dirname, '../data/apps');
 const recordedPath = path.join(__dirname, '../data/recorded.txt');
-const recordedContent = fs.readFileSync(recordedPath, 'utf8');
-const recorded = recordedContent.split('\n').filter(Boolean);
+
+function getRecorded() {
+  const recordedContent = fs.readFileSync(recordedPath, 'utf8');
+  return recordedContent.split('\n').filter(Boolean);
+}
+
+function writeRecorded(recorded) {
+  fs.writeFileSync(recordedPath, recorded.join('\n'));
+}
 
 const javascript = (function getJavascript() {
   const filepath = path.join(__dirname, '../lib/bundle.js');
@@ -24,18 +34,13 @@ async function getFullPageScreenshot(driver, filepath) {
       quality: 100,
       chromaSubsampling: '4:4:4',
     })
-    .resize(width, height)
+    .resize(Math.floor(width), Math.floor(height))
     .toFile(filepath);
 }
 
 async function getScreenshotOfElement(element, filepath) {
   if (!element) {
     console.warn('element is null');
-    return;
-  }
-
-  if (!element || !element.takeScreenshot) {
-    debugger;
     return;
   }
 
@@ -48,13 +53,13 @@ async function getScreenshotOfElement(element, filepath) {
       quality: 100,
       chromaSubsampling: '4:4:4',
     })
-    .resize(width, height)
+    .resize(Math.floor(width), Math.floor(height))
     .toFile(filepath);
 }
 
 async function getScreenshotsOfOldSite(driver, site) {
   const { url, xpath } = site;
-  const targetList = xpath.map((oneTarget) => driver.findElement(By.xpath(oneTarget.old)));
+  const targetList = xpath.map((oneTarget) => driver.findElement(By.xpath(oneTarget.old)).catch(() => null));
   const targetElements = await Promise.all(targetList);
   const targetScreenshots = targetElements.map((element, index) => {
     const screenshotPath = path.join(root, site.name, `screenshot/old/target_${index}.jpeg`);
@@ -66,7 +71,7 @@ async function getScreenshotsOfOldSite(driver, site) {
 
 async function getScreenshotsOfNewSite(driver, site, targetProperties) {
   const { url, xpath } = site;
-  const targetList = xpath.map((oneTarget) => driver.findElement(By.xpath(oneTarget.new)));
+  const targetList = xpath.map((oneTarget) => driver.findElement(By.xpath(oneTarget.new)).catch(() => null));
   const targetElements = await Promise.all(targetList);
   const targetScreenshots = targetElements.map((element, index) => {
     const screenshotPath = path.join(root, site.name, `screenshot/old/target_${index}.jpeg`);
@@ -134,23 +139,35 @@ async function getPropertyOfSite(driver, site) {
   await getScreenshotsOfNewSite(driver, site, targetProperties);
 }
 
-async function start() {
+async function startRecord(website) {
   // 创建 ChromeOptions 对象并禁用隐身模式
   const chromeOptions = new chrome.Options();
   const driver = await new Builder().forBrowser(Browser.CHROME).setChromeOptions(chromeOptions).build();
   try {
     await driver.manage().window().maximize(); // 最大化窗口
     for (const site of website) {
+      const recorded = getRecorded();
       if (!recorded.includes(site.name)) {
         await getPropertyOfSite(driver, site);
         recorded.push(site.name);
         console.info(`recorded: ${site.name}`);
-        fs.writeFileSync(recordedPath, recorded.join('\n'));
+        writeRecorded(recorded);
       }
     }
   } finally {
-    // await driver.quit();
+    await driver.quit();
   }
 }
 
-start();
+if (cluster.isMaster) {
+  const numWorkers = 4; // 设置线程数
+
+  // 创建多个子线程
+  for (let i = 0; i < numWorkers; i++) {
+    setTimeout(() => {
+      cluster.fork();
+    }, 5000 * i);
+  }
+} else {
+  startRecord(shuffle(website));
+}
