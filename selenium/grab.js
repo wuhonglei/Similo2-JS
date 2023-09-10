@@ -78,6 +78,11 @@ async function getScreenshotsOfNewSite(driver, site, targetProperties) {
     return getScreenshotOfElement(element, screenshotPath);
   });
   const positionScreenshots = targetProperties.map(async (targetProperty, index) => {
+    if (!targetProperty.location) {
+      console.warn('targetProperty.location is null', targetProperty);
+      return;
+    }
+
     const { x, y, width, height } = targetProperty.location;
     const newX = Math.floor(x + width / 2);
     const newY = Math.floor(y + height / 2);
