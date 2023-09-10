@@ -1,0 +1,6211 @@
+[
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/header[1]/div[2]/h1[1]/a[1]",
+    "idxpath": "id(\"global-header\")/div[2]/h1[1]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+    "idxpath": "id(\"global-scoreboard\")/div[1]/div[1]/div[1]/div[2]/button[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "button-filter",
+      "sm",
+      "dropdown-toggle",
+      "current-league-name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "md",
+      "button--eplus",
+      "espn-plus-paywall-article"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/header[1]/h2[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/div[1]/header[1]/h1[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/div[1]/header[1]/h1[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "module__header"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/header[1]/h2[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[3]/div[1]/header[1]/h2[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/footer[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[3]/div[1]/footer[1]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "open-favs"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/header[1]/h2[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link",
+      "external"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link",
+      "external"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link",
+      "external"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/header[1]/h2[1]",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 18,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 20,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 19,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 21,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]",
+    "widgetId": 22,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/header[1]/h2[1]",
+    "widgetId": 23,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/button[1]",
+    "idxpath": "id(\"global-scoreboard\")/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scoreboard-hidden-skipnav"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scoreLabel_title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[10]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[10]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_date"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[10]/a[1]/div[1]/div[1]/span[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[10]/a[1]/div[1]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[10]/a[1]/div[1]/div[3]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[10]/a[1]/div[1]/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[5]/div[2]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[5]/div[2]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[10]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[10]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[8]/div[2]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[8]/div[2]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[8]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[8]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_details"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[10]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[10]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[10]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[10]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "league",
+      "active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[5]/div[2]/a[1]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[3]/div[2]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[3]/div[2]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[8]/div[2]/a[1]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[6]/a[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[3]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[3]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_details"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[10]/a[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[6]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[6]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_date"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]/div[1]/div[1]/span[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]/div[1]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]/div[1]/div[3]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]/div[1]/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[4]/a[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[7]/a[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[4]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[4]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[1]/div[1]/div[7]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[1]/div[1]/div[7]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[3]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[3]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[6]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[6]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[3]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[3]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[3]/div[2]/div[1]/div[3]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[3]/div[2]/div[1]/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[3]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[3]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_details"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[3]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[3]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[4]/a[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]/div[3]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[4]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[4]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[9]/a[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[7]/a[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[9]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[7]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[7]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[4]",
+    "idxpath": "id(\"leagues\")/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "league",
+      "active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]",
+    "idxpath": "id(\"leagues\")/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "league",
+      "active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scoreLabel_title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "league",
+      "active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[4]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scoreLabel_title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[5]/a[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[6]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[7]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[5]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[5]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[8]/a[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[8]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[8]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[2]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[2]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_details"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[2]/div[2]/a[1]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[2]/div[2]/a[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[2]/div[2]/a[1]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[2]/div[2]/a[1]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[5]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[9]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[9]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--away",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[2]/div[1]/div[2]/div[2]/a[1]/ul[1]/li[2]",
+    "idxpath": "id(\"leagues\")/li[2]/div[1]/div[2]/div[2]/a[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home",
+      "last"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[6]/a[1]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[3]/div[1]/div[8]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[5]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[5]/div[1]/div[2]/a[1]/div[1]/div[1]/span[2]",
+    "idxpath": "id(\"leagues\")/li[5]/div[1]/div[2]/a[1]/div[1]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[6]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/header[1]/div[2]/h1[1]",
+    "idxpath": "id(\"global-header\")/div[2]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[6]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[5]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[5]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/header[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"global-header\")/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "search"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[7]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[7]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[4]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"leagues\")/li[4]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scoreLabel_title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[4]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[4]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[6]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[6]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[8]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[4]/div[1]/div[2]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[4]/div[1]/div[2]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_time",
+      "time"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item",
+      "quicklinks_list__item--eplus-paywall"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[6]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[6]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[4]/div[1]/div[2]/a[1]/div[1]/div[3]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[4]/div[1]/div[2]/a[1]/div[1]/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[8]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[8]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[9]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[9]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[5]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[4]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[4]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[1]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[6]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[6]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[4]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "idxpath": "id(\"leagues\")/li[4]/div[1]/div[2]/a[1]/div[2]/ul[1]/li[2]/div[2]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_name",
+      "cscore_name--abbrev"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[6]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[5]/div[1]/div[2]/a[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"leagues\")/li[5]/div[1]/div[2]/a[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_date"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[6]/div[1]/div[3]/div[2]/a[1]",
+    "idxpath": "id(\"leagues\")/li[6]/div[1]/div[3]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_details"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/ul[1]/li[4]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[8]/ul[1]/li[6]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]",
+    "idxpath": "id(\"leagues\")/li[6]/div[1]/div[3]/div[2]/a[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cscore_item",
+      "cscore_item--home"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[6]/ul[1]/li[2]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[6]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "text-container"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[5]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[6]/ul[1]/li[2]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[6]/ul[1]/li[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[8]/section[1]/a[1]",
+    "idxpath": "id(\"news-feed\")/section[8]/section[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentItem__padding",
+      "contentItem__padding--border",
+      "image-removed"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[6]/ul[1]/li[2]/h2[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[6]/ul[1]/li[2]/h2[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[6]/section[1]/a[1]/div[1]/div[2]/h1[1]",
+    "idxpath": "id(\"news-feed\")/section[6]/section[1]/a[1]/div[1]/div[2]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentItem__title",
+      "contentItem__title--story"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[8]/section[1]/a[1]/div[1]/div[2]/h1[1]",
+    "idxpath": "id(\"news-feed\")/section[8]/section[1]/a[1]/div[1]/div[2]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentItem__title",
+      "contentItem__title--story"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[6]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[1]/section[1]/a[1]",
+    "idxpath": "id(\"news-feed\")/section[1]/section[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentItem__padding",
+      "watch-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[4]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[7]/ul[1]/li[2]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[7]/ul[1]/li[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[1]/section[1]/a[1]/div[1]/div[3]/h1[1]",
+    "idxpath": "id(\"news-feed\")/section[1]/section[1]/a[1]/div[1]/div[3]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentItem__title",
+      "contentItem__title--hero",
+      "contentItem__title--story"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[7]/ul[1]/li[2]/h2[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[7]/ul[1]/li[2]/h2[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[7]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[7]/ul[1]/li[2]/p[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[7]/ul[1]/li[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[5]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[6]/div[2]/section[1]/ul[2]/li[1]",
+    "idxpath": "id(\"news-feed\")/section[6]/div[2]/section[1]/ul[2]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[3]/header[1]/h1[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[3]/header[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[3]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[1]/section[1]/a[1]/div[1]/div[4]/span[2]",
+    "idxpath": "id(\"news-feed\")/section[1]/section[1]/a[1]/div[1]/div[4]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentMeta__author"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[5]/header[1]/div[1]/div[2]/h1[1]",
+    "idxpath": "id(\"news-feed\")/section[5]/header[1]/div[1]/div[2]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/header[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[4]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/header[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[8]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[6]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/header[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[3]/ul[1]/li[2]/p[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[3]/ul[1]/li[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[8]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[8]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[5]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[6]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[9]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[6]/header[1]/h1[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[6]/header[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[4]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[4]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "med"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[4]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[4]/div[1]/header[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[4]/div[1]/div[2]/a[2]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[4]/div[1]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "med"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[9]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[9]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/article[1]/section[1]/a[1]/div[1]/div[3]/h1[1]",
+    "idxpath": "id(\"news-feed\")/article[1]/section[1]/a[1]/div[1]/div[3]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentItem__title",
+      "contentItem__title--story"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/article[4]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/article[4]/div[1]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/header[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[4]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/article[2]/header[1]/div[1]/div[2]/h1[1]",
+    "idxpath": "id(\"news-feed\")/article[2]/header[1]/div[1]/div[2]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/article[2]/header[1]/div[1]/div[2]/h2[1]",
+    "idxpath": "id(\"news-feed\")/article[2]/header[1]/div[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[4]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[4]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[1]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[2]/section[4]/a[1]/div[1]/div[2]/h1[1]",
+    "idxpath": "id(\"news-feed\")/section[4]/a[1]/div[1]/div[2]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "contentItem__title",
+      "contentItem__title--video"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[3]/div[1]/ul[1]/li[1]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[4]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[2]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[8]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[8]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[2]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[7]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[3]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[4]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[5]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[6]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[7]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[5]/a[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[8]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[6]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[8]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[9]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[2]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos",
+    "xpath": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/footer[1]/div[1]/article[5]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

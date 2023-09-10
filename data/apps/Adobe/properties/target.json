@@ -1,0 +1,68 @@
+[
+  {
+    "alt": "",
+    "area": 3333,
+    "classList": [
+      "cta-button"
+    ],
+    "href": "https://www.adobe.com/creativecloud.html?promoid=CD922NLK&mv=other",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 33,
+      "width": 101,
+      "x": 225,
+      "y": 407
+    },
+    "name": "",
+    "neighborText": [
+      "Get",
+      "Photoshop",
+      "as",
+      "part",
+      "of",
+      "Creative",
+      "Cloud:",
+      "Individuals",
+      "Business"
+    ],
+    "shape": 306,
+    "tag": "A",
+    "visibleText": "Individuals",
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2838,
+    "classList": [
+      "cta-button"
+    ],
+    "href": "https://www.adobe.com/creativecloud/business.html?promoid=CJ132JVJ&mv=other",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[2]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 33,
+      "width": 86,
+      "x": 349,
+      "y": 407
+    },
+    "name": "",
+    "neighborText": [
+      "Get",
+      "Photoshop",
+      "as",
+      "part",
+      "of",
+      "Creative",
+      "Cloud:",
+      "Individuals",
+      "Business"
+    ],
+    "shape": 260,
+    "tag": "A",
+    "visibleText": "Business",
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[2]/a[1]"
+  }
+]

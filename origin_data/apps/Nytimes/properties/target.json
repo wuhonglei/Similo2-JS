@@ -1,0 +1,443 @@
+[
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-118ydgp",
+      "e1d5eg6m0"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[2]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[2]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[3]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[3]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[4]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[4]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[5]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[5]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[6]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[6]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[7]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[7]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[8]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[8]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[10]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[10]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[11]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[11]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[12]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[12]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[13]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[13]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[14]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[14]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[15]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[15]",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[16]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[16]",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[17]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[17]",
+    "widgetId": 18,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[18]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[18]",
+    "widgetId": 19,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[19]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[19]",
+    "widgetId": 20,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/section[2]/div[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[2]/div[4]/a[1]",
+    "widgetId": 21,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-2bwtzy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "desktop-sections-button",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/section[1]/div[1]/button[1]",
+    "idxpath": "id(\"desktop-sections-button\")",
+    "widgetId": 22,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-19lv58h",
+      "em5m38e2"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]",
+    "widgetId": 23,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-mgtjo2",
+      "e1f9nlu40"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  }
+]

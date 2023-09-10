@@ -1,0 +1,289 @@
+[
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[1]/h1[1]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[1]/h1[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "NXVPg",
+      "Szr5J",
+      "WyGvZ"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/label[1]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/label[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_9nyy2"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[1]/div[1]/form[1]/div[5]/div[1]/div[1]/label[1]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[1]/div[1]/form[1]/div[5]/div[1]/div[1]/label[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_9nyy2"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[1]/div[1]/form[1]/div[6]/span[1]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[1]/div[1]/form[1]/div[6]/span[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Um91Z",
+      "_1OSdk"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[2]/p[1]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[2]/p[1]/a[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[3]/div[1]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[3]/div[1]/a[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "z1VUo"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[3]/div[1]/a[2]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[3]/div[1]/a[2]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "z1VUo"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/main[1]/article[1]/div[2]/div[3]/p[1]",
+    "idxpath": "id(\"react-root\")/section[1]/main[1]/article[1]/div[2]/div[3]/p[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "b_nGN"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "l93RR"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "l93RR"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "l93RR"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "l93RR"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "l93RR"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "l93RR",
+      "_vfM2"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[11]/a[1]",
+    "idxpath": "id(\"react-root\")/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[11]/a[1]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "l93RR"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  }
+]

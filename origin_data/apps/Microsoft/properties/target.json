@@ -1,0 +1,75 @@
+[
+  {
+    "tag": "A",
+    "id": "srv_shellHeaderMicrosoftLogo",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/span[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"srv_shellHeaderMicrosoftLogo\")",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/span[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"l1_support\")/a[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "top-level-link-text",
+      "ctl_headerNavLink"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/span[2]/div[1]/div[1]/div[1]/div[5]/form[1]/div[1]/button[1]",
+    "idxpath": "id(\"srv_shellHeaderSearchForm\")/div[1]/button[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "shell-header-shopping-cart",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/span[2]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1]",
+    "idxpath": "id(\"shell-header-shopping-cart\")",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  }
+]

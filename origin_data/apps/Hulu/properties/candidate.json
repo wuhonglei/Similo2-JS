@@ -1,0 +1,1388 @@
+[
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/h3[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[2]/div[1]/h3[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/button[1]",
+    "idxpath": "id(\"masthead\")/div[2]/div[4]/button[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button--cta",
+      "button--white",
+      "Masthead__input-cta"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[6]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[1]/div[6]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "id": "regionMasthead",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h1[1]",
+    "idxpath": "id(\"regionMasthead\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Masthead__headline"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[9]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[9]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[9]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[9]/div[1]/div[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__info"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[2]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[2]/div[1]/div[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__info"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[9]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[9]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/span[1]",
+    "idxpath": "id(\"masthead\")/div[3]/div[1]/div[2]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Ribbon--showdt"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[9]/div[6]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[9]/div[6]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "view-ribbon-more-details",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/a[1]",
+    "idxpath": "id(\"masthead\")/div[3]/div[1]/div[2]/div[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[10]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[10]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[4]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[1]/div[4]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[10]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[10]/div[1]/div[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__info"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "view-ribbon-terms",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"masthead\")/div[3]/div[1]/div[3]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Ribbon__legal_modal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[8]/div[6]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[8]/div[6]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[6]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[6]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[2]/div[2]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[6]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[6]/div[1]/div[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__info"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[4]/button[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[2]/div[2]/div[1]/div[4]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button--cta",
+      "plan-card__cta",
+      "plan-card__0_cta",
+      "button--black"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[4]/button[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[2]/div[2]/div[2]/div[4]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button--cta",
+      "plan-card__cta",
+      "plan-card__1_cta",
+      "button--black"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[8]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[8]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[3]/div[4]/button[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[2]/div[2]/div[3]/div[4]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button--cta",
+      "plan-card__cta",
+      "plan-card__2_cta",
+      "button--black"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[8]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[8]/div[1]/div[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__info"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[8]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[8]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[1]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[4]/div[3]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[4]/div[3]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[3]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--legal-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__head-title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[4]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--legal-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[3]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[7]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[7]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[5]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--legal-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[7]/div[4]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[7]/div[4]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[6]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--legal-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[5]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[2]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[7]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--legal-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[3]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[8]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--legal-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer__copyright"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[8]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[8]/div[1]/div[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__info"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/h3[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[2]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--section-expand"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[8]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[8]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[8]/div[4]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[8]/div[4]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[5]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[5]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--section-expand"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/h3[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[3]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--section-expand"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[5]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[5]/div[1]/div[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-addon__info"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[6]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[5]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[5]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[2]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[3]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[3]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[3]/div[12]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[3]/div[12]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[4]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[2]/div[2]/a[1]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[2]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footer--legal-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[3]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[2]/div[6]/div[2]/div[1]/span[1]",
+    "idxpath": "id(\"plans\")/div[1]/div[5]/div[2]/div[6]/div[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "plan-feature__bullet_default"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]",
+    "idxpath": "id(\"FooterLg\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

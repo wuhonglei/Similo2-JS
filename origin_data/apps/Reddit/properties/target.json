@@ -1,0 +1,1045 @@
+[
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 1836,
+    "shape": 566,
+    "widgetId": 1,
+    "visibleText": "my subreddits",
+    "neighborText": [
+      "popular",
+      "reddit.com",
+      "hot"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 0,
+      "width": 102,
+      "height": 18
+    },
+    "classList": [
+      "selected",
+      "title"
+    ]
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[1]/li[1]",
+    "idxpath": "//*[@id",
+    "area": 517,
+    "shape": 427,
+    "widgetId": 2,
+    "visibleText": "popular",
+    "neighborText": [
+      "my",
+      "subreddits",
+      "popular",
+      "-all",
+      "-",
+      "all",
+      "-random",
+      "random",
+      "reddit.com",
+      "hot",
+      "new"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 112,
+      "y": 3,
+      "width": 47,
+      "height": 11
+    },
+    "classList": [
+      "selected"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/all/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 176,
+    "shape": 145,
+    "widgetId": 3,
+    "visibleText": "all",
+    "neighborText": [
+      "popular",
+      "-all",
+      "-",
+      "all",
+      "-random",
+      "random",
+      "hot",
+      "new",
+      "rising"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 171,
+      "y": 3,
+      "width": 16,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/random/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 440,
+    "shape": 363,
+    "widgetId": 4,
+    "visibleText": "random",
+    "neighborText": [
+      "popular",
+      "-all",
+      "-",
+      "all",
+      "-random",
+      "random",
+      "|",
+      "askreddit",
+      "hot",
+      "new",
+      "rising",
+      "controversial"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 198,
+      "y": 3,
+      "width": 40,
+      "height": 11
+    },
+    "classList": [
+      "random",
+      "choice"
+    ]
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[1]",
+    "idxpath": "//*[@id",
+    "area": 583,
+    "shape": 481,
+    "widgetId": 5,
+    "visibleText": "AskReddit",
+    "neighborText": [
+      "-random",
+      "random",
+      "|",
+      "askreddit",
+      "-funny",
+      "-",
+      "funny",
+      "-gaming",
+      "new",
+      "rising",
+      "controversial"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 256,
+      "y": 3,
+      "width": 53,
+      "height": 11
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/funny/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[2]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 330,
+    "shape": 272,
+    "widgetId": 6,
+    "visibleText": "funny",
+    "neighborText": [
+      "askreddit",
+      "-funny",
+      "-",
+      "funny",
+      "-gaming",
+      "gaming",
+      "-worldnews",
+      "controversial",
+      "top"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 321,
+      "y": 3,
+      "width": 30,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/gaming/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[3]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 418,
+    "shape": 345,
+    "widgetId": 7,
+    "visibleText": "gaming",
+    "neighborText": [
+      "-funny",
+      "-",
+      "funny",
+      "-gaming",
+      "gaming",
+      "-worldnews",
+      "worldnews",
+      "controversial",
+      "top",
+      "gilded"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 362,
+      "y": 3,
+      "width": 38,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/news/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[5]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 297,
+    "shape": 245,
+    "widgetId": 8,
+    "visibleText": "news",
+    "neighborText": [
+      "-worldnews",
+      "worldnews",
+      "-news",
+      "-",
+      "news",
+      "-videos",
+      "videos",
+      "-todayilearned",
+      "gilded",
+      "wiki",
+      "promoted"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 484,
+      "y": 3,
+      "width": 27,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/videos/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[6]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 385,
+    "shape": 318,
+    "widgetId": 9,
+    "visibleText": "videos",
+    "neighborText": [
+      "-news",
+      "-",
+      "news",
+      "-videos",
+      "videos",
+      "-todayilearned",
+      "todayilearned",
+      "gilded",
+      "wiki",
+      "promoted"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 522,
+      "y": 3,
+      "width": 35,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/todayilearned/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[7]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 836,
+    "shape": 690,
+    "widgetId": 10,
+    "visibleText": "todayilearned",
+    "neighborText": [
+      "-videos",
+      "videos",
+      "-todayilearned",
+      "-",
+      "todayilearned",
+      "-gifs",
+      "gifs",
+      "-movies",
+      "movies",
+      "wiki",
+      "promoted"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 569,
+      "y": 3,
+      "width": 76,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/movies/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[9]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 396,
+    "shape": 327,
+    "widgetId": 11,
+    "visibleText": "movies",
+    "neighborText": [
+      "-todayilearned",
+      "todayilearned",
+      "-gifs",
+      "-",
+      "gifs",
+      "-movies",
+      "movies",
+      "-aww",
+      "aww",
+      "-pics",
+      "pics"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 690,
+      "y": 3,
+      "width": 36,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/r/Jokes/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[15]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 319,
+    "shape": 263,
+    "widgetId": 12,
+    "visibleText": "Jokes",
+    "neighborText": [
+      "-television",
+      "television",
+      "-jokes",
+      "-",
+      "jokes",
+      "-iama",
+      "iama",
+      "-nottheonion",
+      "nottheonion",
+      "want",
+      "to",
+      "join?",
+      "log",
+      "in",
+      "or",
+      "sign",
+      "up",
+      "seconds."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1081,
+      "y": 3,
+      "width": 29,
+      "height": 11
+    },
+    "classList": [
+      "choice"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "header-img",
+    "href": "https://www.reddit.com/",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 4800,
+    "shape": 300,
+    "widgetId": 13,
+    "visibleText": "reddit.com",
+    "neighborText": [
+      "my",
+      "subreddits",
+      "popular",
+      "-all",
+      "-",
+      "reddit.com",
+      "hot"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 21,
+      "width": 120,
+      "height": 40
+    },
+    "classList": [
+      "default-header"
+    ]
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/ul[1]/li[1]",
+    "idxpath": "//*[@id",
+    "area": 540,
+    "shape": 240,
+    "widgetId": 14,
+    "visibleText": "hot",
+    "neighborText": [
+      "my",
+      "subreddits",
+      "popular",
+      "-all",
+      "-",
+      "all",
+      "-random",
+      "random",
+      "reddit.com",
+      "hot",
+      "new"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 132,
+      "y": 49,
+      "width": 36,
+      "height": 15
+    },
+    "classList": [
+      "selected"
+    ]
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/ul[1]/li[2]",
+    "idxpath": "//*[@id",
+    "area": 600,
+    "shape": 266,
+    "widgetId": 15,
+    "visibleText": "new",
+    "neighborText": [
+      "popular",
+      "-all",
+      "-",
+      "all",
+      "-random",
+      "random",
+      "|",
+      "askreddit",
+      "hot",
+      "new",
+      "rising"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 174,
+      "y": 49,
+      "width": 40,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/ul[1]/li[3]",
+    "idxpath": "//*[@id",
+    "area": 750,
+    "shape": 333,
+    "widgetId": 16,
+    "visibleText": "rising",
+    "neighborText": [
+      "-all",
+      "all",
+      "-random",
+      "-",
+      "random",
+      "|",
+      "askreddit",
+      "-funny",
+      "new",
+      "rising",
+      "controversial"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 220,
+      "y": 49,
+      "width": 50,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/ul[1]/li[4]",
+    "idxpath": "//*[@id",
+    "area": 1500,
+    "shape": 666,
+    "widgetId": 17,
+    "visibleText": "controversial",
+    "neighborText": [
+      "-random",
+      "random",
+      "|",
+      "askreddit",
+      "-funny",
+      "-",
+      "funny",
+      "-gaming",
+      "gaming",
+      "-worldnews",
+      "worldnews",
+      "rising",
+      "controversial",
+      "top",
+      "gilded",
+      "email:",
+      "enter",
+      "your",
+      "email"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 277,
+      "y": 49,
+      "width": 100,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/ul[1]/li[5]",
+    "idxpath": "//*[@id",
+    "area": 510,
+    "shape": 226,
+    "widgetId": 18,
+    "visibleText": "top",
+    "neighborText": [
+      "-funny",
+      "funny",
+      "-gaming",
+      "-",
+      "gaming",
+      "-worldnews",
+      "worldnews",
+      "controversial",
+      "top",
+      "gilded",
+      "email:",
+      "enter",
+      "your",
+      "email"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 383,
+      "y": 49,
+      "width": 34,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/ul[1]/li[6]",
+    "idxpath": "//*[@id",
+    "area": 795,
+    "shape": 353,
+    "widgetId": 19,
+    "visibleText": "gilded",
+    "neighborText": [
+      "-gaming",
+      "gaming",
+      "-worldnews",
+      "-",
+      "worldnews",
+      "-news",
+      "news",
+      "-videos",
+      "videos",
+      "controversial",
+      "top",
+      "gilded",
+      "wiki",
+      "enter",
+      "your",
+      "email"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 423,
+      "y": 49,
+      "width": 53,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/ul[1]/li[7]",
+    "idxpath": "//*[@id",
+    "area": 600,
+    "shape": 266,
+    "widgetId": 20,
+    "visibleText": "wiki",
+    "neighborText": [
+      "-worldnews",
+      "worldnews",
+      "-news",
+      "-",
+      "news",
+      "-videos",
+      "videos",
+      "-todayilearned",
+      "todayilearned",
+      "gilded",
+      "wiki",
+      "promoted",
+      "enter",
+      "your",
+      "email"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 483,
+      "y": 49,
+      "width": 40,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "INPUT",
+    "name": "q",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/form[1]/input[1]",
+    "idxpath": "//*[@id",
+    "area": 9000,
+    "shape": 1000,
+    "widgetId": 21,
+    "visibleText": "search",
+    "neighborText": [
+      "want",
+      "to",
+      "join?",
+      "log",
+      "in",
+      "or",
+      "sign",
+      "up",
+      "seconds.",
+      "|",
+      "english",
+      "search",
+      "username",
+      "password",
+      "×"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 942,
+      "y": 72,
+      "width": 300,
+      "height": 30
+    },
+    "classList": []
+  },
+  {
+    "tag": "INPUT",
+    "name": "user",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/form[1]/input[2]",
+    "idxpath": "//*[@id",
+    "area": 3807,
+    "shape": 522,
+    "widgetId": 22,
+    "visibleText": "username",
+    "neighborText": [
+      "search",
+      "username",
+      "password",
+      "on",
+      "remember",
+      "me",
+      "reset",
+      "×",
+      "devil",
+      "gets",
+      "re-trapped",
+      "immediately",
+      "after",
+      "release",
+      "(i.imgur.com)"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 948,
+      "y": 120,
+      "width": 141,
+      "height": 27
+    },
+    "classList": []
+  },
+  {
+    "tag": "INPUT",
+    "name": "passwd",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/form[1]/input[3]",
+    "idxpath": "//*[@id",
+    "area": 3834,
+    "shape": 525,
+    "widgetId": 23,
+    "visibleText": "password",
+    "neighborText": [
+      "search",
+      "username",
+      "password",
+      "reset",
+      "login"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1094,
+      "y": 120,
+      "width": 142,
+      "height": 27
+    },
+    "classList": []
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/form[1]/div[3]/label[1]",
+    "idxpath": "//*[@id",
+    "area": 1136,
+    "shape": 443,
+    "widgetId": 24,
+    "visibleText": "remember me",
+    "neighborText": [
+      "username",
+      "on",
+      "reset",
+      "password",
+      "submit",
+      "a",
+      "new",
+      "link",
+      "devil",
+      "gets",
+      "re-trapped",
+      "immediately",
+      "after",
+      "release",
+      "(i.imgur.com)",
+      "submitted",
+      "5",
+      "hours",
+      "ago",
+      "by",
+      "exxocet",
+      "to",
+      "r/funny"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 966,
+      "y": 166,
+      "width": 71,
+      "height": 16
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/password",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/form[1]/div[3]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 912,
+    "shape": 633,
+    "widgetId": 25,
+    "visibleText": "reset password",
+    "neighborText": [
+      "username",
+      "password",
+      "remember",
+      "me",
+      "reset",
+      "submit",
+      "a",
+      "new",
+      "link"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1052,
+      "y": 168,
+      "width": 76,
+      "height": 12
+    },
+    "classList": [
+      "recover-password"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/form[1]/div[4]/button[1]",
+    "idxpath": "//*[@id",
+    "area": 1056,
+    "shape": 183,
+    "widgetId": 26,
+    "visibleText": "login",
+    "neighborText": [
+      "password",
+      "submit",
+      "a",
+      "new",
+      "link"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 1192,
+      "y": 161,
+      "width": 44,
+      "height": 24
+    },
+    "classList": [
+      "btn"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/submit",
+    "xpath": "/html[1]/body[1]/div[3]/div[4]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[3]/div[4]/div[1]/div[1]/a[1]",
+    "area": 8642,
+    "shape": 1027,
+    "widgetId": 27,
+    "visibleText": "Submit a new link",
+    "neighborText": [
+      "on",
+      "remember",
+      "me",
+      "reset",
+      "password",
+      "login",
+      "submit",
+      "a",
+      "new",
+      "link",
+      "text",
+      "post",
+      "devil",
+      "gets",
+      "re-trapped",
+      "immediately",
+      "after",
+      "release",
+      "(i.imgur.com)",
+      "submitted",
+      "5",
+      "hours",
+      "ago",
+      "by",
+      "exxocet",
+      "to",
+      "r/funny",
+      "my",
+      "sausage",
+      "was",
+      "turning",
+      "its",
+      "own",
+      "while",
+      "cooking",
+      "(gfycat.com)",
+      "6",
+      "appendix-",
+      "r/gifs"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 943,
+      "y": 204,
+      "width": 298,
+      "height": 29
+    },
+    "classList": [
+      "login-required",
+      "access-required"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.reddit.com/submit?selftext",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/a[1]",
+    "area": 8642,
+    "shape": 1027,
+    "widgetId": 28,
+    "visibleText": "Submit a new text post",
+    "neighborText": [
+      "submit",
+      "a",
+      "new",
+      "link",
+      "text",
+      "post",
+      "devil",
+      "gets",
+      "re-trapped",
+      "immediately",
+      "after",
+      "release",
+      "(i.imgur.com)",
+      "submitted",
+      "5",
+      "hours",
+      "ago",
+      "by",
+      "exxocet",
+      "to",
+      "r/funny",
+      "my",
+      "sausage",
+      "was",
+      "turning",
+      "on",
+      "its",
+      "own",
+      "while",
+      "cooking",
+      "(gfycat.com)",
+      "6",
+      "appendix-",
+      "r/gifs"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 943,
+      "y": 247,
+      "width": 298,
+      "height": 29
+    },
+    "classList": [
+      "login-required",
+      "access-required"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "name": "rem",
+    "id": "rem-login-main",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/form[1]/div[3]/input[1]",
+    "idxpath": "//*[@id",
+    "area": 169,
+    "shape": 100,
+    "widgetId": 29,
+    "visibleText": "on",
+    "neighborText": [
+      "username",
+      "remember",
+      "me",
+      "submit",
+      "a",
+      "new",
+      "link",
+      "devil",
+      "gets",
+      "re-trapped",
+      "immediately",
+      "after",
+      "release",
+      "(i.imgur.com)",
+      "submitted",
+      "5",
+      "hours",
+      "ago",
+      "by",
+      "exxocet",
+      "to",
+      "r/funny"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 948,
+      "y": 167,
+      "width": 13,
+      "height": 13
+    },
+    "classList": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[2]/div[3]/ul[1]/li[1]",
+    "idxpath": "//*[@id",
+    "area": 480,
+    "shape": 333,
+    "widgetId": 30,
+    "visibleText": "English",
+    "neighborText": [
+      "-nottheonion",
+      "-",
+      "nottheonion",
+      "-explainlikeimfive",
+      "explainlikeimfive",
+      "more",
+      "»",
+      "want",
+      "to",
+      "join?",
+      "log",
+      "in",
+      "or",
+      "sign",
+      "up",
+      "seconds.",
+      "|",
+      "english",
+      "search"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1202,
+      "y": 48,
+      "width": 40,
+      "height": 12
+    },
+    "classList": []
+  }
+]

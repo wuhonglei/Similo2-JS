@@ -1,0 +1,1360 @@
+[
+  {
+    "tag": "LABEL",
+    "id": "label-text-input-what",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/label[1]",
+    "idxpath": "id(\"label-text-input-what\")",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextInput-label",
+      "icl-TextInput-label--whatWhere"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LABEL",
+    "id": "label-text-input-where",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[1]/label[1]",
+    "idxpath": "id(\"label-text-input-where\")",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextInput-label",
+      "icl-TextInput-label--whatWhere"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "q",
+    "id": "text-input-what",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/input[1]",
+    "idxpath": "id(\"text-input-what\")",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextInput-control",
+      "icl-TextInput-control--whatWhere"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "l",
+    "id": "text-input-where",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[1]/div[1]/div[2]/input[1]",
+    "idxpath": "id(\"text-input-where\")",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextInput-control",
+      "icl-TextInput-control--whatWhere"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/form[1]/div[3]/button[1]",
+    "idxpath": "id(\"whatWhereFormId\")/div[3]/button[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-Button",
+      "icl-Button--primary",
+      "icl-Button--md",
+      "icl-WhatWhere-button"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"ssrRoot\")/div[1]/div[5]/div[3]/div[1]/div[1]/a[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextPromo-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/div[2]/a[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/div[3]/div[2]/a[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "gnav-PageLink",
+      "with-border"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/div[3]/a[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/div[3]/div[3]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "gnav-LoggedOutAccountLink-signIn",
+      "gnav-PageLink"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/div[4]/a[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/div[3]/div[4]/a[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "gnav-PageLink",
+      "with-border"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[10]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[10]/a[1]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[11]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[11]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[2]/span[2]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBoxText"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/span[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-Logo",
+      "icl-IndeedLogo",
+      "icl-Logo--wordmark",
+      "icl-Logo--wordmark--blue",
+      "icl-Logo--wordmark--sm"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[1]/span[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-TextLink-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[2]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-TextLink",
+      "icl-u-xl-my--sm",
+      "icl-u-xs-my--sm"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[2]/span[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[2]/span[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-TextLink-text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[2]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[2]/span[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[2]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-TextLink-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[2]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[5]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBox"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[10]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[3]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[5]/span[1]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[5]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[3]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[5]/span[2]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[5]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBoxText"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[4]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[6]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBox"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"ssrRoot\")/div[1]/div[5]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextPromo-linkText"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[4]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[6]/span[1]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[6]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[3]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"ssrRoot\")/div[1]/div[5]/div[3]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextPromo-divider"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[5]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[6]/span[2]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[6]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBoxText"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-TextLink",
+      "icl-u-xl-my--sm",
+      "icl-u-xs-my--sm"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[3]/div[1]/div[1]/span[2]",
+    "idxpath": "id(\"ssrRoot\")/div[1]/div[5]/div[3]/div[1]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextPromo-text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[5]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[7]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBox"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[6]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[7]/span[1]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[7]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[2]/li[6]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[2]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/span[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/div[3]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "gnav-Separator",
+      "gnav-Separator--grey"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[7]/span[2]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[7]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBoxText"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[5]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-u-lg-block",
+      "icl-Heading3",
+      "icl-u-lg-my--none"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"mosaic-provider-postjob\")/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-TextPromo-divider"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/span[2]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-u-lg-block"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "gnav-sr-only"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[6]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/span[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[3]/div[1]/span[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-Button",
+      "icl-Button--primary",
+      "icl-Button--md"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/h2[1]",
+    "idxpath": "id(\"popularSearches\")/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-header"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[9]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[9]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBox"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[7]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[9]/span[1]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[9]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "id": "heartIcon",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[local-name() ",
+    "idxpath": "id(\"heartIcon\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[9]/span[2]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[9]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBoxText"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[8]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[10]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[10]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBox"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[1]/span[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/bdi[1]/span[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-TextLink-text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[10]/span[1]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[10]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "gnav-SkipNavLink"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[9]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-item"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[5]/div[6]/div[1]/a[10]/span[2]",
+    "idxpath": "id(\"popularSearches\")/div[1]/a[10]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jobsearch-PopularSearchesPillBoxes-pillBoxText"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"gnav-main-container\")/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "gnav-SkipNavLink-text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[9]/a[1]",
+    "idxpath": "id(\"gnav-footer-container\")/div[1]/footer[1]/nav[1]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icl-GlobalFooter-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

@@ -1,0 +1,1473 @@
+[
+  {
+    "tag": "INPUT",
+    "name": "email",
+    "id": "email",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/input[1]",
+    "idxpath": "id(\"email\")",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "inputtext",
+      "_55r1",
+      "_6luy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "pass",
+    "id": "pass",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/input[1]",
+    "idxpath": "id(\"pass\")",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "inputtext",
+      "_55r1",
+      "_6luy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "name": "login",
+    "id": "u_0_b",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]",
+    "idxpath": "id(\"u_0_b\")",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_42ft",
+      "_4jy0",
+      "_6lth",
+      "_4jy6",
+      "_4jy1",
+      "selected",
+      "_51sy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/a[1]",
+    "idxpath": "id(\"u_0_a\")/div[3]/a[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"reg_pages_msg\")/a[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_8esh"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[1]/a[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[2]/a[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[3]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[4]/a[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[6]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[7]/a[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[9]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[9]/a[1]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[10]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[10]/a[1]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[11]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[11]/a[1]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[14]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[14]/a[1]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[23]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[23]/a[1]",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[24]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[24]/a[1]",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[25]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[25]/a[1]",
+    "widgetId": 18,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[26]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[26]/a[1]",
+    "widgetId": 19,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[27]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[27]/a[1]",
+    "widgetId": 20,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[28]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[28]/a[1]",
+    "widgetId": 21,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[29]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[29]/a[1]",
+    "widgetId": 22,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[30]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[30]/a[1]",
+    "widgetId": 23,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_41ug"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[31]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[31]/a[1]",
+    "widgetId": 24,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[32]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[32]/a[1]",
+    "widgetId": 25,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[17]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[17]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/span[2]",
+    "idxpath": "id(\"u_0_7\")/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_4o_3",
+      "_3-99"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[30]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[30]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "u_0_9",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"u_0_9\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_42ft",
+      "_4jy0",
+      "_55pi",
+      "_2agf",
+      "_4o_4",
+      "_3_s2",
+      "_63xb",
+      "_p",
+      "_4jy3",
+      "_4jy1",
+      "selected",
+      "_51sy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[18]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[18]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/a[1]/span[1]",
+    "idxpath": "id(\"u_0_9\")/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_55pe"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[31]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[31]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/a[1]/span[2]",
+    "idxpath": "id(\"u_0_9\")/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_4o_3",
+      "_3-99"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[19]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[19]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[16]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[16]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[32]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[32]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/span[1]",
+    "idxpath": "id(\"u_0_4\")/div[1]/div[1]/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_3bcz"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[20]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[20]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/span[2]",
+    "idxpath": "id(\"u_0_4\")/div[1]/div[1]/div[3]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_3bcz"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[33]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[33]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "accessible_elem"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "u_0_7",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"u_0_7\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_42ft",
+      "_4jy0",
+      "_55pi",
+      "_2agf",
+      "_4o_4",
+      "_63xb",
+      "_p",
+      "_4jy3",
+      "_517h",
+      "_51sy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[34]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[34]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "accessible_elem"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[21]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[21]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/span[1]",
+    "idxpath": "id(\"pageFooter\")/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[22]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[22]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "IFRAME",
+    "xpath": "/html[1]/body[1]/iframe[1]",
+    "idxpath": "id(\"facebook\")/body[1]/iframe[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[22]/a[1]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[22]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[23]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[23]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[11]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[11]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[24]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[24]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[11]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[11]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[29]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[29]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[12]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[12]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[25]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[25]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[12]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[12]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_42ft",
+      "_4jy0",
+      "_517i",
+      "_517h",
+      "_51sy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[13]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[13]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"u_0_7\")/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_55pe"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[26]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[26]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[14]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[14]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[27]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[27]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[15]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[15]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"pageFooter\")/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "_sv4"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[28]",
+    "idxpath": "id(\"pageFooterChildren\")/ul[1]/li[28]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

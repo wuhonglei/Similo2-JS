@@ -1,0 +1,211 @@
+[
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[2]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[2]/div[1]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "IntuitBrandClicktoTT"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "IntuitBrandClicktoMint"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "header__navLink"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "header__navLink"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "header__navLink"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "header__navLink"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[4]/div[1]/div[1]/button[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[4]/div[1]/div[1]/button[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "header__iconImg",
+      "search__icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[4]/div[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[4]/div[2]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "header__web"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[1]/div[1]/div[1]/span[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "header__iconImg",
+      "arrow__icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  }
+]

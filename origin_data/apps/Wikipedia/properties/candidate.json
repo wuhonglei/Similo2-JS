@@ -1,0 +1,1355 @@
+[
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[1]/h1[1]",
+    "idxpath": "//*[@id",
+    "area": 11968,
+    "shape": 258,
+    "widgetId": 1,
+    "visibleText": "Wikipedia The Free Encyclopedia",
+    "neighborText": [
+      "wikipedia",
+      "english",
+      "6",
+      "199",
+      "000+",
+      "articles",
+      "español",
+      "1",
+      "643",
+      "000+",
+      "artículos"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 544,
+      "y": 52,
+      "width": 176,
+      "height": 68
+    },
+    "classList": [
+      "central-textlogo-wrapper"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "js-link-box-en",
+    "href": "https://en.wikipedia.org/",
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 7020,
+    "shape": 346,
+    "widgetId": 2,
+    "visibleText": "English 6 199 000+ articles",
+    "neighborText": [
+      "wikipedia",
+      "the",
+      "free",
+      "encyclopedia",
+      "english",
+      "6",
+      "199",
+      "000+",
+      "articles",
+      "日本語",
+      "1",
+      "240",
+      "000+",
+      "記事"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 421,
+      "y": 137,
+      "width": 156,
+      "height": 45
+    },
+    "classList": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "js-link-box-es",
+    "href": "https://es.wikipedia.org/",
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 7020,
+    "shape": 346,
+    "widgetId": 3,
+    "visibleText": "Español 1 643 000+ artículos",
+    "neighborText": [
+      "wikipedia",
+      "the",
+      "free",
+      "encyclopedia",
+      "español",
+      "1",
+      "643",
+      "000+",
+      "artículos",
+      "deutsch",
+      "2",
+      "505",
+      "000+",
+      "artikel"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 686,
+      "y": 137,
+      "width": 156,
+      "height": 45
+    },
+    "classList": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "js-link-box-de",
+    "href": "https://de.wikipedia.org/",
+    "xpath": "/html[1]/body[1]/div[2]/div[4]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 7020,
+    "shape": 346,
+    "widgetId": 4,
+    "visibleText": "Deutsch 2 505 000+ Artikel",
+    "neighborText": [
+      "español",
+      "1",
+      "643",
+      "000+",
+      "artículos",
+      "deutsch",
+      "2",
+      "505",
+      "000+",
+      "artikel",
+      "français",
+      "2",
+      "273",
+      "000+",
+      "articles"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 741,
+      "y": 202,
+      "width": 156,
+      "height": 45
+    },
+    "classList": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "js-link-box-fr",
+    "href": "https://fr.wikipedia.org/",
+    "xpath": "/html[1]/body[1]/div[2]/div[6]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 7020,
+    "shape": 346,
+    "widgetId": 5,
+    "visibleText": "Français 2 273 000+ articles",
+    "neighborText": [
+      "deutsch",
+      "2",
+      "505",
+      "000+",
+      "artikel",
+      "français",
+      "2",
+      "273",
+      "000+",
+      "articles",
+      "中文",
+      "1",
+      "160",
+      "000+",
+      "條目"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 752,
+      "y": 267,
+      "width": 156,
+      "height": 45
+    },
+    "classList": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "js-link-box-it",
+    "href": "https://it.wikipedia.org/",
+    "xpath": "/html[1]/body[1]/div[2]/div[7]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 7020,
+    "shape": 346,
+    "widgetId": 6,
+    "visibleText": "Italiano 1 655 000+ voci",
+    "neighborText": [
+      "русский",
+      "1",
+      "680",
+      "000+",
+      "статей",
+      "italiano",
+      "1",
+      "655",
+      "000+",
+      "voci",
+      "português",
+      "1",
+      "048",
+      "000+",
+      "artigos"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 366,
+      "y": 332,
+      "width": 156,
+      "height": 45
+    },
+    "classList": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "js-link-box-pt",
+    "href": "https://pt.wikipedia.org/",
+    "xpath": "/html[1]/body[1]/div[2]/div[9]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 7020,
+    "shape": 346,
+    "widgetId": 7,
+    "visibleText": "Português 1 048 000+ artigos",
+    "neighborText": [
+      "italiano",
+      "1",
+      "655",
+      "000+",
+      "voci",
+      "português",
+      "1",
+      "048",
+      "000+",
+      "artigos",
+      "search",
+      "wikipedia"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 421,
+      "y": 397,
+      "width": 156,
+      "height": 45
+    },
+    "classList": [
+      "link-box"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "name": "search",
+    "id": "searchInput",
+    "xpath": "/html[1]/body[1]/div[3]/form[1]/fieldset[1]/div[1]/input[1]",
+    "idxpath": "//*[@id",
+    "area": 17336,
+    "shape": 895,
+    "widgetId": 8,
+    "neighborText": [
+      "português",
+      "1",
+      "048",
+      "000+",
+      "artigos",
+      "polski",
+      "1",
+      "441",
+      "000+",
+      "haseł",
+      "search",
+      "wikipedia",
+      "sv",
+      "read",
+      "in",
+      "your",
+      "language"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 406,
+      "y": 471,
+      "width": 394,
+      "height": 44
+    },
+    "classList": []
+  },
+  {
+    "tag": "LABEL",
+    "id": "jsLangLabel",
+    "xpath": "/html[1]/body[1]/div[3]/form[1]/fieldset[1]/div[1]/div[1]/div[1]/label[1]",
+    "idxpath": "//*[@id",
+    "area": 336,
+    "shape": 58,
+    "widgetId": 9,
+    "visibleText": "sv",
+    "neighborText": [
+      "polski",
+      "1",
+      "441",
+      "000+",
+      "haseł",
+      "sv",
+      "search",
+      "read",
+      "wikipedia",
+      "in",
+      "your",
+      "language"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 750,
+      "y": 481,
+      "width": 14,
+      "height": 24
+    },
+    "classList": [
+      "js-langpicker-label"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/form[1]/fieldset[1]/button[1]",
+    "idxpath": "//*[@id",
+    "area": 2464,
+    "shape": 127,
+    "widgetId": 10,
+    "visibleText": "Search",
+    "neighborText": [
+      "polski",
+      "1",
+      "441",
+      "000+",
+      "haseł",
+      "sv",
+      "read",
+      "wikipedia",
+      "in",
+      "your",
+      "language"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 801,
+      "y": 471,
+      "width": 56,
+      "height": 44
+    },
+    "classList": [
+      "pure-button",
+      "pure-button-primary-progressive"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "id": "js-lang-list-button",
+    "xpath": "/html[1]/body[1]/div[4]/button[1]",
+    "idxpath": "//*[@id",
+    "area": 10800,
+    "shape": 833,
+    "widgetId": 11,
+    "visibleText": "Read Wikipedia in your language",
+    "neighborText": [
+      "sv",
+      "search",
+      "read",
+      "wikipedia",
+      "in",
+      "your",
+      "language",
+      "articles"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 481,
+      "y": 547,
+      "width": 300,
+      "height": 36
+    },
+    "classList": [
+      "lang-list-button"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://wikimediafoundation.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 7740,
+    "shape": 597,
+    "widgetId": 12,
+    "visibleText": "Wikimedia Foundation",
+    "neighborText": [
+      "wikimedia",
+      "foundation"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 114,
+      "y": 662,
+      "width": 215,
+      "height": 36
+    },
+    "classList": []
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[1]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 3465,
+    "shape": 785,
+    "widgetId": 13,
+    "visibleText": "Commons",
+    "neighborText": [
+      "articles",
+      "commons",
+      "freely",
+      "usable",
+      "photos",
+      "&",
+      "more",
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 499,
+      "y": 664,
+      "width": 165,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[2]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 1995,
+    "shape": 452,
+    "widgetId": 14,
+    "visibleText": "Wikivoyage",
+    "neighborText": [
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 765,
+      "y": 661,
+      "width": 95,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[3]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 1764,
+    "shape": 400,
+    "widgetId": 15,
+    "visibleText": "Wiktionary",
+    "neighborText": [
+      "wiktionary",
+      "free",
+      "dictionary"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1031,
+      "y": 661,
+      "width": 84,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[4]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 1764,
+    "shape": 400,
+    "widgetId": 16,
+    "visibleText": "Wikibooks",
+    "neighborText": [
+      "commons",
+      "freely",
+      "usable",
+      "photos",
+      "&",
+      "more",
+      "wikibooks",
+      "free",
+      "textbooks"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 499,
+      "y": 751,
+      "width": 84,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[5]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 2058,
+    "shape": 466,
+    "widgetId": 17,
+    "visibleText": "Wikinews",
+    "neighborText": [
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide",
+      "wikinews",
+      "news",
+      "source"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 765,
+      "y": 751,
+      "width": 98,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[6]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 2541,
+    "shape": 576,
+    "widgetId": 18,
+    "visibleText": "Wikidata",
+    "neighborText": [
+      "wiktionary",
+      "free",
+      "dictionary",
+      "wikidata",
+      "knowledge",
+      "base"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1031,
+      "y": 755,
+      "width": 121,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[7]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 2541,
+    "shape": 576,
+    "widgetId": 19,
+    "visibleText": "Wikiversity",
+    "neighborText": [
+      "wikibooks",
+      "free",
+      "textbooks",
+      "wikiversity",
+      "course",
+      "materials"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 499,
+      "y": 841,
+      "width": 121,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[8]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 2961,
+    "shape": 671,
+    "widgetId": 20,
+    "visibleText": "Wikiquote",
+    "neighborText": [
+      "wikinews",
+      "free",
+      "news",
+      "source",
+      "wikiquote",
+      "quote",
+      "compendium"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 765,
+      "y": 842,
+      "width": 141,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[9]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 3444,
+    "shape": 780,
+    "widgetId": 21,
+    "visibleText": "MediaWiki",
+    "neighborText": [
+      "wikidata",
+      "free",
+      "knowledge",
+      "base",
+      "mediawiki",
+      "&",
+      "open",
+      "wiki",
+      "application"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1031,
+      "y": 842,
+      "width": 164,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[10]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 1407,
+    "shape": 319,
+    "widgetId": 22,
+    "visibleText": "Wikisource",
+    "neighborText": [
+      "wikiversity",
+      "free",
+      "course",
+      "materials",
+      "wikisource",
+      "library"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 499,
+      "y": 931,
+      "width": 67,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[11]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 2583,
+    "shape": 585,
+    "widgetId": 23,
+    "visibleText": "Wikispecies",
+    "neighborText": [
+      "wikiquote",
+      "free",
+      "quote",
+      "compendium",
+      "wikispecies",
+      "species",
+      "directory"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 765,
+      "y": 932,
+      "width": 123,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[12]/a[1]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 3612,
+    "shape": 819,
+    "widgetId": 24,
+    "visibleText": "Meta-Wiki",
+    "neighborText": [
+      "mediawiki",
+      "free",
+      "&",
+      "open",
+      "wiki",
+      "application",
+      "meta-wiki",
+      "community",
+      "coordination",
+      "documentation"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1031,
+      "y": 931,
+      "width": 172,
+      "height": 21
+    },
+    "classList": [
+      "other-project-title",
+      "jsl10n"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "xpath": "/html[1]/body[1]/p[1]/small[1]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 4845,
+    "shape": 1676,
+    "widgetId": 25,
+    "visibleText": "Creative Commons Attribution-ShareAlike License",
+    "neighborText": [
+      "creative",
+      "commons",
+      "attribution-sharealike",
+      "license",
+      "terms",
+      "of",
+      "use"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 483,
+      "y": 1040,
+      "width": 285,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://meta.wikimedia.org/wiki/Terms_of_Use",
+    "xpath": "/html[1]/body[1]/p[1]/small[2]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 1241,
+    "shape": 429,
+    "widgetId": 26,
+    "visibleText": "Terms of Use",
+    "neighborText": [
+      "creative",
+      "commons",
+      "attribution-sharealike",
+      "license",
+      "terms",
+      "of",
+      "use",
+      "privacy",
+      "policy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 791,
+      "y": 1040,
+      "width": 73,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://meta.wikimedia.org/wiki/Privacy_policy",
+    "xpath": "/html[1]/body[1]/p[1]/small[3]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 1292,
+    "shape": 447,
+    "widgetId": 27,
+    "visibleText": "Privacy Policy",
+    "neighborText": [
+      "meta-wiki",
+      "community",
+      "coordination",
+      "&",
+      "documentation",
+      "terms",
+      "of",
+      "use",
+      "privacy",
+      "policy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 887,
+      "y": 1040,
+      "width": 76,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://commons.wikimedia.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[1]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 28,
+    "visibleText": "Commons Freely usable photos & more",
+    "neighborText": [
+      "articles",
+      "commons",
+      "freely",
+      "usable",
+      "photos",
+      "&",
+      "more",
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide",
+      "wikibooks",
+      "textbooks",
+      "wikinews",
+      "news",
+      "source"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 446,
+      "y": 661,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wikivoyage.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[2]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 29,
+    "visibleText": "Wikivoyage Free travel guide",
+    "neighborText": [
+      "articles",
+      "commons",
+      "freely",
+      "usable",
+      "photos",
+      "&",
+      "more",
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide",
+      "wiktionary",
+      "dictionary",
+      "wikibooks",
+      "textbooks",
+      "wikinews",
+      "news",
+      "source",
+      "wikidata",
+      "knowledge",
+      "base"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 711,
+      "y": 661,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wiktionary.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[3]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 30,
+    "visibleText": "Wiktionary Free dictionary",
+    "neighborText": [
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide",
+      "wiktionary",
+      "dictionary",
+      "wikinews",
+      "news",
+      "source",
+      "wikidata",
+      "knowledge",
+      "base"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 977,
+      "y": 661,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wikibooks.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[4]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 31,
+    "visibleText": "Wikibooks Free textbooks",
+    "neighborText": [
+      "articles",
+      "commons",
+      "freely",
+      "usable",
+      "photos",
+      "&",
+      "more",
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide",
+      "wikibooks",
+      "textbooks",
+      "wikinews",
+      "news",
+      "source",
+      "wikiversity",
+      "course",
+      "materials",
+      "wikiquote",
+      "quote",
+      "compendium"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 446,
+      "y": 751,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wikinews.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[5]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 32,
+    "visibleText": "Wikinews Free news source",
+    "neighborText": [
+      "articles",
+      "commons",
+      "freely",
+      "usable",
+      "photos",
+      "&",
+      "more",
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide",
+      "wiktionary",
+      "dictionary",
+      "wikibooks",
+      "textbooks",
+      "wikinews",
+      "news",
+      "source",
+      "wikidata",
+      "knowledge",
+      "base",
+      "wikiversity",
+      "course",
+      "materials",
+      "wikiquote",
+      "quote",
+      "compendium",
+      "mediawiki",
+      "open",
+      "wiki",
+      "application"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 711,
+      "y": 751,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wikidata.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[6]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 33,
+    "visibleText": "Wikidata Free knowledge base",
+    "neighborText": [
+      "wikivoyage",
+      "free",
+      "travel",
+      "guide",
+      "wiktionary",
+      "dictionary",
+      "wikinews",
+      "news",
+      "source",
+      "wikidata",
+      "knowledge",
+      "base",
+      "wikiquote",
+      "quote",
+      "compendium",
+      "mediawiki",
+      "&",
+      "open",
+      "wiki",
+      "application"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 977,
+      "y": 751,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wikiversity.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[7]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 34,
+    "visibleText": "Wikiversity Free course materials",
+    "neighborText": [
+      "wikibooks",
+      "free",
+      "textbooks",
+      "wikinews",
+      "news",
+      "source",
+      "wikiversity",
+      "course",
+      "materials",
+      "wikiquote",
+      "quote",
+      "compendium",
+      "wikisource",
+      "library",
+      "wikispecies",
+      "species",
+      "directory"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 446,
+      "y": 841,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wikiquote.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[8]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 35,
+    "visibleText": "Wikiquote Free quote compendium",
+    "neighborText": [
+      "wikibooks",
+      "free",
+      "textbooks",
+      "wikinews",
+      "news",
+      "source",
+      "wikidata",
+      "knowledge",
+      "base",
+      "wikiversity",
+      "course",
+      "materials",
+      "wikiquote",
+      "quote",
+      "compendium",
+      "mediawiki",
+      "&",
+      "open",
+      "wiki",
+      "application",
+      "wikisource",
+      "library",
+      "wikispecies",
+      "species",
+      "directory",
+      "meta-wiki",
+      "community",
+      "coordination",
+      "documentation"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 711,
+      "y": 841,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.mediawiki.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[9]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 36,
+    "visibleText": "MediaWiki Free & open wiki application",
+    "neighborText": [
+      "wikinews",
+      "free",
+      "news",
+      "source",
+      "wikidata",
+      "knowledge",
+      "base",
+      "wikiquote",
+      "quote",
+      "compendium",
+      "mediawiki",
+      "&",
+      "open",
+      "wiki",
+      "application",
+      "wikispecies",
+      "species",
+      "directory",
+      "meta-wiki",
+      "community",
+      "coordination",
+      "documentation"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 977,
+      "y": 841,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wikisource.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[10]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 37,
+    "visibleText": "Wikisource Free library",
+    "neighborText": [
+      "articles",
+      "wikiversity",
+      "free",
+      "course",
+      "materials",
+      "wikiquote",
+      "quote",
+      "compendium",
+      "wikisource",
+      "library",
+      "wikispecies",
+      "species",
+      "directory"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 446,
+      "y": 931,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://species.wikimedia.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[11]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 13250,
+    "shape": 530,
+    "widgetId": 38,
+    "visibleText": "Wikispecies Free species directory",
+    "neighborText": [
+      "articles",
+      "wikiversity",
+      "free",
+      "course",
+      "materials",
+      "wikiquote",
+      "quote",
+      "compendium",
+      "mediawiki",
+      "&",
+      "open",
+      "wiki",
+      "application",
+      "wikisource",
+      "library",
+      "wikispecies",
+      "species",
+      "directory",
+      "meta-wiki",
+      "community",
+      "coordination",
+      "documentation"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 711,
+      "y": 931,
+      "width": 265,
+      "height": 50
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://meta.wikimedia.org/",
+    "xpath": "/html[1]/body[1]/div[8]/div[3]/div[12]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 15900,
+    "shape": 441,
+    "widgetId": 39,
+    "visibleText": "Meta-Wiki Community coordination & documentation",
+    "neighborText": [
+      "wikiquote",
+      "free",
+      "quote",
+      "compendium",
+      "mediawiki",
+      "&",
+      "open",
+      "wiki",
+      "application",
+      "wikispecies",
+      "species",
+      "directory",
+      "meta-wiki",
+      "community",
+      "coordination",
+      "documentation",
+      "privacy",
+      "policy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 977,
+      "y": 931,
+      "width": 265,
+      "height": 60
+    },
+    "classList": [
+      "other-project-link"
+    ]
+  }
+]

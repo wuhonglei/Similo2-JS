@@ -1,0 +1,812 @@
+[
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/div[1]/a[1]",
+    "idxpath": "id(\"logo\")/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/h2[1]",
+    "idxpath": "id(\"topban\")/h2[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"topban\")/ul[1]/li[1]/a[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"topban\")/ul[1]/li[2]/a[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"topban\")/ul[1]/li[3]/a[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"topban\")/ul[1]/li[4]/a[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"topban\")/ul[1]/li[5]/a[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"topban\")/ul[1]/li[6]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "post",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"post\")",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"postlks\")/li[2]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "query",
+    "id": "query",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/form[1]/input[2]",
+    "idxpath": "id(\"query\")",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "querybox",
+      "flatinput",
+      "ui-autocomplete-input"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[1]/a[1]",
+    "idxpath": "id(\"user_resources\")/li[1]/a[1]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[2]/a[1]",
+    "idxpath": "id(\"user_resources\")/li[2]/a[1]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[3]/a[1]",
+    "idxpath": "id(\"user_resources\")/li[3]/a[1]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[4]/a[1]",
+    "idxpath": "id(\"user_resources\")/li[4]/a[1]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[5]/a[1]",
+    "idxpath": "id(\"user_resources\")/li[5]/a[1]",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[6]/a[1]",
+    "idxpath": "id(\"user_resources\")/li[6]/a[1]",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[1]/a[1]",
+    "idxpath": "id(\"about_craigslist\")/li[1]/a[1]",
+    "widgetId": 18,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[4]/a[1]",
+    "idxpath": "id(\"about_craigslist\")/li[4]/a[1]",
+    "widgetId": 19,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[3]/a[1]",
+    "idxpath": "id(\"about_craigslist\")/li[3]/a[1]",
+    "widgetId": 20,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[5]/a[1]",
+    "idxpath": "id(\"about_craigslist\")/li[5]/a[1]",
+    "widgetId": 21,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[9]/a[1]",
+    "idxpath": "id(\"about_craigslist\")/li[9]/a[1]",
+    "widgetId": 22,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[1]",
+    "idxpath": "id(\"sflinks\")/a[1]",
+    "widgetId": 23,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[2]",
+    "idxpath": "id(\"sflinks\")/a[2]",
+    "widgetId": 24,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[3]",
+    "idxpath": "id(\"sflinks\")/a[3]",
+    "widgetId": 25,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/h4[1]/a[1]",
+    "idxpath": "id(\"ccc\")/h4[1]/a[1]",
+    "widgetId": 26,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "ccc"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/h4[1]/a[1]",
+    "idxpath": "id(\"hhh\")/h4[1]/a[1]",
+    "widgetId": 27,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "hhh"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/h4[1]/a[1]",
+    "idxpath": "id(\"jjj\")/h4[1]/a[1]",
+    "widgetId": 28,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "jjj"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/h4[1]/a[1]",
+    "idxpath": "id(\"sss\")/h4[1]/a[1]",
+    "widgetId": 29,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sss"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/h4[1]/a[1]",
+    "idxpath": "id(\"forums\")/h4[1]/a[1]",
+    "widgetId": 30,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "forums"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/h4[1]/a[1]",
+    "idxpath": "id(\"ggg\")/h4[1]/a[1]",
+    "widgetId": 31,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "ggg"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[3]/h4[1]/a[1]",
+    "idxpath": "id(\"rrr\")/h4[1]/a[1]",
+    "widgetId": 32,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "rrr"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[1]",
+    "idxpath": "id(\"rightbar\")/ul[1]/li[1]/ul[1]/li[1]",
+    "widgetId": 33,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "s"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+    "idxpath": "id(\"ccc0\")/li[1]/a[1]/span[1]",
+    "widgetId": 34,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "txt"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"forums0\")/li[1]/a[1]",
+    "widgetId": 35,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"sss0\")/li[1]/a[1]",
+    "widgetId": 36,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "ata"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+    "idxpath": "id(\"ggg0\")/li[1]/a[1]/span[1]",
+    "widgetId": 37,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "txt"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"hhh0\")/li[2]/a[1]",
+    "widgetId": 38,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "swp"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"jjj0\")/li[8]/a[1]",
+    "widgetId": 39,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "edu"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"ccc0\")/li[2]/a[1]",
+    "widgetId": 40,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "ats"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+    "idxpath": "id(\"hhh0\")/li[1]/a[1]/span[1]",
+    "widgetId": 41,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "txt"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+    "idxpath": "id(\"forums0\")/li[2]/a[1]/span[1]",
+    "widgetId": 42,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "txt"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[2]/a[1]",
+    "idxpath": "id(\"ggg1\")/li[2]/a[1]",
+    "widgetId": 43,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "lbg"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+    "idxpath": "id(\"sss0\")/li[2]/a[1]/span[1]",
+    "widgetId": 44,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "txt"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]",
+    "idxpath": "id(\"jjj0\")/li[10]/a[1]/span[1]",
+    "widgetId": 45,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "txt"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  }
+]

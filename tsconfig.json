@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ESNext" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "strict": true /* Enable all strict type-checking options. */,
+    "declaration": true, // 生成类型声明文件
+    "declarationDir": "./types" // 类型声明文件的输出目录
+  },
+  "include": ["src/**/*", "rollup.config.*"], // TypeScript 源代码文件夹
+  "exclude": ["node_modules"] // 排除的文件夹
+}

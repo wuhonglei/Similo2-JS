@@ -1,0 +1,3704 @@
+[
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "site-logo"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "brand-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "brand-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "brand-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[1]/div[1]/a[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "menu-item-link",
+      "menu-item-label-link",
+      "product-nav"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[2]/div[1]/a[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "menu-item-link",
+      "menu-item-label-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[3]/div[1]/a[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "menu-item-link",
+      "menu-item-label-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[4]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[4]/div[1]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "menu-item-link",
+      "menu-item-label-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/button[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/button[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "navigation-search-icon",
+      "js-search-toggle"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "primary",
+      "small"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "down-arrow",
+      "js-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "transparent-dark",
+      "cta-item",
+      "js-cta-item",
+      "large",
+      "IntuitBrandClicktoTT"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/a[1]/span[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "label"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "heading",
+      "h2"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "circle-2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[2]/button[3]",
+    "idxpath": "id(\"circle-2\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination-circle",
+      "js-pagination-action"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "job-type-button",
+      "js-job-type-button"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "job-type-button",
+      "js-job-type-button"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/h2[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "h4",
+      "sub-title",
+      "hero-text-color-blue",
+      "hero-font-weight-medium",
+      "hero-font-style-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[4]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "job-type-button",
+      "js-job-type-button"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-item",
+      "is-active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "blue",
+      "cta-item",
+      "js-cta-item",
+      "large"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-copy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "label"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "label"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[5]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/nav[1]/ul[1]/li[5]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "menu-item-link",
+      "menu-item-label-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/h1[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "h0",
+      "title",
+      "hero-text-color-white",
+      "hero-font-weight-bold",
+      "hero-font-style-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]/span[2]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/button[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-item",
+      "is-active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/h2[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "h4",
+      "sub-title",
+      "hero-text-color-white",
+      "hero-font-weight-medium",
+      "hero-font-style-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-copy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[2]/button[4]",
+    "idxpath": "id(\"hero\")/div[2]/button[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pause"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[2]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[3]/div[2]/div[3]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "blue",
+      "cta-item",
+      "js-cta-item",
+      "large"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "label"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]/div[2]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[3]/div[2]/div[3]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "label"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]/span[2]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/button[1]",
+    "idxpath": "id(\"hero\")/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination-button",
+      "pagination-button-previous",
+      "js-pagination-previous"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]/span[2]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]/span[2]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/button[1]/span[1]",
+    "idxpath": "id(\"hero\")/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/button[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"hero\")/button[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/button[2]",
+    "idxpath": "id(\"hero\")/button[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination-button",
+      "pagination-button-next",
+      "js-pagination-next"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/button[2]/span[1]",
+    "idxpath": "id(\"hero\")/button[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h1[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "h0",
+      "title",
+      "hero-text-color-white",
+      "hero-font-weight-bold",
+      "hero-font-style-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/button[2]/span[1]/*[local-name() ",
+    "idxpath": "id(\"hero\")/button[2]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "transparent-dark",
+      "cta-item",
+      "js-cta-item",
+      "large",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h2[1]",
+    "idxpath": "id(\"hero\")/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "h4",
+      "sub-title",
+      "hero-text-color-white",
+      "hero-font-weight-medium",
+      "hero-font-style-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "circle-0",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[2]/button[1]",
+    "idxpath": "id(\"circle-0\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination-circle",
+      "js-pagination-action"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-copy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "circle-1",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/section[1]/div[2]/button[2]",
+    "idxpath": "id(\"circle-1\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination-circle",
+      "js-pagination-action",
+      "active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "font-x-small",
+      "category"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[3]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[4]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "font-large",
+      "title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "toggle-button"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/h2[1]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "h2",
+      "title",
+      "style-font-normal",
+      "style-font-bold",
+      "style-color-black"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[5]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[5]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[5]/div[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[2]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[4]/div[1]/div[1]/div[1]/section[5]/div[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "arrow-left",
+      "arrow",
+      "slick-arrow",
+      "slick-disabled"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/section[1]/a[1]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[1]/div[1]/section[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "play-btn-area",
+      "js-play-button"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[6]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[6]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "global-cta-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "label"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[2]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination",
+      "font-x-small"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[7]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[7]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]/span[2]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "arrow",
+      "arrow-right-shape"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[2]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[2]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination-current"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "font-large",
+      "title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "links-title",
+      "js-accordion-head"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[2]/span[2]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pagination-total"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "toggle-button"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/h2[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/h2[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[3]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "arrow-right",
+      "arrow",
+      "slick-arrow"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoTT"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "global-cta-link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[3]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/span[3]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[1]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "label"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[5]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "cta-link",
+      "font-x-small",
+      "style-font-weight-bold",
+      "style-font-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoMint"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[2]",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "arrow",
+      "arrow-right-shape"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/section[1]/div[2]/div[2]/div[1]/h3[2]",
+    "idxpath": "id(\"app\")/div[1]/div[5]/div[1]/div[1]/div[1]/section[1]/div[2]/div[2]/div[1]/h3[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "content-title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "search_term",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/form[1]/div[1]/input[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/form[1]/div[1]/input[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "search-input",
+      "font-x-small",
+      "js-search-input"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "font-x-small",
+      "category"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[2]/span[1]/*[local-name() ",
+    "idxpath": "id(\"quickbooks\")/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[2]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/form[1]/div[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/form[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/section[1]/div[2]/div[3]/div[1]/h3[1]",
+    "idxpath": "id(\"app\")/div[1]/div[6]/div[1]/div[1]/div[1]/section[1]/div[2]/div[3]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "block-title",
+      "style-font-weight-demi",
+      "style-font-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "font-large",
+      "title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[3]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/form[1]/div[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/form[1]/div[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoTurbo"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "play-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]/div[2]/h2[1]",
+    "idxpath": "id(\"mint\")/div[1]/div[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "h2",
+      "title",
+      "style-font-normal",
+      "style-font-bold",
+      "style-color-black"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "links-title",
+      "js-accordion-head"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[4]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[2]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/span[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[7]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/span[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[2]",
+    "idxpath": "id(\"turbotax\")/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "arrow",
+      "arrow-right-shape"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/h2[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/h2[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "links-title",
+      "js-accordion-head"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"app\")/div[1]/div[6]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "block-title",
+      "style-font-weight-bold",
+      "style-font-normal"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/h2[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/h2[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/h3[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[6]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/h3[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "subtitle-text"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[1]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[2]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[2]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[3]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[3]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "country-title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "down-arrow",
+      "js-icon"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[4]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[5]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[5]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[2]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-item",
+      "is-active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[3]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoQB"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[2]/a[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[2]/a[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-copy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[3]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/h2[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "links-title",
+      "js-accordion-head"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[3]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[3]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "terms"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/h2[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/h2[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[3]/a[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[3]/a[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[1]/p[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "terms-link",
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoProConnect"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-item",
+      "is-active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-copy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[4]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[4]/a[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[3]/div[4]/a[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[2]/p[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "logo-footer"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[3]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[2]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[2]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoProConnect"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[1]/a[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[1]/a[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[4]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[3]/p[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[3]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[3]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[3]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link",
+      "IntuitBrandClicktoProConnect"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[3]/p[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[3]/p[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[5]/a[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[2]/section[1]/div[4]/ul[1]/li[5]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[3]/p[1]/span[2]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[3]/p[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "name"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[1]/span[1]/*[local-name() ",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[1]/span[1]/*[local-name() ",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-item",
+      "is-active"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[2]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "link"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "language-copy"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[2]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[4]/section[1]/div[1]/div[2]/a[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/a[4]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

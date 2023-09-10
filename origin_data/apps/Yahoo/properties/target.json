@@ -1,0 +1,423 @@
+[
+  {
+    "tag": "A",
+    "id": "uh-logo",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1]",
+    "idxpath": "id(\"uh-logo\")",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "D(ib)",
+      "Bgr(nr)",
+      "logo-datauri",
+      "W(190px)",
+      "H(45px)",
+      "Bgp($twoColLogoPos)",
+      "Bgz(190px)",
+      "Bgp($twoColLogoPosSM)!--sm1024",
+      "Bgz(90px)!--sm1024",
+      "ua-ie7_Bgi($logoImageIe)",
+      "ua-ie7_Mstart(-185px)",
+      "ua-ie8_Bgi($logoImageIe)",
+      "ua-ie9_Bgi($logoImageIe)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "TD",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/table[1]/tbody[1]/tr[1]/td[1]",
+    "idxpath": "id(\"uh-search-form\")/table[1]/tbody[1]/tr[1]/td[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Pos(r)",
+      "P(0)",
+      "W(100%)",
+      "D(tb)",
+      "Tbl(f)",
+      "ua-safari_D(tbc)",
+      "H(46px)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "TD",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]",
+    "idxpath": "id(\"uh-search-form\")/table[1]/tbody[1]/tr[1]/td[2]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "ua-ie9_Va(t)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "uh-signin",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"uh-signin\")",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Bdrs(3px)",
+      "Bds(s)",
+      "Bdw(2px)",
+      "D(ib)",
+      "Ell",
+      "Fz(13px)",
+      "Fw(b)",
+      "Py(2px)",
+      "Mt(5px)",
+      "Ta(c)",
+      "Td(n):h",
+      "Miw(78px)",
+      "H(19px)",
+      "Lh(19px)",
+      "Bdc(#6001d2)",
+      "Bgc(#fff)",
+      "Bgc(#6001d2):h",
+      "C(#4d00ae)",
+      "C(#fff):h"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "id": "uh-notifications",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"uh-notifications\")",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "uh-menu",
+      "uh-notifications",
+      "Fl(start)",
+      "D(ib)",
+      "Cur(p)",
+      "ua-ie7_D(n)",
+      "ua-ie9_Pb(10px)",
+      "Mend(6px)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+    "idxpath": "id(\"uh-mail-link\")/span[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "D(ib)",
+      "Fz(14px)",
+      "Fw(b)",
+      "Va(t)",
+      "C(#4d00ae)",
+      "Lh(37px)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]/span[1]",
+    "idxpath": "id(\"mega-bottombar-mail\")/span[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Mstart(2px)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"mega-bottombar\")/ul[1]/li[2]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Fz(14px)",
+      "Fw(b)",
+      "C(#4d00ae)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"mega-bottombar\")/ul[1]/li[3]/a[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Fz(14px)",
+      "Fw(b)",
+      "C(#4d00ae)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"mega-bottombar\")/ul[1]/li[4]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Fz(14px)",
+      "Fw(b)",
+      "C(#4d00ae)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"mega-bottombar\")/ul[1]/li[6]/a[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Fz(14px)",
+      "Fw(b)",
+      "C(#4d00ae)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[7]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/span[1]",
+    "idxpath": "id(\"yui_3_18_0_3_1541116771695_684\")/div[1]/h2[1]/span[1]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "trending-title",
+      "Cur(p)",
+      "D(ib)",
+      "W(50%)",
+      "selected"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[7]/div[1]/div[4]/div[1]/div[6]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"yui_3_18_0_3_1541116771695_870\")/div[1]/h2[1]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "D(ib)",
+      "Va(t)",
+      "Fz(15px)",
+      "App-Title"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[7]/div[1]/div[4]/div[1]/div[6]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"yui_3_18_0_3_1541116771695_978\")/li[1]/a[1]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Mend(20px)",
+      "Pb(4px)",
+      "Cur(p)",
+      "C($dimmed)",
+      "tab-selected_C(#000)!",
+      "Fw(500)",
+      "Td(n)",
+      "tab-selected_Bdb($selectedTabBd)",
+      "rapidnofollow"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[7]/div[1]/div[4]/div[1]/div[6]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"yui_3_18_0_3_1541116771695_978\")/li[2]/a[1]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Mend(20px)",
+      "Pb(4px)",
+      "Cur(p)",
+      "C($dimmed)",
+      "Fw(500)",
+      "Td(n)",
+      "tab-selected_C(#000)!",
+      "tab-selected_Bdb($selectedTabBd)",
+      "rapidnofollow"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[7]/div[1]/div[4]/div[1]/div[6]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"yui_3_18_0_3_1541116771695_978\")/li[3]/a[1]",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "Mend(20px)",
+      "Pb(4px)",
+      "Cur(p)",
+      "C($dimmed)",
+      "tab-selected_C(#000)!",
+      "Fw(500)",
+      "Td(n)",
+      "tab-selected_Bdb($selectedTabBd)",
+      "rapidnofollow"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "ysp-more-scores",
+    "xpath": "/html[1]/body[1]/div[7]/div[1]/div[4]/div[1]/div[6]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"ysp-more-scores\")",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "D(ib)",
+      "Mb(28px)",
+      "Cur(p)",
+      "C($link)",
+      "C($m_blue):h",
+      "C($m_blue):f",
+      "Fw(500)",
+      "Td(n)"
+    ],
+    "neighborText": [],
+    "area": null,
+    "shape": null
+  }
+]

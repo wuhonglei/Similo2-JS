@@ -1,0 +1,308 @@
+[
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/business",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 11480,
+    "shape": 717,
+    "widgetId": 1,
+    "visibleText": "Dropbox BusinessDropbox Business",
+    "neighborText": [
+      "dropbox",
+      "businessdropbox",
+      "business"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 20,
+      "y": 20,
+      "width": 287,
+      "height": 40
+    },
+    "classList": [
+      "arbor-super-nav__logo-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://web.archive.org/business/try",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/div[1]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 5152,
+    "shape": 503,
+    "widgetId": 2,
+    "visibleText": "Try free for 30 days",
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1021,
+      "y": 24,
+      "width": 161,
+      "height": 32
+    },
+    "classList": [
+      "arbor-button",
+      "arbor-button--standard-padding",
+      "arbor-button--micro-size",
+      "arbor-button--panda-white",
+      "arbor-button--touch-device",
+      "arbor-super-nav__cta"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/div[1]/button[1]",
+    "idxpath": "//*[@id",
+    "area": 576,
+    "shape": 100,
+    "widgetId": 3,
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 1203,
+      "y": 28,
+      "width": 24,
+      "height": 24
+    },
+    "classList": [
+      "arbor-super-nav__links-toggle"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/business/try",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 11396,
+    "shape": 588,
+    "widgetId": 4,
+    "visibleText": "Try free for 30 days",
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days",
+      "purchase",
+      "now"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 51,
+      "y": 510,
+      "width": 259,
+      "height": 44
+    },
+    "classList": [
+      "arbor-button",
+      "arbor-button--standard-wide-padding",
+      "arbor-button--standard-size",
+      "arbor-button--dbx-blue",
+      "arbor-button--full-width",
+      "arbor-button--touch-device",
+      "business-hero__button"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/basic",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[2]/span[1]/a[1]",
+    "idxpath": "//*[@id",
+    "area": 2057,
+    "shape": 711,
+    "widgetId": 5,
+    "visibleText": "get Dropbox Basic",
+    "neighborText": [
+      "purchase",
+      "now",
+      "or",
+      "get",
+      "dropbox",
+      "basic"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 69,
+      "y": 640,
+      "width": 121,
+      "height": 17
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-black",
+      "arbor-link--small",
+      "arbor-link--text-style",
+      "business-hero__link",
+      "arbor-link--touch-device"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id",
+    "area": 40894,
+    "shape": 1932,
+    "widgetId": 6,
+    "visibleText": "Find the Dropbox Business plan for you",
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 1006,
+      "width": 889,
+      "height": 46
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-headline--22",
+      "arbor-headline--title-2",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[1]/div[1]/div[2]/div[1]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 3042,
+    "shape": 450,
+    "widgetId": 7,
+    "visibleText": "Billed monthly",
+    "neighborText": [
+      "billed",
+      "yearly"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 128,
+      "y": 1102,
+      "width": 117,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "arbor-radio__text"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[1]/div[1]/div[2]/div[2]/span[1]",
+    "idxpath": "//*[@id",
+    "area": 2600,
+    "shape": 384,
+    "widgetId": 8,
+    "visibleText": "Billed yearly",
+    "neighborText": [
+      "billed",
+      "monthly"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 291,
+      "y": 1102,
+      "width": 100,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "arbor-radio__text"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[2]/div[1]/div[1]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id",
+    "area": 6266,
+    "shape": 926,
+    "widgetId": 9,
+    "visibleText": "Standard",
+    "neighborText": [
+      "$12.50"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1234,
+      "width": 241,
+      "height": 26
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-5",
+      "arbor-foreground-color--panda-black"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[2]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id",
+    "area": 6266,
+    "shape": 926,
+    "widgetId": 10,
+    "visibleText": "Advanced",
+    "neighborText": [
+      "best",
+      "value",
+      "$20"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1234,
+      "width": 241,
+      "height": 26
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-5",
+      "arbor-foreground-color--panda-black"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[2]/div[1]/div[3]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id",
+    "area": 6266,
+    "shape": 926,
+    "widgetId": 11,
+    "visibleText": "Enterprise",
+    "neighborText": [
+      "contact",
+      "us"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1234,
+      "width": 241,
+      "height": 26
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-5",
+      "arbor-foreground-color--panda-black"
+    ]
+  }
+]
