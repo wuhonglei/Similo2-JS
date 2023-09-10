@@ -124,10 +124,9 @@ async function getPropertyOfSite(driver, site) {
   await driver.sleep(2000);
   await driver.executeScript(javascript); // 注入 selector 函数
   const elementsToExtract = 'input,textarea,button,select,a,h1,h2,h3,h4,h5,li,span,div,p,th,tr,td,label,svg';
-  const candidateProperties = driver.executeScript(function getProperties(selector) {
+  const candidateProperties = await driver.executeScript(function getProperties(selector) {
     return Silimon.getCandidateElementsPropertiesBySelector(selector);
   }, elementsToExtract);
-  console.info('candidateProperties', candidateProperties);
   await writeJson(candidateProperties, path.join(root, site.name, 'properties/candidate.json')); // 旧网站上目标元素的属性
   await getScreenshotsOfNewSite(driver, site, targetProperties);
 }
@@ -138,7 +137,10 @@ async function start() {
   const driver = await new Builder().forBrowser(Browser.CHROME).setChromeOptions(chromeOptions).build();
   try {
     await driver.manage().window().maximize(); // 最大化窗口
-    getPropertyOfSite(driver, website[0]);
+    for (const site of website) {
+      await getPropertyOfSite(driver, site);
+      console.info(site.name);
+    }
   } finally {
     // await driver.quit();
   }
