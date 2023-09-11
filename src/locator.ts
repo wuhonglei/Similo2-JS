@@ -9,7 +9,7 @@ export function getXPath(element: Element): string {
           ...segs(elm.parentNode),
           elm instanceof HTMLElement
             ? `${elm.localName}[${idx(elm)}]`
-            : `*[local-name() = "${(elm as any).localName}"][${idx(elm as any)}]`,
+            : `*[local-name() = '${(elm as any).localName}'][${idx(elm as any)}]`,
         ];
 
   return segs(element).join('/');
@@ -27,7 +27,7 @@ export function getIdXPath(element: Element) {
           ...segs((elm as any).parentNode),
           elm instanceof HTMLElement
             ? `${elm.localName}[${idx(elm)}]`
-            : `*[local-name() = "${(elm as any).localName}"][${idx(elm)}]`,
+            : `*[local-name() = '${(elm as any).localName}'][${idx(elm)}]`,
         ];
   return segs(element).join('/');
 }
