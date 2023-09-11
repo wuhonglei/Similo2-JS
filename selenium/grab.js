@@ -133,6 +133,10 @@ async function getPropertyOfSite(driver, site) {
   await driver.executeScript(javascript); // 注入 selector 函数
   const promiseList = xpath.map((oneTarget) =>
     driver.executeScript(function getProperties(xpath) {
+      if (!Silimon) {
+        console.warn('Silimon is null');
+      }
+      !Silimon && window.eval(Silimon);
       return Silimon.getElementPropertiesByXpath(xpath);
     }, oneTarget.old),
   );
@@ -147,6 +151,7 @@ async function getPropertyOfSite(driver, site) {
   await driver.executeScript(javascript); // 注入 selector 函数
   const elementsToExtract = 'input,textarea,button,select,a,h1,h2,h3,h4,h5,li,span,div,p,th,tr,td,label,svg';
   const candidateProperties = await driver.executeScript(function getProperties(selector) {
+    !Silimon && window.eval(Silimon);
     return Silimon.getCandidateElementsPropertiesBySelector(selector);
   }, elementsToExtract);
   await writeJson(candidateProperties, path.join(root, site.name, 'properties/candidate.json')); // 旧网站上目标元素的属性

@@ -1,0 +1,8641 @@
+[
+  {
+    "alt": "",
+    "area": 4623360,
+    "classList": [
+      "home"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 2580,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 69,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Welcome",
+      "to",
+      "Office",
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office",
+      "Sign",
+      "in",
+      "to",
+      "use",
+      "your",
+      "favorite",
+      "productivity",
+      "apps",
+      "from",
+      "any",
+      "device",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams",
+      "Get",
+      "the",
+      "premium",
+      "Office",
+      "apps",
+      "with",
+      "Microsoft",
+      "365",
+      "For",
+      "home",
+      "For",
+      "business",
+      "For",
+      "enterprise",
+      "For",
+      "education",
+      "Follow",
+      "Office",
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2",
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing",
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education",
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail",
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage",
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security",
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 4623360,
+    "classList": [
+      "home__container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 2580,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 69,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Welcome",
+      "to",
+      "Office",
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office",
+      "Sign",
+      "in",
+      "to",
+      "use",
+      "your",
+      "favorite",
+      "productivity",
+      "apps",
+      "from",
+      "any",
+      "device",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams",
+      "Get",
+      "the",
+      "premium",
+      "Office",
+      "apps",
+      "with",
+      "Microsoft",
+      "365",
+      "For",
+      "home",
+      "For",
+      "business",
+      "For",
+      "enterprise",
+      "For",
+      "education",
+      "Follow",
+      "Office",
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2",
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing",
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education",
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail",
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage",
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security",
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 154112,
+    "classList": [
+      "home__header-footer",
+      "home__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2083,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 154112,
+    "classList": [
+      "log-appear"
+    ],
+    "href": "",
+    "id": "pmg-global-header",
+    "idxpath": "//*[@id='pmg-global-header']",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2083,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 154112,
+    "classList": [
+      "uhf"
+    ],
+    "href": "",
+    "id": "headerArea",
+    "idxpath": "//*[@id='headerArea']",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2083,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 154112,
+    "classList": [],
+    "href": "",
+    "id": "headerRegion",
+    "idxpath": "//*[@id='headerRegion']",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2083,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 154112,
+    "classList": [],
+    "href": "",
+    "id": "headerUniversalHeader",
+    "idxpath": "//*[@id='headerUniversalHeader']",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2083,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "m-skip-to-main"
+    ],
+    "href": "javascript:void(0)",
+    "id": "uhfSkipToMain",
+    "idxpath": "//*[@id='uhfSkipToMain']",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": -999,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 100,
+    "tag": "A",
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 96768,
+    "classList": [
+      "theme-light",
+      "js-global-head",
+      "f-closed",
+      "global-head-cont"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='headerUniversalHeader']/header[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3318,
+    "tag": "DIV",
+    "visibleText": [
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 86400,
+    "classList": [
+      "c-uhfh-gcontainer-st"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='headerUniversalHeader']/header[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 1600,
+      "x": 96,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2962,
+    "tag": "DIV",
+    "visibleText": [
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7398,
+    "classList": [
+      "c-logo",
+      "c-sgl-stk-uhfLogo"
+    ],
+    "href": "https://www.microsoft.com/",
+    "id": "uhfLogo",
+    "idxpath": "//*[@id='uhfLogo']",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 137,
+      "x": 96,
+      "y": 5
+    },
+    "name": "",
+    "neighborText": [
+      "Office",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 253,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhfLogo']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 106,
+      "y": 41
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 5400,
+    "classList": [
+      "c-show-pipe",
+      "x-hidden-vp-mobile-st"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='headerUniversalHeader']/header[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 100,
+      "x": 233,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Office",
+      "Products",
+      "Microsoft",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 3672,
+    "classList": [
+      "c-logo",
+      "c-cat-logo"
+    ],
+    "href": "https://www.office.com/",
+    "id": "uhfCatLogo",
+    "idxpath": "//*[@id='uhfCatLogo']",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 68,
+      "x": 265,
+      "y": 5
+    },
+    "name": "",
+    "neighborText": [
+      "Products",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 125,
+    "tag": "A",
+    "visibleText": [
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1152,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhfCatLogo']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 48,
+      "x": 275,
+      "y": 18
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Office",
+      "Products",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 200,
+    "tag": "SPAN",
+    "visibleText": [
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 4680,
+    "classList": [
+      "nested-menu",
+      "uhf-menu-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-g-nav']/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 90,
+      "x": 335,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Products",
+      "Resources",
+      "Office",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 173,
+    "tag": "LI",
+    "visibleText": [
+      "Products"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 4680,
+    "classList": [
+      "c-uhf-menu",
+      "js-nav-menu"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-g-nav']/ul[1]/li[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 90,
+      "x": 335,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Products",
+      "Resources",
+      "Office",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 173,
+    "tag": "DIV",
+    "visibleText": [
+      "Products"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4704,
+    "classList": [],
+    "href": "",
+    "id": "c-shellmenu_0",
+    "idxpath": "//*[@id='c-shellmenu_0']",
+    "isButton": true,
+    "location": {
+      "height": 49,
+      "width": 96,
+      "x": 335,
+      "y": 3
+    },
+    "name": "",
+    "neighborText": [
+      "Resources",
+      "Office",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 195,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Products"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 5044,
+    "classList": [
+      "nested-menu",
+      "uhf-menu-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-g-nav']/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 97,
+      "x": 429,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Resources",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 186,
+    "tag": "LI",
+    "visibleText": [
+      "Resources"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 5044,
+    "classList": [
+      "c-uhf-menu",
+      "js-nav-menu"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-g-nav']/ul[1]/li[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 97,
+      "x": 429,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Resources",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 186,
+    "tag": "DIV",
+    "visibleText": [
+      "Resources"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 5047,
+    "classList": [],
+    "href": "",
+    "id": "resources",
+    "idxpath": "//*[@id='resources']",
+    "isButton": true,
+    "location": {
+      "height": 49,
+      "width": 103,
+      "x": 429,
+      "y": 3
+    },
+    "name": "",
+    "neighborText": [
+      "Templates",
+      "Products",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now"
+    ],
+    "shape": 210,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Resources"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 4116,
+    "classList": [
+      "single-link",
+      "js-nav-menu",
+      "uhf-menu-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-g-nav']/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 84,
+      "x": 531,
+      "y": 1
+    },
+    "name": null,
+    "neighborText": [
+      "Support",
+      "Resources",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now"
+    ],
+    "shape": 171,
+    "tag": "LI",
+    "visibleText": [
+      "Templates"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 3648,
+    "classList": [
+      "c-uhf-nav-link"
+    ],
+    "href": "https://templates.office.com/",
+    "id": "c-shellmenu_39",
+    "idxpath": "//*[@id='c-shellmenu_39']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 76,
+      "x": 535,
+      "y": 2
+    },
+    "name": "",
+    "neighborText": [
+      "Support",
+      "Resources",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now"
+    ],
+    "shape": 158,
+    "tag": "A",
+    "visibleText": [
+      "Templates"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3528,
+    "classList": [
+      "single-link",
+      "js-nav-menu",
+      "uhf-menu-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-g-nav']/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 72,
+      "x": 619,
+      "y": 1
+    },
+    "name": null,
+    "neighborText": [
+      "My",
+      "account",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 146,
+    "tag": "LI",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 3072,
+    "classList": [
+      "c-uhf-nav-link"
+    ],
+    "href": "https://support.office.com/",
+    "id": "support",
+    "idxpath": "//*[@id='support']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 64,
+      "x": 623,
+      "y": 2
+    },
+    "name": "",
+    "neighborText": [
+      "My",
+      "account",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 133,
+    "tag": "A",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4508,
+    "classList": [
+      "single-link",
+      "js-nav-menu",
+      "uhf-menu-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-g-nav']/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 92,
+      "x": 695,
+      "y": 1
+    },
+    "name": null,
+    "neighborText": [
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 187,
+    "tag": "LI",
+    "visibleText": [
+      "My",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 4032,
+    "classList": [
+      "c-uhf-nav-link"
+    ],
+    "href": "https://office.live.com/start/MyAccount.aspx",
+    "id": "My account",
+    "idxpath": "//*[@id='My account']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 84,
+      "x": 699,
+      "y": 2
+    },
+    "name": "",
+    "neighborText": [
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 175,
+    "tag": "A",
+    "visibleText": [
+      "My",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2508,
+    "classList": [
+      "single-link",
+      "js-nav-menu"
+    ],
+    "href": "",
+    "id": "c-uhf-nav-cta",
+    "idxpath": "//*[@id='c-uhf-nav-cta']",
+    "isButton": false,
+    "location": {
+      "height": 33,
+      "width": 76,
+      "x": 806,
+      "y": 11
+    },
+    "name": null,
+    "neighborText": [
+      "My",
+      "account",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 230,
+    "tag": "LI",
+    "visibleText": [
+      "Buy",
+      "now"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 2108,
+    "classList": [
+      "c-uhf-nav-link"
+    ],
+    "href": "https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr1",
+    "id": "BuyOffice365",
+    "idxpath": "//*[@id='BuyOffice365']",
+    "isButton": false,
+    "location": {
+      "height": 31,
+      "width": 68,
+      "x": 810,
+      "y": 12
+    },
+    "name": "",
+    "neighborText": [
+      "My",
+      "account",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 219,
+    "tag": "A",
+    "visibleText": [
+      "Buy",
+      "now"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 11772,
+    "classList": [
+      "c-uhfh-actions"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='headerUniversalHeader']/header[1]/div[1]/div[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 218,
+      "x": 1477,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 403,
+    "tag": "DIV",
+    "visibleText": [
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 6156,
+    "classList": [
+      "wf-menu"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='headerUniversalHeader']/header[1]/div[1]/div[1]/div[4]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 114,
+      "x": 1477,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 211,
+    "tag": "DIV",
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 5772,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-c-nav']/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 111,
+      "x": 1479,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 213,
+    "tag": "LI",
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 5772,
+    "classList": [
+      "c-uhf-menu",
+      "js-nav-menu"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-c-nav']/ul[1]/li[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 111,
+      "x": 1479,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 213,
+    "tag": "DIV",
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 5439,
+    "classList": [
+      "c-button-logo",
+      "all-ms-nav"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-c-nav']/ul[1]/li[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 49,
+      "width": 111,
+      "x": 1479,
+      "y": 3
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "shape": 226,
+    "tag": "BUTTON",
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 1224,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-c-nav']/ul[1]/li[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 72,
+      "x": 1494,
+      "y": 19
+    },
+    "name": null,
+    "neighborText": [
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 423,
+    "tag": "SPAN",
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[1]/nav[1]/ul[1]/li[1]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 5562,
+    "classList": [
+      "c-me"
+    ],
+    "href": "",
+    "id": "meControl",
+    "idxpath": "//*[@id='meControl']",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 103,
+      "x": 1592,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 190,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 4944,
+    "classList": [
+      "mectrl_root",
+      "mectrl_theme_light_header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='meControl']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 103,
+      "x": 1592,
+      "y": 3
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 214,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4944,
+    "classList": [
+      "mectrl_resetStyle",
+      "mectrl_trigger"
+    ],
+    "href": "https://www.office.com/login?es=Click&ru=%2F&msafed=0",
+    "id": "mectrl_main_trigger",
+    "idxpath": "//*[@id='mectrl_main_trigger']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 103,
+      "x": 1592,
+      "y": 3
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 214,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "mectrl_screen_reader_text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mectrl_main_trigger']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 1592,
+      "y": 3
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "All",
+      "Microsoft"
+    ],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[2]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 4944,
+    "classList": [
+      "mectrl_header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mectrl_main_trigger']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 103,
+      "x": 1592,
+      "y": 3
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 214,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[2]/div[1]/a[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2640,
+    "classList": [
+      "mectrl_headertext",
+      "mectrl_truncate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mectrl_main_trigger']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 55,
+      "x": 1592,
+      "y": 3
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "All",
+      "Microsoft",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in"
+    ],
+    "shape": 114,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[2]/div[1]/a[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1024,
+    "classList": [
+      "mectrl_profilepic",
+      "mectrl_glyph",
+      "glyph_signIn_circle"
+    ],
+    "href": "",
+    "id": "mectrl_headerPicture",
+    "idxpath": "//*[@id='mectrl_headerPicture']",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 32,
+      "x": 1656,
+      "y": 11
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Microsoft",
+      "Office",
+      "Products",
+      "Resources",
+      "Templates",
+      "Support",
+      "My",
+      "account",
+      "Buy",
+      "now",
+      "All",
+      "Microsoft",
+      "Sign",
+      "in",
+      "to",
+      "your",
+      "account",
+      "Sign",
+      "in",
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[2]/div[1]/a[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 53760,
+    "classList": [
+      "c-sitewide-promo",
+      "theme-dark"
+    ],
+    "href": "https://www.microsoft.com/en-us/education/remote-learning",
+    "id": "uhf-swp",
+    "idxpath": "//*[@id='uhf-swp']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 1792,
+      "x": 0,
+      "y": 56
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 5973,
+    "tag": "A",
+    "visibleText": [
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 53760,
+    "classList": [
+      "c-paragraph",
+      "color-brand-blue"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-swp']/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 1792,
+      "x": 0,
+      "y": 56
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 5973,
+    "tag": "P",
+    "visibleText": [
+      "Remote",
+      "Learning",
+      "in",
+      "education.",
+      "Learn",
+      "more",
+      ">"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/a[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 3687936,
+    "classList": [],
+    "href": "",
+    "id": "main",
+    "idxpath": "//*[@id='main']",
+    "isButton": false,
+    "location": {
+      "height": 2058,
+      "width": 1792,
+      "x": 0,
+      "y": 86
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 87,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Office",
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office",
+      "Sign",
+      "in",
+      "to",
+      "use",
+      "your",
+      "favorite",
+      "productivity",
+      "apps",
+      "from",
+      "any",
+      "device",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams",
+      "Get",
+      "the",
+      "premium",
+      "Office",
+      "apps",
+      "with",
+      "Microsoft",
+      "365",
+      "For",
+      "home",
+      "For",
+      "business",
+      "For",
+      "enterprise",
+      "For",
+      "education",
+      "Follow",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]"
+  },
+  {
+    "alt": "",
+    "area": 842240,
+    "classList": [
+      "hero"
+    ],
+    "href": "",
+    "id": "hero-section",
+    "idxpath": "//*[@id='hero-section']",
+    "isButton": false,
+    "location": {
+      "height": 470,
+      "width": 1792,
+      "x": 0,
+      "y": 86
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 381,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Office",
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 345856,
+    "classList": [
+      "content-gutter",
+      "width-restrictor--hero"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hero-section']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 193,
+      "width": 1792,
+      "x": 0,
+      "y": 224
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 928,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Office",
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 308800,
+    "classList": [
+      "width-restrictor"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hero-section']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 193,
+      "width": 1600,
+      "x": 96,
+      "y": 224
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 829,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Office",
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 101904,
+    "classList": [
+      "hero__content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hero-section']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 193,
+      "width": 528,
+      "x": 96,
+      "y": 224
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 273,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Office",
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 23760,
+    "classList": [
+      "hero__title"
+    ],
+    "href": "",
+    "id": "hero-header",
+    "idxpath": "//*[@id='hero-header']",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 528,
+      "x": 96,
+      "y": 224
+    },
+    "name": null,
+    "neighborText": [
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done."
+    ],
+    "shape": 1173,
+    "tag": "H1",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 10560,
+    "classList": [
+      "hero__subtitle"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hero-section']/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 528,
+      "x": 96,
+      "y": 289
+    },
+    "name": null,
+    "neighborText": [
+      "Welcome",
+      "to",
+      "Office",
+      "Sign",
+      "in",
+      "Sign",
+      "in",
+      "Get",
+      "Office"
+    ],
+    "shape": 2640,
+    "tag": "P",
+    "visibleText": [
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 30624,
+    "classList": [
+      "hero__buttons-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hero-section']/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 58,
+      "width": 528,
+      "x": 96,
+      "y": 329
+    },
+    "name": null,
+    "neighborText": [
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "shape": 910,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in",
+      "Get",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7600,
+    "classList": [
+      "hero__button",
+      "hero__button--primary"
+    ],
+    "href": "https://www.office.com/login?es=Click&ru=%2F",
+    "id": "hero-banner-sign-in-to-office-365-link",
+    "idxpath": "//*[@id='hero-banner-sign-in-to-office-365-link']",
+    "isButton": true,
+    "location": {
+      "height": 38,
+      "width": 200,
+      "x": 96,
+      "y": 329
+    },
+    "name": "",
+    "neighborText": [
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "shape": 526,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7600,
+    "classList": [
+      "hero__button",
+      "hero__button--secondary"
+    ],
+    "href": "https://products.office.com/compare-all-microsoft-office-products?tab=1",
+    "id": "hero-banner-get-office-link",
+    "idxpath": "//*[@id='hero-banner-get-office-link']",
+    "isButton": true,
+    "location": {
+      "height": 38,
+      "width": 200,
+      "x": 320,
+      "y": 329
+    },
+    "name": "",
+    "neighborText": [
+      "Your",
+      "place",
+      "to",
+      "create,",
+      "communicate,",
+      "collaborate,",
+      "and",
+      "get",
+      "great",
+      "work",
+      "done.",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "shape": 526,
+    "tag": "A",
+    "visibleText": [
+      "Get",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 10560,
+    "classList": [
+      "hero__link",
+      "animated-link"
+    ],
+    "href": "https://signup.live.com/signup?mkt=en-US&uiflavor=web&lw=1&fl=easi2&client_id=4345a7b9-9a63-4910-a426-35363201d503&wreply=https%3A%2F%2Fwww.office.com%2F%3Fauth%3D1%26from%3DOdotComFreeSignup",
+    "id": "hero-banner-free-upsell-v1-link",
+    "idxpath": "//*[@id='hero-banner-free-upsell-v1-link']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 528,
+      "x": 96,
+      "y": 397
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "shape": 2640,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4960,
+    "classList": [
+      "animated-link--text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hero-banner-free-upsell-v1-link']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 248,
+      "x": 96,
+      "y": 397
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "shape": 1240,
+    "tag": "SPAN",
+    "visibleText": [
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 225,
+    "classList": [
+      "ms-Icon",
+      "ms-Icon--chevronRight",
+      "animated-link--arrow"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hero-banner-free-upsell-v1-link']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 15,
+      "x": 344,
+      "y": 402
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "Sign",
+      "in",
+      "Get",
+      "Office",
+      "Sign",
+      "up",
+      "for",
+      "the",
+      "free",
+      "version",
+      "of",
+      "Office"
+    ],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "office-apps"
+    ],
+    "href": "",
+    "id": "office-apps",
+    "idxpath": "//*[@id='office-apps']",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 652
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "use",
+      "your",
+      "favorite",
+      "productivity",
+      "apps",
+      "from",
+      "any",
+      "device",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 444416,
+    "classList": [
+      "content-gutter"
+    ],
+    "href": "",
+    "id": "office-apps-content",
+    "idxpath": "//*[@id='office-apps-content']",
+    "isButton": false,
+    "location": {
+      "height": 248,
+      "width": 1792,
+      "x": 0,
+      "y": 652
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 722,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "use",
+      "your",
+      "favorite",
+      "productivity",
+      "apps",
+      "from",
+      "any",
+      "device",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 396800,
+    "classList": [
+      "width-restrictor"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 248,
+      "width": 1600,
+      "x": 96,
+      "y": 652
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 645,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "use",
+      "your",
+      "favorite",
+      "productivity",
+      "apps",
+      "from",
+      "any",
+      "device",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 76800,
+    "classList": [
+      "office-apps__header"
+    ],
+    "href": "",
+    "id": "office-apps-header",
+    "idxpath": "//*[@id='office-apps-header']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 1600,
+      "x": 96,
+      "y": 652
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3333,
+    "tag": "H2",
+    "visibleText": [
+      "Sign",
+      "in",
+      "to",
+      "use",
+      "your",
+      "favorite",
+      "productivity",
+      "apps",
+      "from",
+      "any",
+      "device"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 224000,
+    "classList": [
+      "office-apps__app-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 140,
+      "width": 1600,
+      "x": 96,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1142,
+    "tag": "DIV",
+    "visibleText": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 232400,
+    "classList": [
+      "office-apps__app-wrapper"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 140,
+      "width": 1660,
+      "x": 96,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1185,
+    "tag": "DIV",
+    "visibleText": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "OneNote",
+      "OneDrive",
+      "Outlook",
+      "Teams"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 10000,
+    "classList": [
+      "office-apps__app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 100,
+      "x": 366,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Word"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Word"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7500,
+    "classList": [
+      "office-apps__app-icon",
+      "ms-ohp-svg-Icon",
+      "ms-ohp-Icon",
+      "ms-ohp-Icon--wordLogo",
+      "ms-ohp-Icon--wordLogoFill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 75,
+      "width": 100,
+      "x": 366,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Word"
+    ],
+    "shape": 133,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "office-apps__app-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 100,
+      "x": 366,
+      "y": 847
+    },
+    "name": null,
+    "neighborText": [
+      "Word"
+    ],
+    "shape": 769,
+    "tag": "P",
+    "visibleText": [
+      "Word"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 10000,
+    "classList": [
+      "office-apps__app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 100,
+      "x": 526,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Excel"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 7500,
+    "classList": [
+      "office-apps__app-icon",
+      "ms-ohp-svg-Icon",
+      "ms-ohp-Icon",
+      "ms-ohp-Icon--excelLogo",
+      "ms-ohp-Icon--excelLogoFill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 75,
+      "width": 100,
+      "x": 526,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Excel"
+    ],
+    "shape": 133,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "office-apps__app-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 100,
+      "x": 526,
+      "y": 847
+    },
+    "name": null,
+    "neighborText": [
+      "Excel"
+    ],
+    "shape": 769,
+    "tag": "P",
+    "visibleText": [
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 10000,
+    "classList": [
+      "office-apps__app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 100,
+      "x": 686,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "PowerPoint"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "PowerPoint"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 7500,
+    "classList": [
+      "office-apps__app-icon",
+      "ms-ohp-svg-Icon",
+      "ms-ohp-Icon",
+      "ms-ohp-Icon--powerpointLogo",
+      "ms-ohp-Icon--powerpointLogoFill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[3]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 75,
+      "width": 100,
+      "x": 686,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "PowerPoint"
+    ],
+    "shape": 133,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "office-apps__app-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[3]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 100,
+      "x": 686,
+      "y": 847
+    },
+    "name": null,
+    "neighborText": [
+      "PowerPoint"
+    ],
+    "shape": 769,
+    "tag": "P",
+    "visibleText": [
+      "PowerPoint"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 10000,
+    "classList": [
+      "office-apps__app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 100,
+      "x": 846,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "OneNote"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "OneNote"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 7500,
+    "classList": [
+      "office-apps__app-icon",
+      "ms-ohp-svg-Icon",
+      "ms-ohp-Icon",
+      "ms-ohp-Icon--onenoteLogo",
+      "ms-ohp-Icon--onenoteLogoFill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[4]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 75,
+      "width": 100,
+      "x": 846,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "OneNote"
+    ],
+    "shape": 133,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "office-apps__app-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[4]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 100,
+      "x": 846,
+      "y": 847
+    },
+    "name": null,
+    "neighborText": [
+      "OneNote"
+    ],
+    "shape": 769,
+    "tag": "P",
+    "visibleText": [
+      "OneNote"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 10000,
+    "classList": [
+      "office-apps__app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[5]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 100,
+      "x": 1006,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "OneDrive"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "OneDrive"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]"
+  },
+  {
+    "alt": "",
+    "area": 7500,
+    "classList": [
+      "office-apps__app-icon",
+      "ms-ohp-svg-Icon",
+      "ms-ohp-Icon",
+      "ms-ohp-Icon--oneDriveLogo"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[5]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 75,
+      "width": 100,
+      "x": 1006,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "OneDrive"
+    ],
+    "shape": 133,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "office-apps__app-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[5]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 100,
+      "x": 1006,
+      "y": 847
+    },
+    "name": null,
+    "neighborText": [
+      "OneDrive"
+    ],
+    "shape": 769,
+    "tag": "P",
+    "visibleText": [
+      "OneDrive"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 10000,
+    "classList": [
+      "office-apps__app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[6]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 100,
+      "x": 1166,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Outlook"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]"
+  },
+  {
+    "alt": "",
+    "area": 7500,
+    "classList": [
+      "office-apps__app-icon",
+      "ms-ohp-svg-Icon",
+      "ms-ohp-Icon",
+      "ms-ohp-Icon--outlookLogo",
+      "ms-ohp-Icon--outlookLogoFill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[6]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 75,
+      "width": 100,
+      "x": 1166,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Outlook"
+    ],
+    "shape": 133,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "office-apps__app-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[6]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 100,
+      "x": 1166,
+      "y": 847
+    },
+    "name": null,
+    "neighborText": [
+      "Outlook"
+    ],
+    "shape": 769,
+    "tag": "P",
+    "visibleText": [
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 10000,
+    "classList": [
+      "office-apps__app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[7]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 100,
+      "x": 1326,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Teams"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Teams"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]"
+  },
+  {
+    "alt": "",
+    "area": 7500,
+    "classList": [
+      "office-apps__app-icon",
+      "ms-ohp-svg-Icon",
+      "ms-ohp-Icon",
+      "ms-ohp-Icon--teamsLogo",
+      "ms-ohp-Icon--teamsLogoFill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[7]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 75,
+      "width": 100,
+      "x": 1326,
+      "y": 760
+    },
+    "name": null,
+    "neighborText": [
+      "Teams"
+    ],
+    "shape": 133,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "office-apps__app-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='office-apps-content']/div[1]/div[1]/div[1]/div[7]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 100,
+      "x": 1326,
+      "y": 847
+    },
+    "name": null,
+    "neighborText": [
+      "Teams"
+    ],
+    "shape": 769,
+    "tag": "P",
+    "visibleText": [
+      "Teams"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]/div[7]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 777728,
+    "classList": [
+      "get-office"
+    ],
+    "href": "",
+    "id": "get-office",
+    "idxpath": "//*[@id='get-office']",
+    "isButton": false,
+    "location": {
+      "height": 434,
+      "width": 1792,
+      "x": 0,
+      "y": 1613
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 412,
+    "tag": "DIV",
+    "visibleText": [
+      "Get",
+      "the",
+      "premium",
+      "Office",
+      "apps",
+      "with",
+      "Microsoft",
+      "365",
+      "For",
+      "home",
+      "For",
+      "business",
+      "For",
+      "enterprise",
+      "For",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 437248,
+    "classList": [
+      "content-gutter"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 244,
+      "width": 1792,
+      "x": 0,
+      "y": 1733
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 734,
+    "tag": "DIV",
+    "visibleText": [
+      "Get",
+      "the",
+      "premium",
+      "Office",
+      "apps",
+      "with",
+      "Microsoft",
+      "365",
+      "For",
+      "home",
+      "For",
+      "business",
+      "For",
+      "enterprise",
+      "For",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 390400,
+    "classList": [
+      "width-restrictor"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 244,
+      "width": 1600,
+      "x": 96,
+      "y": 1733
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 655,
+    "tag": "DIV",
+    "visibleText": [
+      "Get",
+      "the",
+      "premium",
+      "Office",
+      "apps",
+      "with",
+      "Microsoft",
+      "365",
+      "For",
+      "home",
+      "For",
+      "business",
+      "For",
+      "enterprise",
+      "For",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 76800,
+    "classList": [
+      "get-office__header"
+    ],
+    "href": "",
+    "id": "get-office-header",
+    "idxpath": "//*[@id='get-office-header']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 1600,
+      "x": 96,
+      "y": 1733
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3333,
+    "tag": "H2",
+    "visibleText": [
+      "Get",
+      "the",
+      "premium",
+      "Office",
+      "apps",
+      "with",
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 217600,
+    "classList": [
+      "get-office__link-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 136,
+      "width": 1600,
+      "x": 96,
+      "y": 1841
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1176,
+    "tag": "DIV",
+    "visibleText": [
+      "For",
+      "home",
+      "For",
+      "business",
+      "For",
+      "enterprise",
+      "For",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 31820,
+    "classList": [
+      "get-office__link"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office']/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 370,
+      "x": 111,
+      "y": 1841
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 430,
+    "tag": "DIV",
+    "visibleText": [
+      "For",
+      "home"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1600,
+    "classList": [
+      "animated-link"
+    ],
+    "href": "https://products.office.com/compare-all-microsoft-office-products?tab=1",
+    "id": "get-office-today-for-home-link",
+    "idxpath": "//*[@id='get-office-today-for-home-link']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 80,
+      "x": 255,
+      "y": 1908
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 400,
+    "tag": "A",
+    "visibleText": [
+      "For",
+      "home"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1300,
+    "classList": [
+      "animated-link--text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-for-home-link']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 65,
+      "x": 255,
+      "y": 1908
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 325,
+    "tag": "SPAN",
+    "visibleText": [
+      "For",
+      "home"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 225,
+    "classList": [
+      "ms-Icon",
+      "ms-Icon--chevronRight",
+      "animated-link--arrow"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-for-home-link']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 15,
+      "x": 321,
+      "y": 1913
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 31820,
+    "classList": [
+      "get-office__link"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office']/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 370,
+      "x": 511,
+      "y": 1841
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 430,
+    "tag": "DIV",
+    "visibleText": [
+      "For",
+      "business"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1980,
+    "classList": [
+      "animated-link"
+    ],
+    "href": "https://products.office.com/compare-all-microsoft-office-products?tab=2",
+    "id": "get-office-today-for-business-link",
+    "idxpath": "//*[@id='get-office-today-for-business-link']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 99,
+      "x": 646,
+      "y": 1908
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 495,
+    "tag": "A",
+    "visibleText": [
+      "For",
+      "business"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [
+      "animated-link--text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-for-business-link']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 84,
+      "x": 646,
+      "y": 1908
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 420,
+    "tag": "SPAN",
+    "visibleText": [
+      "For",
+      "business"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 225,
+    "classList": [
+      "ms-Icon",
+      "ms-Icon--chevronRight",
+      "animated-link--arrow"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-for-business-link']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 15,
+      "x": 730,
+      "y": 1913
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 31820,
+    "classList": [
+      "get-office__link"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office']/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 370,
+      "x": 911,
+      "y": 1841
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 430,
+    "tag": "DIV",
+    "visibleText": [
+      "For",
+      "enterprise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 2180,
+    "classList": [
+      "animated-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/microsoft-365/enterprise",
+    "id": "get-office-today-enterprise-link",
+    "idxpath": "//*[@id='get-office-today-enterprise-link']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 109,
+      "x": 1041,
+      "y": 1908
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 545,
+    "tag": "A",
+    "visibleText": [
+      "For",
+      "enterprise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1880,
+    "classList": [
+      "animated-link--text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-enterprise-link']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 94,
+      "x": 1041,
+      "y": 1908
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 470,
+    "tag": "SPAN",
+    "visibleText": [
+      "For",
+      "enterprise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[3]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 225,
+    "classList": [
+      "ms-Icon",
+      "ms-Icon--chevronRight",
+      "animated-link--arrow"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-enterprise-link']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 15,
+      "x": 1135,
+      "y": 1913
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[3]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 31820,
+    "classList": [
+      "get-office__link"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office']/div[1]/div[1]/div[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 86,
+      "width": 370,
+      "x": 1311,
+      "y": 1841
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 430,
+    "tag": "DIV",
+    "visibleText": [
+      "For",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 2160,
+    "classList": [
+      "animated-link"
+    ],
+    "href": "https://products.office.com/en-US/student/office-in-education",
+    "id": "get-office-today-edu-link",
+    "idxpath": "//*[@id='get-office-today-edu-link']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 108,
+      "x": 1441,
+      "y": 1908
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 540,
+    "tag": "A",
+    "visibleText": [
+      "For",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1860,
+    "classList": [
+      "animated-link--text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-edu-link']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 93,
+      "x": 1441,
+      "y": 1908
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 465,
+    "tag": "SPAN",
+    "visibleText": [
+      "For",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[4]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 225,
+    "classList": [
+      "ms-Icon",
+      "ms-Icon--chevronRight",
+      "animated-link--arrow"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='get-office-today-edu-link']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 15,
+      "x": 1535,
+      "y": 1913
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[3]/div[1]/div[1]/div[1]/div[4]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 86016,
+    "classList": [
+      "section",
+      "social-media__section"
+    ],
+    "href": "",
+    "id": "social-media-section",
+    "idxpath": "//*[@id='social-media-section']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 1792,
+      "x": 0,
+      "y": 2096
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3733,
+    "tag": "DIV",
+    "visibleText": [
+      "Follow",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 76800,
+    "classList": [
+      "social-media__wrapper"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='social-media-section']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 1600,
+      "x": 96,
+      "y": 2096
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3333,
+    "tag": "DIV",
+    "visibleText": [
+      "Follow",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4368,
+    "classList": [
+      "social-media__text"
+    ],
+    "href": "",
+    "id": "social-media-header",
+    "idxpath": "//*[@id='social-media-header']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 91,
+      "x": 96,
+      "y": 2096
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 189,
+    "tag": "SPAN",
+    "visibleText": [
+      "Follow",
+      "Office"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]/div[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "social-media__link"
+    ],
+    "href": "https://www.linkedin.com/company/3509299",
+    "id": "social-media-linkedin",
+    "idxpath": "//*[@id='social-media-linkedin']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 0,
+      "x": 203,
+      "y": 2096
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 0,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "social-media__link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/p/?LinkID=506743",
+    "id": "social-media-facebook",
+    "idxpath": "//*[@id='social-media-facebook']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 0,
+      "x": 219,
+      "y": 2096
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 0,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "social-media__link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/p/?LinkId=506744",
+    "id": "social-media-twitter",
+    "idxpath": "//*[@id='social-media-twitter']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 0,
+      "x": 235,
+      "y": 2096
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 0,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]/div[1]/a[3]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "social-media__link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/p/?LinkId=524828",
+    "id": "social-media-instagram",
+    "idxpath": "//*[@id='social-media-instagram']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 0,
+      "x": 251,
+      "y": 2096
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 0,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]/div[1]/a[4]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "social-media__link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/p/?LinkID=506712",
+    "id": "social-media-office-blogs-link",
+    "idxpath": "//*[@id='social-media-office-blogs-link']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 0,
+      "x": 267,
+      "y": 2096
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 0,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[4]/div[1]/a[5]"
+  },
+  {
+    "alt": "",
+    "area": 695296,
+    "classList": [
+      "home__header-footer"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/div[8]",
+    "isButton": false,
+    "location": {
+      "height": 388,
+      "width": 1792,
+      "x": 0,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 461,
+    "tag": "DIV",
+    "visibleText": [
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2",
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing",
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education",
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail",
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage",
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security",
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]"
+  },
+  {
+    "alt": "",
+    "area": 695296,
+    "classList": [
+      "log-appear"
+    ],
+    "href": "",
+    "id": "pmgDetailFooter",
+    "idxpath": "//*[@id='pmgDetailFooter']",
+    "isButton": false,
+    "location": {
+      "height": 388,
+      "width": 1792,
+      "x": 0,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 461,
+    "tag": "DIV",
+    "visibleText": [
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2",
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing",
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education",
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail",
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage",
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security",
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 695296,
+    "classList": [
+      "uhf"
+    ],
+    "href": "",
+    "id": "footerArea",
+    "idxpath": "//*[@id='footerArea']",
+    "isButton": false,
+    "location": {
+      "height": 388,
+      "width": 1792,
+      "x": 0,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 461,
+    "tag": "DIV",
+    "visibleText": [
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2",
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing",
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education",
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail",
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage",
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security",
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 695296,
+    "classList": [],
+    "href": "",
+    "id": "footerRegion",
+    "idxpath": "//*[@id='footerRegion']",
+    "isButton": false,
+    "location": {
+      "height": 388,
+      "width": 1792,
+      "x": 0,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 461,
+    "tag": "DIV",
+    "visibleText": [
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2",
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing",
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education",
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail",
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage",
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security",
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 695296,
+    "classList": [],
+    "href": "",
+    "id": "footerUniversalFooter",
+    "idxpath": "//*[@id='footerUniversalFooter']",
+    "isButton": false,
+    "location": {
+      "height": 388,
+      "width": 1792,
+      "x": 0,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 461,
+    "tag": "DIV",
+    "visibleText": [
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2",
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing",
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education",
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail",
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage",
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security",
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 84056,
+    "classList": [
+      "c-uhff-nav-group"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 316,
+      "width": 266,
+      "x": 95,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 84,
+    "tag": "DIV",
+    "visibleText": [
+      "What's",
+      "new",
+      "Surface",
+      "Duo",
+      "Surface",
+      "Laptop",
+      "Go",
+      "Surface",
+      "Pro",
+      "X",
+      "Surface",
+      "Go",
+      "2",
+      "Surface",
+      "Book",
+      "3",
+      "Microsoft",
+      "365",
+      "Windows",
+      "10",
+      "apps",
+      "HoloLens",
+      "2"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 15240,
+    "classList": [
+      "c-heading-4"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 254,
+      "x": 95,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 423,
+    "tag": "DIV",
+    "visibleText": [
+      "What's",
+      "new"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2252
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Surface",
+      "Duo"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1024,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/surface/devices/surface-duo",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 64,
+      "x": 95,
+      "y": 2260
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 400,
+    "tag": "A",
+    "visibleText": [
+      "Surface",
+      "Duo"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2284
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Surface",
+      "Laptop",
+      "Go"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1552,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/p/surface-laptop-go/94FC0BDGQ7WV",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 97,
+      "x": 95,
+      "y": 2292
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 606,
+    "tag": "A",
+    "visibleText": [
+      "Surface",
+      "Laptop",
+      "Go"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2316
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Surface",
+      "Pro",
+      "X"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1120,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/p/surface-pro-x/8QG3BMRHNWHK",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 70,
+      "x": 95,
+      "y": 2324
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 437,
+    "tag": "A",
+    "visibleText": [
+      "Surface",
+      "Pro",
+      "X"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2348
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Surface",
+      "Go",
+      "2"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1072,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/p/surface-go-2/8PT3S2VJMDR6",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 67,
+      "x": 95,
+      "y": 2356
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 418,
+    "tag": "A",
+    "visibleText": [
+      "Surface",
+      "Go",
+      "2"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2380
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Surface",
+      "Book",
+      "3"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 1248,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/p/surface-book-3/8XBW9G3Z71F1",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 78,
+      "x": 95,
+      "y": 2388
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 487,
+    "tag": "A",
+    "visibleText": [
+      "Surface",
+      "Book",
+      "3"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 1168,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/microsoft-365",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 73,
+      "x": 95,
+      "y": 2420
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 456,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Windows",
+      "10",
+      "apps"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1488,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/windows/windows-10-apps",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 93,
+      "x": 95,
+      "y": 2452
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 581,
+    "tag": "A",
+    "visibleText": [
+      "Windows",
+      "10",
+      "apps"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 95,
+      "y": 2476
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "HoloLens",
+      "2"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 944,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/hololens",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 59,
+      "x": 95,
+      "y": 2484
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 368,
+    "tag": "A",
+    "visibleText": [
+      "HoloLens",
+      "2"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 84056,
+    "classList": [
+      "c-uhff-nav-group"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 316,
+      "width": 266,
+      "x": 362,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 84,
+    "tag": "DIV",
+    "visibleText": [
+      "Microsoft",
+      "Store",
+      "Account",
+      "profile",
+      "Download",
+      "Center",
+      "Microsoft",
+      "Store",
+      "support",
+      "Returns",
+      "Order",
+      "tracking",
+      "Virtual",
+      "workshops",
+      "and",
+      "training",
+      "Microsoft",
+      "Store",
+      "Promise",
+      "Financing"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 14520,
+    "classList": [
+      "c-heading-4"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 242,
+      "x": 374,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 403,
+    "tag": "DIV",
+    "visibleText": [
+      "Microsoft",
+      "Store"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2252
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Account",
+      "profile"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1280,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://account.microsoft.com/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 80,
+      "x": 374,
+      "y": 2260
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 500,
+    "tag": "A",
+    "visibleText": [
+      "Account",
+      "profile"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2284
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Download",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1472,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/download",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 92,
+      "x": 374,
+      "y": 2292
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 575,
+    "tag": "A",
+    "visibleText": [
+      "Download",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2316
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "Store",
+      "support"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 2016,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2139749",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 126,
+      "x": 374,
+      "y": 2324
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 787,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "Store",
+      "support"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2348
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Returns"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 640,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/p/?LinkID=824764&clcid=0x409",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 40,
+      "x": 374,
+      "y": 2356
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 250,
+    "tag": "A",
+    "visibleText": [
+      "Returns"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2380
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Order",
+      "tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 1216,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://account.microsoft.com/orders",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 76,
+      "x": 374,
+      "y": 2388
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 475,
+    "tag": "A",
+    "visibleText": [
+      "Order",
+      "tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Virtual",
+      "workshops",
+      "and",
+      "training"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 2576,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/store/workshops-training-and-events?icid=vl_uf_932020",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 161,
+      "x": 374,
+      "y": 2420
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 1006,
+    "tag": "A",
+    "visibleText": [
+      "Virtual",
+      "workshops",
+      "and",
+      "training"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "Store",
+      "Promise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 2032,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 127,
+      "x": 374,
+      "y": 2452
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 793,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "Store",
+      "Promise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 374,
+      "y": 2476
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Financing"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 800,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/store/b/financing?icid=footer_financing_10142020",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 50,
+      "x": 374,
+      "y": 2484
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 312,
+    "tag": "A",
+    "visibleText": [
+      "Financing"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 58520,
+    "classList": [
+      "c-uhff-nav-group"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 220,
+      "width": 266,
+      "x": 629,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 120,
+    "tag": "DIV",
+    "visibleText": [
+      "Education",
+      "Microsoft",
+      "in",
+      "education",
+      "Office",
+      "for",
+      "students",
+      "Office",
+      "365",
+      "for",
+      "schools",
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents",
+      "Microsoft",
+      "Azure",
+      "in",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 14520,
+    "classList": [
+      "c-heading-4"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 242,
+      "x": 641,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 403,
+    "tag": "DIV",
+    "visibleText": [
+      "Education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 641,
+      "y": 2252
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "in",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1904,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/education",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 119,
+      "x": 641,
+      "y": 2260
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 743,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "in",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 641,
+      "y": 2284
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Office",
+      "for",
+      "students"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1568,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/education/products/office/default.aspx",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 98,
+      "x": 641,
+      "y": 2292
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 612,
+    "tag": "A",
+    "visibleText": [
+      "Office",
+      "for",
+      "students"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 641,
+      "y": 2316
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Office",
+      "365",
+      "for",
+      "schools"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1840,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://products.office.com/en-us/academic/compare-office-365-education-plans",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 115,
+      "x": 641,
+      "y": 2324
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 718,
+    "tag": "A",
+    "visibleText": [
+      "Office",
+      "365",
+      "for",
+      "schools"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 641,
+      "y": 2348
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 2416,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/store/b/education?icid=CNavfooter_Studentsandeducation",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 151,
+      "x": 641,
+      "y": 2356
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 943,
+    "tag": "A",
+    "visibleText": [
+      "Deals",
+      "for",
+      "students",
+      "&",
+      "parents"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 641,
+      "y": 2380
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "Azure",
+      "in",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 2432,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://azure.microsoft.com/en-us/community/education/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 152,
+      "x": 641,
+      "y": 2388
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 950,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "Azure",
+      "in",
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 84056,
+    "classList": [
+      "c-uhff-nav-group"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 316,
+      "width": 266,
+      "x": 895,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 84,
+    "tag": "DIV",
+    "visibleText": [
+      "Enterprise",
+      "Azure",
+      "AppSource",
+      "Automotive",
+      "Government",
+      "Healthcare",
+      "Manufacturing",
+      "Financial",
+      "services",
+      "Retail"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 15240,
+    "classList": [
+      "c-heading-4"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 254,
+      "x": 895,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 423,
+    "tag": "DIV",
+    "visibleText": [
+      "Enterprise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2252
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Azure"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 480,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://azure.microsoft.com/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 30,
+      "x": 895,
+      "y": 2260
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 187,
+    "tag": "A",
+    "visibleText": [
+      "Azure"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2284
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "AppSource"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 928,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?LinkID=808093",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 58,
+      "x": 895,
+      "y": 2292
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 362,
+    "tag": "A",
+    "visibleText": [
+      "AppSource"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2316
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Automotive"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 976,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/enterprise/automotive",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 61,
+      "x": 895,
+      "y": 2324
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 381,
+    "tag": "A",
+    "visibleText": [
+      "Automotive"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2348
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Government"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1040,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/enterprise/government",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 65,
+      "x": 895,
+      "y": 2356
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 406,
+    "tag": "A",
+    "visibleText": [
+      "Government"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2380
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Healthcare"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 896,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/enterprise/health",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 56,
+      "x": 895,
+      "y": 2388
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 350,
+    "tag": "A",
+    "visibleText": [
+      "Healthcare"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Manufacturing"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 1232,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/enterprise/manufacturing",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 77,
+      "x": 895,
+      "y": 2420
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 481,
+    "tag": "A",
+    "visibleText": [
+      "Manufacturing"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Financial",
+      "services"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1440,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/enterprise/financial-services/banking-and-capital-markets",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 90,
+      "x": 895,
+      "y": 2452
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 562,
+    "tag": "A",
+    "visibleText": [
+      "Financial",
+      "services"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8128,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 254,
+      "x": 895,
+      "y": 2476
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 793,
+    "tag": "LI",
+    "visibleText": [
+      "Retail"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 464,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/enterprise/retail-consumer-goods",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 29,
+      "x": 895,
+      "y": 2484
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 181,
+    "tag": "A",
+    "visibleText": [
+      "Retail"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 75544,
+    "classList": [
+      "c-uhff-nav-group"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 284,
+      "width": 266,
+      "x": 1162,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 93,
+    "tag": "DIV",
+    "visibleText": [
+      "Developer",
+      "Microsoft",
+      "Visual",
+      "Studio",
+      "Windows",
+      "Dev",
+      "Center",
+      "Developer",
+      "Center",
+      "Microsoft",
+      "developer",
+      "program",
+      "Channel",
+      "9",
+      "Office",
+      "Dev",
+      "Center",
+      "Microsoft",
+      "Garage"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 14520,
+    "classList": [
+      "c-heading-4"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 242,
+      "x": 1174,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 403,
+    "tag": "DIV",
+    "visibleText": [
+      "Developer"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1174,
+      "y": 2252
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "Visual",
+      "Studio"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1952,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://visualstudio.microsoft.com/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 122,
+      "x": 1174,
+      "y": 2260
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 762,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "Visual",
+      "Studio"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1174,
+      "y": 2284
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Windows",
+      "Dev",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1760,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://developer.microsoft.com/en-us/windows",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 110,
+      "x": 1174,
+      "y": 2292
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 687,
+    "tag": "A",
+    "visibleText": [
+      "Windows",
+      "Dev",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1174,
+      "y": 2316
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Developer",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1472,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://developer.microsoft.com/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 92,
+      "x": 1174,
+      "y": 2324
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 575,
+    "tag": "A",
+    "visibleText": [
+      "Developer",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1174,
+      "y": 2348
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "developer",
+      "program"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 2480,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://developer.microsoft.com/en-us/store/register",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 155,
+      "x": 1174,
+      "y": 2356
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 968,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "developer",
+      "program"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1174,
+      "y": 2380
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Channel",
+      "9"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 832,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://channel9.msdn.com/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 52,
+      "x": 1174,
+      "y": 2388
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 325,
+    "tag": "A",
+    "visibleText": [
+      "Channel",
+      "9"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1174,
+      "y": 2412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Office",
+      "Dev",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 1488,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://developer.microsoft.com/en-us/office",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 93,
+      "x": 1174,
+      "y": 2420
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 581,
+    "tag": "A",
+    "visibleText": [
+      "Office",
+      "Dev",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1174,
+      "y": 2444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Microsoft",
+      "Garage"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1456,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/garage/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 91,
+      "x": 1174,
+      "y": 2452
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 568,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft",
+      "Garage"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 84056,
+    "classList": [
+      "c-uhff-nav-group"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 316,
+      "width": 266,
+      "x": 1429,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 84,
+    "tag": "DIV",
+    "visibleText": [
+      "Company",
+      "Careers",
+      "About",
+      "Microsoft",
+      "Company",
+      "news",
+      "Privacy",
+      "at",
+      "Microsoft",
+      "Investors",
+      "Diversity",
+      "and",
+      "inclusion",
+      "Accessibility",
+      "Security"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 14520,
+    "classList": [
+      "c-heading-4"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 242,
+      "x": 1441,
+      "y": 2192
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 403,
+    "tag": "DIV",
+    "visibleText": [
+      "Company"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2252
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Careers"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 624,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://careers.microsoft.com/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 39,
+      "x": 1441,
+      "y": 2260
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 243,
+    "tag": "A",
+    "visibleText": [
+      "Careers"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2284
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "About",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1376,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/about",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 86,
+      "x": 1441,
+      "y": 2292
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 537,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2316
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Company",
+      "news"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1280,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://news.microsoft.com/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 80,
+      "x": 1441,
+      "y": 2324
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 500,
+    "tag": "A",
+    "visibleText": [
+      "Company",
+      "news"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2348
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy",
+      "at",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1664,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://privacy.microsoft.com/en-us",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 104,
+      "x": 1441,
+      "y": 2356
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 650,
+    "tag": "A",
+    "visibleText": [
+      "Privacy",
+      "at",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2380
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Investors"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 752,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/investor/default.aspx",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 47,
+      "x": 1441,
+      "y": 2388
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 293,
+    "tag": "A",
+    "visibleText": [
+      "Investors"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Diversity",
+      "and",
+      "inclusion"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 1888,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/diversity/",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 118,
+      "x": 1441,
+      "y": 2420
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 737,
+    "tag": "A",
+    "visibleText": [
+      "Diversity",
+      "and",
+      "inclusion"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Accessibility"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1008,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/accessibility",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 63,
+      "x": 1441,
+      "y": 2452
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 393,
+    "tag": "A",
+    "visibleText": [
+      "Accessibility"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7744,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 242,
+      "x": 1441,
+      "y": 2476
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 756,
+    "tag": "LI",
+    "visibleText": [
+      "Security"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 656,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/security/default.aspx",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 41,
+      "x": 1441,
+      "y": 2484
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 256,
+    "tag": "A",
+    "visibleText": [
+      "Security"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 128088,
+    "classList": [
+      "c-uhff-base"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 72,
+      "width": 1779,
+      "x": 6,
+      "y": 2508
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2470,
+    "tag": "DIV",
+    "visibleText": [
+      "English",
+      "(United",
+      "States)",
+      "Sitemap",
+      "Contact",
+      "Microsoft",
+      "Privacy",
+      "Terms",
+      "of",
+      "use",
+      "Trademarks",
+      "Safety",
+      "&",
+      "eco",
+      "About",
+      "our",
+      "ads",
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4128,
+    "classList": [
+      "c-uhff-link",
+      "c-uhff-lang-selector",
+      "c-glyph",
+      "glyph-world"
+    ],
+    "href": "https://store.office.com/worldwide.aspx?rs=en-us&returnURL=https%3a%2f%2fwww.office.com%2f&cmapid=2",
+    "id": "locale-picker-link",
+    "idxpath": "//*[@id='locale-picker-link']",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 172,
+      "x": 95,
+      "y": 2538
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 716,
+    "tag": "A",
+    "visibleText": [
+      "English",
+      "(United",
+      "States)"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1340,
+    "classList": [],
+    "href": "",
+    "id": "c-uhff-footer_sitemap",
+    "idxpath": "//*[@id='c-uhff-footer_sitemap']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 67,
+      "x": 940,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 335,
+    "tag": "LI",
+    "visibleText": [
+      "Sitemap"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 688,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/sitemap1.aspx",
+    "id": "",
+    "idxpath": "//*[@id='c-uhff-footer_sitemap']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 43,
+      "x": 940,
+      "y": 2541
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 268,
+    "tag": "A",
+    "visibleText": [
+      "Sitemap"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2360,
+    "classList": [],
+    "href": "",
+    "id": "c-uhff-footer_contactus",
+    "idxpath": "//*[@id='c-uhff-footer_contactus']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 118,
+      "x": 1010,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 590,
+    "tag": "LI",
+    "visibleText": [
+      "Contact",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1504,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://support.microsoft.com/en-us/contactus",
+    "id": "",
+    "idxpath": "//*[@id='c-uhff-footer_contactus']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 94,
+      "x": 1010,
+      "y": 2541
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 587,
+    "tag": "A",
+    "visibleText": [
+      "Contact",
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1220,
+    "classList": [],
+    "href": "",
+    "id": "c-uhff-footer_privacyandcookies",
+    "idxpath": "//*[@id='c-uhff-footer_privacyandcookies']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 61,
+      "x": 1132,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 305,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 592,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?LinkId=521839",
+    "id": "",
+    "idxpath": "//*[@id='c-uhff-footer_privacyandcookies']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 37,
+      "x": 1132,
+      "y": 2541
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 231,
+    "tag": "A",
+    "visibleText": [
+      "Privacy"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1820,
+    "classList": [],
+    "href": "",
+    "id": "c-uhff-footer_termsofuse",
+    "idxpath": "//*[@id='c-uhff-footer_termsofuse']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 91,
+      "x": 1197,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 455,
+    "tag": "LI",
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 1072,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?LinkID=206977",
+    "id": "",
+    "idxpath": "//*[@id='c-uhff-footer_termsofuse']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 67,
+      "x": 1197,
+      "y": 2541
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 418,
+    "tag": "A",
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1700,
+    "classList": [],
+    "href": "",
+    "id": "c-uhff-footer_trademarks",
+    "idxpath": "//*[@id='c-uhff-footer_trademarks']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 85,
+      "x": 1292,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 425,
+    "tag": "LI",
+    "visibleText": [
+      "Trademarks"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 976,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/trademarks",
+    "id": "",
+    "idxpath": "//*[@id='c-uhff-footer_trademarks']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 61,
+      "x": 1292,
+      "y": 2541
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 381,
+    "tag": "A",
+    "visibleText": [
+      "Trademarks"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1820,
+    "classList": [],
+    "href": "",
+    "id": "c-uhff-footer_safetyandeco",
+    "idxpath": "//*[@id='c-uhff-footer_safetyandeco']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 91,
+      "x": 1380,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 455,
+    "tag": "LI",
+    "visibleText": [
+      "Safety",
+      "&",
+      "eco"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1072,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://www.microsoft.com/en-us/devices/safety-and-eco",
+    "id": "",
+    "idxpath": "//*[@id='c-uhff-footer_safetyandeco']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 67,
+      "x": 1380,
+      "y": 2541
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 418,
+    "tag": "A",
+    "visibleText": [
+      "Safety",
+      "&",
+      "eco"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1980,
+    "classList": [],
+    "href": "",
+    "id": "c-uhff-footer_aboutourads",
+    "idxpath": "//*[@id='c-uhff-footer_aboutourads']",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 99,
+      "x": 1475,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 495,
+    "tag": "LI",
+    "visibleText": [
+      "About",
+      "our",
+      "ads"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 1200,
+    "classList": [
+      "c-uhff-link"
+    ],
+    "href": "https://choice.microsoft.com/",
+    "id": "",
+    "idxpath": "//*[@id='c-uhff-footer_aboutourads']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 75,
+      "x": 1475,
+      "y": 2541
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 468,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "our",
+      "ads"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2340,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='uhf-footer']/div[1]/nav[1]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 117,
+      "x": 1578,
+      "y": 2541
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 585,
+    "tag": "LI",
+    "visibleText": [
+      "©",
+      "Microsoft",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[9]"
+  }
+]

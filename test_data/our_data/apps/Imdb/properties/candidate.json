@@ -1,0 +1,28 @@
+[
+  {
+    "alt": "",
+    "area": 79920,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 1776,
+      "x": 8,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3946,
+    "tag": "H1",
+    "visibleText": [
+      "429",
+      "Too",
+      "Many",
+      "Requests"
+    ],
+    "xpath": "/html[1]/body[1]/h1[1]"
+  }
+]
