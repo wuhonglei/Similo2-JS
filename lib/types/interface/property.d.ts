@@ -10,7 +10,7 @@ export interface NeighborText {
     bottom: string;
     left: string;
 }
-export interface Properties {
+export interface Property {
     tag: Uppercase<keyof HTMLElementTagNameMap>;
     classList: string[];
     name: string;
@@ -26,3 +26,16 @@ export interface Properties {
     visibleText: string[];
     neighborText: string[];
 }
+export interface Point {
+    x: number;
+    y: number;
+}
+export type PropertyName = keyof Property;
+export type CompareFunction<T extends PropertyName> = (a: Property[T], b: Property[T]) => number;
+export interface PropertyConfig<T extends PropertyName> {
+    weight: number;
+    compare: CompareFunction<T>;
+}
+export type PropertyConfigByName<Key extends PropertyName> = {
+    [K in Key]: PropertyConfig<K>;
+};
