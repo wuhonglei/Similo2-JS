@@ -1,2 +1,2 @@
-export * from './locator';
 export * from './property';
+export * from './similarity';

@@ -2,10 +2,10 @@
  * 获取 element 的属性
  */
 
-import type { Properties, ElementLocation } from './interface/property';
+import type { Property, ElementLocation } from './interface/property';
 
 import { elementIsVisible, getElementByXPath, uniqElements } from './utils/index';
-import { getIdXPath, getXPath } from './locator';
+import { getIdXPath, getXPath } from './utils/locator';
 
 /**
  * 获取元素 classList
@@ -146,13 +146,13 @@ function getNeighborText(element: Element, location: ElementLocation): string[] 
  * @param element
  * @returns
  */
-export function getElementProperties(element: Element): Properties {
+export function getElementProperties(element: Element): Property {
   if (!element) {
     console.warn('element is null');
-    return {} as Properties;
+    return {} as Property;
   }
 
-  const tag = element.tagName as Properties['tag'];
+  const tag = element.tagName as Property['tag'];
   const classList = getElementClassList(element);
   const name: string = (element as any).name;
   const id = element.id || '';
@@ -192,12 +192,12 @@ export function getElementProperties(element: Element): Properties {
  */
 export function getCandidateElementsPropertiesBySelector(
   selector: Parameters<ParentNode['querySelectorAll']>[0],
-): Properties[] {
+): Property[] {
   const elements = document.querySelectorAll(selector);
   return [...elements].filter((element) => elementIsVisible(element)).map((element) => getElementProperties(element));
 }
 
-export function getElementPropertiesByXpath(xpath: string): Properties {
+export function getElementPropertiesByXpath(xpath: string): Property {
   const element = getElementByXPath(xpath);
   return getElementProperties(element);
 }

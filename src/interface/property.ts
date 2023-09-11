@@ -12,7 +12,7 @@ export interface NeighborText {
   left: string; // 左
 }
 
-export interface Properties {
+export interface Property {
   tag: Uppercase<keyof HTMLElementTagNameMap>;
   classList: string[]; // [class1, class2, class3]
   name: string; // name 属性值
@@ -28,3 +28,20 @@ export interface Properties {
   visibleText: string[]; // 可见文本(textContent, value, placeholder)
   neighborText: string[]; // 元素四周的邻居文本
 }
+
+export interface Point {
+  x: number;
+  y: number;
+}
+
+export type PropertyName = keyof Property;
+export type CompareFunction<T extends PropertyName> = (a: Property[T], b: Property[T]) => number;
+
+export interface PropertyConfig<T extends PropertyName> {
+  weight: number;
+  compare: CompareFunction<T>;
+}
+
+export type PropertyConfigByName<Key extends PropertyName> = {
+  [K in Key]: PropertyConfig<K>;
+};
