@@ -9,7 +9,9 @@
     [
       "jest-html-reporters",
       {
-        "outputDirectory": "reports"
+        "publicPath": "./reports",
+        "filename": "report.html",
+        "expand": true
       }
     ]
   ]
