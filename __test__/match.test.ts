@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const { findSimilarProperty, findPropertyByXpath } = require('../src/similarity');
+const { findSimilarProperty, findPropertyByXpath } = require('../lib/bundle');
 const website = require('../test_data/origin_data/website.json');
 const appPath = path.join(__dirname, '../test_data/origin_data/apps');
 
@@ -10,7 +10,7 @@ function readJsonFile(filePath) {
   return JSON.parse(fileContent);
 }
 
-[website[0]].forEach((oneSite) => {
+website.forEach((oneSite) => {
   const { name, xpath } = oneSite;
   xpath.forEach((oneXpath) => {
     const { old: oldPath, new: newPath } = oneXpath;
