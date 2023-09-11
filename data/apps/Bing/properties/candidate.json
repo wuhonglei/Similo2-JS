@@ -2,9 +2,7 @@
   {
     "alt": "",
     "area": 1159830,
-    "classList": [
-      "hpapp"
-    ],
+    "classList": ["hpapp"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]",
@@ -25,9 +23,7 @@
   {
     "alt": "",
     "area": 1159830,
-    "classList": [
-      "hp_body"
-    ],
+    "classList": ["hp_body"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]",
@@ -48,9 +44,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hpl"
-    ],
+    "classList": ["hpl"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]",
@@ -71,9 +65,7 @@
   {
     "alt": "",
     "area": 1159830,
-    "classList": [
-      "img_cont"
-    ],
+    "classList": ["img_cont"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
@@ -94,9 +86,7 @@
   {
     "alt": "",
     "area": 1159830,
-    "classList": [
-      "shaders"
-    ],
+    "classList": ["shaders"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
@@ -117,9 +107,7 @@
   {
     "alt": "",
     "area": 323400,
-    "classList": [
-      "topLeft"
-    ],
+    "classList": ["topLeft"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
@@ -140,9 +128,7 @@
   {
     "alt": "",
     "area": 323400,
-    "classList": [
-      "topRight"
-    ],
+    "classList": ["topRight"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
@@ -163,9 +149,7 @@
   {
     "alt": "",
     "area": 323400,
-    "classList": [
-      "bottom"
-    ],
+    "classList": ["bottom"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
@@ -186,9 +170,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hpl"
-    ],
+    "classList": ["hpl"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[2]",
@@ -209,10 +191,7 @@
   {
     "alt": "",
     "area": 927864,
-    "classList": [
-      "hpl",
-      "hp_cont"
-    ],
+    "classList": ["hpl", "hp_cont"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
@@ -233,9 +212,7 @@
   {
     "alt": "",
     "area": 20397,
-    "classList": [
-      "head_cont"
-    ],
+    "classList": ["head_cont"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='hdr']/div[1]",
@@ -271,9 +248,7 @@
   {
     "alt": "",
     "area": 3696,
-    "classList": [
-      "logo_cont"
-    ],
+    "classList": ["logo_cont"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='hdr']/div[1]/h1[1]",
@@ -309,9 +284,7 @@
   {
     "alt": "",
     "area": 11583,
-    "classList": [
-      "scope_cont"
-    ],
+    "classList": ["scope_cont"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='hdr']/div[1]/div[1]",
@@ -347,9 +320,7 @@
   {
     "alt": "",
     "area": 1638,
-    "classList": [
-      "scope"
-    ],
+    "classList": ["scope"],
     "href": "",
     "id": "images",
     "idxpath": "//*[@id='images']",
@@ -422,10 +393,7 @@
   {
     "alt": "",
     "area": 1443,
-    "classList": [
-      "scope",
-      "try_exp"
-    ],
+    "classList": ["scope", "try_exp"],
     "href": "",
     "id": "video",
     "idxpath": "//*[@id='video']",
@@ -499,10 +467,7 @@
   {
     "alt": "",
     "area": 2067,
-    "classList": [
-      "scope",
-      "try_exp"
-    ],
+    "classList": ["scope", "try_exp"],
     "href": "",
     "id": "shopping",
     "idxpath": "//*[@id='shopping']",
@@ -576,10 +541,7 @@
   {
     "alt": "",
     "area": 741,
-    "classList": [
-      "scope",
-      "dots"
-    ],
+    "classList": ["scope", "dots"],
     "href": "",
     "id": "dots_overflow_menu_container",
     "idxpath": "//*[@id='dots_overflow_menu_container']",
@@ -615,10 +577,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item",
-      "try_exp"
-    ],
+    "classList": ["overflow_item", "try_exp"],
     "href": "",
     "id": "video",
     "idxpath": "//*[@id='dots_overflow_menu_container']/ul[1]/li[1]",
@@ -660,10 +619,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item",
-      "try_exp"
-    ],
+    "classList": ["overflow_item", "try_exp"],
     "href": "",
     "id": "shopping",
     "idxpath": "//*[@id='dots_overflow_menu_container']/ul[1]/li[2]",
@@ -705,9 +661,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "local",
     "idxpath": "//*[@id='local']",
@@ -749,9 +703,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "news",
     "idxpath": "//*[@id='news']",
@@ -793,10 +745,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item",
-      "divider"
-    ],
+    "classList": ["overflow_item", "divider"],
     "href": "",
     "id": "msn",
     "idxpath": "//*[@id='msn']",
@@ -838,10 +787,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item",
-      "has_sub"
-    ],
+    "classList": ["overflow_item", "has_sub"],
     "href": "",
     "id": "office",
     "idxpath": "//*[@id='office']",
@@ -883,9 +829,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "scarrow"
-    ],
+    "classList": ["scarrow"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='office']/span[1]",
@@ -906,9 +850,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_container"
-    ],
+    "classList": ["overflow_container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='office']/div[1]",
@@ -929,9 +871,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "submenu"
-    ],
+    "classList": ["submenu"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='office']/div[1]/div[1]",
@@ -952,9 +892,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "outlook",
     "idxpath": "//*[@id='outlook']",
@@ -996,9 +934,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='outlook']/a[1]/div[1]",
@@ -1019,9 +955,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='outlook']/a[1]/div[2]",
@@ -1042,9 +976,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "word",
     "idxpath": "//*[@id='word']",
@@ -1086,9 +1018,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='word']/a[1]/div[1]",
@@ -1109,9 +1039,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='word']/a[1]/div[2]",
@@ -1132,9 +1060,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "excel",
     "idxpath": "//*[@id='excel']",
@@ -1176,9 +1102,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='excel']/a[1]/div[1]",
@@ -1199,9 +1123,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='excel']/a[1]/div[2]",
@@ -1222,9 +1144,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "powerpoint",
     "idxpath": "//*[@id='powerpoint']",
@@ -1266,9 +1186,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='powerpoint']/a[1]/div[1]",
@@ -1289,9 +1207,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='powerpoint']/a[1]/div[2]",
@@ -1312,9 +1228,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "onenote",
     "idxpath": "//*[@id='onenote']",
@@ -1356,9 +1270,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='onenote']/a[1]/div[1]",
@@ -1379,9 +1291,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='onenote']/a[1]/div[2]",
@@ -1402,9 +1312,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "sway",
     "idxpath": "//*[@id='sway']",
@@ -1446,9 +1354,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='sway']/a[1]/div[1]",
@@ -1469,9 +1375,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='sway']/a[1]/div[2]",
@@ -1492,9 +1396,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "onedrive",
     "idxpath": "//*[@id='onedrive']",
@@ -1536,9 +1438,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='onedrive']/a[1]/div[1]",
@@ -1559,9 +1459,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='onedrive']/a[1]/div[2]",
@@ -1582,9 +1480,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "calendar",
     "idxpath": "//*[@id='calendar']",
@@ -1626,9 +1522,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='calendar']/a[1]/div[1]",
@@ -1649,9 +1543,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='calendar']/a[1]/div[2]",
@@ -1672,9 +1564,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "overflow_item"
-    ],
+    "classList": ["overflow_item"],
     "href": "",
     "id": "people",
     "idxpath": "//*[@id='people']",
@@ -1716,9 +1606,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='people']/a[1]/div[1]",
@@ -1739,9 +1627,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='people']/a[1]/div[2]",
@@ -1798,9 +1684,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "sw_mktsw"
-    ],
+    "classList": ["sw_mktsw"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='idCont']/span[1]",
@@ -1836,9 +1720,7 @@
   {
     "alt": "",
     "area": 1159830,
-    "classList": [
-      "dimmer"
-    ],
+    "classList": ["dimmer"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]",
@@ -1859,9 +1741,7 @@
   {
     "alt": "",
     "area": 30992,
-    "classList": [
-      "sbox"
-    ],
+    "classList": ["sbox"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]",
@@ -1882,9 +1762,7 @@
   {
     "alt": "",
     "area": 23016,
-    "classList": [
-      "sb_form_q"
-    ],
+    "classList": ["sb_form_q"],
     "href": "",
     "id": "sb_form_q",
     "idxpath": "//*[@id='sb_form_q']",
@@ -1926,11 +1804,7 @@
   {
     "alt": "",
     "area": 667,
-    "classList": [
-      "search",
-      "icon",
-      "tooltip"
-    ],
+    "classList": ["search", "icon", "tooltip"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='sb_form']/label[1]",
@@ -1954,7 +1828,7 @@
     "classList": [],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='sb_form']/label[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='sb_form']/label[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 23,
@@ -1967,7 +1841,7 @@
     "shape": 126,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/form[1]/label[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/form[1]/label[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
@@ -1993,9 +1867,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "sa_as"
-    ],
+    "classList": ["sa_as"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='sw_as']/div[1]",
@@ -2016,9 +1888,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "below_sbox"
-    ],
+    "classList": ["below_sbox"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='sb_form']/div[2]",
@@ -2081,9 +1951,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hpl"
-    ],
+    "classList": ["hpl"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[4]",
@@ -2104,9 +1972,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hp_special_experience"
-    ],
+    "classList": ["hp_special_experience"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]",
@@ -2127,9 +1993,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hpl"
-    ],
+    "classList": ["hpl"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[5]",
@@ -2150,9 +2014,7 @@
   {
     "alt": "",
     "area": 887880,
-    "classList": [
-      "bottom_row"
-    ],
+    "classList": ["bottom_row"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]",
@@ -2173,10 +2035,7 @@
   {
     "alt": "",
     "area": 899960,
-    "classList": [
-      "scroll_cont",
-      "show_none"
-    ],
+    "classList": ["scroll_cont", "show_none"],
     "href": "",
     "id": "scroll_cont",
     "idxpath": "//*[@id='scroll_cont']",
@@ -2197,9 +2056,7 @@
   {
     "alt": "",
     "area": 1077270,
-    "classList": [
-      "vs_cont"
-    ],
+    "classList": ["vs_cont"],
     "href": "",
     "id": "vs_cont",
     "idxpath": "//*[@id='vs_cont']",
@@ -2220,9 +2077,7 @@
   {
     "alt": "",
     "area": 57216,
-    "classList": [
-      "mc_caro"
-    ],
+    "classList": ["mc_caro"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]",
@@ -2243,9 +2098,7 @@
   {
     "alt": "",
     "area": 9440,
-    "classList": [
-      "musCard"
-    ],
+    "classList": ["musCard"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]",
@@ -2257,10 +2110,7 @@
       "y": 742
     },
     "name": null,
-    "neighborText": [
-      "Giving",
-      "Tuesday"
-    ],
+    "neighborText": ["Giving", "Tuesday"],
     "shape": 590,
     "tag": "DIV",
     "visibleText": "Get the new Bing Wallpaper app\nCommon terns sharing a small fish\n© Ryzhkov Sergey/Shutterstock\nGiving Tuesday",
@@ -2269,9 +2119,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "musCardCont"
-    ],
+    "classList": ["musCardCont"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]",
@@ -2388,12 +2236,10 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "shareicon"
-    ],
+    "classList": ["shareicon"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 0,
@@ -2424,7 +2270,7 @@
     "shape": null,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
@@ -2507,12 +2353,10 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "shareicon"
-    ],
+    "classList": ["shareicon"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 0,
@@ -2543,7 +2387,7 @@
     "shape": null,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
@@ -2626,12 +2470,10 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "shareicon"
-    ],
+    "classList": ["shareicon"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 0,
@@ -2662,7 +2504,7 @@
     "shape": null,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
@@ -2706,9 +2548,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "downloadLink"
-    ],
+    "classList": ["downloadLink"],
     "href": "https://www.bing.com/th?id=OHR.CommonTernsGiving_EN-US9029169867_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
@@ -2747,12 +2587,10 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "downloadIcon"
-    ],
+    "classList": ["downloadIcon"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 0,
@@ -2783,14 +2621,12 @@
     "shape": null,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "bingwpapplink"
-    ],
+    "classList": ["bingwpapplink"],
     "href": "https://go.microsoft.com/fwlink/?linkid=2127455",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/a[1]",
@@ -2829,9 +2665,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "bingwpapptext"
-    ],
+    "classList": ["bingwpapptext"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/a[1]/div[1]",
@@ -2870,9 +2704,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hr"
-    ],
+    "classList": ["hr"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/div[1]",
@@ -2911,9 +2743,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "title"
-    ],
+    "classList": ["title"],
     "href": "https://www.bing.com/search?q=giving+tuesday&form=hpcapt&filters=HpDate:%2220201201_0800%22",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[1]/a[2]",
@@ -2991,9 +2821,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "copyright"
-    ],
+    "classList": ["copyright"],
     "href": "",
     "id": "copyright",
     "idxpath": "//*[@id='copyright']",
@@ -3032,9 +2860,7 @@
   {
     "alt": "",
     "area": 9440,
-    "classList": [
-      "headline"
-    ],
+    "classList": ["headline"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[2]",
@@ -3073,9 +2899,7 @@
   {
     "alt": "",
     "area": 5760,
-    "classList": [
-      "icon_text"
-    ],
+    "classList": ["icon_text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[2]/div[1]",
@@ -3157,9 +2981,7 @@
   {
     "alt": "",
     "area": 1600,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]",
@@ -3200,12 +3022,10 @@
   {
     "alt": "",
     "area": 256,
-    "classList": [
-      "mappin"
-    ],
+    "classList": ["mappin"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 16,
@@ -3236,14 +3056,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]/div[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 4160,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "headline",
     "idxpath": "//*[@id='headline']",
@@ -3282,9 +3100,7 @@
   {
     "alt": "",
     "area": 3360,
-    "classList": [
-      "nav"
-    ],
+    "classList": ["nav"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[1]/div[1]/div[2]/div[2]",
@@ -3325,10 +3141,7 @@
   {
     "alt": "",
     "area": 1600,
-    "classList": [
-      "leftNav",
-      "disabled"
-    ],
+    "classList": ["leftNav", "disabled"],
     "href": "https://www.bing.com/#",
     "id": "leftNav",
     "idxpath": "//*[@id='leftNav']",
@@ -3367,10 +3180,7 @@
   {
     "alt": "",
     "area": 1600,
-    "classList": [
-      "rightNav",
-      "disabled"
-    ],
+    "classList": ["rightNav", "disabled"],
     "href": "https://www.bing.com/#",
     "id": "rightNav",
     "idxpath": "//*[@id='rightNav']",
@@ -3411,9 +3221,7 @@
   {
     "alt": "",
     "area": 1005750,
-    "classList": [
-      "vs"
-    ],
+    "classList": ["vs"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[2]",
@@ -3476,10 +3284,7 @@
   {
     "alt": "",
     "area": 171648,
-    "classList": [
-      "carousel",
-      "show"
-    ],
+    "classList": ["carousel", "show"],
     "href": "",
     "id": "carousel",
     "idxpath": "//*[@id='carousel']",
@@ -3500,9 +3305,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "nav"
-    ],
+    "classList": ["nav"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='carousel']/div[1]",
@@ -3523,9 +3326,7 @@
   {
     "alt": "",
     "area": 1600,
-    "classList": [
-      "down"
-    ],
+    "classList": ["down"],
     "href": "https://www.bing.com/#",
     "id": "hideShowCaro",
     "idxpath": "//*[@id='hideShowCaro']",
@@ -3564,9 +3365,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "edit_interests"
-    ],
+    "classList": ["edit_interests"],
     "href": "https://www.bing.com/profile/interests?FORM=O2HV45",
     "id": "",
     "idxpath": "//*[@id='carousel']/div[1]/a[2]",
@@ -3590,7 +3389,7 @@
     "classList": [],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='carousel']/div[1]/a[2]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='carousel']/div[1]/a[2]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 0,
@@ -3603,15 +3402,12 @@
     "shape": null,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 1600,
-    "classList": [
-      "leftNav",
-      "disabled"
-    ],
+    "classList": ["leftNav", "disabled"],
     "href": "https://www.bing.com/#",
     "id": "leftNavCaro",
     "idxpath": "//*[@id='leftNavCaro']",
@@ -3632,10 +3428,7 @@
   {
     "alt": "",
     "area": 1600,
-    "classList": [
-      "rightNav",
-      "disabled"
-    ],
+    "classList": ["rightNav", "disabled"],
     "href": "https://www.bing.com/#",
     "id": "rightNavCaro",
     "idxpath": "//*[@id='rightNavCaro']",
@@ -3677,9 +3470,7 @@
   {
     "alt": "",
     "area": 791190,
-    "classList": [
-      "moduleCont"
-    ],
+    "classList": ["moduleCont"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[2]/div[2]",
@@ -3700,10 +3491,7 @@
   {
     "alt": "",
     "area": 489912,
-    "classList": [
-      "module",
-      "show"
-    ],
+    "classList": ["module", "show"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_cont']/div[2]/div[2]/div[1]",
@@ -3724,10 +3512,7 @@
   {
     "alt": "",
     "area": 451768,
-    "classList": [
-      "vsmodule",
-      "vert_iotd"
-    ],
+    "classList": ["vsmodule", "vert_iotd"],
     "href": "",
     "id": "vert_iotd",
     "idxpath": "//*[@id='vert_iotd']",
@@ -3748,9 +3533,7 @@
   {
     "alt": "",
     "area": 34568,
-    "classList": [
-      "vs_title"
-    ],
+    "classList": ["vs_title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/h2[1]",
@@ -3771,9 +3554,7 @@
   {
     "alt": "",
     "area": 417200,
-    "classList": [
-      "vs_iotd"
-    ],
+    "classList": ["vs_iotd"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]",
@@ -3794,9 +3575,7 @@
   {
     "alt": "",
     "area": 417200,
-    "classList": [
-      "vs_row"
-    ],
+    "classList": ["vs_row"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]",
@@ -3817,10 +3596,7 @@
   {
     "alt": "",
     "area": 166600,
-    "classList": [
-      "vs_rowitem",
-      "vs_iotd_img"
-    ],
+    "classList": ["vs_rowitem", "vs_iotd_img"],
     "href": "https://www.bing.com/search?q=giving+tuesday&form=hpcapt&filters=HpDate:%2220201201_0800%22",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/a[1]",
@@ -3841,9 +3617,7 @@
   {
     "alt": "",
     "area": 166600,
-    "classList": [
-      "img"
-    ],
+    "classList": ["img"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/a[1]/div[1]",
@@ -3864,10 +3638,7 @@
   {
     "alt": "",
     "area": 166600,
-    "classList": [
-      "vs_rowitem",
-      "vs_iotd_bs"
-    ],
+    "classList": ["vs_rowitem", "vs_iotd_bs"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]",
@@ -3888,9 +3659,7 @@
   {
     "alt": "",
     "area": 11340,
-    "classList": [
-      "vs_bs_title"
-    ],
+    "classList": ["vs_bs_title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[1]",
@@ -3911,9 +3680,7 @@
   {
     "alt": "",
     "area": 7980,
-    "classList": [
-      "vs_bs_credit"
-    ],
+    "classList": ["vs_bs_credit"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[2]",
@@ -3934,9 +3701,7 @@
   {
     "alt": "",
     "area": 33600,
-    "classList": [
-      "vs_bs_desc"
-    ],
+    "classList": ["vs_bs_desc"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[3]",
@@ -3957,9 +3722,7 @@
   {
     "alt": "",
     "area": 108262,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "iotd_desc",
     "idxpath": "//*[@id='iotd_desc']",
@@ -3980,9 +3743,7 @@
   {
     "alt": "",
     "area": 1280,
-    "classList": [
-      "learn_more"
-    ],
+    "classList": ["learn_more"],
     "href": "https://www.bing.com/search?q=giving+tuesday&form=hpcapt&filters=HpDate:%2220201201_0800%22",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/a[1]",
@@ -4003,9 +3764,7 @@
   {
     "alt": "",
     "area": 1944,
-    "classList": [
-      "vs_bs_controls"
-    ],
+    "classList": ["vs_bs_controls"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]",
@@ -4026,10 +3785,7 @@
   {
     "alt": "",
     "area": 576,
-    "classList": [
-      "item",
-      "share"
-    ],
+    "classList": ["item", "share"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]",
@@ -4071,12 +3827,10 @@
   {
     "alt": "",
     "area": 576,
-    "classList": [
-      "icon"
-    ],
+    "classList": ["icon"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 24,
@@ -4089,15 +3843,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 576,
-    "classList": [
-      "item",
-      "download"
-    ],
+    "classList": ["item", "download"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]",
@@ -4118,9 +3869,7 @@
   {
     "alt": "",
     "area": 456,
-    "classList": [
-      "downloadLink"
-    ],
+    "classList": ["downloadLink"],
     "href": "https://www.bing.com/th?id=OHR.CommonTernsGiving_EN-US9029169867_1920x1200.jpg&rf=LaDigue_1920x1200.jpg",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
@@ -4141,12 +3890,10 @@
   {
     "alt": "",
     "area": 576,
-    "classList": [
-      "downloadIcon"
-    ],
+    "classList": ["downloadIcon"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 24,
@@ -4159,15 +3906,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 83300,
-    "classList": [
-      "vs_rowitem",
-      "vs_iotd_mod"
-    ],
+    "classList": ["vs_rowitem", "vs_iotd_mod"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[2]",
@@ -4188,9 +3932,7 @@
   {
     "alt": "",
     "area": 28560,
-    "classList": [
-      "p1"
-    ],
+    "classList": ["p1"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[2]/div[1]",
@@ -4211,9 +3953,7 @@
   {
     "alt": "",
     "area": 3800,
-    "classList": [
-      "p1t"
-    ],
+    "classList": ["p1t"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[2]/div[1]/div[1]",
@@ -4234,9 +3974,7 @@
   {
     "alt": "",
     "area": 15200,
-    "classList": [
-      "p1mt"
-    ],
+    "classList": ["p1mt"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[2]/div[1]/div[2]",
@@ -4257,10 +3995,7 @@
   {
     "alt": "",
     "area": 3800,
-    "classList": [
-      "p1qf",
-      "show"
-    ],
+    "classList": ["p1qf", "show"],
     "href": "https://www.bing.com/search?q=what+is+giving+tuesday&form=hpvsfa",
     "id": "",
     "idxpath": "//*[@id='vert_iotd']/div[1]/div[1]/div[2]/div[1]/a[1]",
@@ -4281,9 +4016,7 @@
   {
     "alt": "",
     "area": 178800,
-    "classList": [
-      "vert_make_default"
-    ],
+    "classList": ["vert_make_default"],
     "href": "",
     "id": "vs_default",
     "idxpath": "//*[@id='vs_default']",
@@ -4325,9 +4058,7 @@
   {
     "alt": "",
     "area": 12700,
-    "classList": [
-      "button"
-    ],
+    "classList": ["button"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_default']/a[1]/div[1]",
@@ -4348,9 +4079,7 @@
   {
     "alt": "",
     "area": 28448,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_default']/div[1]",
@@ -4371,9 +4100,7 @@
   {
     "alt": "",
     "area": 11900,
-    "classList": [
-      "title"
-    ],
+    "classList": ["title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_default']/div[1]/h1[1]",
@@ -4394,9 +4121,7 @@
   {
     "alt": "",
     "area": 14756,
-    "classList": [
-      "desc"
-    ],
+    "classList": ["desc"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='vs_default']/div[1]/div[1]",
@@ -4417,9 +4142,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hpl"
-    ],
+    "classList": ["hpl"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[6]",
@@ -4440,9 +4163,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hide"
-    ],
+    "classList": ["hide"],
     "href": "",
     "id": "hpapp_id",
     "idxpath": "//*[@id='hpapp_id']",
@@ -4484,9 +4205,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "id_button"
-    ],
+    "classList": ["id_button"],
     "href": "javascript:void(0);",
     "id": "id_l",
     "idxpath": "//*[@id='id_l']",
@@ -4528,10 +4247,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "sw_spd",
-      "id_avatar"
-    ],
+    "classList": ["sw_spd", "id_avatar"],
     "href": "",
     "id": "id_a",
     "idxpath": "//*[@id='id_a']",
@@ -4594,9 +4310,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "id_button"
-    ],
+    "classList": ["id_button"],
     "href": "javascript:void(0)",
     "id": "id_rh",
     "idxpath": "//*[@id='id_rh']",
@@ -4617,9 +4331,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "hp"
-    ],
+    "classList": ["hp"],
     "href": "",
     "id": "id_rc",
     "idxpath": "//*[@id='id_rc']",
@@ -4640,11 +4352,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "rwds_svg",
-      "hp",
-      "pc"
-    ],
+    "classList": ["rwds_svg", "hp", "pc"],
     "href": "",
     "id": "rewards_header_icon hp",
     "idxpath": "//*[@id='rewards_header_icon hp']",
@@ -4665,10 +4373,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "rhlined",
-      "hp"
-    ],
+    "classList": ["rhlined", "hp"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='rewards_header_icon hp']/span[1]",
@@ -4689,10 +4394,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "rhfill",
-      "hp"
-    ],
+    "classList": ["rhfill", "hp"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='rewards_header_icon hp']/span[2]",
@@ -4729,14 +4431,12 @@
     "shape": null,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/a[2]/span[2]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/a[2]/span[2]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "b_hide"
-    ],
+    "classList": ["b_hide"],
     "href": "https://www.bing.com/rewards/dashboard",
     "id": "id_rwl",
     "idxpath": "//*[@id='id_rwl']",
@@ -4778,10 +4478,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "idp_ham",
-      "hphbtop"
-    ],
+    "classList": ["idp_ham", "hphbtop"],
     "href": "javascript:void(0);",
     "id": "id_sc",
     "idxpath": "//*[@id='id_sc']",
@@ -4802,11 +4499,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "slide_up",
-      "hpfo",
-      "hb_hpqexp"
-    ],
+    "classList": ["slide_up", "hpfo", "hb_hpqexp"],
     "href": "",
     "id": "id_hbfo",
     "idxpath": "//*[@id='id_hbfo']",

@@ -2,9 +2,7 @@
   {
     "alt": "",
     "area": 24300,
-    "classList": [
-      "central-textlogo"
-    ],
+    "classList": ["central-textlogo"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[1]",
@@ -16,20 +14,7 @@
       "y": 40
     },
     "name": null,
-    "neighborText": [
-      "中文",
-      "中文",
-      "1",
-      "160",
-      "000+",
-      "條目",
-      "English",
-      "English",
-      "6",
-      "199",
-      "000+",
-      "articles"
-    ],
+    "neighborText": ["中文", "中文", "1", "160", "000+", "條目", "English", "English", "6", "199", "000+", "articles"],
     "shape": 300,
     "tag": "DIV",
     "visibleText": "Wikipedia\nThe Free Encyclopedia",
@@ -38,9 +23,7 @@
   {
     "alt": "",
     "area": 11616,
-    "classList": [
-      "central-textlogo-wrapper"
-    ],
+    "classList": ["central-textlogo-wrapper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[1]/h1[1]",
@@ -52,10 +35,7 @@
       "y": 52
     },
     "name": null,
-    "neighborText": [
-      "中文",
-      "English"
-    ],
+    "neighborText": ["中文", "English"],
     "shape": 266,
     "tag": "H1",
     "visibleText": "Wikipedia\nThe Free Encyclopedia",
@@ -64,11 +44,7 @@
   {
     "alt": "",
     "area": 5632,
-    "classList": [
-      "central-textlogo__image",
-      "sprite",
-      "svg-Wikipedia_wordmark"
-    ],
+    "classList": ["central-textlogo__image", "sprite", "svg-Wikipedia_wordmark"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[1]/h1[1]/span[1]",
@@ -80,12 +56,7 @@
       "y": 52
     },
     "name": null,
-    "neighborText": [
-      "Wikipedia",
-      "The",
-      "Free",
-      "Encyclopedia"
-    ],
+    "neighborText": ["Wikipedia", "The", "Free", "Encyclopedia"],
     "shape": 550,
     "tag": "SPAN",
     "visibleText": "Wikipedia",
@@ -94,9 +65,7 @@
   {
     "alt": "",
     "area": 177450,
-    "classList": [
-      "central-featured"
-    ],
+    "classList": ["central-featured"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]",
@@ -117,10 +86,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang1"
-    ],
+    "classList": ["central-featured-lang", "lang1"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[1]",
@@ -132,19 +98,7 @@
       "y": 135
     },
     "name": null,
-    "neighborText": [
-      "Wikipedia",
-      "The",
-      "Free",
-      "Encyclopedia",
-      "中文",
-      "中文",
-      "1",
-      "160",
-      "000+",
-      "條目",
-      "Español"
-    ],
+    "neighborText": ["Wikipedia", "The", "Free", "Encyclopedia", "中文", "中文", "1", "160", "000+", "條目", "Español"],
     "shape": 346,
     "tag": "DIV",
     "visibleText": "中文\n1 160 000+ 條目",
@@ -153,9 +107,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://zh.wikipedia.org/",
     "id": "js-link-box-zh",
     "idxpath": "//*[@id='js-link-box-zh']",
@@ -167,18 +119,7 @@
       "y": 135
     },
     "name": "",
-    "neighborText": [
-      "Wikipedia",
-      "The",
-      "Free",
-      "Encyclopedia",
-      "中文",
-      "Español",
-      "1",
-      "160",
-      "000+",
-      "條目"
-    ],
+    "neighborText": ["Wikipedia", "The", "Free", "Encyclopedia", "中文", "Español", "1", "160", "000+", "條目"],
     "shape": 346,
     "tag": "A",
     "visibleText": "中文\n1 160 000+ 條目",
@@ -199,19 +140,7 @@
       "y": 162
     },
     "name": null,
-    "neighborText": [
-      "中文",
-      "Wikipedia",
-      "The",
-      "Free",
-      "Encyclopedia",
-      "中文",
-      "1",
-      "160",
-      "000+",
-      "條目",
-      "Español"
-    ],
+    "neighborText": ["中文", "Wikipedia", "The", "Free", "Encyclopedia", "中文", "1", "160", "000+", "條目", "Español"],
     "shape": 173,
     "tag": "SPAN",
     "visibleText": "條目",
@@ -220,10 +149,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang2"
-    ],
+    "classList": ["central-featured-lang", "lang2"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[2]",
@@ -259,9 +185,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://en.wikipedia.org/",
     "id": "js-link-box-en",
     "idxpath": "//*[@id='js-link-box-en']",
@@ -333,10 +257,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang3"
-    ],
+    "classList": ["central-featured-lang", "lang3"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[3]",
@@ -371,9 +292,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://es.wikipedia.org/",
     "id": "js-link-box-es",
     "idxpath": "//*[@id='js-link-box-es']",
@@ -385,20 +304,7 @@
       "y": 200
     },
     "name": "",
-    "neighborText": [
-      "中文",
-      "中文",
-      "1",
-      "160",
-      "000+",
-      "條目",
-      "Español",
-      "Deutsch",
-      "1",
-      "643",
-      "000+",
-      "artículos"
-    ],
+    "neighborText": ["中文", "中文", "1", "160", "000+", "條目", "Español", "Deutsch", "1", "643", "000+", "artículos"],
     "shape": 346,
     "tag": "A",
     "visibleText": "Español\n1 643 000+ artículos",
@@ -419,19 +325,7 @@
       "y": 227
     },
     "name": null,
-    "neighborText": [
-      "Español",
-      "中文",
-      "1",
-      "160",
-      "000+",
-      "條目",
-      "1",
-      "643",
-      "000+",
-      "artículos",
-      "Deutsch"
-    ],
+    "neighborText": ["Español", "中文", "1", "160", "000+", "條目", "1", "643", "000+", "artículos", "Deutsch"],
     "shape": 346,
     "tag": "SPAN",
     "visibleText": "artículos",
@@ -440,10 +334,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang4"
-    ],
+    "classList": ["central-featured-lang", "lang4"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[4]",
@@ -478,9 +369,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://ja.wikipedia.org/",
     "id": "js-link-box-ja",
     "idxpath": "//*[@id='js-link-box-ja']",
@@ -552,10 +441,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang5"
-    ],
+    "classList": ["central-featured-lang", "lang5"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[5]",
@@ -589,9 +475,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://de.wikipedia.org/",
     "id": "js-link-box-de",
     "idxpath": "//*[@id='js-link-box-de']",
@@ -603,19 +487,7 @@
       "y": 265
     },
     "name": "",
-    "neighborText": [
-      "Español",
-      "1",
-      "643",
-      "000+",
-      "artículos",
-      "Deutsch",
-      "2",
-      "505",
-      "000+",
-      "Artikel",
-      "Français"
-    ],
+    "neighborText": ["Español", "1", "643", "000+", "artículos", "Deutsch", "2", "505", "000+", "Artikel", "Français"],
     "shape": 346,
     "tag": "A",
     "visibleText": "Deutsch\n2 505 000+ Artikel",
@@ -662,10 +534,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang6"
-    ],
+    "classList": ["central-featured-lang", "lang6"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[6]",
@@ -700,9 +569,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://ru.wikipedia.org/",
     "id": "js-link-box-ru",
     "idxpath": "//*[@id='js-link-box-ru']",
@@ -774,10 +641,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang7"
-    ],
+    "classList": ["central-featured-lang", "lang7"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[7]",
@@ -812,9 +676,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://fr.wikipedia.org/",
     "id": "js-link-box-fr",
     "idxpath": "//*[@id='js-link-box-fr']",
@@ -890,10 +752,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang8"
-    ],
+    "classList": ["central-featured-lang", "lang8"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[8]",
@@ -928,9 +787,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://it.wikipedia.org/",
     "id": "js-link-box-it",
     "idxpath": "//*[@id='js-link-box-it']",
@@ -1002,10 +859,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang9"
-    ],
+    "classList": ["central-featured-lang", "lang9"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[9]",
@@ -1133,9 +987,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://pt.wikipedia.org/",
     "id": "js-link-box-pt",
     "idxpath": "//*[@id='js-link-box-pt']",
@@ -1393,10 +1245,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "central-featured-lang",
-      "lang10"
-    ],
+    "classList": ["central-featured-lang", "lang10"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[2]/div[10]",
@@ -1615,9 +1464,7 @@
   {
     "alt": "",
     "area": 7020,
-    "classList": [
-      "link-box"
-    ],
+    "classList": ["link-box"],
     "href": "https://pl.wikipedia.org/",
     "id": "js-link-box-pl",
     "idxpath": "//*[@id='js-link-box-pl']",
@@ -1962,9 +1809,7 @@
   {
     "alt": "",
     "area": 32940,
-    "classList": [
-      "search-container"
-    ],
+    "classList": ["search-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[3]",
@@ -2139,9 +1984,7 @@
   {
     "alt": "",
     "area": 17336,
-    "classList": [
-      "search-input"
-    ],
+    "classList": ["search-input"],
     "href": "",
     "id": "search-input",
     "idxpath": "//*[@id='search-input']",
@@ -2272,9 +2115,7 @@
   {
     "alt": "",
     "area": 1,
-    "classList": [
-      "screen-reader-text"
-    ],
+    "classList": ["screen-reader-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search-input']/label[1]",
@@ -2527,10 +2368,7 @@
   {
     "alt": "",
     "area": 1200,
-    "classList": [
-      "styled-select",
-      "js-enabled"
-    ],
+    "classList": ["styled-select", "js-enabled"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search-input']/div[1]",
@@ -2651,9 +2489,7 @@
   {
     "alt": "",
     "area": 1200,
-    "classList": [
-      "hide-arrow"
-    ],
+    "classList": ["hide-arrow"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search-input']/div[1]/div[1]",
@@ -2774,9 +2610,7 @@
   {
     "alt": "",
     "area": 432,
-    "classList": [
-      "js-langpicker-label"
-    ],
+    "classList": ["js-langpicker-label"],
     "href": "",
     "id": "jsLangLabel",
     "idxpath": "//*[@id='jsLangLabel']",
@@ -3018,9 +2852,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "styled-select-active-helper"
-    ],
+    "classList": ["styled-select-active-helper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search-input']/div[1]/div[1]/div[1]",
@@ -3162,10 +2994,7 @@
   {
     "alt": "",
     "area": 2464,
-    "classList": [
-      "pure-button",
-      "pure-button-primary-progressive"
-    ],
+    "classList": ["pure-button", "pure-button-primary-progressive"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search-form']/fieldset[1]/button[1]",
@@ -3312,9 +3141,7 @@
   {
     "alt": "",
     "area": 52920,
-    "classList": [
-      "lang-list-button-wrapper"
-    ],
+    "classList": ["lang-list-button-wrapper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[4]",
@@ -3335,9 +3162,7 @@
   {
     "alt": "",
     "area": 10980,
-    "classList": [
-      "lang-list-button"
-    ],
+    "classList": ["lang-list-button"],
     "href": "",
     "id": "js-lang-list-button",
     "idxpath": "//*[@id='js-lang-list-button']",
@@ -3453,10 +3278,7 @@
   {
     "alt": "",
     "area": 3824,
-    "classList": [
-      "lang-list-button-text",
-      "jsl10n"
-    ],
+    "classList": ["lang-list-button-text", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-list-button']/span[1]",
@@ -3572,9 +3394,7 @@
   {
     "alt": "",
     "area": 460,
-    "classList": [
-      "lang-list-border"
-    ],
+    "classList": ["lang-list-border"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[5]",
@@ -3695,9 +3515,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "lang-list-container"
-    ],
+    "classList": ["lang-list-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[6]",
@@ -3718,9 +3536,7 @@
   {
     "alt": "",
     "area": 1370040,
-    "classList": [
-      "lang-list-content"
-    ],
+    "classList": ["lang-list-content"],
     "href": "",
     "id": "js-lang-lists",
     "idxpath": "//*[@id='js-lang-lists']",
@@ -3741,9 +3557,7 @@
   {
     "alt": "",
     "area": 1144,
-    "classList": [
-      "bookshelf-container"
-    ],
+    "classList": ["bookshelf-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[1]",
@@ -3764,9 +3578,7 @@
   {
     "alt": "",
     "area": 22880,
-    "classList": [
-      "bookshelf"
-    ],
+    "classList": ["bookshelf"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[1]/span[1]",
@@ -3787,9 +3599,7 @@
   {
     "alt": "",
     "area": 1995,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[1]/span[1]/span[1]",
@@ -3801,13 +3611,7 @@
       "y": 597
     },
     "name": null,
-    "neighborText": [
-      "Read",
-      "Wikipedia",
-      "in",
-      "your",
-      "language"
-    ],
+    "neighborText": ["Read", "Wikipedia", "in", "your", "language"],
     "shape": 886,
     "tag": "SPAN",
     "visibleText": "articles",
@@ -3816,9 +3620,7 @@
   {
     "alt": "",
     "area": 660,
-    "classList": [
-      "jsl10n"
-    ],
+    "classList": ["jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[1]/span[1]/span[1]/span[1]",
@@ -3830,13 +3632,7 @@
       "y": 597
     },
     "name": null,
-    "neighborText": [
-      "Read",
-      "Wikipedia",
-      "in",
-      "your",
-      "language"
-    ],
+    "neighborText": ["Read", "Wikipedia", "in", "your", "language"],
     "shape": 293,
     "tag": "SPAN",
     "visibleText": "articles",
@@ -3845,11 +3641,7 @@
   {
     "alt": "",
     "area": 81224,
-    "classList": [
-      "langlist",
-      "langlist-large",
-      "hlist"
-    ],
+    "classList": ["langlist", "langlist-large", "hlist"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/div[1]",
@@ -5025,14 +4817,7 @@
       "y": 670
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -5053,15 +4838,7 @@
       "y": 674
     },
     "name": "",
-    "neighborText": [
-      "Commons",
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Commons", "Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 331,
     "tag": "A",
     "visibleText": "",
@@ -5189,18 +4966,7 @@
       "y": 650
     },
     "name": "",
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide",
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide", "Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 406,
     "tag": "A",
     "visibleText": "",
@@ -5221,18 +4987,7 @@
       "y": 670
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more",
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more", "Wikivoyage", "Free", "travel", "guide"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -5344,9 +5099,7 @@
   {
     "alt": "",
     "area": 1144,
-    "classList": [
-      "bookshelf-container"
-    ],
+    "classList": ["bookshelf-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[2]",
@@ -5367,9 +5120,7 @@
   {
     "alt": "",
     "area": 22880,
-    "classList": [
-      "bookshelf"
-    ],
+    "classList": ["bookshelf"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[2]/span[1]",
@@ -5390,9 +5141,7 @@
   {
     "alt": "",
     "area": 1830,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[2]/span[1]/span[1]",
@@ -5432,9 +5181,7 @@
   {
     "alt": "",
     "area": 660,
-    "classList": [
-      "jsl10n"
-    ],
+    "classList": ["jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[2]/span[1]/span[1]/span[1]",
@@ -5473,11 +5220,7 @@
   {
     "alt": "",
     "area": 189904,
-    "classList": [
-      "langlist",
-      "langlist-large",
-      "hlist"
-    ],
+    "classList": ["langlist", "langlist-large", "hlist"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/div[2]",
@@ -5694,14 +5437,7 @@
       "y": 783
     },
     "name": null,
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -5722,14 +5458,7 @@
       "y": 786
     },
     "name": "",
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 443,
     "tag": "A",
     "visibleText": "",
@@ -5750,14 +5479,7 @@
       "y": 806
     },
     "name": null,
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 242,
     "tag": "LI",
     "visibleText": "",
@@ -5778,14 +5500,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 282,
     "tag": "A",
     "visibleText": "",
@@ -6074,14 +5789,7 @@
       "y": 783
     },
     "name": null,
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -6102,14 +5810,7 @@
       "y": 786
     },
     "name": "",
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 250,
     "tag": "A",
     "visibleText": "",
@@ -6130,14 +5831,7 @@
       "y": 806
     },
     "name": null,
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -6158,14 +5852,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 193,
     "tag": "A",
     "visibleText": "",
@@ -6552,14 +6239,7 @@
       "y": 786
     },
     "name": "",
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 356,
     "tag": "A",
     "visibleText": "",
@@ -6580,17 +6260,7 @@
       "y": 806
     },
     "name": null,
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS", "Wikibooks", "Free", "textbooks"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -6611,14 +6281,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 156,
     "tag": "A",
     "visibleText": "",
@@ -6639,11 +6302,7 @@
       "y": 830
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -7002,17 +6661,7 @@
       "y": 786
     },
     "name": "",
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more", "Wikibooks", "Free", "textbooks"],
     "shape": 337,
     "tag": "A",
     "visibleText": "",
@@ -7033,14 +6682,7 @@
       "y": 806
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikibooks", "Free", "textbooks"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -7061,11 +6703,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks"],
     "shape": 312,
     "tag": "A",
     "visibleText": "",
@@ -7086,13 +6724,7 @@
       "y": 830
     },
     "name": null,
-    "neighborText": [
-      "Free",
-      "textbooks",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Free", "textbooks", "Wikibooks", "Free", "textbooks"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -7113,10 +6745,7 @@
       "y": 834
     },
     "name": "",
-    "neighborText": [
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Free", "textbooks"],
     "shape": 293,
     "tag": "A",
     "visibleText": "",
@@ -7339,17 +6968,7 @@
       "y": 786
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more", "Wikibooks", "Free", "textbooks"],
     "shape": 293,
     "tag": "LI",
     "visibleText": "",
@@ -7370,17 +6989,7 @@
       "y": 786
     },
     "name": "",
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more", "Wikibooks", "Free", "textbooks"],
     "shape": 293,
     "tag": "A",
     "visibleText": "",
@@ -7435,14 +7044,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikibooks", "Free", "textbooks"],
     "shape": 318,
     "tag": "A",
     "visibleText": "",
@@ -7463,13 +7065,7 @@
       "y": 830
     },
     "name": null,
-    "neighborText": [
-      "Free",
-      "textbooks",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Free", "textbooks", "Wikibooks", "Free", "textbooks"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -7490,13 +7086,7 @@
       "y": 834
     },
     "name": "",
-    "neighborText": [
-      "Free",
-      "textbooks",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Free", "textbooks", "Wikibooks", "Free", "textbooks"],
     "shape": 362,
     "tag": "A",
     "visibleText": "",
@@ -7798,15 +7388,7 @@
       "y": 806
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -7827,15 +7409,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 587,
     "tag": "A",
     "visibleText": "",
@@ -7856,14 +7430,7 @@
       "y": 830
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Free", "news", "source"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -7884,15 +7451,7 @@
       "y": 834
     },
     "name": "",
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 431,
     "tag": "A",
     "visibleText": "",
@@ -8131,16 +7690,7 @@
       "y": 806
     },
     "name": null,
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source", "Wikinews", "Free", "news", "source"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -8161,16 +7711,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source", "Wikinews", "Free", "news", "source"],
     "shape": 187,
     "tag": "A",
     "visibleText": "",
@@ -8191,15 +7732,7 @@
       "y": 830
     },
     "name": null,
-    "neighborText": [
-      "Free",
-      "news",
-      "source",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Free", "news", "source", "Wikinews", "Free", "news", "source"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -8220,15 +7753,7 @@
       "y": 834
     },
     "name": "",
-    "neighborText": [
-      "Free",
-      "news",
-      "source",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Free", "news", "source", "Wikinews", "Free", "news", "source"],
     "shape": 706,
     "tag": "A",
     "visibleText": "",
@@ -8370,16 +7895,7 @@
       "y": 738
     },
     "name": "",
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide", "Wikinews", "Free", "news", "source"],
     "shape": 212,
     "tag": "A",
     "visibleText": "",
@@ -8507,16 +8023,7 @@
       "y": 786
     },
     "name": "",
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide", "Wikinews", "Free", "news", "source"],
     "shape": 125,
     "tag": "A",
     "visibleText": "",
@@ -8537,16 +8044,7 @@
       "y": 806
     },
     "name": null,
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source",
-      "Wikidata",
-      "Free",
-      "knowledge",
-      "base"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source", "Wikidata", "Free", "knowledge", "base"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -8567,12 +8065,7 @@
       "y": 810
     },
     "name": "",
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source"],
     "shape": 318,
     "tag": "A",
     "visibleText": "",
@@ -8593,15 +8086,7 @@
       "y": 830
     },
     "name": null,
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source",
-      "Free",
-      "knowledge",
-      "base"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source", "Free", "knowledge", "base"],
     "shape": 495,
     "tag": "LI",
     "visibleText": "",
@@ -8622,12 +8107,7 @@
       "y": 834
     },
     "name": "",
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source"],
     "shape": 175,
     "tag": "A",
     "visibleText": "",
@@ -8678,9 +8158,7 @@
   {
     "alt": "",
     "area": 1144,
-    "classList": [
-      "bookshelf-container"
-    ],
+    "classList": ["bookshelf-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[3]",
@@ -8701,9 +8179,7 @@
   {
     "alt": "",
     "area": 22880,
-    "classList": [
-      "bookshelf"
-    ],
+    "classList": ["bookshelf"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[3]/span[1]",
@@ -8724,9 +8200,7 @@
   {
     "alt": "",
     "area": 1710,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[3]/span[1]/span[1]",
@@ -8747,9 +8221,7 @@
   {
     "alt": "",
     "area": 660,
-    "classList": [
-      "jsl10n"
-    ],
+    "classList": ["jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[3]/span[1]/span[1]/span[1]",
@@ -8770,10 +8242,7 @@
   {
     "alt": "",
     "area": 271128,
-    "classList": [
-      "langlist",
-      "hlist"
-    ],
+    "classList": ["langlist", "hlist"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/div[3]",
@@ -12217,9 +11686,7 @@
   {
     "alt": "",
     "area": 1144,
-    "classList": [
-      "bookshelf-container"
-    ],
+    "classList": ["bookshelf-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[4]",
@@ -12240,9 +11707,7 @@
   {
     "alt": "",
     "area": 22880,
-    "classList": [
-      "bookshelf"
-    ],
+    "classList": ["bookshelf"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[4]/span[1]",
@@ -12263,9 +11728,7 @@
   {
     "alt": "",
     "area": 1575,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[4]/span[1]/span[1]",
@@ -12286,9 +11749,7 @@
   {
     "alt": "",
     "area": 660,
-    "classList": [
-      "jsl10n"
-    ],
+    "classList": ["jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[4]/span[1]/span[1]/span[1]",
@@ -12309,10 +11770,7 @@
   {
     "alt": "",
     "area": 353496,
-    "classList": [
-      "langlist",
-      "hlist"
-    ],
+    "classList": ["langlist", "hlist"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/div[4]",
@@ -16743,9 +16201,7 @@
   {
     "alt": "",
     "area": 1144,
-    "classList": [
-      "bookshelf-container"
-    ],
+    "classList": ["bookshelf-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[5]",
@@ -16766,9 +16222,7 @@
   {
     "alt": "",
     "area": 22880,
-    "classList": [
-      "bookshelf"
-    ],
+    "classList": ["bookshelf"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[5]/span[1]",
@@ -16789,9 +16243,7 @@
   {
     "alt": "",
     "area": 1410,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[5]/span[1]/span[1]",
@@ -16812,9 +16264,7 @@
   {
     "alt": "",
     "area": 660,
-    "classList": [
-      "jsl10n"
-    ],
+    "classList": ["jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/h2[5]/span[1]/span[1]/span[1]",
@@ -16835,11 +16285,7 @@
   {
     "alt": "",
     "area": 108680,
-    "classList": [
-      "langlist",
-      "langlist-tiny",
-      "hlist"
-    ],
+    "classList": ["langlist", "langlist-tiny", "hlist"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/div[5]",
@@ -18120,11 +17566,7 @@
   {
     "alt": "",
     "area": 53768,
-    "classList": [
-      "langlist",
-      "langlist-others",
-      "hlist"
-    ],
+    "classList": ["langlist", "langlist-others", "hlist"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='js-lang-lists']/div[6]",
@@ -18607,9 +18049,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner"
-    ],
+    "classList": ["banner"],
     "href": "",
     "id": "portalBanner_en6C_2020a_dwk",
     "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']",
@@ -18630,9 +18070,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner__close"
-    ],
+    "classList": ["banner__close"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[1]",
@@ -18653,12 +18091,10 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner__close-icon"
-    ],
+    "classList": ["banner__close-icon"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 0,
@@ -18671,14 +18107,12 @@
     "shape": null,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[7]/div[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[7]/div[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner__topbar"
-    ],
+    "classList": ["banner__topbar"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[2]",
@@ -18699,9 +18133,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner__main"
-    ],
+    "classList": ["banner__main"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[3]",
@@ -18722,9 +18154,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner__text"
-    ],
+    "classList": ["banner__text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[3]/div[1]",
@@ -18745,9 +18175,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner__amount"
-    ],
+    "classList": ["banner__amount"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[3]/div[1]/span[1]",
@@ -18768,10 +18196,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "banner__button",
-      "banner__button--progressive"
-    ],
+    "classList": ["banner__button", "banner__button--progressive"],
     "href": "https://donate.wikimedia.org/?utm_medium=portal&utm_campaign=portalBanner&uselang=en&utm_source=portalBanner_en6C_2020a_dwk_control&addStyle=add_logoWMF",
     "id": "",
     "idxpath": "//*[@id='portalBanner_en6C_2020a_dwk']/div[3]/a[1]",
@@ -18792,9 +18217,7 @@
   {
     "alt": "",
     "area": 615930,
-    "classList": [
-      "footer"
-    ],
+    "classList": ["footer"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]",
@@ -18815,9 +18238,7 @@
   {
     "alt": "",
     "area": 29290,
-    "classList": [
-      "footer-sidebar"
-    ],
+    "classList": ["footer-sidebar"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[1]",
@@ -18863,9 +18284,7 @@
   {
     "alt": "",
     "area": 20300,
-    "classList": [
-      "footer-sidebar-content"
-    ],
+    "classList": ["footer-sidebar-content"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[1]/div[1]",
@@ -18905,11 +18324,7 @@
   {
     "alt": "",
     "area": 1764,
-    "classList": [
-      "footer-sidebar-icon",
-      "sprite",
-      "svg-Wikimedia-logo_black"
-    ],
+    "classList": ["footer-sidebar-icon", "sprite", "svg-Wikimedia-logo_black"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[1]/div[1]/div[1]",
@@ -18949,10 +18364,7 @@
   {
     "alt": "",
     "area": 20300,
-    "classList": [
-      "footer-sidebar-text",
-      "jsl10n"
-    ],
+    "classList": ["footer-sidebar-text", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[1]/div[1]/div[2]",
@@ -19013,10 +18425,7 @@
   {
     "alt": "",
     "area": 89385,
-    "classList": [
-      "footer-sidebar",
-      "app-badges"
-    ],
+    "classList": ["footer-sidebar", "app-badges"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]",
@@ -19037,9 +18446,7 @@
   {
     "alt": "",
     "area": 61950,
-    "classList": [
-      "footer-sidebar-content"
-    ],
+    "classList": ["footer-sidebar-content"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]",
@@ -19060,9 +18467,7 @@
   {
     "alt": "",
     "area": 61950,
-    "classList": [
-      "footer-sidebar-text"
-    ],
+    "classList": ["footer-sidebar-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]",
@@ -19083,11 +18488,7 @@
   {
     "alt": "",
     "area": 1764,
-    "classList": [
-      "footer-sidebar-icon",
-      "sprite",
-      "svg-wikipedia_app_tile"
-    ],
+    "classList": ["footer-sidebar-icon", "sprite", "svg-wikipedia_app_tile"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]/div[1]",
@@ -19133,9 +18534,7 @@
   {
     "alt": "",
     "area": 3750,
-    "classList": [
-      "jsl10n"
-    ],
+    "classList": ["jsl10n"],
     "href": "https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]/strong[1]/a[1]",
@@ -19175,9 +18574,7 @@
   {
     "alt": "",
     "area": 21060,
-    "classList": [
-      "jsl10n"
-    ],
+    "classList": ["jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]/p[1]",
@@ -19189,14 +18586,7 @@
       "y": 789
     },
     "name": null,
-    "neighborText": [
-      "Download",
-      "Wikipedia",
-      "for",
-      "Android",
-      "or",
-      "iOS"
-    ],
+    "neighborText": ["Download", "Wikipedia", "for", "Android", "or", "iOS"],
     "shape": 346,
     "tag": "P",
     "visibleText": "Save your favorite articles to read offline, sync your reading lists across devices and customize your reading experience with the official Wikipedia app.",
@@ -19205,10 +18595,7 @@
   {
     "alt": "",
     "area": 4712,
-    "classList": [
-      "app-badge",
-      "app-badge-android"
-    ],
+    "classList": ["app-badge", "app-badge-android"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]/ul[1]/li[1]",
@@ -19250,10 +18637,7 @@
   {
     "alt": "",
     "area": 4712,
-    "classList": [
-      "sprite",
-      "svg-badge_google_play_store"
-    ],
+    "classList": ["sprite", "svg-badge_google_play_store"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
@@ -19274,10 +18658,7 @@
   {
     "alt": "",
     "area": 4180,
-    "classList": [
-      "app-badge",
-      "app-badge-ios"
-    ],
+    "classList": ["app-badge", "app-badge-ios"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]/ul[1]/li[2]",
@@ -19319,10 +18700,7 @@
   {
     "alt": "",
     "area": 4180,
-    "classList": [
-      "sprite",
-      "svg-badge_ios_app_store"
-    ],
+    "classList": ["sprite", "svg-badge_ios_app_store"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]",
@@ -19343,9 +18721,7 @@
   {
     "alt": "",
     "area": 337680,
-    "classList": [
-      "other-projects"
-    ],
+    "classList": ["other-projects"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]",
@@ -19366,9 +18742,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[1]",
@@ -19425,9 +18799,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://commons.wikimedia.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[1]/a[1]",
@@ -19471,9 +18843,7 @@
   {
     "alt": "",
     "area": 2350,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[1]/a[1]/div[1]",
@@ -19525,10 +18895,7 @@
   {
     "alt": "",
     "area": 2209,
-    "classList": [
-      "sprite",
-      "svg-Commons-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Commons-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[1]/a[1]/div[1]/div[1]",
@@ -19580,9 +18947,7 @@
   {
     "alt": "",
     "area": 6920,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[1]/a[1]/div[2]",
@@ -19594,14 +18959,7 @@
       "y": 662
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 432,
     "tag": "DIV",
     "visibleText": "Commons\nFreely usable photos & more",
@@ -19610,10 +18968,7 @@
   {
     "alt": "",
     "area": 3633,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[1]/a[1]/div[2]/span[1]",
@@ -19625,14 +18980,7 @@
       "y": 662
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 823,
     "tag": "SPAN",
     "visibleText": "Commons",
@@ -19641,10 +18989,7 @@
   {
     "alt": "",
     "area": 3287,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[1]/a[1]/div[2]/span[2]",
@@ -19656,15 +19001,7 @@
       "y": 683
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Commons", "Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 910,
     "tag": "SPAN",
     "visibleText": "Freely usable photos & more",
@@ -19673,9 +19010,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[2]",
@@ -19717,9 +19052,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wikivoyage.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[2]/a[1]",
@@ -19731,17 +19064,7 @@
       "y": 658
     },
     "name": "",
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary",
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary", "Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 618,
     "tag": "A",
     "visibleText": "Wikivoyage\nFree travel guide",
@@ -19750,9 +19073,7 @@
   {
     "alt": "",
     "area": 1800,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[2]/a[1]/div[1]",
@@ -19764,18 +19085,7 @@
       "y": 661
     },
     "name": null,
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide",
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide", "Commons", "Freely", "usable", "photos", "&", "more"],
     "shape": 138,
     "tag": "DIV",
     "visibleText": "",
@@ -19784,10 +19094,7 @@
   {
     "alt": "",
     "area": 1296,
-    "classList": [
-      "sprite",
-      "svg-Wikivoyage-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikivoyage-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[2]/a[1]/div[1]/div[1]",
@@ -19823,9 +19130,7 @@
   {
     "alt": "",
     "area": 4040,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[2]/a[1]/div[2]",
@@ -19837,12 +19142,7 @@
       "y": 658
     },
     "name": null,
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide"],
     "shape": 252,
     "tag": "DIV",
     "visibleText": "Wikivoyage\nFree travel guide",
@@ -19851,10 +19151,7 @@
   {
     "alt": "",
     "area": 2121,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[2]/a[1]/div[2]/span[1]",
@@ -19866,12 +19163,7 @@
       "y": 658
     },
     "name": null,
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide"],
     "shape": 480,
     "tag": "SPAN",
     "visibleText": "Wikivoyage",
@@ -19880,10 +19172,7 @@
   {
     "alt": "",
     "area": 1919,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[2]/a[1]/div[2]/span[2]",
@@ -19895,12 +19184,7 @@
       "y": 679
     },
     "name": null,
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide"],
     "shape": 531,
     "tag": "SPAN",
     "visibleText": "Free travel guide",
@@ -19909,9 +19193,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[3]",
@@ -19952,9 +19234,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wiktionary.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[3]/a[1]",
@@ -19966,12 +19246,7 @@
       "y": 658
     },
     "name": "",
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide"],
     "shape": 618,
     "tag": "A",
     "visibleText": "Wiktionary\nFree dictionary",
@@ -19980,9 +19255,7 @@
   {
     "alt": "",
     "area": 1850,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[3]/a[1]/div[1]",
@@ -19994,15 +19267,7 @@
       "y": 660
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary",
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary", "Wikivoyage", "Free", "travel", "guide"],
     "shape": 135,
     "tag": "DIV",
     "visibleText": "",
@@ -20011,10 +19276,7 @@
   {
     "alt": "",
     "area": 1369,
-    "classList": [
-      "sprite",
-      "svg-Wiktionary-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wiktionary-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[3]/a[1]/div[1]/div[1]",
@@ -20026,15 +19288,7 @@
       "y": 660
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary",
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary", "Wikivoyage", "Free", "travel", "guide"],
     "shape": 100,
     "tag": "DIV",
     "visibleText": "",
@@ -20043,9 +19297,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[3]/a[1]/div[2]",
@@ -20057,11 +19309,7 @@
       "y": 658
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary"],
     "shape": 225,
     "tag": "DIV",
     "visibleText": "Wiktionary\nFree dictionary",
@@ -20070,10 +19318,7 @@
   {
     "alt": "",
     "area": 1890,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[3]/a[1]/div[2]/span[1]",
@@ -20085,11 +19330,7 @@
       "y": 658
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary"],
     "shape": 428,
     "tag": "SPAN",
     "visibleText": "Wiktionary",
@@ -20098,10 +19339,7 @@
   {
     "alt": "",
     "area": 1710,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[3]/a[1]/div[2]/span[2]",
@@ -20113,11 +19351,7 @@
       "y": 679
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary"],
     "shape": 473,
     "tag": "SPAN",
     "visibleText": "Free dictionary",
@@ -20126,9 +19360,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[4]",
@@ -20185,9 +19417,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wikibooks.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[4]/a[1]",
@@ -20241,9 +19471,7 @@
   {
     "alt": "",
     "area": 1850,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[4]/a[1]/div[1]",
@@ -20292,10 +19520,7 @@
   {
     "alt": "",
     "area": 1369,
-    "classList": [
-      "sprite",
-      "svg-Wikibooks-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikibooks-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[4]/a[1]/div[1]/div[1]",
@@ -20344,9 +19569,7 @@
   {
     "alt": "",
     "area": 3560,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[4]/a[1]/div[2]",
@@ -20358,17 +19581,7 @@
       "y": 748
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more", "Wikibooks", "Free", "textbooks"],
     "shape": 222,
     "tag": "DIV",
     "visibleText": "Wikibooks\nFree textbooks",
@@ -20377,10 +19590,7 @@
   {
     "alt": "",
     "area": 1869,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[4]/a[1]/div[2]/span[1]",
@@ -20392,17 +19602,7 @@
       "y": 748
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more", "Wikibooks", "Free", "textbooks"],
     "shape": 423,
     "tag": "SPAN",
     "visibleText": "Wikibooks",
@@ -20411,10 +19611,7 @@
   {
     "alt": "",
     "area": 1691,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[4]/a[1]/div[2]/span[2]",
@@ -20426,17 +19623,7 @@
       "y": 769
     },
     "name": null,
-    "neighborText": [
-      "Commons",
-      "Freely",
-      "usable",
-      "photos",
-      "&",
-      "more",
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Commons", "Freely", "usable", "photos", "&", "more", "Wikibooks", "Free", "textbooks"],
     "shape": 468,
     "tag": "SPAN",
     "visibleText": "Free textbooks",
@@ -20445,9 +19632,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[5]",
@@ -20489,9 +19674,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wikinews.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[5]/a[1]",
@@ -20529,9 +19712,7 @@
   {
     "alt": "",
     "area": 1300,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[5]/a[1]/div[1]",
@@ -20570,10 +19751,7 @@
   {
     "alt": "",
     "area": 1222,
-    "classList": [
-      "sprite",
-      "svg-Wikinews-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikinews-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[5]/a[1]/div[1]/div[1]",
@@ -20616,9 +19794,7 @@
   {
     "alt": "",
     "area": 4240,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[5]/a[1]/div[2]",
@@ -20630,16 +19806,7 @@
       "y": 748
     },
     "name": null,
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide", "Wikinews", "Free", "news", "source"],
     "shape": 265,
     "tag": "DIV",
     "visibleText": "Wikinews\nFree news source",
@@ -20648,10 +19815,7 @@
   {
     "alt": "",
     "area": 2226,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[5]/a[1]/div[2]/span[1]",
@@ -20663,16 +19827,7 @@
       "y": 748
     },
     "name": null,
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide", "Wikinews", "Free", "news", "source"],
     "shape": 504,
     "tag": "SPAN",
     "visibleText": "Wikinews",
@@ -20681,10 +19836,7 @@
   {
     "alt": "",
     "area": 2014,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[5]/a[1]/div[2]/span[2]",
@@ -20696,16 +19848,7 @@
       "y": 769
     },
     "name": null,
-    "neighborText": [
-      "Wikivoyage",
-      "Free",
-      "travel",
-      "guide",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikivoyage", "Free", "travel", "guide", "Wikinews", "Free", "news", "source"],
     "shape": 557,
     "tag": "SPAN",
     "visibleText": "Free news source",
@@ -20714,9 +19857,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[6]",
@@ -20753,9 +19894,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wikidata.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[6]/a[1]",
@@ -20788,9 +19927,7 @@
   {
     "alt": "",
     "area": 2450,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[6]/a[1]/div[1]",
@@ -20827,10 +19964,7 @@
   {
     "alt": "",
     "area": 2401,
-    "classList": [
-      "sprite",
-      "svg-Wikidata-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikidata-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[6]/a[1]/div[1]/div[1]",
@@ -20867,9 +20001,7 @@
   {
     "alt": "",
     "area": 5120,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[6]/a[1]/div[2]",
@@ -20881,15 +20013,7 @@
       "y": 753
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary",
-      "Wikidata",
-      "Free",
-      "knowledge",
-      "base"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary", "Wikidata", "Free", "knowledge", "base"],
     "shape": 320,
     "tag": "DIV",
     "visibleText": "Wikidata\nFree knowledge base",
@@ -20898,10 +20022,7 @@
   {
     "alt": "",
     "area": 2688,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[6]/a[1]/div[2]/span[1]",
@@ -20913,15 +20034,7 @@
       "y": 753
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary",
-      "Wikidata",
-      "Free",
-      "knowledge",
-      "base"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary", "Wikidata", "Free", "knowledge", "base"],
     "shape": 609,
     "tag": "SPAN",
     "visibleText": "Wikidata",
@@ -20930,10 +20043,7 @@
   {
     "alt": "",
     "area": 2432,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[6]/a[1]/div[2]/span[2]",
@@ -20945,16 +20055,7 @@
       "y": 774
     },
     "name": null,
-    "neighborText": [
-      "Wiktionary",
-      "Free",
-      "dictionary",
-      "Wikidata",
-      "Wikidata",
-      "Free",
-      "knowledge",
-      "base"
-    ],
+    "neighborText": ["Wiktionary", "Free", "dictionary", "Wikidata", "Wikidata", "Free", "knowledge", "base"],
     "shape": 673,
     "tag": "SPAN",
     "visibleText": "Free knowledge base",
@@ -20963,9 +20064,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[7]",
@@ -20977,15 +20076,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 343,
     "tag": "DIV",
     "visibleText": "Wikiversity\nFree course materials",
@@ -20994,9 +20085,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wikiversity.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[7]/a[1]",
@@ -21008,15 +20097,7 @@
       "y": 838
     },
     "name": "",
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 618,
     "tag": "A",
     "visibleText": "Wikiversity\nFree course materials",
@@ -21025,9 +20106,7 @@
   {
     "alt": "",
     "area": 1850,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[7]/a[1]/div[1]",
@@ -21048,10 +20127,7 @@
   {
     "alt": "",
     "area": 1591,
-    "classList": [
-      "sprite",
-      "svg-Wikiversity-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikiversity-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[7]/a[1]/div[1]/div[1]",
@@ -21072,9 +20148,7 @@
   {
     "alt": "",
     "area": 5200,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[7]/a[1]/div[2]",
@@ -21086,11 +20160,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks"],
     "shape": 325,
     "tag": "DIV",
     "visibleText": "Wikiversity\nFree course materials",
@@ -21099,10 +20169,7 @@
   {
     "alt": "",
     "area": 2730,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[7]/a[1]/div[2]/span[1]",
@@ -21114,11 +20181,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks"],
     "shape": 619,
     "tag": "SPAN",
     "visibleText": "Wikiversity",
@@ -21127,10 +20190,7 @@
   {
     "alt": "",
     "area": 2470,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[7]/a[1]/div[2]/span[2]",
@@ -21151,9 +20211,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[8]",
@@ -21165,15 +20223,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 343,
     "tag": "DIV",
     "visibleText": "Wikiquote\nFree quote compendium",
@@ -21182,9 +20232,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wikiquote.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[8]/a[1]",
@@ -21196,15 +20244,7 @@
       "y": 838
     },
     "name": "",
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 618,
     "tag": "A",
     "visibleText": "Wikiquote\nFree quote compendium",
@@ -21213,9 +20253,7 @@
   {
     "alt": "",
     "area": 2100,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[8]/a[1]/div[1]",
@@ -21227,15 +20265,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 119,
     "tag": "DIV",
     "visibleText": "",
@@ -21244,10 +20274,7 @@
   {
     "alt": "",
     "area": 1764,
-    "classList": [
-      "sprite",
-      "svg-Wikiquote-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikiquote-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[8]/a[1]/div[1]/div[1]",
@@ -21259,15 +20286,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikibooks",
-      "Free",
-      "textbooks",
-      "Wikinews",
-      "Free",
-      "news",
-      "source"
-    ],
+    "neighborText": ["Wikibooks", "Free", "textbooks", "Wikinews", "Free", "news", "source"],
     "shape": 100,
     "tag": "DIV",
     "visibleText": "",
@@ -21276,9 +20295,7 @@
   {
     "alt": "",
     "area": 5880,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[8]/a[1]/div[2]",
@@ -21299,10 +20316,7 @@
   {
     "alt": "",
     "area": 3087,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[8]/a[1]/div[2]/span[1]",
@@ -21323,10 +20337,7 @@
   {
     "alt": "",
     "area": 2793,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[8]/a[1]/div[2]/span[2]",
@@ -21347,9 +20358,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[9]",
@@ -21382,9 +20391,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.mediawiki.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[9]/a[1]",
@@ -21417,9 +20424,7 @@
   {
     "alt": "",
     "area": 2100,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[9]/a[1]/div[1]",
@@ -21431,15 +20436,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source",
-      "Free",
-      "knowledge",
-      "base"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source", "Free", "knowledge", "base"],
     "shape": 119,
     "tag": "DIV",
     "visibleText": "",
@@ -21448,10 +20445,7 @@
   {
     "alt": "",
     "area": 1764,
-    "classList": [
-      "sprite",
-      "svg-MediaWiki-logo_sister"
-    ],
+    "classList": ["sprite", "svg-MediaWiki-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[9]/a[1]/div[1]/div[1]",
@@ -21463,16 +20457,7 @@
       "y": 838
     },
     "name": null,
-    "neighborText": [
-      "Wikinews",
-      "Free",
-      "news",
-      "source",
-      "Wikidata",
-      "Free",
-      "knowledge",
-      "base"
-    ],
+    "neighborText": ["Wikinews", "Free", "news", "source", "Wikidata", "Free", "knowledge", "base"],
     "shape": 100,
     "tag": "DIV",
     "visibleText": "",
@@ -21481,9 +20466,7 @@
   {
     "alt": "",
     "area": 6800,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[9]/a[1]/div[2]",
@@ -21504,10 +20487,7 @@
   {
     "alt": "",
     "area": 3570,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[9]/a[1]/div[2]/span[1]",
@@ -21528,10 +20508,7 @@
   {
     "alt": "",
     "area": 3230,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[9]/a[1]/div[2]/span[2]",
@@ -21552,9 +20529,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[10]",
@@ -21575,9 +20550,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://www.wikisource.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[10]/a[1]",
@@ -21598,9 +20571,7 @@
   {
     "alt": "",
     "area": 1950,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[10]/a[1]/div[1]",
@@ -21621,10 +20592,7 @@
   {
     "alt": "",
     "area": 1521,
-    "classList": [
-      "sprite",
-      "svg-Wikisource-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikisource-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[10]/a[1]/div[1]/div[1]",
@@ -21645,9 +20613,7 @@
   {
     "alt": "",
     "area": 2840,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[10]/a[1]/div[2]",
@@ -21668,10 +20634,7 @@
   {
     "alt": "",
     "area": 1491,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[10]/a[1]/div[2]/span[1]",
@@ -21692,10 +20655,7 @@
   {
     "alt": "",
     "area": 1349,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[10]/a[1]/div[2]/span[2]",
@@ -21716,9 +20676,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[11]",
@@ -21739,9 +20697,7 @@
   {
     "alt": "",
     "area": 15450,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://species.wikimedia.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[11]/a[1]",
@@ -21762,9 +20718,7 @@
   {
     "alt": "",
     "area": 2100,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[11]/a[1]/div[1]",
@@ -21785,10 +20739,7 @@
   {
     "alt": "",
     "area": 1764,
-    "classList": [
-      "sprite",
-      "svg-Wikispecies-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Wikispecies-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[11]/a[1]/div[1]/div[1]",
@@ -21809,9 +20760,7 @@
   {
     "alt": "",
     "area": 5360,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[11]/a[1]/div[2]",
@@ -21832,10 +20781,7 @@
   {
     "alt": "",
     "area": 2814,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[11]/a[1]/div[2]/span[1]",
@@ -21856,10 +20802,7 @@
   {
     "alt": "",
     "area": 2546,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[11]/a[1]/div[2]/span[2]",
@@ -21880,9 +20823,7 @@
   {
     "alt": "",
     "area": 27810,
-    "classList": [
-      "other-project"
-    ],
+    "classList": ["other-project"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[12]",
@@ -21903,9 +20844,7 @@
   {
     "alt": "",
     "area": 18540,
-    "classList": [
-      "other-project-link"
-    ],
+    "classList": ["other-project-link"],
     "href": "https://meta.wikimedia.org/",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[12]/a[1]",
@@ -21926,9 +20865,7 @@
   {
     "alt": "",
     "area": 1850,
-    "classList": [
-      "other-project-icon"
-    ],
+    "classList": ["other-project-icon"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[12]/a[1]/div[1]",
@@ -21949,10 +20886,7 @@
   {
     "alt": "",
     "area": 1369,
-    "classList": [
-      "sprite",
-      "svg-Meta-Wiki-logo_sister"
-    ],
+    "classList": ["sprite", "svg-Meta-Wiki-logo_sister"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[12]/a[1]/div[1]/div[1]",
@@ -21973,9 +20907,7 @@
   {
     "alt": "",
     "area": 12060,
-    "classList": [
-      "other-project-text"
-    ],
+    "classList": ["other-project-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[12]/a[1]/div[2]",
@@ -21996,10 +20928,7 @@
   {
     "alt": "",
     "area": 4221,
-    "classList": [
-      "other-project-title",
-      "jsl10n"
-    ],
+    "classList": ["other-project-title", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[12]/a[1]/div[2]/span[1]",
@@ -22020,10 +20949,7 @@
   {
     "alt": "",
     "area": 7839,
-    "classList": [
-      "other-project-tagline",
-      "jsl10n"
-    ],
+    "classList": ["other-project-tagline", "jsl10n"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/div[8]/div[3]/div[12]/a[1]/div[2]/span[2]",
@@ -22044,9 +20970,7 @@
   {
     "alt": "",
     "area": 30870,
-    "classList": [
-      "site-license"
-    ],
+    "classList": ["site-license"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='www-wikipedia-org']/p[1]",

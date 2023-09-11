@@ -23,9 +23,7 @@
   {
     "alt": "",
     "area": 5078850,
-    "classList": [
-      "basicLayout"
-    ],
+    "classList": ["basicLayout"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]",
@@ -46,9 +44,7 @@
   {
     "alt": "",
     "area": 5078850,
-    "classList": [
-      "netflix-sans-font-loaded"
-    ],
+    "classList": ["netflix-sans-font-loaded"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]",
@@ -69,9 +65,7 @@
   {
     "alt": "",
     "area": 5078850,
-    "classList": [
-      "our-story-desktop-framework"
-    ],
+    "classList": ["our-story-desktop-framework"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]",
@@ -113,9 +107,7 @@
   {
     "alt": "",
     "area": 5078850,
-    "classList": [
-      "our-story-container"
-    ],
+    "classList": ["our-story-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]",
@@ -136,9 +128,7 @@
   {
     "alt": "",
     "area": 147000,
-    "classList": [
-      "our-story-header-wrapper"
-    ],
+    "classList": ["our-story-header-wrapper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
@@ -159,9 +149,7 @@
   {
     "alt": "",
     "area": 108640,
-    "classList": [
-      "our-story-header"
-    ],
+    "classList": ["our-story-header"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
@@ -182,11 +170,7 @@
   {
     "alt": "",
     "area": 3006,
-    "classList": [
-      "svg-nfLogo",
-      "our-story-logo",
-      "nfLogo"
-    ],
+    "classList": ["svg-nfLogo", "our-story-logo", "nfLogo"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
@@ -198,11 +182,7 @@
       "y": 58
     },
     "name": null,
-    "neighborText": [
-      "Netflix",
-      "Sign",
-      "In"
-    ],
+    "neighborText": ["Netflix", "Sign", "In"],
     "shape": 927,
     "tag": "SPAN",
     "visibleText": "Netflix",
@@ -211,13 +191,10 @@
   {
     "alt": "",
     "area": 8851,
-    "classList": [
-      "svg-icon",
-      "svg-icon-netflix-logo"
-    ],
+    "classList": ["svg-icon", "svg-icon-netflix-logo"],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 53,
@@ -226,22 +203,16 @@
       "y": 20
     },
     "name": null,
-    "neighborText": [
-      "Netflix",
-      "Sign",
-      "In"
-    ],
+    "neighborText": ["Netflix", "Sign", "In"],
     "shape": 315,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 855,
-    "classList": [
-      "screen-reader-text"
-    ],
+    "classList": ["screen-reader-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]",
@@ -262,10 +233,7 @@
   {
     "alt": "",
     "area": 2739,
-    "classList": [
-      "authLinks",
-      "redButton"
-    ],
+    "classList": ["authLinks", "redButton"],
     "href": "https://www.netflix.com/login",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
@@ -277,11 +245,7 @@
       "y": 28
     },
     "name": "",
-    "neighborText": [
-      "Netflix",
-      "Sign",
-      "In"
-    ],
+    "neighborText": ["Netflix", "Sign", "In"],
     "shape": 251,
     "tag": "A",
     "visibleText": "Sign In",
@@ -290,9 +254,7 @@
   {
     "alt": "",
     "area": 4931850,
-    "classList": [
-      "our-story-cards"
-    ],
+    "classList": ["our-story-cards"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
@@ -313,12 +275,7 @@
   {
     "alt": "",
     "area": 958440,
-    "classList": [
-      "our-story-card",
-      "hero-card",
-      "hero_fuji",
-      "vlv"
-    ],
+    "classList": ["our-story-card", "hero-card", "hero_fuji", "vlv"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
@@ -339,9 +296,7 @@
   {
     "alt": "",
     "area": 1093680,
-    "classList": [
-      "our-story-card-background"
-    ],
+    "classList": ["our-story-card-background"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
@@ -362,9 +317,7 @@
   {
     "alt": "",
     "area": 1093680,
-    "classList": [
-      "concord-img-wrapper"
-    ],
+    "classList": ["concord-img-wrapper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
@@ -385,9 +338,7 @@
   {
     "alt": "",
     "area": 1093680,
-    "classList": [
-      "concord-img-gradient"
-    ],
+    "classList": ["concord-img-gradient"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
@@ -408,9 +359,7 @@
   {
     "alt": "",
     "area": 478800,
-    "classList": [
-      "our-story-card-text"
-    ],
+    "classList": ["our-story-card-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
@@ -431,9 +380,7 @@
   {
     "alt": "",
     "area": 112000,
-    "classList": [
-      "our-story-card-title"
-    ],
+    "classList": ["our-story-card-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h1[1]",
@@ -454,9 +401,7 @@
   {
     "alt": "",
     "area": 24800,
-    "classList": [
-      "our-story-card-subtitle"
-    ],
+    "classList": ["our-story-card-subtitle"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h2[1]",
@@ -477,9 +422,7 @@
   {
     "alt": "",
     "area": 30487,
-    "classList": [
-      "email-form-title"
-    ],
+    "classList": ["email-form-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/h3[1]",
@@ -500,9 +443,7 @@
   {
     "alt": "",
     "area": 62800,
-    "classList": [
-      "email-form-lockup"
-    ],
+    "classList": ["email-form-lockup"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]",
@@ -523,10 +464,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfFormSpace",
-      "field-email"
-    ],
+    "classList": ["nfFormSpace", "field-email"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/ul[1]/li[1]",
@@ -562,10 +500,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfInput",
-      "nfInputResponsive"
-    ],
+    "classList": ["nfInput", "nfInputResponsive"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/ul[1]/li[1]/div[1]",
@@ -601,9 +536,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfInputPlacement"
-    ],
+    "classList": ["nfInputPlacement"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/ul[1]/li[1]/div[1]/div[1]",
@@ -639,9 +572,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "input_id"
-    ],
+    "classList": ["input_id"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/label[1]",
@@ -677,9 +608,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfTextField"
-    ],
+    "classList": ["nfTextField"],
     "href": "",
     "id": "id_email_hero_fuji",
     "idxpath": "//*[@id='id_email_hero_fuji']",
@@ -717,9 +646,7 @@
   {
     "alt": "",
     "area": 1900,
-    "classList": [
-      "placeLabel"
-    ],
+    "classList": ["placeLabel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/label[1]/label[1]",
@@ -753,10 +680,7 @@
   {
     "alt": "",
     "area": 22800,
-    "classList": [
-      "our-story-cta-container",
-      "cta-link-wrapper"
-    ],
+    "classList": ["our-story-cta-container", "cta-link-wrapper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]",
@@ -794,14 +718,7 @@
   {
     "alt": "",
     "area": 19950,
-    "classList": [
-      "btn",
-      "btn-red",
-      "nmhp-cta",
-      "nmhp-cta-extra-large",
-      "btn-none",
-      "btn-custom"
-    ],
+    "classList": ["btn", "btn-red", "nmhp-cta", "nmhp-cta-extra-large", "btn-none", "btn-custom"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]",
@@ -837,9 +754,7 @@
   {
     "alt": "",
     "area": 10244,
-    "classList": [
-      "cta-btn-txt"
-    ],
+    "classList": ["cta-btn-txt"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]/span[1]",
@@ -875,9 +790,7 @@
   {
     "alt": "",
     "area": 220,
-    "classList": [
-      "chevron-right-arrow"
-    ],
+    "classList": ["chevron-right-arrow"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]/span[2]",
@@ -916,7 +829,7 @@
     "classList": [],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 22,
@@ -944,14 +857,12 @@
     "shape": 50,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "our-story-card-disclaimer"
-    ],
+    "classList": ["our-story-card-disclaimer"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h3[1]",
@@ -972,9 +883,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "center-pixel"
-    ],
+    "classList": ["center-pixel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]",
@@ -1012,11 +921,7 @@
   {
     "alt": "",
     "area": 695310,
-    "classList": [
-      "our-story-card",
-      "animation-card",
-      "watchOnTv"
-    ],
+    "classList": ["our-story-card", "animation-card", "watchOnTv"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
@@ -1037,9 +942,7 @@
   {
     "alt": "",
     "area": 357500,
-    "classList": [
-      "animation-card-container"
-    ],
+    "classList": ["animation-card-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]",
@@ -1060,9 +963,7 @@
   {
     "alt": "",
     "area": 103530,
-    "classList": [
-      "our-story-card-text"
-    ],
+    "classList": ["our-story-card-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
@@ -1083,9 +984,7 @@
   {
     "alt": "",
     "area": 30085,
-    "classList": [
-      "our-story-card-title"
-    ],
+    "classList": ["our-story-card-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h1[1]",
@@ -1106,9 +1005,7 @@
   {
     "alt": "",
     "area": 50871,
-    "classList": [
-      "our-story-card-subtitle"
-    ],
+    "classList": ["our-story-card-subtitle"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/h2[1]",
@@ -1129,9 +1026,7 @@
   {
     "alt": "",
     "area": 163800,
-    "classList": [
-      "our-story-card-img-container"
-    ],
+    "classList": ["our-story-card-img-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
@@ -1152,9 +1047,7 @@
   {
     "alt": "",
     "area": 212530,
-    "classList": [
-      "our-story-card-animation-container"
-    ],
+    "classList": ["our-story-card-animation-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]",
@@ -1175,9 +1068,7 @@
   {
     "alt": "",
     "area": 83592,
-    "classList": [
-      "our-story-card-animation"
-    ],
+    "classList": ["our-story-card-animation"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]",
@@ -1198,9 +1089,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "our-story-card-animation-text"
-    ],
+    "classList": ["our-story-card-animation-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]",
@@ -1221,9 +1110,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "center-pixel"
-    ],
+    "classList": ["center-pixel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[3]",
@@ -1244,12 +1131,7 @@
   {
     "alt": "",
     "area": 690900,
-    "classList": [
-      "our-story-card",
-      "animation-card",
-      "downloadAndWatch",
-      "flipped"
-    ],
+    "classList": ["our-story-card", "animation-card", "downloadAndWatch", "flipped"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
@@ -1270,9 +1152,7 @@
   {
     "alt": "",
     "area": 354200,
-    "classList": [
-      "animation-card-container"
-    ],
+    "classList": ["animation-card-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]",
@@ -1293,9 +1173,7 @@
   {
     "alt": "",
     "area": 117810,
-    "classList": [
-      "our-story-card-text"
-    ],
+    "classList": ["our-story-card-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]",
@@ -1316,9 +1194,7 @@
   {
     "alt": "",
     "area": 60170,
-    "classList": [
-      "our-story-card-title"
-    ],
+    "classList": ["our-story-card-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/h1[1]",
@@ -1339,9 +1215,7 @@
   {
     "alt": "",
     "area": 33914,
-    "classList": [
-      "our-story-card-subtitle"
-    ],
+    "classList": ["our-story-card-subtitle"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/h2[1]",
@@ -1362,9 +1236,7 @@
   {
     "alt": "",
     "area": 162288,
-    "classList": [
-      "our-story-card-img-container"
-    ],
+    "classList": ["our-story-card-img-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]",
@@ -1385,9 +1257,7 @@
   {
     "alt": "",
     "area": 192528,
-    "classList": [
-      "our-story-card-animation-container"
-    ],
+    "classList": ["our-story-card-animation-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]",
@@ -1408,9 +1278,7 @@
   {
     "alt": "",
     "area": 34320,
-    "classList": [
-      "our-story-card-animation"
-    ],
+    "classList": ["our-story-card-animation"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]",
@@ -1431,9 +1299,7 @@
   {
     "alt": "",
     "area": 4788,
-    "classList": [
-      "our-story-card-animation-image"
-    ],
+    "classList": ["our-story-card-animation-image"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]",
@@ -1454,9 +1320,7 @@
   {
     "alt": "",
     "area": 6516,
-    "classList": [
-      "our-story-card-animation-text"
-    ],
+    "classList": ["our-story-card-animation-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[2]",
@@ -1477,9 +1341,7 @@
   {
     "alt": "",
     "area": 3439,
-    "classList": [
-      "text-0"
-    ],
+    "classList": ["text-0"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]",
@@ -1500,9 +1362,7 @@
   {
     "alt": "",
     "area": 3077,
-    "classList": [
-      "text-1"
-    ],
+    "classList": ["text-1"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]",
@@ -1523,9 +1383,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "center-pixel"
-    ],
+    "classList": ["center-pixel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[3]",
@@ -1546,11 +1404,7 @@
   {
     "alt": "",
     "area": 798210,
-    "classList": [
-      "our-story-card",
-      "animation-card",
-      "watchOnDevice"
-    ],
+    "classList": ["our-story-card", "animation-card", "watchOnDevice"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
@@ -1571,9 +1425,7 @@
   {
     "alt": "",
     "area": 434500,
-    "classList": [
-      "animation-card-container"
-    ],
+    "classList": ["animation-card-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]",
@@ -1594,9 +1446,7 @@
   {
     "alt": "",
     "area": 103530,
-    "classList": [
-      "our-story-card-text"
-    ],
+    "classList": ["our-story-card-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]",
@@ -1617,9 +1467,7 @@
   {
     "alt": "",
     "area": 30085,
-    "classList": [
-      "our-story-card-title"
-    ],
+    "classList": ["our-story-card-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/h1[1]",
@@ -1640,9 +1488,7 @@
   {
     "alt": "",
     "area": 50871,
-    "classList": [
-      "our-story-card-subtitle"
-    ],
+    "classList": ["our-story-card-subtitle"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/h2[1]",
@@ -1663,9 +1509,7 @@
   {
     "alt": "",
     "area": 199080,
-    "classList": [
-      "our-story-card-img-container"
-    ],
+    "classList": ["our-story-card-img-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]",
@@ -1686,9 +1530,7 @@
   {
     "alt": "",
     "area": 233100,
-    "classList": [
-      "our-story-card-animation-container"
-    ],
+    "classList": ["our-story-card-animation-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]",
@@ -1709,9 +1551,7 @@
   {
     "alt": "",
     "area": 68753,
-    "classList": [
-      "our-story-card-animation"
-    ],
+    "classList": ["our-story-card-animation"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]",
@@ -1732,9 +1572,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "our-story-card-animation-text"
-    ],
+    "classList": ["our-story-card-animation-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]",
@@ -1755,9 +1593,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "center-pixel"
-    ],
+    "classList": ["center-pixel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[3]",
@@ -1778,10 +1614,7 @@
   {
     "alt": "",
     "area": 1239210,
-    "classList": [
-      "our-story-card",
-      "faq-card"
-    ],
+    "classList": ["our-story-card", "faq-card"],
     "href": "",
     "id": "faq",
     "idxpath": "//*[@id='faq']",
@@ -1802,9 +1635,7 @@
   {
     "alt": "",
     "area": 959100,
-    "classList": [
-      "our-story-card-text"
-    ],
+    "classList": ["our-story-card-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]",
@@ -1825,9 +1656,7 @@
   {
     "alt": "",
     "area": 75900,
-    "classList": [
-      "our-story-card-title"
-    ],
+    "classList": ["our-story-card-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/h1[1]",
@@ -1848,9 +1677,7 @@
   {
     "alt": "",
     "area": 59495,
-    "classList": [
-      "faq-list-item"
-    ],
+    "classList": ["faq-list-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[1]",
@@ -1871,9 +1698,7 @@
   {
     "alt": "",
     "area": 58680,
-    "classList": [
-      "faq-question"
-    ],
+    "classList": ["faq-question"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[1]/button[1]",
@@ -1894,11 +1719,7 @@
   {
     "alt": "",
     "area": 1296,
-    "classList": [
-      "svg-icon",
-      "svg-icon-thin-x",
-      "svg-closed"
-    ],
+    "classList": ["svg-icon", "svg-icon-thin-x", "svg-closed"],
     "href": "",
     "id": "thin-x",
     "idxpath": "//*[@id='thin-x']",
@@ -1914,15 +1735,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[1]/button[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[1]/button[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "faq-answer",
-      "closed"
-    ],
+    "classList": ["faq-answer", "closed"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[1]/div[1]",
@@ -1964,9 +1782,7 @@
   {
     "alt": "",
     "area": 59495,
-    "classList": [
-      "faq-list-item"
-    ],
+    "classList": ["faq-list-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[2]",
@@ -1987,9 +1803,7 @@
   {
     "alt": "",
     "area": 58680,
-    "classList": [
-      "faq-question"
-    ],
+    "classList": ["faq-question"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[2]/button[1]",
@@ -2010,14 +1824,10 @@
   {
     "alt": "",
     "area": 1296,
-    "classList": [
-      "svg-icon",
-      "svg-icon-thin-x",
-      "svg-closed"
-    ],
+    "classList": ["svg-icon", "svg-icon-thin-x", "svg-closed"],
     "href": "",
     "id": "thin-x",
-    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[2]/button[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[2]/button[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 36,
@@ -2030,15 +1840,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[2]/button[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[2]/button[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "faq-answer",
-      "closed"
-    ],
+    "classList": ["faq-answer", "closed"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[2]/div[1]",
@@ -2080,9 +1887,7 @@
   {
     "alt": "",
     "area": 59495,
-    "classList": [
-      "faq-list-item"
-    ],
+    "classList": ["faq-list-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[3]",
@@ -2103,9 +1908,7 @@
   {
     "alt": "",
     "area": 58680,
-    "classList": [
-      "faq-question"
-    ],
+    "classList": ["faq-question"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[3]/button[1]",
@@ -2126,14 +1929,10 @@
   {
     "alt": "",
     "area": 1296,
-    "classList": [
-      "svg-icon",
-      "svg-icon-thin-x",
-      "svg-closed"
-    ],
+    "classList": ["svg-icon", "svg-icon-thin-x", "svg-closed"],
     "href": "",
     "id": "thin-x",
-    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[3]/button[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[3]/button[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 36,
@@ -2146,15 +1945,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[3]/button[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[3]/button[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "faq-answer",
-      "closed"
-    ],
+    "classList": ["faq-answer", "closed"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[3]/div[1]",
@@ -2196,9 +1992,7 @@
   {
     "alt": "",
     "area": 59495,
-    "classList": [
-      "faq-list-item"
-    ],
+    "classList": ["faq-list-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[4]",
@@ -2219,9 +2013,7 @@
   {
     "alt": "",
     "area": 58680,
-    "classList": [
-      "faq-question"
-    ],
+    "classList": ["faq-question"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[4]/button[1]",
@@ -2242,14 +2034,10 @@
   {
     "alt": "",
     "area": 1296,
-    "classList": [
-      "svg-icon",
-      "svg-icon-thin-x",
-      "svg-closed"
-    ],
+    "classList": ["svg-icon", "svg-icon-thin-x", "svg-closed"],
     "href": "",
     "id": "thin-x",
-    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[4]/button[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[4]/button[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 36,
@@ -2262,15 +2050,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[4]/button[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[4]/button[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "faq-answer",
-      "closed"
-    ],
+    "classList": ["faq-answer", "closed"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[4]/div[1]",
@@ -2312,9 +2097,7 @@
   {
     "alt": "",
     "area": 59495,
-    "classList": [
-      "faq-list-item"
-    ],
+    "classList": ["faq-list-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[5]",
@@ -2335,9 +2118,7 @@
   {
     "alt": "",
     "area": 58680,
-    "classList": [
-      "faq-question"
-    ],
+    "classList": ["faq-question"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[5]/button[1]",
@@ -2358,14 +2139,10 @@
   {
     "alt": "",
     "area": 1296,
-    "classList": [
-      "svg-icon",
-      "svg-icon-thin-x",
-      "svg-closed"
-    ],
+    "classList": ["svg-icon", "svg-icon-thin-x", "svg-closed"],
     "href": "",
     "id": "thin-x",
-    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[5]/button[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[5]/button[1]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 36,
@@ -2378,15 +2155,12 @@
     "shape": 100,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[5]/button[1]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[5]/button[1]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "faq-answer",
-      "closed"
-    ],
+    "classList": ["faq-answer", "closed"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/ul[1]/li[5]/div[1]",
@@ -2428,9 +2202,7 @@
   {
     "alt": "",
     "area": 30487,
-    "classList": [
-      "email-form-title"
-    ],
+    "classList": ["email-form-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/h3[1]",
@@ -2451,9 +2223,7 @@
   {
     "alt": "",
     "area": 62800,
-    "classList": [
-      "email-form-lockup"
-    ],
+    "classList": ["email-form-lockup"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]",
@@ -2474,10 +2244,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfFormSpace",
-      "field-email"
-    ],
+    "classList": ["nfFormSpace", "field-email"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/ul[1]/li[1]",
@@ -2498,10 +2265,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfInput",
-      "nfInputResponsive"
-    ],
+    "classList": ["nfInput", "nfInputResponsive"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/ul[1]/li[1]/div[1]",
@@ -2522,9 +2286,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfInputPlacement"
-    ],
+    "classList": ["nfInputPlacement"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/ul[1]/li[1]/div[1]/div[1]",
@@ -2545,9 +2307,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "input_id"
-    ],
+    "classList": ["input_id"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/label[1]",
@@ -2568,9 +2328,7 @@
   {
     "alt": "",
     "area": 35000,
-    "classList": [
-      "nfTextField"
-    ],
+    "classList": ["nfTextField"],
     "href": "",
     "id": "id_email_faq",
     "idxpath": "//*[@id='id_email_faq']",
@@ -2591,9 +2349,7 @@
   {
     "alt": "",
     "area": 1900,
-    "classList": [
-      "placeLabel"
-    ],
+    "classList": ["placeLabel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/label[1]/label[1]",
@@ -2614,10 +2370,7 @@
   {
     "alt": "",
     "area": 22800,
-    "classList": [
-      "our-story-cta-container",
-      "cta-link-wrapper"
-    ],
+    "classList": ["our-story-cta-container", "cta-link-wrapper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/div[1]",
@@ -2638,14 +2391,7 @@
   {
     "alt": "",
     "area": 19950,
-    "classList": [
-      "btn",
-      "btn-red",
-      "nmhp-cta",
-      "nmhp-cta-extra-large",
-      "btn-none",
-      "btn-custom"
-    ],
+    "classList": ["btn", "btn-red", "nmhp-cta", "nmhp-cta-extra-large", "btn-none", "btn-custom"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/div[1]/button[1]",
@@ -2666,9 +2412,7 @@
   {
     "alt": "",
     "area": 10244,
-    "classList": [
-      "cta-btn-txt"
-    ],
+    "classList": ["cta-btn-txt"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/div[1]/button[1]/span[1]",
@@ -2689,9 +2433,7 @@
   {
     "alt": "",
     "area": 220,
-    "classList": [
-      "chevron-right-arrow"
-    ],
+    "classList": ["chevron-right-arrow"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/div[1]/button[1]/span[2]",
@@ -2715,7 +2457,7 @@
     "classList": [],
     "href": "",
     "id": "",
-    "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='faq']/div[1]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = 'svg'][1]",
     "isButton": false,
     "location": {
       "height": 22,
@@ -2728,14 +2470,12 @@
     "shape": 50,
     "tag": "svg",
     "visibleText": "",
-    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = \"svg\"][1]"
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/form[1]/div[1]/div[1]/button[1]/span[2]/*[local-name() = 'svg'][1]"
   },
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "center-pixel"
-    ],
+    "classList": ["center-pixel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='faq']/div[2]",
@@ -2756,12 +2496,7 @@
   {
     "alt": "",
     "area": 405480,
-    "classList": [
-      "our-story-card",
-      "card-contents",
-      "footer-card",
-      "our-story-card-no-border"
-    ],
+    "classList": ["our-story-card", "card-contents", "footer-card", "our-story-card-no-border"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]",
@@ -2782,11 +2517,7 @@
   {
     "alt": "",
     "area": 302000,
-    "classList": [
-      "site-footer-wrapper",
-      "centered",
-      "dark"
-    ],
+    "classList": ["site-footer-wrapper", "centered", "dark"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]",
@@ -2807,9 +2538,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "footer-divider"
-    ],
+    "classList": ["footer-divider"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]",
@@ -2821,11 +2550,7 @@
       "y": 0
     },
     "name": null,
-    "neighborText": [
-      "Netflix",
-      "Sign",
-      "In"
-    ],
+    "neighborText": ["Netflix", "Sign", "In"],
     "shape": null,
     "tag": "DIV",
     "visibleText": "",
@@ -2834,9 +2559,7 @@
   {
     "alt": "",
     "area": 253800,
-    "classList": [
-      "site-footer"
-    ],
+    "classList": ["site-footer"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]",
@@ -2857,9 +2580,7 @@
   {
     "alt": "",
     "area": 17100,
-    "classList": [
-      "footer-top"
-    ],
+    "classList": ["footer-top"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/p[1]",
@@ -2880,9 +2601,7 @@
   {
     "alt": "",
     "area": 2088,
-    "classList": [
-      "footer-top-a"
-    ],
+    "classList": ["footer-top-a"],
     "href": "https://20201201180555/tel:1-844-505-2993",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/p[1]/a[1]",
@@ -2903,9 +2622,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[1]",
@@ -2926,9 +2643,7 @@
   {
     "alt": "",
     "area": 375,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/support/412",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[1]/a[1]",
@@ -2970,9 +2685,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[2]",
@@ -2993,9 +2706,7 @@
   {
     "alt": "",
     "area": 1035,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[2]/a[1]",
@@ -3037,9 +2748,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[3]",
@@ -3060,9 +2769,7 @@
   {
     "alt": "",
     "area": 720,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://www.netflix.com/youraccount",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[3]/a[1]",
@@ -3104,9 +2811,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[4]",
@@ -3127,9 +2832,7 @@
   {
     "alt": "",
     "area": 1170,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://media.netflix.com/",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[4]/a[1]",
@@ -3171,9 +2874,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[5]",
@@ -3194,9 +2895,7 @@
   {
     "alt": "",
     "area": 1560,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "http://ir.netflix.com/",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[5]/a[1]",
@@ -3238,9 +2937,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[6]",
@@ -3261,9 +2958,7 @@
   {
     "alt": "",
     "area": 420,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://jobs.netflix.com/jobs",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[6]/a[1]",
@@ -3305,9 +3000,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[7]",
@@ -3328,9 +3021,7 @@
   {
     "alt": "",
     "area": 1665,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://www.netflix.com/redeem",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[7]/a[1]",
@@ -3372,9 +3063,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[8]",
@@ -3395,9 +3084,7 @@
   {
     "alt": "",
     "area": 1275,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://www.netflix.com/gift-cards",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[8]/a[1]",
@@ -3439,9 +3126,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[9]",
@@ -3462,9 +3147,7 @@
   {
     "alt": "",
     "area": 1305,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://www.netflix.com/watch",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[9]/a[1]",
@@ -3506,9 +3189,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[10]",
@@ -3529,9 +3210,7 @@
   {
     "alt": "",
     "area": 1140,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/legal/termsofuse",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[10]/a[1]",
@@ -3573,9 +3252,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[11]",
@@ -3596,9 +3273,7 @@
   {
     "alt": "",
     "area": 630,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/legal/privacy",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[11]/a[1]",
@@ -3640,9 +3315,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[12]",
@@ -3663,9 +3336,7 @@
   {
     "alt": "",
     "area": 1695,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/legal/privacy#cookies",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[12]/a[1]",
@@ -3707,9 +3378,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[13]",
@@ -3730,9 +3399,7 @@
   {
     "alt": "",
     "area": 1920,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/legal/corpinfo",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[13]/a[1]",
@@ -3774,9 +3441,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[14]",
@@ -3797,9 +3462,7 @@
   {
     "alt": "",
     "area": 975,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/contactus",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[14]/a[1]",
@@ -3841,9 +3504,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[15]",
@@ -3864,9 +3525,7 @@
   {
     "alt": "",
     "area": 975,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://fast.com/",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[15]/a[1]",
@@ -3908,9 +3567,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item"
-    ],
+    "classList": ["footer-link-item"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[16]",
@@ -3931,9 +3588,7 @@
   {
     "alt": "",
     "area": 1185,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://help.netflix.com/legal/notices",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[16]/a[1]",
@@ -3975,10 +3630,7 @@
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "footer-link-item",
-      "originals-link"
-    ],
+    "classList": ["footer-link-item", "originals-link"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[17]",
@@ -3999,9 +3651,7 @@
   {
     "alt": "",
     "area": 1365,
-    "classList": [
-      "footer-link"
-    ],
+    "classList": ["footer-link"],
     "href": "https://www.netflix.com/browse/genre/839338",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[2]/ul[1]/li[17]/a[1]",
@@ -4043,9 +3693,7 @@
   {
     "alt": "",
     "area": 47700,
-    "classList": [
-      "lang-selection-container"
-    ],
+    "classList": ["lang-selection-container"],
     "href": "",
     "id": "lang-switcher",
     "idxpath": "//*[@id='lang-switcher']",
@@ -4066,9 +3714,7 @@
   {
     "alt": "",
     "area": 7155,
-    "classList": [
-      "ui-select-wrapper"
-    ],
+    "classList": ["ui-select-wrapper"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='lang-switcher']/div[1]",
@@ -4089,10 +3735,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "ui-label",
-      "no-display"
-    ],
+    "classList": ["ui-label", "no-display"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='lang-switcher']/div[1]/label[1]",
@@ -4113,9 +3756,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "ui-label-text"
-    ],
+    "classList": ["ui-label-text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='lang-switcher']/div[1]/label[1]/span[1]",
@@ -4136,12 +3777,7 @@
   {
     "alt": "",
     "area": 7155,
-    "classList": [
-      "select-arrow",
-      "medium",
-      "prefix",
-      "globe"
-    ],
+    "classList": ["select-arrow", "medium", "prefix", "globe"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='lang-switcher']/div[1]/div[1]",
@@ -4162,10 +3798,7 @@
   {
     "alt": "",
     "area": 7155,
-    "classList": [
-      "ui-select",
-      "medium"
-    ],
+    "classList": ["ui-select", "medium"],
     "href": "",
     "id": "undefined-select",
     "idxpath": "//*[@id='undefined-select']",
@@ -4186,9 +3819,7 @@
   {
     "alt": "",
     "area": 0,
-    "classList": [
-      "center-pixel"
-    ],
+    "classList": ["center-pixel"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='appMountPoint']/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[6]/div[2]",
