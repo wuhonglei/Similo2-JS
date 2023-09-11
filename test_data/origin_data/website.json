@@ -2082,6 +2082,7 @@
   {
     "name": "Myshopify",
     "url": {
+      "old": "https://web.archive.org/web/20181130182131/http://myshopify.com/",
       "new": "https://web.archive.org/web/20201202023130if_/http://myshopify.com/"
     },
     "xpath": [

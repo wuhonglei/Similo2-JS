@@ -2,10 +2,7 @@
   {
     "alt": "",
     "area": 2813,
-    "classList": [
-      "nav-logo-base",
-      "nav-sprite"
-    ],
+    "classList": ["nav-logo-base", "nav-sprite"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-logo']/a[1]/span[1]",
@@ -60,17 +57,13 @@
     ],
     "shape": 334,
     "tag": "SPAN",
-    "visibleText": [
-      "Amazon"
-    ],
+    "visibleText": ["Amazon"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]"
   },
   {
     "alt": "",
     "area": 35739,
-    "classList": [
-      "nav-input"
-    ],
+    "classList": ["nav-input"],
     "href": "",
     "id": "twotabsearchtextbox",
     "idxpath": "//*[@id='twotabsearchtextbox']",
@@ -85,17 +78,13 @@
     "neighborText": [],
     "shape": 3281,
     "tag": "INPUT",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[3]/div[1]/input[1]"
   },
   {
     "alt": "",
     "area": 1575,
-    "classList": [
-      "nav-input"
-    ],
+    "classList": ["nav-input"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-search']/form[1]/div[2]/div[1]/input[1]",
@@ -266,17 +255,13 @@
     ],
     "shape": 128,
     "tag": "INPUT",
-    "visibleText": [
-      "Go"
-    ],
+    "visibleText": ["Go"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[2]/div[1]/input[1]"
   },
   {
     "alt": "",
     "area": 2408,
-    "classList": [
-      "icp-nav-link-inner"
-    ],
+    "classList": ["icp-nav-link-inner"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='icp-nav-flyout']/span[1]",
@@ -453,18 +438,13 @@
     ],
     "shape": 130,
     "tag": "SPAN",
-    "visibleText": [
-      "EN"
-    ],
+    "visibleText": ["EN"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1]/span[1]"
   },
   {
     "alt": "",
     "area": 6160,
-    "classList": [
-      "nav-a",
-      "nav-a-2"
-    ],
+    "classList": ["nav-a", "nav-a-2"],
     "href": "https://www.amazon.com/gp/navigation/redirector.html?ie=UTF8&associationHandle=usflex%C2%A4tPageURL=https%3A%2F%2Fwww.amazon.com%2F%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin",
     "id": "nav-link-accountList",
     "idxpath": "//*[@id='nav-link-accountList']",
@@ -614,24 +594,13 @@
     ],
     "shape": 318,
     "tag": "A",
-    "visibleText": [
-      "Hello.",
-      "Sign",
-      "in",
-      "Account",
-      "&",
-      "Lists"
-    ],
+    "visibleText": ["Hello.", "Sign", "in", "Account", "&", "Lists"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[2]"
   },
   {
     "alt": "",
     "area": 1716,
-    "classList": [
-      "nav-a",
-      "nav-a-2",
-      "nav-single-row-link"
-    ],
+    "classList": ["nav-a", "nav-a-2", "nav-single-row-link"],
     "href": "https://www.amazon.com/gp/css/order-history",
     "id": "nav-orders",
     "idxpath": "//*[@id='nav-orders']",
@@ -643,34 +612,16 @@
       "y": 71
     },
     "name": "",
-    "neighborText": [
-      "EN",
-      "Hello.",
-      "Sign",
-      "in",
-      "Account",
-      "&",
-      "Lists",
-      "Orders",
-      "Try",
-      "Prime",
-      "Cart"
-    ],
+    "neighborText": ["EN", "Hello.", "Sign", "in", "Account", "&", "Lists", "Orders", "Try", "Prime", "Cart"],
     "shape": 253,
     "tag": "A",
-    "visibleText": [
-      "Orders"
-    ],
+    "visibleText": ["Orders"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[3]"
   },
   {
     "alt": "",
     "area": 2522,
-    "classList": [
-      "nav-a",
-      "nav-a-2",
-      "nav-single-row-link"
-    ],
+    "classList": ["nav-a", "nav-a-2", "nav-single-row-link"],
     "href": "https://www.amazon.com/gp/product/B00DBYBNEE",
     "id": "nav-link-prime",
     "idxpath": "//*[@id='nav-link-prime']",
@@ -682,34 +633,16 @@
       "y": 71
     },
     "name": "",
-    "neighborText": [
-      "EN",
-      "Hello.",
-      "Sign",
-      "in",
-      "Account",
-      "&",
-      "Lists",
-      "Orders",
-      "Try",
-      "Prime",
-      "Cart"
-    ],
+    "neighborText": ["EN", "Hello.", "Sign", "in", "Account", "&", "Lists", "Orders", "Try", "Prime", "Cart"],
     "shape": 373,
     "tag": "A",
-    "visibleText": [
-      "Try",
-      "Prime"
-    ],
+    "visibleText": ["Try", "Prime"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[4]"
   },
   {
     "alt": "",
     "area": 4576,
-    "classList": [
-      "nav-a",
-      "nav-a-2"
-    ],
+    "classList": ["nav-a", "nav-a-2"],
     "href": "https://www.amazon.com/gp/cart/view.html",
     "id": "nav-cart",
     "idxpath": "//*[@id='nav-cart']",
@@ -721,33 +654,16 @@
       "y": 53
     },
     "name": "",
-    "neighborText": [
-      "Cart",
-      "EN",
-      "Hello.",
-      "Sign",
-      "in",
-      "Account",
-      "&",
-      "Lists",
-      "Orders",
-      "Try",
-      "Prime",
-      "Cart"
-    ],
+    "neighborText": ["Cart", "EN", "Hello.", "Sign", "in", "Account", "&", "Lists", "Orders", "Try", "Prime", "Cart"],
     "shape": 236,
     "tag": "A",
-    "visibleText": [
-      "Cart"
-    ],
+    "visibleText": ["Cart"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[5]"
   },
   {
     "alt": "",
     "area": 1200,
-    "classList": [
-      "nav-a"
-    ],
+    "classList": ["nav-a"],
     "href": "https://www.amazon.com/gp/goldbox",
     "id": "",
     "idxpath": "//*[@id='nav-xshop']/a[2]",
@@ -787,18 +703,13 @@
     ],
     "shape": 833,
     "tag": "A",
-    "visibleText": [
-      "Today's",
-      "Deals"
-    ],
+    "visibleText": ["Today's", "Deals"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[2]"
   },
   {
     "alt": "",
     "area": 492,
-    "classList": [
-      "nav-a"
-    ],
+    "classList": ["nav-a"],
     "href": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011",
     "id": "",
     "idxpath": "//*[@id='nav-xshop']/a[4]",
@@ -838,9 +749,7 @@
     ],
     "shape": 341,
     "tag": "A",
-    "visibleText": [
-      "Sell"
-    ],
+    "visibleText": ["Sell"],
     "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[4]"
   }
 ]
