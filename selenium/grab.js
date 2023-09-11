@@ -6,9 +6,9 @@ const { Builder, Browser, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 const cluster = require('cluster');
 
-const website = require('../data/website.json');
-const root = path.join(__dirname, '../data/apps');
-const recordedPath = path.join(__dirname, '../data/recorded.txt');
+const website = require('../test_data/our_data/website.json');
+const root = path.join(__dirname, '../test_data/our_data/apps');
+const recordedPath = path.join(__dirname, '../test_data/our_data/recorded.txt');
 
 function getRecorded() {
   const recordedContent = fs.readFileSync(recordedPath, 'utf8');
