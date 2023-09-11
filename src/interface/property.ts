@@ -25,6 +25,6 @@ export interface Properties {
   location: ElementLocation;
   area: number; // width * height
   shape: number; // (width * 100) / height; 整形
-  visibleText: string; // 可见文本(textContent, value, placeholder)
+  visibleText: string[]; // 可见文本(textContent, value, placeholder)
   neighborText: string[]; // 元素四周的邻居文本
 }

@@ -23,6 +23,6 @@ export interface Properties {
     location: ElementLocation;
     area: number;
     shape: number;
-    visibleText: string;
+    visibleText: string[];
     neighborText: string[];
 }

@@ -1,4 +1,4 @@
-export function elementIsVisible(element: HTMLElement) {
+export function elementIsVisible(element: Element) {
   if (getComputedStyle(element).visibility === 'hidden' || element.getBoundingClientRect().height == 0) {
     return false;
   }

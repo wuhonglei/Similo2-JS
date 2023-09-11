@@ -4,7 +4,7 @@
 
 import type { Properties, ElementLocation } from './interface/property';
 
-import { getElementByXPath, uniqElements } from './utils/index';
+import { elementIsVisible, getElementByXPath, uniqElements } from './utils/index';
 import { getIdXPath, getXPath } from './locator';
 
 /**
@@ -57,10 +57,10 @@ function getElementShape(location: ElementLocation): number {
   return Math.floor((width * 100) / height);
 }
 
-function getVisibleText(element: Element): string {
+function getVisibleText(element: Element): string[] {
   // textContent 会获取到隐藏元素的文本，所以使用 innerText
   const text = ['innerText', 'value', 'placeholder'].map((name) => ((element as any)[name] || '').trim()).find(Boolean);
-  return text || '';
+  return (text || '').split(/[\n\s]+/);
 }
 
 function getElementHeight(element: Element): number {
@@ -132,7 +132,7 @@ function getNeighborText(element: Element, location: ElementLocation): string[] 
   ).reduce(
     (textMap, currentElement) => {
       const text = getVisibleText(currentElement); // 'src \n  上传打包后的内容'
-      textMap[text] = text.split(/[\n\s]+/); // 使用 map 是为了解决元素周围的文本重复的问题
+      textMap[text.join(' ')] = text; // 使用 map 是为了解决元素周围的文本重复的问题
       return textMap;
     },
     {} as Record<string, string[]>,
@@ -194,7 +194,7 @@ export function getCandidateElementsPropertiesBySelector(
   selector: Parameters<ParentNode['querySelectorAll']>[0],
 ): Properties[] {
   const elements = document.querySelectorAll(selector);
-  return [...elements].map((element) => getElementProperties(element));
+  return [...elements].filter((element) => elementIsVisible(element)).map((element) => getElementProperties(element));
 }
 
 export function getElementPropertiesByXpath(xpath: string): Properties {

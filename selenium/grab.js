@@ -45,8 +45,13 @@ async function getScreenshotOfElement(element, filepath) {
   }
 
   createDirectory(filepath);
-  const base64 = await element.takeScreenshot();
   const { width, height } = await element.getRect();
+  if (width === 0 || height === 0) {
+    console.warn('element size is 0');
+    return;
+  }
+
+  const base64 = await element.takeScreenshot();
   const buffer = Buffer.from(base64, 'base64');
   sharp(buffer)
     .jpeg({
@@ -54,7 +59,10 @@ async function getScreenshotOfElement(element, filepath) {
       chromaSubsampling: '4:4:4',
     })
     .resize(Math.floor(width), Math.floor(height))
-    .toFile(filepath);
+    .toFile(filepath)
+    .catch((err) => {
+      console.info('element.takeScreenshot', err);
+    });
 }
 
 async function getScreenshotsOfOldSite(driver, site) {
@@ -118,6 +126,7 @@ async function writeJson(data, filepath) {
  */
 async function getPropertyOfSite(driver, site) {
   const { url, xpath } = site;
+
   // 访问旧站点
   await driver.get(url.old);
   await driver.sleep(2000);
@@ -153,6 +162,7 @@ async function startRecord(website) {
     for (const site of website) {
       const recorded = getRecorded();
       if (!recorded.includes(site.name)) {
+        console.info('recording', site.name);
         await getPropertyOfSite(driver, site);
         recorded.push(site.name);
         console.info(`recorded: ${site.name}`);
@@ -165,7 +175,7 @@ async function startRecord(website) {
 }
 
 if (cluster.isMaster) {
-  const numWorkers = 4; // 设置线程数
+  const numWorkers = 1; // 设置线程数
 
   // 创建多个子线程
   for (let i = 0; i < numWorkers; i++) {
