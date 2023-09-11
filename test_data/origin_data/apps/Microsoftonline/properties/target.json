@@ -1,0 +1,126 @@
+[
+  {
+    "tag": "INPUT",
+    "name": "loginfmt",
+    "id": "i0116",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/input[1]",
+    "idxpath": "id(\"i0116\")",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "form-control",
+      "ltr_override"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "signup",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"signup\")",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "display-inline-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "cantAccessAccount",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"cantAccessAccount\")",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "idSIButton9",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/input[1]",
+    "idxpath": "id(\"idSIButton9\")",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "btn",
+      "btn-block",
+      "btn-primary"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "ftrTerms",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"ftrTerms\")",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "ftrPrivacy",
+    "xpath": "/html[1]/body[1]/div[1]/form[1]/div[2]/div[1]/div[1]/a[2]",
+    "idxpath": "id(\"ftrPrivacy\")",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  }
+]

@@ -1,0 +1,997 @@
+[
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]",
+    "area": 2088,
+    "shape": 362,
+    "widgetId": 1,
+    "visibleText": [
+      "Follow",
+      "us:"
+    ],
+    "neighborText": [
+      "facebook",
+      "instagram"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 461,
+      "y": 576,
+      "width": 87,
+      "height": 24
+    },
+    "classList": [
+      "footer__module-footer__section__followus--text"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.facebook.com/chase",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "area": 1620,
+    "shape": 80,
+    "widgetId": 2,
+    "visibleText": [
+      "Facebook"
+    ],
+    "neighborText": [
+      "follow",
+      "us:",
+      "facebook",
+      "instagram",
+      "twitter"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 548,
+      "y": 569,
+      "width": 36,
+      "height": 45
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-opt-exlnk",
+      "icon",
+      "icon-facebook"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://instagram.com/chase",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "area": 1620,
+    "shape": 80,
+    "widgetId": 3,
+    "visibleText": [
+      "Instagram"
+    ],
+    "neighborText": [
+      "follow",
+      "us:",
+      "facebook",
+      "instagram",
+      "twitter",
+      "youtube"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 589,
+      "y": 569,
+      "width": 36,
+      "height": 45
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-opt-exlnk",
+      "icon",
+      "icon-instagram"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://twitter.com/Chase",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "area": 1620,
+    "shape": 80,
+    "widgetId": 4,
+    "visibleText": [
+      "Twitter"
+    ],
+    "neighborText": [
+      "facebook",
+      "instagram",
+      "twitter",
+      "youtube",
+      "linkedin"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 629,
+      "y": 569,
+      "width": 36,
+      "height": 45
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-opt-exlnk",
+      "icon",
+      "icon-twitter"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.youtube.com/chase",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "area": 1620,
+    "shape": 80,
+    "widgetId": 5,
+    "visibleText": [
+      "YouTube"
+    ],
+    "neighborText": [
+      "instagram",
+      "twitter",
+      "youtube",
+      "linkedin",
+      "pinterest"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 669,
+      "y": 569,
+      "width": 36,
+      "height": 45
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-opt-exlnk",
+      "icon",
+      "icon-youtube"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.linkedin.com/company/chase?trk=company_logo",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+    "area": 1620,
+    "shape": 80,
+    "widgetId": 6,
+    "visibleText": [
+      "LinkedIn"
+    ],
+    "neighborText": [
+      "twitter",
+      "youtube",
+      "linkedin",
+      "pinterest"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 709,
+      "y": 569,
+      "width": 36,
+      "height": 45
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-opt-exlnk",
+      "icon",
+      "icon-linkedin"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.pinterest.com/chase/",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "area": 1620,
+    "shape": 80,
+    "widgetId": 7,
+    "visibleText": [
+      "Pinterest"
+    ],
+    "neighborText": [
+      "youtube",
+      "linkedin",
+      "pinterest"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 749,
+      "y": 569,
+      "width": 36,
+      "height": 45
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-opt-exlnk",
+      "icon",
+      "icon-pinterest"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://personal.chase.com/personal/checking",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
+    "area": 4370,
+    "shape": 302,
+    "widgetId": 8,
+    "visibleText": [
+      "checking",
+      "account"
+    ],
+    "neighborText": [
+      "checking",
+      "accounts",
+      "account",
+      "chase",
+      "premier",
+      "plus",
+      "coupon"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 40,
+      "y": 797,
+      "width": 115,
+      "height": 38
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://creditcards.chase.com/credit-cards/home",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[1]",
+    "area": 1088,
+    "shape": 376,
+    "widgetId": 9,
+    "visibleText": [
+      "credit",
+      "cards"
+    ],
+    "neighborText": [
+      "prepaid",
+      "card",
+      "credit",
+      "cards",
+      "cash",
+      "back"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 648,
+      "y": 818,
+      "width": 64,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://creditcards.chase.com/credit-cards/cash-back",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[2]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[2]",
+    "area": 918,
+    "shape": 317,
+    "widgetId": 10,
+    "visibleText": [
+      "cash",
+      "back"
+    ],
+    "neighborText": [
+      "credit",
+      "cards",
+      "cash",
+      "back"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 728,
+      "y": 882,
+      "width": 54,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://creditcards.chase.com/credit-cards/home",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[3]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[3]",
+    "area": 1003,
+    "shape": 347,
+    "widgetId": 11,
+    "visibleText": [
+      "credit",
+      "card"
+    ],
+    "neighborText": [
+      "credit",
+      "card",
+      "free",
+      "score"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 648,
+      "y": 988,
+      "width": 59,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://creditcards.chase.com/free-credit-score",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[4]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[4]",
+    "area": 1530,
+    "shape": 529,
+    "widgetId": 12,
+    "visibleText": [
+      "free",
+      "credit",
+      "score"
+    ],
+    "neighborText": [
+      "credit",
+      "card",
+      "free",
+      "score"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 648,
+      "y": 1031,
+      "width": 90,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/personal/mortgage/mortgage-purchase",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[1]",
+    "area": 918,
+    "shape": 317,
+    "widgetId": 13,
+    "visibleText": [
+      "mortgage"
+    ],
+    "neighborText": [
+      "mortgages",
+      "mortgage",
+      "refinance",
+      "rates"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 883,
+      "y": 797,
+      "width": 54,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/mortgage/mortgage-refinance",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[2]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[2]",
+    "area": 884,
+    "shape": 305,
+    "widgetId": 14,
+    "visibleText": [
+      "refinance"
+    ],
+    "neighborText": [
+      "mortgages",
+      "mortgage",
+      "refinance",
+      "rates",
+      "home",
+      "equity",
+      "line",
+      "of",
+      "credit"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 956,
+      "y": 797,
+      "width": 52,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/mortgage/mortgage-rates",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[3]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[3]",
+    "area": 3686,
+    "shape": 255,
+    "widgetId": 15,
+    "visibleText": [
+      "mortgage",
+      "rates"
+    ],
+    "neighborText": [
+      "credit",
+      "cards",
+      "mortgages",
+      "mortgage",
+      "refinance",
+      "rates",
+      "calculator",
+      "applying",
+      "for",
+      "a"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 839,
+      "width": 97,
+      "height": 38
+    },
+    "classList": [
+      "chaseanalytics-track-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/personal/mortgage/calculators-resources",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[4]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[4]",
+    "area": 1887,
+    "shape": 652,
+    "widgetId": 16,
+    "visibleText": [
+      "mortgage",
+      "calculator"
+    ],
+    "neighborText": [
+      "mortgage",
+      "rates",
+      "calculator",
+      "applying",
+      "for",
+      "a"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 903,
+      "width": 111,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/personal/mortgage/home-mortgage/getting-started/mortgage-prequalification",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[5]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[5]",
+    "area": 2261,
+    "shape": 782,
+    "widgetId": 17,
+    "visibleText": [
+      "applying",
+      "for",
+      "a",
+      "mortgage"
+    ],
+    "neighborText": [
+      "mortgage",
+      "rates",
+      "calculator",
+      "applying",
+      "for",
+      "a"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 924,
+      "width": 133,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/home-equity",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[1]",
+    "area": 6080,
+    "shape": 421,
+    "widgetId": 18,
+    "visibleText": [
+      "Home",
+      "Equity",
+      "Line",
+      "of",
+      "Credit"
+    ],
+    "neighborText": [
+      "home",
+      "equity",
+      "line",
+      "of",
+      "credit",
+      "heloc",
+      "calculator"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 876,
+      "width": 160,
+      "height": 38
+    },
+    "classList": [
+      "chaseanalytics-track-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/home-equity/home-equity-line-of-credit-calculator",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[2]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[2]",
+    "area": 3192,
+    "shape": 221,
+    "widgetId": 19,
+    "visibleText": [
+      "HELOC",
+      "calculator"
+    ],
+    "neighborText": [
+      "home",
+      "equity",
+      "line",
+      "of",
+      "credit",
+      "heloc",
+      "calculator",
+      "before",
+      "you",
+      "apply"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 940,
+      "width": 84,
+      "height": 38
+    },
+    "classList": [
+      "chaseanalytics-track-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/home-equity/before-you-apply",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[3]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[2]/p[1]/a[3]",
+    "area": 1581,
+    "shape": 547,
+    "widgetId": 20,
+    "visibleText": [
+      "before",
+      "you",
+      "apply"
+    ],
+    "neighborText": [
+      "heloc",
+      "calculator",
+      "before",
+      "you",
+      "apply"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1111,
+      "y": 982,
+      "width": 93,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/investments/financial-advisor",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[1]",
+    "area": 1547,
+    "shape": 535,
+    "widgetId": 21,
+    "visibleText": [
+      "financial",
+      "advisor"
+    ],
+    "neighborText": [
+      "planning",
+      "&",
+      "investments",
+      "financial",
+      "advisor"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1094,
+      "y": 1135,
+      "width": 91,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://autofinance.chase.com/auto-finance/auto-loans?offercode=WDXDPXXX02&referrer_id=ZJPM000021546",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[3]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[3]",
+    "area": 748,
+    "shape": 258,
+    "widgetId": 22,
+    "visibleText": [
+      "car",
+      "loan"
+    ],
+    "neighborText": [
+      "auto",
+      "finance",
+      "chase",
+      "car",
+      "buying",
+      "service",
+      "loan",
+      "refinance",
+      "calculator"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 937,
+      "y": 1156,
+      "width": 44,
+      "height": 17
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
+    ]
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]",
+    "area": 27600,
+    "shape": 5217,
+    "widgetId": 23,
+    "visibleText": [
+      "We're",
+      "here",
+      "to",
+      "help",
+      "you",
+      "manage",
+      "your",
+      "money",
+      "today",
+      "and",
+      "tomorrow"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 28,
+      "y": 670,
+      "width": 1200,
+      "height": 23
+    },
+    "classList": [
+      "footer__module-footer__section--header--text"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "area": 3564,
+    "shape": 736,
+    "widgetId": 24,
+    "visibleText": [
+      "Checking",
+      "Accounts"
+    ],
+    "neighborText": [
+      "checking",
+      "account",
+      "chase",
+      "premier",
+      "plus",
+      "savings",
+      "accounts",
+      "&",
+      "cds"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 40,
+      "y": 772,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/h2[1]",
+    "area": 3564,
+    "shape": 736,
+    "widgetId": 25,
+    "visibleText": [
+      "Savings",
+      "Accounts",
+      "&",
+      "CDs"
+    ],
+    "neighborText": [
+      "checking",
+      "accounts",
+      "chase",
+      "premier",
+      "plus",
+      "savings",
+      "prepaid",
+      "card"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 243,
+      "y": 772,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/h2[1]",
+    "area": 3564,
+    "shape": 736,
+    "widgetId": 26,
+    "visibleText": [
+      "Prepaid",
+      "Card"
+    ],
+    "neighborText": [
+      "savings",
+      "accounts",
+      "&",
+      "cds",
+      "chase",
+      "liquid®",
+      "prepaid",
+      "card",
+      "credit",
+      "cards"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 445,
+      "y": 772,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/h2[1]",
+    "area": 3564,
+    "shape": 736,
+    "widgetId": 27,
+    "visibleText": [
+      "Credit",
+      "Cards"
+    ],
+    "neighborText": [
+      "prepaid",
+      "card",
+      "credit",
+      "cards",
+      "mortgages",
+      "mortgage",
+      "rates"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 648,
+      "y": 772,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/h2[1]",
+    "area": 3564,
+    "shape": 736,
+    "widgetId": 28,
+    "visibleText": [
+      "Mortgages"
+    ],
+    "neighborText": [
+      "credit",
+      "cards",
+      "mortgage",
+      "refinance",
+      "rates",
+      "home",
+      "equity",
+      "line",
+      "of"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 772,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/h2[1]",
+    "area": 5994,
+    "shape": 437,
+    "widgetId": 29,
+    "visibleText": [
+      "Home",
+      "Equity",
+      "Line",
+      "of",
+      "Credit"
+    ],
+    "neighborText": [
+      "mortgages",
+      "refinance"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 772,
+      "width": 162,
+      "height": 37
+    },
+    "classList": [
+      "heading"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/h2[1]",
+    "area": 3564,
+    "shape": 736,
+    "widgetId": 30,
+    "visibleText": [
+      "Car",
+      "Buying",
+      "&",
+      "Loans"
+    ],
+    "neighborText": [
+      "auto",
+      "finance",
+      "chase",
+      "car",
+      "buying",
+      "service",
+      "planning",
+      "&",
+      "investments"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 1068,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/h2[1]",
+    "area": 3564,
+    "shape": 736,
+    "widgetId": 31,
+    "visibleText": [
+      "Planning",
+      "&",
+      "Investments"
+    ],
+    "neighborText": [
+      "car",
+      "buying",
+      "&",
+      "loans",
+      "chase",
+      "service",
+      "financial",
+      "advisor"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 1068,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
+    ]
+  }
+]

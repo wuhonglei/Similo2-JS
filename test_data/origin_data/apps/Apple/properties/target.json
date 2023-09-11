@@ -1,0 +1,245 @@
+[
+  {
+    "tag": "A",
+    "id": "ac-gn-firstfocus",
+    "href": "https://www.apple.com/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]",
+    "idxpath": "//*[@id='ac-gn-firstfocus']",
+    "area": 1760,
+    "shape": 90,
+    "widgetId": 1,
+    "visibleText": [
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 123,
+      "y": 0,
+      "width": 40,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-apple"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/mac/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[2]/a[1]",
+    "area": 2112,
+    "shape": 109,
+    "widgetId": 2,
+    "visibleText": [
+      "Mac"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 219,
+      "y": 0,
+      "width": 48,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-mac"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/ipad/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[3]/a[1]",
+    "area": 2024,
+    "shape": 104,
+    "widgetId": 3,
+    "visibleText": [
+      "iPad"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 323,
+      "y": 0,
+      "width": 46,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-ipad"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/iphone/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[4]/a[1]",
+    "area": 2816,
+    "shape": 145,
+    "widgetId": 4,
+    "visibleText": [
+      "iPhone"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 426,
+      "y": 0,
+      "width": 64,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-iphone"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/watch/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[5]/a[1]",
+    "area": 2596,
+    "shape": 134,
+    "widgetId": 5,
+    "visibleText": [
+      "Watch"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 546,
+      "y": 0,
+      "width": 59,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-watch"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/tv/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[6]/a[1]",
+    "area": 1628,
+    "shape": 84,
+    "widgetId": 6,
+    "visibleText": [
+      "TV"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 662,
+      "y": 0,
+      "width": 37,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-tv"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/music/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[7]/a[1]",
+    "area": 2508,
+    "shape": 129,
+    "widgetId": 7,
+    "visibleText": [
+      "Music"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 756,
+      "y": 0,
+      "width": 57,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-music"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://support.apple.com/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[8]/a[1]",
+    "area": 3168,
+    "shape": 163,
+    "widgetId": 8,
+    "visibleText": [
+      "Support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 869,
+      "y": 0,
+      "width": 72,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-support"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[9]",
+    "area": 1584,
+    "shape": 81,
+    "widgetId": 9,
+    "visibleText": [
+      "Search",
+      "apple.com"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 997,
+      "y": 0,
+      "width": 36,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-item",
+      "ac-gn-item-menu",
+      "ac-gn-search"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/bag",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]",
+    "idxpath": "//*[@id='ac-gn-bag']/a[1]",
+    "area": 1496,
+    "shape": 77,
+    "widgetId": 10,
+    "visibleText": [
+      "Shopping",
+      "Bag"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1089,
+      "y": 0,
+      "width": 34,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-bag"
+    ],
+    "neighborText": []
+  }
+]

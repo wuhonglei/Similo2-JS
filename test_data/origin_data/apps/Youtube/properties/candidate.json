@@ -1,0 +1,4866 @@
+[
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/div[1]/ytd-masthead[1]/div[3]/div[1]/yt-icon-button[2]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"guide-icon\")/*[local-name() = \"svg\"][1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "logo",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/div[1]/ytd-masthead[1]/div[3]/div[1]/ytd-topbar-logo-renderer[1]/a[1]",
+    "idxpath": "id(\"logo\")/a[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-topbar-logo-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "search_query",
+    "id": "search",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/div[1]/ytd-masthead[1]/div[3]/div[2]/ytd-searchbox[1]/form[1]/div[1]/div[1]/input[1]",
+    "idxpath": "id(\"search-input\")/input[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "search-icon-legacy",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/div[1]/ytd-masthead[1]/div[3]/div[2]/ytd-searchbox[1]/form[1]/button[1]",
+    "idxpath": "id(\"search-icon-legacy\")",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-searchbox"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/div[1]/ytd-masthead[1]/div[3]/div[3]/div[2]/ytd-button-renderer[1]/a[1]",
+    "idxpath": "id(\"buttons\")/ytd-button-renderer[1]/a[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-button-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[1]/a[1]/span[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[1]/a[1]/span[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "title",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[2]/a[1]/span[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[2]/a[1]/span[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "title",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[5]/a[1]/span[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[5]/a[1]/span[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "title",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"metadata-line\")/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"details\")/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"details\")/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"channel-name\")/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[1]/a[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"icon\")/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "endpoint",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[2]/a[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[2]/a[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[2]/a[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[7]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "endpoint",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[3]/a[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[3]/a[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[3]/a[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[2]/ytd-video-masthead-ad-v3-renderer[1]/div[1]/div[2]/ytd-video-masthead-ad-primary-video-renderer[1]/div[1]/div[1]/ytd-toggle-button-renderer[1]/a[1]",
+    "idxpath": "id(\"mute-button\")/ytd-toggle-button-renderer[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-toggle-button-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[3]/a[1]/span[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "title",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[5]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"avatar-link\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[4]/a[1]/span[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "title",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "endpoint",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[5]/a[1]",
+    "idxpath": "id(\"content\")/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-mini-guide-entry-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[6]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"text-container\")/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[1]/h2[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"title-text\")/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-shelf-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[2]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]",
+    "idxpath": "id(\"show-more-button\")/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-button-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"show-more-button\")/a[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-badge-supported-renderer[1]/div[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-badge-supported-renderer[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-badge-supported-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[8]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[10]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[1]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-now-playing-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-now-playing-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[9]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[1]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[14]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[14]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[14]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[14]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[14]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[14]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-shelf-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[11]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "id": "title",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[1]/h2[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[1]/h2[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-shelf-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-button-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]/div[1]/ytd-thumbnail-overlay-time-status-renderer[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-thumbnail-overlay-time-status-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[3]/ytd-button-renderer[1]/a[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[17]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[17]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[2]/div[1]/ytd-compact-promoted-item-renderer[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[2]/div[1]/ytd-compact-promoted-item-renderer[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-compact-promoted-item-renderer"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[13]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[13]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[15]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[12]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[3]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[16]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-section-renderer[3]/div[1]/ytd-rich-shelf-renderer[1]/div[1]/div[2]/ytd-rich-item-renderer[4]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[18]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "avatar-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[20]/div[1]/ytd-rich-grid-media[1]/div[1]/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "video-title-link",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "ytd-rich-grid-media"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "thumbnail",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/ytd-miniplayer[1]/div[2]/div[1]/ytd-miniplayer-toast[1]/ytd-thumbnail[1]/a[1]",
+    "idxpath": "id(\"toast\")/ytd-thumbnail[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "inline-block",
+      "style-scope",
+      "ytd-thumbnail"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/div[1]/div[1]/yt-formatted-string[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "yt-simple-endpoint",
+      "style-scope",
+      "yt-formatted-string"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[1]/ytd-channel-name[1]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[1]/ytd-video-meta-block[1]/div[1]/div[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "ytd-video-meta-block"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button",
+    "xpath": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-page-manager[1]/ytd-browse[1]/ytd-two-column-browse-results-renderer[1]/div[1]/ytd-rich-grid-renderer[1]/div[6]/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "idxpath": "id(\"contents\")/ytd-rich-item-renderer[19]/div[1]/ytd-rich-grid-media[1]/div[1]/div[1]/div[2]/ytd-menu-renderer[1]/yt-icon-button[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "style-scope",
+      "yt-icon-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

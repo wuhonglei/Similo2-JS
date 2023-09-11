@@ -1,0 +1,3548 @@
+[
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]/span[1]",
+    "idxpath": "//*[@id='header']/div[1]/div[1]/div[2]/a[1]/span[1]",
+    "area": 6640,
+    "shape": 415,
+    "widgetId": 1,
+    "visibleText": [
+      "AliExpress"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 60,
+      "y": 60,
+      "width": 166,
+      "height": 40
+    },
+    "classList": [
+      "logo-base"
+    ],
+    "neighborText": [
+      "Smarter",
+      "Shopping,",
+      "Better",
+      "Living!"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "name": "SearchText",
+    "id": "search-key",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[2]/input[1]",
+    "idxpath": "//*[@id='search-key']",
+    "area": 15584,
+    "shape": 1521,
+    "widgetId": 2,
+    "visibleText": [
+      "harry",
+      "potter"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 297,
+      "y": 65,
+      "width": 487,
+      "height": 32
+    },
+    "classList": [
+      "search-key"
+    ],
+    "neighborText": [
+      "Sell",
+      "on",
+      "AliExpress",
+      "All",
+      "Categories",
+      "peppa",
+      "pig"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "id": "search-category-value",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "//*[@id='search-category-value']",
+    "area": 2340,
+    "shape": 346,
+    "widgetId": 3,
+    "visibleText": [
+      "All",
+      "Categories"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 800,
+      "y": 65,
+      "width": 90,
+      "height": 26
+    },
+    "classList": [
+      "search-category-value"
+    ],
+    "neighborText": [
+      "harry",
+      "potter",
+      "/",
+      "English",
+      "/"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/input[1]",
+    "idxpath": "//*[@id='form-searchbar']/div[1]/input[1]",
+    "area": 1440,
+    "shape": 111,
+    "widgetId": 4,
+    "isButton": true,
+    "location": {
+      "x": 923,
+      "y": 63,
+      "width": 40,
+      "height": 36
+    },
+    "classList": [
+      "search-button"
+    ],
+    "neighborText": [
+      "All",
+      "Categories",
+      "English"
+    ],
+    "visibleText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://shoppingcart.aliexpress.com/shopcart/shopcartDetail.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='header']/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "area": 576,
+    "shape": 177,
+    "widgetId": 5,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1003,
+      "y": 69,
+      "width": 32,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Wish",
+      "List"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "area": 2760,
+    "shape": 172,
+    "widgetId": 6,
+    "visibleText": [
+      "Categories"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 63,
+      "y": 134,
+      "width": 69,
+      "height": 40
+    },
+    "classList": [],
+    "neighborText": [
+      "Smarter",
+      "Shopping,",
+      "Better",
+      "Living!",
+      "Women's",
+      "Fashion"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/100003109/women-clothing-accessories.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]/a[1]",
+    "area": 1908,
+    "shape": 588,
+    "widgetId": 7,
+    "visibleText": [
+      "Women's",
+      "Fashion"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 188,
+      "width": 106,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Categories",
+      "Men's",
+      "Fashion"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/100003070/men-clothing-accessories.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]/a[1]",
+    "area": 1548,
+    "shape": 477,
+    "widgetId": 8,
+    "visibleText": [
+      "Men's",
+      "Fashion"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 226,
+      "width": 86,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Women's",
+      "Fashion",
+      "Phones",
+      "&",
+      "Telecommunications"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/509/cellphones-telecommunications.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]/a[1]",
+    "area": 3348,
+    "shape": 1033,
+    "widgetId": 9,
+    "visibleText": [
+      "Phones",
+      "&",
+      "Telecommunications"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 261,
+      "width": 186,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Men's",
+      "Fashion",
+      "Computer,",
+      "Office",
+      "&",
+      "Security"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 10,
+    "visibleText": [
+      "Computer,",
+      "Office",
+      "&",
+      "Security"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 287,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Phones",
+      "&",
+      "Telecommunications",
+      "Consumer",
+      "Electronics"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/44/consumer-electronics.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]/a[1]",
+    "area": 2358,
+    "shape": 727,
+    "widgetId": 11,
+    "visibleText": [
+      "Consumer",
+      "Electronics"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 331,
+      "width": 131,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Computer,",
+      "Office",
+      "&",
+      "Security",
+      "Jewelry",
+      "&",
+      "Watches"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/1509/jewelry-accessories.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[1]",
+    "area": 774,
+    "shape": 238,
+    "widgetId": 12,
+    "visibleText": [
+      "Jewelry"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 366,
+      "width": 43,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Consumer",
+      "Electronics",
+      "Watches",
+      "Home,",
+      "Pet",
+      "&",
+      "Appliances"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/1511/watches.html?isCates=y",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[2]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[2]",
+    "area": 918,
+    "shape": 283,
+    "widgetId": 13,
+    "visibleText": [
+      "Watches"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 123,
+      "y": 366,
+      "width": 51,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Home,",
+      "Pet",
+      "&",
+      "Appliances",
+      "Pet"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/1524/luggage-bags.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[1]",
+    "area": 504,
+    "shape": 155,
+    "widgetId": 14,
+    "visibleText": [
+      "Bags"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 436,
+      "width": 28,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Toys",
+      ",",
+      "Kids",
+      "&",
+      "Babies",
+      "Home",
+      "Shoes",
+      "Toys"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/322/shoes.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[2]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[2]",
+    "area": 648,
+    "shape": 200,
+    "widgetId": 15,
+    "visibleText": [
+      "Shoes"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 109,
+      "y": 436,
+      "width": 36,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Toys",
+      ",",
+      "Kids",
+      "&",
+      "Babies",
+      "Pet",
+      "Kids",
+      "&",
+      "Babies"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/26/toys-hobbies.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[1]",
+    "area": 468,
+    "shape": 144,
+    "widgetId": 16,
+    "visibleText": [
+      "Toys"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 471,
+      "width": 26,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports",
+      "Bags",
+      "Kids",
+      "&",
+      "Babies",
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/1501/mother-kids.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[2]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[2]",
+    "area": 1476,
+    "shape": 455,
+    "widgetId": 17,
+    "visibleText": [
+      "Kids",
+      "&",
+      "Babies"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 101,
+      "y": 471,
+      "width": 82,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Bags",
+      "&",
+      "Shoes",
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/18/sports-entertainment.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]/a[1]",
+    "area": 2394,
+    "shape": 738,
+    "widgetId": 18,
+    "visibleText": [
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 506,
+      "width": 133,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Toys",
+      ",",
+      "Kids",
+      "&",
+      "Babies",
+      "Beauty,",
+      "Health",
+      "&",
+      "Hair"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/66/health-beauty.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]/a[1]",
+    "area": 1584,
+    "shape": 488,
+    "widgetId": 19,
+    "visibleText": [
+      "Beauty,",
+      "Health"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 541,
+      "width": 88,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports",
+      "Hair",
+      "Automobiles",
+      "&",
+      "Motorcycles"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/34/automobiles-motorcycles.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]/a[1]",
+    "area": 2970,
+    "shape": 916,
+    "widgetId": 20,
+    "visibleText": [
+      "Automobiles",
+      "&",
+      "Motorcycles"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 576,
+      "width": 165,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Beauty,",
+      "Health",
+      "&",
+      "Hair",
+      "Home",
+      "Improvement",
+      "&",
+      "Tools"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/13/home-improvement.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]/a[1]",
+    "area": 2196,
+    "shape": 677,
+    "widgetId": 21,
+    "visibleText": [
+      "Home",
+      "Improvement"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 611,
+      "width": 122,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Automobiles",
+      "&",
+      "Motorcycles",
+      "Tools"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/XZL7sThtbD.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[1]/a[1]",
+    "area": 3360,
+    "shape": 210,
+    "widgetId": 22,
+    "visibleText": [
+      "Flash",
+      "Deals"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 295,
+      "y": 135,
+      "width": 84,
+      "height": 40
+    },
+    "classList": [],
+    "neighborText": [
+      "Categories",
+      "peppa",
+      "pig",
+      "LIVE"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "javascript:;",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/span[2]/a[1]",
+    "idxpath": "//*[@id='user-benefits']/div[1]/div[3]/span[2]/a[1]",
+    "area": 3600,
+    "shape": 277,
+    "widgetId": 23,
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1107,
+      "y": 305,
+      "width": 100,
+      "height": 36
+    },
+    "classList": [],
+    "neighborText": [
+      "Join",
+      "Welcome",
+      "to",
+      "AliExpress"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "javascript:;",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/span[1]/a[1]",
+    "idxpath": "//*[@id='user-benefits']/div[1]/div[3]/span[1]/a[1]",
+    "area": 3600,
+    "shape": 277,
+    "widgetId": 24,
+    "visibleText": [
+      "Join"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 999,
+      "y": 305,
+      "width": 100,
+      "height": 36
+    },
+    "classList": [],
+    "neighborText": [
+      "Welcome",
+      "to",
+      "AliExpress",
+      "Sign",
+      "in"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]",
+    "area": 10320,
+    "shape": 558,
+    "widgetId": 25,
+    "visibleText": [
+      "Women's",
+      "Fashion"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 174,
+      "width": 240,
+      "height": 43
+    },
+    "classList": [],
+    "neighborText": [
+      "AliExpressSmarter",
+      "Shopping,",
+      "Better",
+      "Living!",
+      "Flash",
+      "Deals",
+      "Men's",
+      "Fashion"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 26,
+    "visibleText": [
+      "Men's",
+      "Fashion"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 217,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Women's",
+      "Fashion",
+      "Phones",
+      "&",
+      "Telecommunications"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 27,
+    "visibleText": [
+      "Phones",
+      "&",
+      "Telecommunications"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 252,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Men's",
+      "Fashion",
+      "Computer,",
+      "Office",
+      "&",
+      "Security"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 28,
+    "visibleText": [
+      "Consumer",
+      "Electronics"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 322,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Computer",
+      "Jewelry",
+      "&",
+      "Watches"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 29,
+    "visibleText": [
+      "Jewelry",
+      "&",
+      "Watches"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 357,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Consumer",
+      "Electronics",
+      "Home,",
+      "Pet",
+      "&",
+      "Appliances"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/15/home-garden.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[1]",
+    "area": 648,
+    "shape": 200,
+    "widgetId": 30,
+    "visibleText": [
+      "Home"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 401,
+      "width": 36,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Bags",
+      "&",
+      "Shoes",
+      "Jewelry",
+      "Pet",
+      "Bags"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 31,
+    "visibleText": [
+      "Home,",
+      "Pet",
+      "&",
+      "Appliances"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 392,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Jewelry",
+      "Bags",
+      "&",
+      "Shoes"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 32,
+    "visibleText": [
+      "Bags",
+      "&",
+      "Shoes"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 427,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Home",
+      "Toys",
+      ",",
+      "Kids",
+      "&",
+      "Babies"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 33,
+    "visibleText": [
+      "Toys",
+      ",",
+      "Kids",
+      "&",
+      "Babies"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 462,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Bags",
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 34,
+    "visibleText": [
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 497,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Toys",
+      "Beauty,",
+      "Health",
+      "&",
+      "Hair"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 35,
+    "visibleText": [
+      "Beauty,",
+      "Health",
+      "&",
+      "Hair"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 532,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Outdoor",
+      "Fun",
+      "&",
+      "Sports",
+      "Automobiles",
+      "&",
+      "Motorcycles"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]",
+    "area": 8400,
+    "shape": 685,
+    "widgetId": 36,
+    "visibleText": [
+      "Automobiles",
+      "&",
+      "Motorcycles"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 567,
+      "width": 240,
+      "height": 35
+    },
+    "classList": [],
+    "neighborText": [
+      "Beauty,",
+      "Health",
+      "Home",
+      "Improvement",
+      "&",
+      "Tools"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/span[1]",
+    "idxpath": "//*[@id='nav-global']/div[3]/div[1]/span[1]",
+    "area": 2301,
+    "shape": 151,
+    "widgetId": 37,
+    "visibleText": [
+      "Help"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 625,
+      "y": 0,
+      "width": 59,
+      "height": 39
+    },
+    "classList": [
+      "ng-sub-title"
+    ],
+    "neighborText": [
+      "Sell",
+      "on",
+      "AliExpress",
+      "Buyer",
+      "Protection"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://my.aliexpress.com/wishlist/wish_list_product_list.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]/a[1]",
+    "idxpath": "//*[@id='nav-global']/div[5]/div[2]/a[1]",
+    "area": 1173,
+    "shape": 405,
+    "widgetId": 38,
+    "visibleText": [
+      "Wish",
+      "List"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1030,
+      "y": 11,
+      "width": 69,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "/",
+      "English",
+      "/",
+      "Account"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/v8Yr8f629D.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/a[1]",
+    "idxpath": "//*[@id='nav-global']/div[3]/div[2]/a[1]",
+    "area": 1581,
+    "shape": 547,
+    "widgetId": 39,
+    "visibleText": [
+      "Buyer",
+      "Protection"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 693,
+      "y": 11,
+      "width": 93,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "App",
+      "Help"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]/span[1]",
+    "idxpath": "//*[@id='nav-user-account']/span[1]",
+    "area": 4329,
+    "shape": 284,
+    "visibleText": [
+      "Account"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1108,
+      "y": 0,
+      "width": 111,
+      "height": 39
+    },
+    "classList": [
+      "user-account-port"
+    ],
+    "neighborText": [
+      "Wish",
+      "List"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "javascript:;",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]/span[1]/a[1]",
+    "idxpath": "//*[@id='nav-user-account']/span[1]/a[1]",
+    "area": 1615,
+    "shape": 558,
+    "visibleText": [
+      "Account"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1116,
+      "y": 11,
+      "width": 95,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Wish",
+      "List"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]/span[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='nav-user-account']/span[1]/a[1]/span[1]",
+    "area": 1003,
+    "shape": 347,
+    "visibleText": [
+      "Account"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1136,
+      "y": 11,
+      "width": 59,
+      "height": 17
+    },
+    "classList": [
+      "text"
+    ],
+    "neighborText": [
+      "Wish",
+      "List"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "//*[@id='nav-global']/div[1]/div[1]/span[1]",
+    "area": 5109,
+    "shape": 335,
+    "visibleText": [
+      "Sell",
+      "on",
+      "AliExpress"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 486,
+      "y": 0,
+      "width": 131,
+      "height": 39
+    },
+    "classList": [
+      "ng-sub-title"
+    ],
+    "neighborText": [
+      "Help"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "javascript:;",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='nav-global']/div[1]/div[1]/span[1]/a[1]",
+    "area": 1649,
+    "shape": 570,
+    "visibleText": [
+      "Sell",
+      "on",
+      "AliExpress"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 496,
+      "y": 11,
+      "width": 97,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Help"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "//*[@id='header']/div[1]/div[1]/div[2]/a[1]",
+    "area": 18240,
+    "shape": 315,
+    "visibleText": [
+      "AliExpressSmarter",
+      "Shopping,",
+      "Better",
+      "Living!"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 60,
+      "width": 240,
+      "height": 76
+    },
+    "classList": [],
+    "neighborText": [
+      "harry",
+      "potter",
+      "Women's",
+      "Fashion"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/download_app_guide.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/a[1]",
+    "idxpath": "//*[@id='nav-global']/div[3]/div[3]/a[1]",
+    "area": 756,
+    "shape": 233,
+    "visibleText": [
+      "App"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 803,
+      "y": 11,
+      "width": 42,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Buyer",
+      "Protection",
+      "/",
+      "English",
+      "/",
+      "All",
+      "Categories"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "switcher-info",
+    "href": "javascript:void(0)",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]",
+    "idxpath": "//*[@id='switcher-info']",
+    "area": 5967,
+    "shape": 392,
+    "visibleText": [
+      "/",
+      "English",
+      "/"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 861,
+      "y": 0,
+      "width": 153,
+      "height": 39
+    },
+    "classList": [
+      "switcher-info",
+      "notranslate"
+    ],
+    "neighborText": [
+      "Wish",
+      "List",
+      "App"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]/a[1]/span[1]",
+    "idxpath": "//*[@id='nav-global']/div[5]/div[2]/a[1]/span[1]",
+    "area": 833,
+    "shape": 288,
+    "visibleText": [
+      "Wish",
+      "List"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1050,
+      "y": 11,
+      "width": 49,
+      "height": 17
+    },
+    "classList": [
+      "text"
+    ],
+    "neighborText": [
+      "/",
+      "English",
+      "/",
+      "Account"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='switcher-info']/span[1]",
+    "area": 527,
+    "shape": 182,
+    "isButton": false,
+    "location": {
+      "x": 871,
+      "y": 11,
+      "width": 31,
+      "height": 17
+    },
+    "classList": [
+      "ship-to"
+    ],
+    "neighborText": [
+      "App",
+      "English"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[2]",
+    "idxpath": "//*[@id='switcher-info']/span[2]",
+    "area": 68,
+    "shape": 23,
+    "visibleText": [
+      "/"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 902,
+      "y": 11,
+      "width": 4,
+      "height": 17
+    },
+    "classList": [
+      "split"
+    ],
+    "neighborText": [
+      "English"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[3]",
+    "idxpath": "//*[@id='switcher-info']/span[3]",
+    "area": 663,
+    "shape": 229,
+    "visibleText": [
+      "English"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 910,
+      "y": 11,
+      "width": 39,
+      "height": 17
+    },
+    "classList": [
+      "language_txt"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[4]",
+    "idxpath": "//*[@id='switcher-info']/span[4]",
+    "area": 68,
+    "shape": 23,
+    "visibleText": [
+      "/"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 953,
+      "y": 11,
+      "width": 4,
+      "height": 17
+    },
+    "classList": [
+      "split"
+    ],
+    "neighborText": [
+      "English"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[10]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[10]",
+    "area": 189200,
+    "shape": 250,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 3031,
+      "y": 191,
+      "width": 688,
+      "height": 275
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/w/wholesale-sweter-women.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[3]",
+    "idxpath": "//*[@id='header']/div[1]/div[3]/div[1]/a[3]",
+    "area": 1568,
+    "shape": 612,
+    "visibleText": [
+      "sweter",
+      "women"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 468,
+      "y": 103,
+      "width": 98,
+      "height": 16
+    },
+    "classList": [],
+    "neighborText": [
+      "ajax",
+      "2020",
+      "2021",
+      "kids",
+      "pyama",
+      "woman",
+      "set",
+      "New",
+      "User",
+      "Zone"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gcp/ae/channel/ae/accelerate/upr?wh_pid=ae/daily/ae/ns_dailypromo12/_Christmas_party&wh_weex=true&_immersiveMode=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[10]/a[1]",
+    "area": 11696,
+    "shape": 4047,
+    "isButton": false,
+    "location": {
+      "x": 3031,
+      "y": 318,
+      "width": 688,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/w/wholesale-pyama-woman-set.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[4]",
+    "idxpath": "//*[@id='header']/div[1]/div[3]/div[1]/a[4]",
+    "area": 1888,
+    "shape": 737,
+    "visibleText": [
+      "pyama",
+      "woman",
+      "set"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 567,
+      "y": 103,
+      "width": 118,
+      "height": 16
+    },
+    "classList": [],
+    "neighborText": [
+      "sweter",
+      "women"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[2]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "//*[@id='redesign-new-for-you']/div[1]/div[1]/h3[1]",
+    "area": 1940,
+    "shape": 485,
+    "visibleText": [
+      "New",
+      "Arrivals"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 672,
+      "y": 1259,
+      "width": 97,
+      "height": 20
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/span[1]",
+    "area": 1600,
+    "shape": 1600,
+    "isButton": false,
+    "location": {
+      "x": 792,
+      "y": 446,
+      "width": 160,
+      "height": 10
+    },
+    "classList": [
+      "ui-banner-slider-nav"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/w/wholesale-apple-watch-serie-5.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[5]",
+    "idxpath": "//*[@id='header']/div[1]/div[3]/div[1]/a[5]",
+    "area": 1968,
+    "shape": 768,
+    "visibleText": [
+      "apple",
+      "watch",
+      "serie",
+      "5"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 685,
+      "y": 103,
+      "width": 123,
+      "height": 16
+    },
+    "classList": [],
+    "neighborText": [
+      "All",
+      "Categories",
+      "pyama",
+      "woman",
+      "set"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/span[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/span[1]/span[1]",
+    "area": 100,
+    "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 802,
+      "y": 446,
+      "width": 10,
+      "height": 10
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[1]/div[1]/h3[1]",
+    "idxpath": "//*[@id='redesign-flash-deals']/div[1]/div[1]/h3[1]",
+    "area": 1760,
+    "shape": 440,
+    "visibleText": [
+      "Flash",
+      "Deals"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 683,
+      "width": 88,
+      "height": 20
+    },
+    "classList": [],
+    "neighborText": [
+      "Home",
+      "Improvement",
+      "&",
+      "Tools"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[9]",
+    "area": 189200,
+    "shape": 250,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 2343,
+      "y": 191,
+      "width": 688,
+      "height": 275
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[1]/span[1]",
+    "idxpath": "//*[@id='redesign-flash-deals']/div[1]/span[1]",
+    "area": 1392,
+    "shape": 241,
+    "visibleText": [
+      "View",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1148,
+      "y": 683,
+      "width": 58,
+      "height": 24
+    },
+    "classList": [
+      "view-more"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/span[4]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/span[1]/span[4]",
+    "area": 100,
+    "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 862,
+      "y": 446,
+      "width": 10,
+      "height": 10
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/span[5]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/span[1]/span[5]",
+    "area": 100,
+    "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 882,
+      "y": 446,
+      "width": 10,
+      "height": 10
+    },
+    "classList": [
+      "current"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/w/wholesale-peppa-pig.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[1]",
+    "idxpath": "//*[@id='header']/div[1]/div[3]/div[1]/a[1]",
+    "area": 1008,
+    "shape": 393,
+    "visibleText": [
+      "peppa",
+      "pig"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 279,
+      "y": 103,
+      "width": 63,
+      "height": 16
+    },
+    "classList": [],
+    "neighborText": [
+      "Smarter",
+      "Shopping,",
+      "Better",
+      "Living!",
+      "harry",
+      "potter",
+      "ajax",
+      "2020",
+      "2021",
+      "kids",
+      "Flash",
+      "Deals"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gcp/ae/channel/ae/accelerate/upr?wh_pid=ae/daily/ae/202012auto/_FA5bZ3ykMk&wh_weex=true&_immersiveMode=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "area": 11696,
+    "shape": 4047,
+    "isButton": false,
+    "location": {
+      "x": -3160,
+      "y": 318,
+      "width": 688,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/rankings_list.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/a[1]",
+    "area": 62400,
+    "shape": 2307,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 965,
+      "width": 1200,
+      "height": 52
+    },
+    "classList": [
+      "hot-zone"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/span[7]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/span[1]/span[7]",
+    "area": 100,
+    "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 922,
+      "y": 446,
+      "width": 10,
+      "height": 10
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gcp/ae/channel/ae/accelerate/upr?wh_pid=ae/daily/ae/ns_dailypromo12/_Christmas_party&wh_weex=true&_immersiveMode=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "area": 11696,
+    "shape": 4047,
+    "isButton": false,
+    "location": {
+      "x": -2472,
+      "y": 318,
+      "width": 688,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/a[1]",
+    "idxpath": "//*[@id='user-benefits']/a[1]",
+    "area": 3536,
+    "shape": 1223,
+    "isButton": false,
+    "location": {
+      "x": 999,
+      "y": 488,
+      "width": 208,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/span[8]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/span[1]/span[8]",
+    "area": 100,
+    "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 942,
+      "y": 446,
+      "width": 10,
+      "height": 10
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]/span[2]",
+    "idxpath": "//*[@id='header']/div[1]/div[1]/div[2]/a[1]/span[2]",
+    "area": 3600,
+    "shape": 1600,
+    "visibleText": [
+      "Smarter",
+      "Shopping,",
+      "Better",
+      "Living!"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 103,
+      "width": 240,
+      "height": 15
+    },
+    "classList": [
+      "logo-slogan"
+    ],
+    "neighborText": [
+      "AliExpress",
+      "peppa",
+      "pig",
+      "Categories"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/div[1]/h3[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/div[1]/h3[1]",
+    "area": 1900,
+    "shape": 475,
+    "visibleText": [
+      "Top",
+      "Ranking"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 65,
+      "y": 981,
+      "width": 95,
+      "height": 20
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gf/aipl_landing_v2/index?wx_navbar_hidden=true&wx_navbar_transparent=true&wh_weex=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/a[1]",
+    "idxpath": "//*[@id='redesign-crowd-entrance']/div[1]/a[1]",
+    "area": 116272,
+    "shape": 407,
+    "isButton": false,
+    "location": {
+      "x": 279,
+      "y": 482,
+      "width": 688,
+      "height": 169
+    },
+    "classList": [],
+    "neighborText": [
+      "Bags",
+      "&",
+      "Shoes",
+      "Toys",
+      ",",
+      "Kids",
+      "&",
+      "Babies"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/span[1]",
+    "area": 1392,
+    "shape": 241,
+    "visibleText": [
+      "View",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1148,
+      "y": 981,
+      "width": 58,
+      "height": 24
+    },
+    "classList": [
+      "view-more"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[4]",
+    "area": 189200,
+    "shape": 250,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": -1096,
+      "y": 191,
+      "width": 688,
+      "height": 275
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gcp/ae/channel/ae/accelerate/upr?wh_pid=ae/daily/ae/202011/28_cyber_monday_home&wh_weex=true&_immersiveMode=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "area": 11696,
+    "shape": 4047,
+    "isButton": false,
+    "location": {
+      "x": -1096,
+      "y": 318,
+      "width": 688,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/all-wholesale-products.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "area": 8000,
+    "shape": 500,
+    "visibleText": [
+      "Categories"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 63,
+      "y": 134,
+      "width": 200,
+      "height": 40
+    },
+    "classList": [],
+    "neighborText": [
+      "Smarter",
+      "Shopping,",
+      "Better",
+      "Living!",
+      "peppa",
+      "pig",
+      "Women's",
+      "Fashion"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gf/newarrivals20201/index?wh_weex=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='redesign-new-for-you']/div[1]/a[1]",
+    "area": 30732,
+    "shape": 1136,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 631,
+      "y": 1243,
+      "width": 591,
+      "height": 52
+    },
+    "classList": [
+      "hot-zone"
+    ],
+    "neighborText": [
+      "View",
+      "More"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[5]",
+    "area": 189200,
+    "shape": 250,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": -408,
+      "y": 191,
+      "width": 688,
+      "height": 275
+    },
+    "classList": [],
+    "neighborText": [
+      "Categories",
+      "Flash",
+      "Deals",
+      "Toys"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "id": "right-cart-num",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='right-cart-num']",
+    "area": 400,
+    "shape": 100,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1025,
+      "y": 59,
+      "width": 20,
+      "height": 20
+    },
+    "classList": [
+      "right-cart-number"
+    ],
+    "neighborText": [
+      "Wish",
+      "List"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "javascript:;",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='user-benefits']/div[1]/div[1]/a[1]",
+    "area": 2304,
+    "shape": 100,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 1079,
+      "y": 207,
+      "width": 48,
+      "height": 48
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/top_selection_pc2.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='redesign-top-selection']/div[1]/a[1]",
+    "area": 30732,
+    "shape": 1136,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 1243,
+      "width": 591,
+      "height": 52
+    },
+    "classList": [
+      "hot-zone"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[6]",
+    "area": 189200,
+    "shape": 250,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 279,
+      "y": 191,
+      "width": 688,
+      "height": 275
+    },
+    "classList": [],
+    "neighborText": [
+      "Flash",
+      "Deals",
+      "Women's",
+      "Fashion"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/w/wholesale-ajax-2020-2021-kids.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[2]",
+    "idxpath": "//*[@id='header']/div[1]/div[3]/div[1]/a[2]",
+    "area": 2000,
+    "shape": 781,
+    "visibleText": [
+      "ajax",
+      "2020",
+      "2021",
+      "kids"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 343,
+      "y": 103,
+      "width": 125,
+      "height": 16
+    },
+    "classList": [],
+    "neighborText": [
+      "harry",
+      "potter",
+      "peppa",
+      "pig"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "javascript:;",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/a[1]",
+    "idxpath": "//*[@id='user-benefits']/div[1]/div[2]/a[1]",
+    "area": 2793,
+    "shape": 773,
+    "visibleText": [
+      "Welcome",
+      "to",
+      "AliExpress"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1029,
+      "y": 262,
+      "width": 147,
+      "height": 19
+    },
+    "classList": [],
+    "neighborText": [
+      "Join"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "//*[@id='redesign-top-selection']/div[1]/div[1]/h3[1]",
+    "area": 2040,
+    "shape": 510,
+    "visibleText": [
+      "Top",
+      "Selection"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 1259,
+      "width": 102,
+      "height": 20
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gcp/ae/channel/ae/accelerate/upr?wh_pid=ae/daily/ae/ns_dailypromo12/4XGWswajEh&wh_weex=true&_immersiveMode=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "area": 11696,
+    "shape": 4047,
+    "isButton": false,
+    "location": {
+      "x": 967,
+      "y": 318,
+      "width": 688,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Welcome",
+      "to",
+      "AliExpress"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/category/7/computer-office.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]/a[1]",
+    "area": 1098,
+    "shape": 338,
+    "visibleText": [
+      "Computer"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 64,
+      "y": 296,
+      "width": 61,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Phones",
+      "&",
+      "Telecommunications",
+      "Office",
+      "Consumer",
+      "Electronics"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "//*[@id='redesign-top-selection']/div[1]/span[1]",
+    "area": 1392,
+    "shape": 241,
+    "visibleText": [
+      "View",
+      "More"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 540,
+      "y": 1259,
+      "width": 58,
+      "height": 24
+    },
+    "classList": [
+      "view-more"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[8]",
+    "area": 189200,
+    "shape": 250,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1655,
+      "y": 191,
+      "width": 688,
+      "height": 275
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://campaign.aliexpress.com/wow/gcp/ae/channel/ae/accelerate/upr?wh_pid=ae/daily/ae/202012auto/_nEdt6HrM5X&wh_weex=true&_immersiveMode=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "area": 11696,
+    "shape": 4047,
+    "isButton": false,
+    "location": {
+      "x": 1655,
+      "y": 318,
+      "width": 688,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/span[2]",
+    "idxpath": "//*[@id='user-benefits']/div[1]/div[3]/span[2]",
+    "area": 3888,
+    "shape": 300,
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1103,
+      "y": 305,
+      "width": 108,
+      "height": 36
+    },
+    "classList": [
+      "register-btn"
+    ],
+    "neighborText": [
+      "Welcome",
+      "to",
+      "AliExpress",
+      "Join"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.xiami.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[13]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[13]",
+    "area": 594,
+    "shape": 183,
+    "visibleText": [
+      "Xiami"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 991,
+      "y": 2967,
+      "width": 33,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Tmall",
+      "AliOS"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]",
+    "area": 19620,
+    "shape": 1513,
+    "visibleText": [
+      "All",
+      "Popular,",
+      "Product,",
+      "Promotion,",
+      "Low",
+      "Price,",
+      "Great",
+      "Value,",
+      "Reviews,",
+      "Blog,",
+      "Seller",
+      "Portal,",
+      "BLACK",
+      "FRIDAY"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 2949,
+      "width": 545,
+      "height": 36
+    },
+    "classList": [],
+    "neighborText": [
+      "Google",
+      "Play"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/popular.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[1]",
+    "area": 1170,
+    "shape": 361,
+    "visibleText": [
+      "All",
+      "Popular"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 2949,
+      "width": 65,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Product",
+      "Google",
+      "Play"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://wa.me/8657186563839",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[5]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[5]",
+    "area": 1024,
+    "shape": 100,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 163,
+      "y": 2677,
+      "width": 32,
+      "height": 32
+    },
+    "classList": [
+      "whatapp"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[1]",
+    "area": 3810,
+    "shape": 423,
+    "visibleText": [
+      "Google",
+      "Play"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 2995,
+      "width": 127,
+      "height": 30
+    },
+    "classList": [
+      "android-link"
+    ],
+    "neighborText": [
+      "All",
+      "Popular,",
+      "Product,",
+      "Promotion,",
+      "Low",
+      "Price,",
+      "Great",
+      "Value,",
+      "Reviews,",
+      "Blog,",
+      "Seller",
+      "Portal,",
+      "BLACK",
+      "FRIDAY",
+      "App",
+      "Store",
+      "Intellectual",
+      "Property",
+      "Protection"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://itunes.apple.com/us/app/aliexpress/id436672029",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[2]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[2]",
+    "area": 3390,
+    "shape": 376,
+    "visibleText": [
+      "App",
+      "Store"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 161,
+      "y": 2995,
+      "width": 113,
+      "height": 30
+    },
+    "classList": [
+      "iphone-link"
+    ],
+    "neighborText": [
+      "Google",
+      "Play",
+      "Promotion",
+      "Privacy",
+      "Policy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/price.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[4]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[4]",
+    "area": 1026,
+    "shape": 316,
+    "visibleText": [
+      "Low",
+      "Price"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 220,
+      "y": 2949,
+      "width": 57,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Promotion",
+      "Great",
+      "Value"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/cheap.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[5]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[5]",
+    "area": 1260,
+    "shape": 388,
+    "visibleText": [
+      "Great",
+      "Value"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 285,
+      "y": 2949,
+      "width": 70,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Reviews",
+      "Low",
+      "Price"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://portals.aliexpress.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+    "area": 1581,
+    "shape": 547,
+    "visibleText": [
+      "Affiliate",
+      "program"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 983,
+      "y": 2695,
+      "width": 93,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Transaction",
+      "Services",
+      "Agreement",
+      "Partnerships"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://helppage.aliexpress.com/buyercenter/questionList.htm?searchKey=&viewKey=1&page=1&categoryIds=9205389&banner=0",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "area": 1683,
+    "shape": 582,
+    "visibleText": [
+      "Making",
+      "payments"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 503,
+      "y": 2670,
+      "width": 99,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Affiliate",
+      "program",
+      "Shopping",
+      "with",
+      "us",
+      "Delivery",
+      "options"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://ipp.alibabagroup.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[1]",
+    "area": 2941,
+    "shape": 1017,
+    "visibleText": [
+      "Intellectual",
+      "Property",
+      "Protection"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 25,
+      "y": 3073,
+      "width": 173,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Google",
+      "Play",
+      "Privacy",
+      "Policy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://service.aliexpress.com/page/knowledge?pageId=37&category=1000022028&knowledge=1060015216&language=en",
+    "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[2]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[2]",
+    "area": 1275,
+    "shape": 441,
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 213,
+      "y": 3073,
+      "width": 75,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Intellectual",
+      "Property",
+      "Protection",
+      "App",
+      "Store",
+      "Sitemap"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?isRouter=0&viewKey=1&id=24111171&categoryIds=9205381",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "area": 1530,
+    "shape": 529,
+    "visibleText": [
+      "Delivery",
+      "options"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 503,
+      "y": 2695,
+      "width": 90,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Making",
+      "payments",
+      "Buyer",
+      "Protection"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/sitemap.html",
+    "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[3]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[3]",
+    "area": 765,
+    "shape": 264,
+    "visibleText": [
+      "Sitemap"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 302,
+      "y": 3073,
+      "width": 45,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Privacy",
+      "Policy",
+      "Terms",
+      "of",
+      "Use"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://rule.alibaba.com/rule/detail/2041.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[4]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[4]",
+    "area": 1241,
+    "shape": 429,
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 362,
+      "y": 3073,
+      "width": 73,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "User",
+      "Information",
+      "Legal",
+      "Enquiry",
+      "Guide",
+      "Sitemap"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/v8Yr8f629D.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "area": 1581,
+    "shape": 547,
+    "visibleText": [
+      "Buyer",
+      "Protection"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 503,
+      "y": 2720,
+      "width": 93,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Delivery",
+      "options"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://rule.alibaba.com/rule/detail/5038.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[5]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[5]",
+    "area": 3570,
+    "shape": 1235,
+    "visibleText": [
+      "User",
+      "Information",
+      "Legal",
+      "Enquiry",
+      "Guide"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 449,
+      "y": 3073,
+      "width": 210,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.alios.cn/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[14]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[14]",
+    "area": 576,
+    "shape": 177,
+    "visibleText": [
+      "AliOS"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1031,
+      "y": 2967,
+      "width": 32,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Xiami",
+      "1688"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "//*[@id='redesign-store-your-love']/div[1]/div[1]/h3[1]",
+    "area": 2660,
+    "shape": 665,
+    "visibleText": [
+      "Stores",
+      "You'll",
+      "Love"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 672,
+      "y": 1536,
+      "width": 133,
+      "height": 20
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.alibabagroup.com/en/global/home",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[1]",
+    "area": 2484,
+    "shape": 766,
+    "visibleText": [
+      "Alibaba",
+      "Group",
+      "Website"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 623,
+      "y": 2949,
+      "width": 138,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "AliExpress",
+      "AliTelecom"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[1]/span[1]",
+    "idxpath": "//*[@id='redesign-store-your-love']/div[1]/span[1]",
+    "area": 1392,
+    "shape": 241,
+    "visibleText": [
+      "View",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1148,
+      "y": 1536,
+      "width": 58,
+      "height": 24
+    },
+    "classList": [
+      "view-more"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.aliexpress.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[2]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[2]",
+    "area": 1098,
+    "shape": 338,
+    "visibleText": [
+      "AliExpress"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 768,
+      "y": 2949,
+      "width": 61,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Alibaba",
+      "Group",
+      "Website",
+      "Alimama",
+      "Juhuasuan"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.alimama.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[3]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[3]",
+    "area": 954,
+    "shape": 294,
+    "visibleText": [
+      "Alimama"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 836,
+      "y": 2949,
+      "width": 53,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "AliExpress",
+      "Alipay",
+      "Taobao",
+      "Marketplace"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/kr_helpcenter.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+    "area": 1632,
+    "shape": 564,
+    "visibleText": [
+      "Customer",
+      "service"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 743,
+      "y": 2670,
+      "width": 96,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Making",
+      "payments",
+      "Customer",
+      "service",
+      "Transaction",
+      "Services",
+      "Agreement"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://intl.alipay.com/index.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[4]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[4]",
+    "area": 648,
+    "shape": 200,
+    "visibleText": [
+      "Alipay"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 896,
+      "y": 2949,
+      "width": 36,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Alimama",
+      "Fliggy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://sale.aliexpress.com/download_app_guide.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[6]/p[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[6]/p[1]/a[1]",
+    "area": 1734,
+    "shape": 600,
+    "visibleText": [
+      "Download",
+      "the",
+      "app"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1049,
+      "y": 2536,
+      "width": 102,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Round-the-clock",
+      "assistance",
+      "for",
+      "a",
+      "smooth",
+      "shopping",
+      "experience.",
+      "Shop",
+      "On-The-Go"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.fliggy.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[5]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[5]",
+    "area": 594,
+    "shape": 183,
+    "visibleText": [
+      "Fliggy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 939,
+      "y": 2949,
+      "width": 33,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Alipay",
+      "Alibaba",
+      "Cloud",
+      "Tmall"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.instagram.com/aliexpress",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
+    "area": 1024,
+    "shape": 100,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 93,
+      "y": 2677,
+      "width": 32,
+      "height": 32
+    },
+    "classList": [
+      "instagram"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://rule.alibaba.com/rule/detail/2054.htm",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "area": 3026,
+    "shape": 1047,
+    "visibleText": [
+      "Transaction",
+      "Services",
+      "Agreement"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 743,
+      "y": 2695,
+      "width": 178,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Delivery",
+      "options",
+      "Customer",
+      "service",
+      "Take",
+      "our",
+      "feedback",
+      "survey"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.alibabacloud.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[6]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[6]",
+    "area": 1494,
+    "shape": 461,
+    "visibleText": [
+      "Alibaba",
+      "Cloud"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 979,
+      "y": 2949,
+      "width": 83,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Alibaba",
+      "International",
+      "Tmall"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[11]/h2[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[11]/h2[1]",
+    "area": 52800,
+    "shape": 2727,
+    "visibleText": [
+      "More",
+      "To",
+      "Love"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 2074,
+      "width": 1200,
+      "height": 44
+    },
+    "classList": [
+      "title-main"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.alibaba.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[7]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[7]",
+    "area": 2268,
+    "shape": 700,
+    "visibleText": [
+      "Alibaba",
+      "International"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1070,
+      "y": 2949,
+      "width": 126,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "1688"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.surveymonkey.com/r/?sm=9z9qYkOd%2fEnXROEaWLxcOUt4dfPTFY7TGg0vXOC6XnQ%3d",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "area": 2397,
+    "shape": 829,
+    "visibleText": [
+      "Take",
+      "our",
+      "feedback",
+      "survey"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 743,
+      "y": 2720,
+      "width": 141,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Buyer",
+      "Protection",
+      "Transaction",
+      "Services",
+      "Agreement"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://aliqin.tmall.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[8]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[8]",
+    "area": 1170,
+    "shape": 361,
+    "visibleText": [
+      "AliTelecom"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 623,
+      "y": 2967,
+      "width": 65,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "DingTalk"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "DIV",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[12]/div[1]",
+    "idxpath": "//*[@id='redesign-just-for-you']/div[1]",
+    "area": 38400,
+    "shape": 3750,
+    "visibleText": [
+      "View",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 2238,
+      "width": 1200,
+      "height": 32
+    },
+    "classList": [
+      "action-point"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.dingtalk.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[9]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[9]",
+    "area": 918,
+    "shape": 283,
+    "visibleText": [
+      "DingTalk"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 695,
+      "y": 2967,
+      "width": 51,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "AliTelecom",
+      "Juhuasuan"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://ju.taobao.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[10]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[10]",
+    "area": 1152,
+    "shape": 355,
+    "visibleText": [
+      "Juhuasuan"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 2967,
+      "width": 64,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Taobao",
+      "Marketplace",
+      "DingTalk"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.1688.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[15]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[15]",
+    "area": 522,
+    "shape": 161,
+    "visibleText": [
+      "1688"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1070,
+      "y": 2967,
+      "width": 29,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "AliOS"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.taobao.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[11]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[11]",
+    "area": 2196,
+    "shape": 677,
+    "visibleText": [
+      "Taobao",
+      "Marketplace"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 823,
+      "y": 2967,
+      "width": 122,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Tmall",
+      "Juhuasuan"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.alibabagroup.com/en/global/home",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+    "area": 1207,
+    "shape": 417,
+    "visibleText": [
+      "Partnerships"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 983,
+      "y": 2670,
+      "width": 71,
+      "height": 17
+    },
+    "classList": [],
+    "neighborText": [
+      "Customer",
+      "service",
+      "Affiliate",
+      "program"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.tmall.com/",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[12]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[12]",
+    "area": 576,
+    "shape": 177,
+    "visibleText": [
+      "Tmall"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 952,
+      "y": 2967,
+      "width": 32,
+      "height": 18
+    },
+    "classList": [],
+    "neighborText": [
+      "Taobao",
+      "Marketplace",
+      "Xiami"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.facebook.com/aliexpress",
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "area": 1024,
+    "shape": 100,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 23,
+      "y": 2677,
+      "width": 32,
+      "height": 32
+    },
+    "classList": [
+      "fb"
+    ],
+    "neighborText": [
+      "Stay",
+      "connected"
+    ],
+    "widgetId": null
+  }
+]

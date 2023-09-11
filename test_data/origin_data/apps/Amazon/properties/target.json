@@ -1,0 +1,326 @@
+[
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='nav-logo']/a[1]/span[1]",
+    "area": 2813,
+    "shape": 334,
+    "widgetId": 1,
+    "visibleText": [
+      "Amazon"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 27,
+      "y": 13,
+      "width": 97,
+      "height": 29
+    },
+    "classList": [
+      "nav-logo-base",
+      "nav-sprite"
+    ],
+    "neighborText": [
+      "search-alias=aps",
+      "Departments"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "name": "field-keywords",
+    "id": "twotabsearchtextbox",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[3]/div[1]/input[1]",
+    "idxpath": "//*[@id='twotabsearchtextbox']",
+    "area": 17754,
+    "shape": 1630,
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": 238,
+      "y": 11,
+      "width": 538,
+      "height": 33
+    },
+    "classList": [
+      "nav-input"
+    ],
+    "neighborText": [
+      "Go",
+      "EN"
+    ],
+    "visibleText": []
+  },
+  {
+    "tag": "INPUT",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[2]/div[1]/input[1]",
+    "idxpath": "//*[@id='nav-search']/form[1]/div[2]/div[1]/input[1]",
+    "area": 1575,
+    "shape": 128,
+    "widgetId": 3,
+    "visibleText": [
+      "Go"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 777,
+      "y": 11,
+      "width": 45,
+      "height": 35
+    },
+    "classList": [
+      "nav-input"
+    ],
+    "neighborText": [
+      "search-alias=aps",
+      "Hello.",
+      "Sign",
+      "inAccount",
+      "&",
+      "ListsSign",
+      "inAccount",
+      "&",
+      "Lists",
+      "EN"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='icp-nav-flyout']/span[1]",
+    "area": 2408,
+    "shape": 130,
+    "widgetId": 4,
+    "visibleText": [
+      "EN"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 761,
+      "y": 53,
+      "width": 56,
+      "height": 43
+    },
+    "classList": [
+      "icp-nav-link-inner"
+    ],
+    "neighborText": [
+      "search-alias=aps",
+      "Go",
+      "Hello.",
+      "Sign",
+      "inAccount",
+      "&",
+      "ListsSign",
+      "inAccount",
+      "&",
+      "Lists",
+      "United",
+      "States"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "nav-link-accountList",
+    "href": "https://www.amazon.com/gp/navigation/redirector.html?ie=UTF8&associationHandle=usflex%C2%A4tPageURL=https%3A%2F%2Fwww.amazon.com%2F%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[2]",
+    "idxpath": "//*[@id='nav-link-accountList']",
+    "area": 6160,
+    "shape": 318,
+    "widgetId": 5,
+    "visibleText": [
+      "Hello.",
+      "Sign",
+      "inAccount",
+      "&",
+      "ListsSign",
+      "inAccount",
+      "&",
+      "Lists"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 823,
+      "y": 53,
+      "width": 140,
+      "height": 44
+    },
+    "classList": [
+      "nav-a",
+      "nav-a-2"
+    ],
+    "neighborText": [
+      "search-alias=aps",
+      "Go",
+      "Orders",
+      "EN"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "nav-orders",
+    "href": "https://www.amazon.com/gp/css/order-history",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[3]",
+    "idxpath": "//*[@id='nav-orders']",
+    "area": 1716,
+    "shape": 253,
+    "widgetId": 6,
+    "visibleText": [
+      "Orders"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 966,
+      "y": 71,
+      "width": 66,
+      "height": 26
+    },
+    "classList": [
+      "nav-a",
+      "nav-a-2",
+      "nav-single-row-link"
+    ],
+    "neighborText": [
+      "Hello.",
+      "Sign",
+      "inAccount",
+      "&",
+      "ListsSign",
+      "inAccount",
+      "&",
+      "Lists",
+      "Try",
+      "Prime",
+      "Deal",
+      "of",
+      "the",
+      "day"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "nav-link-prime",
+    "href": "https://www.amazon.com/gp/product/B00DBYBNEE",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[4]",
+    "idxpath": "//*[@id='nav-link-prime']",
+    "area": 2522,
+    "shape": 373,
+    "widgetId": 7,
+    "visibleText": [
+      "Try",
+      "Prime"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1035,
+      "y": 71,
+      "width": 97,
+      "height": 26
+    },
+    "classList": [
+      "nav-a",
+      "nav-a-2",
+      "nav-single-row-link"
+    ],
+    "neighborText": [
+      "Hello.",
+      "Sign",
+      "inAccount",
+      "&",
+      "ListsSign",
+      "inAccount",
+      "&",
+      "Lists",
+      "Cart",
+      "Orders"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "nav-cart",
+    "href": "https://www.amazon.com/gp/cart/view.html",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[5]",
+    "idxpath": "//*[@id='nav-cart']",
+    "area": 4576,
+    "shape": 236,
+    "widgetId": 8,
+    "visibleText": [
+      "Cart"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1134,
+      "y": 53,
+      "width": 104,
+      "height": 44
+    },
+    "classList": [
+      "nav-a",
+      "nav-a-2"
+    ],
+    "neighborText": [
+      "Orders",
+      "Try",
+      "Prime"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.amazon.com/gp/goldbox",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[2]",
+    "idxpath": "//*[@id='nav-xshop']/a[2]",
+    "area": 1200,
+    "shape": 833,
+    "widgetId": 9,
+    "visibleText": [
+      "Today's",
+      "Deals"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 307,
+      "y": 76,
+      "width": 100,
+      "height": 12
+    },
+    "classList": [
+      "nav-a"
+    ],
+    "neighborText": [
+      "Your",
+      "Amazon.com",
+      "Sell",
+      "Popular",
+      "departments"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[4]",
+    "idxpath": "//*[@id='nav-xshop']/a[4]",
+    "area": 492,
+    "shape": 341,
+    "widgetId": 10,
+    "visibleText": [
+      "Sell"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 549,
+      "y": 76,
+      "width": 41,
+      "height": 12
+    },
+    "classList": [
+      "nav-a"
+    ],
+    "neighborText": [
+      "Gift",
+      "Cards",
+      "&",
+      "Registry",
+      "Help",
+      "Grocery"
+    ]
+  }
+]

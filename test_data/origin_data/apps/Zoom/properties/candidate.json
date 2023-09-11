@@ -1,0 +1,2541 @@
+[
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"header\")/div[2]/div[1]/div[1]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "imglink"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[9]",
+    "idxpath": "id(\"navbar\")/ul[1]/li[9]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[7]",
+    "idxpath": "id(\"navbar\")/ul[1]/li[7]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[2]/li[1]",
+    "idxpath": "id(\"navbar\")/ul[2]/li[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[2]/li[2]",
+    "idxpath": "id(\"navbar\")/ul[2]/li[2]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[2]/li[5]",
+    "idxpath": "id(\"navbar\")/ul[2]/li[5]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "signin"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "email",
+    "id": "email",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/input[1]",
+    "idxpath": "id(\"email\")",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "form-control",
+      "email"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/button[1]",
+    "idxpath": "id(\"signup_form_body\")/div[1]/div[1]/button[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "btn",
+      "btn-primary",
+      "btn-home",
+      "submit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[1]/a[1]",
+    "idxpath": "id(\"skiptocontent\")/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[3]/a[1]/span[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/a[1]/span[2]",
+    "idxpath": "id(\"myCarousel\")/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[2]/li[7]",
+    "idxpath": "id(\"navbar\")/ul[2]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "id": "zoomroomsMore",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[3]/p[3]",
+    "idxpath": "id(\"zoomroomsMore\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/a[2]",
+    "idxpath": "id(\"myCarousel\")/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "right",
+      "carousel-control"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[2]/li[7]/div[1]/a[1]",
+    "idxpath": "id(\"signupfree\")/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "btn",
+      "cta-bgyellow",
+      "signupfree"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/a[2]/span[1]",
+    "idxpath": "id(\"myCarousel\")/a[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "glyphicon",
+      "glyphicon-chevron-right"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/p[1]",
+    "idxpath": "id(\"screen6a_container\")/div[1]/div[1]/div[3]/div[1]/div[3]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "desc1"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/a[1]",
+    "idxpath": "id(\"myCarousel\")/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "left",
+      "carousel-control"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "home-video-link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/a[2]/span[2]",
+    "idxpath": "id(\"myCarousel\")/a[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]",
+    "idxpath": "id(\"screen6a_container\")/div[1]/div[1]/div[3]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "learn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+    "idxpath": "id(\"mainbg_container\")/div[1]/div[1]/div[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "swiper-pagination-bullet"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen6a_container\")/div[1]/div[1]/div[3]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/a[2]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "learn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/button[2]",
+    "idxpath": "id(\"mainbg_container\")/div[1]/div[1]/div[1]/button[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "swiper-pagination-bullet",
+      "swiper-pagination-bullet-active"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen6_container\")/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "id": "meetingsVideo",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"meetingsVideo\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/button[3]",
+    "idxpath": "id(\"mainbg_container\")/div[1]/div[1]/div[1]/button[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "swiper-pagination-bullet"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "id": "trustradiusMore",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/p[2]",
+    "idxpath": "id(\"trustradiusMore\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[7]/div[1]/div[1]/div[1]/div[2]/p[1]",
+    "idxpath": "id(\"screen6_container\")/div[1]/div[1]/div[1]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "name"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "id": "meetingsMore",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/p[3]",
+    "idxpath": "id(\"meetingsMore\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/button[4]",
+    "idxpath": "id(\"mainbg_container\")/div[1]/div[1]/div[1]/button[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "swiper-pagination-bullet"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "id": "g2crowdMore",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/p[3]",
+    "idxpath": "id(\"g2crowdMore\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"black-topbar\")/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/button[5]",
+    "idxpath": "id(\"mainbg_container\")/div[1]/div[1]/div[1]/button[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "swiper-pagination-bullet"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen6_container\")/div[1]/div[1]/div[2]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"screen4a_container\")/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[2]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[7]/div[1]/div[1]/div[2]/div[2]/p[1]",
+    "idxpath": "id(\"screen6_container\")/div[1]/div[1]/div[2]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "name"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[5]/div[1]/a[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[5]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[3]/a[2]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[3]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "learn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[2]/h3[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[2]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/div[2]/div[1]/p[1]",
+    "idxpath": "id(\"screen4a_container\")/div[1]/div[2]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "id": "solution",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"solution\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "dropdown",
+      "mobile-hide"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[2]/p[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[5]/h3[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[5]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "btnSolutions",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"btnSolutions\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "dropdown-toggle"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/div[2]/div[2]/p[1]",
+    "idxpath": "id(\"screen4a_container\")/div[1]/div[2]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"myCarousel\")/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "glyphicon",
+      "glyphicon-chevron-left"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[5]/p[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[5]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+    "idxpath": "id(\"btnSolutions\")/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "caret"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[2]/a[1]/span[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/div[2]/div[3]/p[1]",
+    "idxpath": "id(\"screen4a_container\")/div[1]/div[2]/div[3]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[2]/a[2]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "learn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/form[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"signup_form_body\")/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "id": "marketplaceMore",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[5]/p[2]",
+    "idxpath": "id(\"marketplaceMore\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/div[2]/div[4]/p[1]",
+    "idxpath": "id(\"screen4a_container\")/div[1]/div[2]/div[4]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/h3[1]",
+    "idxpath": "id(\"screen6a_container\")/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/div[2]/div[5]/p[1]",
+    "idxpath": "id(\"screen4a_container\")/div[1]/div[2]/div[5]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/h2[1]",
+    "idxpath": "id(\"mainbg_container\")/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[3]/div[1]/a[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[3]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[3]/p[1]",
+    "idxpath": "id(\"screen6a_container\")/div[1]/div[1]/div[1]/div[1]/div[3]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "desc1"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+    "idxpath": "id(\"myCarousel\")/div[1]/div[1]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "words"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"screen6a_container\")/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "learn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "id": "zoomroomsVideo",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[3]/p[2]",
+    "idxpath": "id(\"zoomroomsVideo\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"myCarousel\")/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "locate"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen6a_container\")/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"myCarousel\")/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "home-video-link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "btnHostMeeting",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[2]/li[2]/div[1]/a[1]",
+    "idxpath": "id(\"btnHostMeeting\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "hostmeeting"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[3]/div[2]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"screen2_container\")/div[2]/div[1]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "home-video-link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"myCarousel\")/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[2]/li[2]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"btnHostMeeting\")/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "caret"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[4]/span[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[4]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "youtube-play"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[8]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[5]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[5]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[5]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[4]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[5]",
+    "idxpath": "id(\"slideShim\")/div[3]/table[1]/tbody[1]/tr[1]/td[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[5]/span[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[5]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "facebook"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[1]/li[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"screen8_container\")/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "btn-cta",
+      "cta-bg",
+      "cta-bgwhite"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[1]/li[1]/div[1]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[1]/li[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "dropdown-toggle"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[2]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[3]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[1]/li[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[1]/li[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "no-sell-info",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/a[3]",
+    "idxpath": "id(\"no-sell-info\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[1]/li[1]/div[1]/a[1]/span[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[1]/li[1]/div[1]/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "caret"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[7]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[3]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[2]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[2]/li[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[2]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[2]/li[1]/div[1]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[2]/li[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "dropdown-toggle"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen6_container\")/div[1]/div[1]/div[3]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[2]/li[1]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[2]/li[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[4]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[4]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/ul[2]/li[1]/div[1]/a[1]/span[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/ul[2]/li[1]/div[1]/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "caret"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[1]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[3]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[1]/span[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "wordpress"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[7]/div[1]/div[1]/div[5]/div[1]/a[1]/span[1]",
+    "idxpath": "id(\"screen6_container\")/div[1]/div[1]/div[5]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[4]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[2]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[2]/span[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[2]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "linkedin"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[5]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[3]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "icon"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[3]/span[1]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[3]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "sr-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[6]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[4]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]/div[5]/div[3]/a[3]/span[2]",
+    "idxpath": "id(\"footer-new\")/div[1]/div[1]/div[5]/div[3]/a[3]/span[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "twitter"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

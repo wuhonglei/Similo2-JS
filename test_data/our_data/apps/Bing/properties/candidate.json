@@ -1,0 +1,426 @@
+[
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "hpapp"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "hp_body"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "img_cont"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "shaders"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 483840,
+    "classList": [
+      "topLeft"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 270,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 663,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 483840,
+    "classList": [
+      "topRight"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 270,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 663,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 483840,
+    "classList": [
+      "bottom"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 270,
+      "width": 1792,
+      "x": 0,
+      "y": 694
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 663,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 1382845,
+    "classList": [
+      "hpl",
+      "hp_cont"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1433,
+      "x": 179,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 148,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 10848,
+    "classList": [
+      "head_cont"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hdr']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 226,
+      "x": 179,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 470,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3696,
+    "classList": [
+      "logo_cont"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hdr']/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 154,
+      "x": 179,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 641,
+    "tag": "H1",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/header[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "scope_cont"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hdr']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 0,
+      "x": 405,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 0,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/header[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "dimmer"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 30992,
+    "classList": [
+      "sbox"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 596,
+      "x": 407,
+      "y": 193
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1146,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 23016,
+    "classList": [
+      "sb_form_q"
+    ],
+    "href": "",
+    "id": "sb_form_q",
+    "idxpath": "//*[@id='sb_form_q']",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 548,
+      "x": 407,
+      "y": 197
+    },
+    "name": "q",
+    "neighborText": [],
+    "shape": 1304,
+    "tag": "INPUT",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/form[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 667,
+    "classList": [
+      "search",
+      "icon",
+      "tooltip"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sb_form']/label[1]",
+    "isButton": false,
+    "location": {
+      "height": 23,
+      "width": 29,
+      "x": 959,
+      "y": 207
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 126,
+    "tag": "LABEL",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/form[1]/label[1]"
+  },
+  {
+    "alt": "",
+    "area": 667,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sb_form']/label[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 23,
+      "width": 29,
+      "x": 959,
+      "y": 207
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 126,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/form[1]/label[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 4768,
+    "classList": [],
+    "href": "",
+    "id": "sw_as",
+    "idxpath": "//*[@id='sw_as']",
+    "isButton": false,
+    "location": {
+      "height": 8,
+      "width": 596,
+      "x": 407,
+      "y": 237
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 7450,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/form[1]/div[1]"
+  }
+]

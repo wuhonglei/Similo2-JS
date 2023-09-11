@@ -1,0 +1,3941 @@
+[
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[2]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[1]/a[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[5]/a[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "question",
+    "id": "nav-search-mobile",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/div[1]/input[1]",
+    "idxpath": "id(\"nav-search-mobile\")",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnst",
+      "search-autocomplete"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "INPUT",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/input[1]",
+    "idxpath": "id(\"pns\")/form[1]/input[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnss"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/a[1]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[1]/div[1]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnshl"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/div[1]/a[1]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[2]/div[1]/a[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnshl"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/div[1]/a[1]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[3]/div[1]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnshl"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/div[1]/a[1]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[4]/div[1]/a[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnshl"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[5]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[5]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnhs"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+    "idxpath": "id(\"hero00WhyFidelityPricingADefaultH00PRO\")/h1[1]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-hero--msg-text-header"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1476122135908",
+    "id": "Link_1476122135908",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"Link_1476122135908\")",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"whyfid00whyfid00NCL\")/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1482434357234",
+    "id": "Link_1482434357234",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/p[2]/a[1]",
+    "idxpath": "id(\"Link_1482434357234\")",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1426132559014",
+    "id": "Link_1426132559014",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"Link_1426132559014\")",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1482509192388",
+    "id": "Link_1482509192388",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"Link_1482509192388\")",
+    "widgetId": 18,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h2[1]",
+    "idxpath": "id(\"hp-ret-score-content\")/h2[1]",
+    "widgetId": 19,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/label[1]",
+    "idxpath": "id(\"pns\")/form[1]/label[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "screen-reader-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[1]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnhs"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "pnsl",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"pnsl\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnsl"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "screen-reader-only"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "static"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "static"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "static"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]/span[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pi-nav-nowrap"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "static"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]/span[1]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pi-nav-nowrap"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]",
+    "idxpath": "id(\"pgnb\")/div[1]/div[3]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnls",
+      "last-child"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[2]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnhs"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[3]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnhs"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[4]",
+    "idxpath": "id(\"pnmm\")/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "pnhs"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "piNavSkipToContent",
+    "id": "piNavSkipToContent",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"piNavSkipToContent\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "off-screen"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "id(\"message00informational00EMSG\")/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "off-screen"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1606319261264",
+    "id": "Link_1606319261264",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"Link_1606319261264\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"hero00WhyFidelityPricingADefaultH00PRO\")/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Fidelity",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[2]",
+    "idxpath": "id(\"Fidelity\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"wealthplan00wealthplan00NCL\")/div[2]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footnotes"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Vanguard",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[5]",
+    "idxpath": "id(\"Vanguard\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1516391768242",
+    "id": "Link_1516391768242",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TR",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[2]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[1]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]/td[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "stacked-row"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/h3[1]",
+    "idxpath": "id(\"wealthplan00wealthplan00NCL\")/div[2]/div[1]/div[2]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[1]/span[1]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]/td[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "smallbold"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1529866474239",
+    "id": "Link_1529866474239",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"wealthplan00wealthplan00NCL\")/div[2]/div[1]/div[2]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1516391768242",
+    "id": "Link_1516391768242",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[1]/span[1]/a[1]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]/td[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/p[1]",
+    "idxpath": "id(\"wealthplan00wealthplan00NCL\")/div[2]/div[1]/div[2]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "footnotes"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[2]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Fidelity",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[2]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]/td[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/p[1]",
+    "idxpath": "id(\"wealthplan00wealthplan00NCL\")/div[2]/div[1]/div[2]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "TD Ameritrade",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[3]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]/td[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/p[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"todaysmarkets00chart00MKT\")/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "market-strip--summary-last-price"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Schwab",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[4]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]/td[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1516391768242",
+    "id": "Link_1516391768242",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/p[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Vanguard",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[5]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[2]/td[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/p[2]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h3[1]",
+    "idxpath": "id(\"whyfid00whyfid00NCL\")/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "name": "Value",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/button[1]",
+    "idxpath": "id(\"hp-tabs\")/div[1]/button[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "hp-tablinks",
+      "active"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TR",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1457125035524",
+    "id": "Link_1457125035524",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"whyfid00whyfid00NCL\")/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/h3[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "name": "Tools",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/button[2]",
+    "idxpath": "id(\"hp-tabs\")/div[1]/button[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "hp-tablinks"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[2]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/p[1]",
+    "idxpath": "id(\"whyfid00whyfid00NCL\")/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "name": "Service",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/button[3]",
+    "idxpath": "id(\"hp-tabs\")/div[1]/button[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "hp-tablinks"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1464882377771",
+    "id": "Link_1464882377771",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"Link_1464882377771\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "popup"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[2]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1592428419955",
+    "id": "Link_1592428419955",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/p[2]/a[1]",
+    "idxpath": "id(\"Link_1592428419955\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Fidelity",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]/td[2]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[3]/td[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1529866474239",
+    "id": "Link_1529866474239",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/h3[1]/a[1]",
+    "idxpath": "id(\"Link_1529866474239\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "TD Ameritrade",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]/td[3]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[3]/td[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"bottom00openaccount00NCL\")/div[2]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Schwab",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]/td[4]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[3]/td[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/div[1]/div[1]/div[2]/p[1]",
+    "idxpath": "id(\"bottom00openaccount00NCL\")/div[2]/div[1]/div[1]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Schwab",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[4]",
+    "idxpath": "id(\"Schwab\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "id": "Vanguard",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]/td[5]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[3]/td[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1482428714969",
+    "id": "Link_1482428714969",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/div[1]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"Link_1482428714969\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[1]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[1]/td[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "stacked-row"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[1]/span[1]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[1]/td[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "smallbold"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"todaysmarkets00chart00MKT\")/div[1]/div[1]/div[1]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "market-strip--summary-last-price"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"awardsfinra00awardsfinra00NCL\")/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[1]/span[1]/a[1]",
+    "idxpath": "id(\"Value\")/table[1]/tbody[1]/tr[1]/td[1]/span[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1516391768242",
+    "id": "Link_1516391768242",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"Link_1516391768242\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"todaysmarkets00chart00MKT\")/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "market-strip--summary-last-price"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "id": "submit-button",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[4]/div[1]/a[1]",
+    "idxpath": "id(\"submit-button\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "id(\"viewpoints00leadgen00NCL\")/div[1]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-left"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[2]/p[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "id": "email_label",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[3]/div[1]/label[1]",
+    "idxpath": "id(\"email_label\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "info-label",
+      "margin-notitle"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"viewpoints00leadgen00NCL\")/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1507038902574",
+    "id": "Link_1507038902574",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"Link_1507038902574\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]",
+    "idxpath": "id(\"viewpoints00leadgen00NCL\")/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/p[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1438689092661",
+    "id": "Link_1438689092661",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"Link_1438689092661\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/p[2]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1438689092661",
+    "id": "Link_1438689092661",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/p[2]/a[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/p[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1483741071971",
+    "id": "Link_1483741071971",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[3]/a[1]",
+    "idxpath": "id(\"Link_1483741071971\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/h3[1]",
+    "idxpath": "id(\"form-section-526-168667\")/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[1]/a[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[2]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "scl-standard",
+      "scl-center"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[2]/a[1]",
+    "idxpath": "id(\"bottompage00contact00NCL\")/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/p[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "id": "first_name_label",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]/label[1]",
+    "idxpath": "id(\"first_name_label\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "info-label",
+      "margin-notitle"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[10]/div[1]/span[1]",
+    "idxpath": "id(\"hp-HTMLbox\")/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "dropped"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "firstName",
+    "id": "first-name",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[2]/div[1]/input[1]",
+    "idxpath": "id(\"first-name\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1445543868510",
+    "id": "Link_1445543868510",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[10]/div[3]/a[1]",
+    "idxpath": "id(\"Link_1445543868510\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "emailAddress",
+    "id": "email-address",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[3]/div[2]/div[1]/input[1]",
+    "idxpath": "id(\"email-address\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "id": "last_name_label",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[2]/div[1]/label[1]",
+    "idxpath": "id(\"last_name_label\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "info-label",
+      "margin-notitle"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1445543868510",
+    "id": "Link_1445543868510",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[10]/div[4]/a[1]",
+    "idxpath": "id(\"hp-HTMLbox\")/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1445543868510",
+    "id": "Link_1445543868510",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[10]/div[5]/a[1]",
+    "idxpath": "id(\"hp-HTMLbox\")/div[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1465484612907",
+    "id": "Link_1465484612907",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[4]/a[1]",
+    "idxpath": "id(\"Link_1465484612907\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[5]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[23]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[23]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1465484612907",
+    "id": "Link_1465484612907",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[5]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1570713577629",
+    "id": "Link_1570713577629",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/strong[1]/a[1]",
+    "idxpath": "id(\"Link_1570713577629\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[3]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[6]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1465484612907",
+    "id": "Link_1465484612907",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[6]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[25]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[25]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "secure-lock-icon"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169447335",
+    "id": "Link_1326169447335",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"Link_1326169447335\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[7]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[26]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[26]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1465484612907",
+    "id": "Link_1465484612907",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[7]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[27]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[27]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[8]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1599097238493",
+    "id": "Link_1599097238493",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]",
+    "idxpath": "id(\"Link_1599097238493\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "popup"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1588622952534",
+    "id": "Link_1588622952534",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[8]/a[1]",
+    "idxpath": "id(\"Link_1588622952534\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[2]/li[3]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[2]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/h3[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[2]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--stay-connected"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[2]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[2]/li[4]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[2]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/fieldset[1]/form[1]/div[1]/label[1]",
+    "idxpath": "id(\"seoZipCodeForm\")/div[1]/label[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--zipcode"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[2]/li[4]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[2]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[9]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[9]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "INPUT",
+    "name": "startAddress",
+    "id": "seoZipCode",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/fieldset[1]/form[1]/div[2]/div[1]/input[1]",
+    "idxpath": "id(\"seoZipCode\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--text"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1600372615695",
+    "id": "Link_1600372615695",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[9]/p[1]/em[1]/strong[1]/a[1]",
+    "idxpath": "id(\"Link_1600372615695\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "popup"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[4]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "INPUT",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/fieldset[1]/form[1]/div[2]/div[1]/input[2]",
+    "idxpath": "id(\"seoZipCodeForm\")/div[2]/div[1]/input[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--btn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[10]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[10]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[2]/li[6]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[2]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--social-media-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[11]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[11]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[2]/li[6]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[2]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169985639",
+    "id": "Link_1326169985639",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"Link_1326169985639\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[2]/li[7]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[2]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--social-media-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[2]/li[7]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[2]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326170012155",
+    "id": "Link_1326170012155",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"Link_1326170012155\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--internal-list-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--social-media-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[14]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[14]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[1]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1406835875727",
+    "id": "Link_1406835875727",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"Link_1406835875727\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[15]/p[1]",
+    "idxpath": "id(\"layout-region-page-disclosure\")/div[1]/div[1]/div[1]/div[1]/div[15]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[2]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--social-media-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1532398775499",
+    "id": "Link_1532398775499",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[15]/p[1]/a[1]",
+    "idxpath": "id(\"Link_1532398775499\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[2]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1362074190425",
+    "id": "Link_1362074190425",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"Link_1362074190425\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[3]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[1]/ul[3]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--products-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--social-media-list"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[8]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items",
+      "seo-footer--last-item"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169515008",
+    "id": "Link_1326169515008",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"Link_1326169515008\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--internal-list-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169034361",
+    "id": "Link_1326169034361",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--internal-list-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1429624500877",
+    "id": "Link_1429624500877",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"Link_1429624500877\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--internal-list-items",
+      "seo-footer--last-item"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169447335",
+    "id": "Link_1326169447335",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/span[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer-copyright"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169447335",
+    "id": "Link_1326169447335",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1591910315669",
+    "id": "Link_1591910315669",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"Link_1591910315669\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169447335",
+    "id": "Link_1326169447335",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[3]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169447335",
+    "id": "Link_1326169447335",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[4]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1326169447335",
+    "id": "Link_1326169447335",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[5]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[6]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1522857718755",
+    "id": "Link_1522857718755",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"Link_1522857718755\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "Link_1349201658829",
+    "id": "Link_1349201658829",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/a[1]",
+    "idxpath": "id(\"Link_1349201658829\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[7]",
+    "idxpath": "id(\"layout-region-footer\")/div[1]/div[1]/div[1]/div[4]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "seo-footer--reserved-link-items"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "name": "share-user-screen",
+    "id": "share-user-screen",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[4]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"share-user-screen\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

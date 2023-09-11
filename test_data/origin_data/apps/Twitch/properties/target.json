@@ -1,0 +1,107 @@
+[
+  {
+    "tag": "INPUT",
+    "name": "query",
+    "id": "query",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/form[1]/input[2]",
+    "idxpath": "id(\"query\")",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "text"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "header_login",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/a[1]",
+    "idxpath": "id(\"header_login\")",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "header_signup",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/a[2]",
+    "idxpath": "id(\"header_signup\")",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "primary",
+      "last"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "id": "header_browse",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"header_browse\")",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"header_logo\")/*[local-name() = \"svg\"][1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  }
+]

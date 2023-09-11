@@ -1,0 +1,1339 @@
+[
+  {
+    "tag": "A",
+    "href": "https://oam.wellsfargo.com/oamo/identity/enrollment",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='topSearch']/ul[1]/li[1]/a[1]",
+    "area": 510,
+    "shape": 226,
+    "widgetId": 1,
+    "visibleText": [
+      "Enroll"
+    ],
+    "neighborText": [
+      "enroll",
+      "customer",
+      "service"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 674,
+      "y": 22,
+      "width": 34,
+      "height": 15
+    },
+    "classList": [
+      "signIn",
+      "signLockImg"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/help/",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='topSearch']/ul[1]/li[2]/a[1]",
+    "area": 1590,
+    "shape": 706,
+    "widgetId": 2,
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
+    "neighborText": [
+      "enroll",
+      "customer",
+      "service",
+      "atms/locations",
+      "financial",
+      "education"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 724,
+      "y": 22,
+      "width": 106,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/locator/",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='topSearch']/ul[1]/li[3]/a[1]",
+    "area": 1395,
+    "shape": 620,
+    "widgetId": 3,
+    "visibleText": [
+      "ATMs/Locations"
+    ],
+    "neighborText": [
+      "customer",
+      "service",
+      "atms/locations",
+      "español",
+      "financial",
+      "education",
+      "about",
+      "wells",
+      "fargo"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 847,
+      "y": 22,
+      "width": 93,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/spanish/",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='topSearch']/ul[1]/li[4]/a[1]",
+    "area": 690,
+    "shape": 306,
+    "widgetId": 4,
+    "visibleText": [
+      "Español"
+    ],
+    "neighborText": [
+      "atms/locations",
+      "español",
+      "search",
+      "opens",
+      "a",
+      "dialog.",
+      "search",
+      "financial",
+      "education",
+      "about",
+      "wells",
+      "fargo"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 956,
+      "y": 22,
+      "width": 46,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "BUTTON",
+    "id": "nxgSearchButton",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]",
+    "idxpath": "//*[@id='nxgSearchButton']",
+    "area": 3204,
+    "shape": 247,
+    "widgetId": 5,
+    "visibleText": [
+      "Search",
+      "Opens",
+      "a",
+      "dialog."
+    ],
+    "neighborText": [
+      "español",
+      "search",
+      "opens",
+      "a",
+      "dialog.",
+      "about",
+      "wells",
+      "fargo"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 1019,
+      "y": 10,
+      "width": 89,
+      "height": 36
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "name": "tabNavPersonal",
+    "id": "tabNavPersonal",
+    "href": "https://www.wellsfargo.com/#",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='tabNavPersonal']",
+    "area": 2044,
+    "shape": 260,
+    "widgetId": 6,
+    "visibleText": [
+      "selected",
+      "Personal"
+    ],
+    "neighborText": [
+      "selected",
+      "personal",
+      "small",
+      "business",
+      "0",
+      "banking",
+      "and",
+      "credit",
+      "cards",
+      "alerthere",
+      "for",
+      "you",
+      "–",
+      "updates",
+      "on",
+      "covid-19",
+      "assistance",
+      "services.learn",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 143,
+      "y": 71,
+      "width": 73,
+      "height": 28
+    },
+    "classList": [
+      "tabNavLink"
+    ]
+  },
+  {
+    "tag": "A",
+    "name": "tabNavSmallBusiness",
+    "id": "tabNavSmallBusiness",
+    "href": "https://www.wellsfargo.com/biz/",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='tabNavSmallBusiness']",
+    "area": 2034,
+    "shape": 627,
+    "widgetId": 7,
+    "visibleText": [
+      "Small",
+      "Business"
+    ],
+    "neighborText": [
+      "selected",
+      "personal",
+      "small",
+      "business",
+      "commercial",
+      "0",
+      "banking",
+      "and",
+      "credit",
+      "cards",
+      "loans"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 256,
+      "y": 71,
+      "width": 113,
+      "height": 18
+    },
+    "classList": [
+      "tabNavLink"
+    ]
+  },
+  {
+    "tag": "A",
+    "name": "tabNavCommercial",
+    "id": "tabNavCommercial",
+    "href": "https://www.wellsfargo.com/com/",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='tabNavCommercial']",
+    "area": 1602,
+    "shape": 494,
+    "widgetId": 8,
+    "visibleText": [
+      "Commercial"
+    ],
+    "neighborText": [
+      "small",
+      "business",
+      "commercial",
+      "0",
+      "loans",
+      "and",
+      "credit",
+      "investing",
+      "retirement"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 410,
+      "y": 71,
+      "width": 89,
+      "height": 18
+    },
+    "classList": [
+      "tabNavLink"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/financial-education/",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/nav[1]/div[2]/nav[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='headerTools']/nav[1]/ul[1]/li[1]/a[1]",
+    "area": 2295,
+    "shape": 794,
+    "widgetId": 9,
+    "visibleText": [
+      "Financial",
+      "Education"
+    ],
+    "neighborText": [
+      "customer",
+      "service",
+      "atms/locations",
+      "español",
+      "financial",
+      "education",
+      "about",
+      "wells",
+      "fargo",
+      "0",
+      "wealth",
+      "management",
+      "rewards",
+      "and",
+      "benefits"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 801,
+      "y": 72,
+      "width": 135,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/about/",
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/nav[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='headerTools']/nav[1]/ul[1]/li[2]/a[1]",
+    "area": 2142,
+    "shape": 741,
+    "widgetId": 10,
+    "visibleText": [
+      "About",
+      "Wells",
+      "Fargo"
+    ],
+    "neighborText": [
+      "atms/locations",
+      "español",
+      "search",
+      "opens",
+      "a",
+      "dialog.",
+      "search",
+      "financial",
+      "education",
+      "about",
+      "wells",
+      "fargo",
+      "0",
+      "rewards",
+      "and",
+      "benefits"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 982,
+      "y": 72,
+      "width": 126,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "id": "bankingTab",
+    "href": "https://www.wellsfargo.com/#banking",
+    "xpath": "/html[1]/body[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='bankingTab']",
+    "area": 7600,
+    "shape": 475,
+    "widgetId": 11,
+    "visibleText": [
+      "Banking",
+      "and",
+      "Credit",
+      "Cards"
+    ],
+    "neighborText": [
+      "selected",
+      "personal",
+      "small",
+      "business",
+      "0",
+      "banking",
+      "and",
+      "credit",
+      "cards",
+      "loans",
+      "alerthere",
+      "for",
+      "you",
+      "–",
+      "updates",
+      "on",
+      "covid-19",
+      "assistance",
+      "services.learn",
+      "more",
+      "alert"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 128,
+      "y": 98,
+      "width": 190,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "loansTab",
+    "href": "https://www.wellsfargo.com/#loans",
+    "xpath": "/html[1]/body[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='loansTab']",
+    "area": 5360,
+    "shape": 335,
+    "widgetId": 12,
+    "visibleText": [
+      "Loans",
+      "and",
+      "Credit"
+    ],
+    "neighborText": [
+      "small",
+      "business",
+      "commercial",
+      "0",
+      "banking",
+      "and",
+      "credit",
+      "cards",
+      "loans",
+      "investing",
+      "retirement",
+      "alerthere",
+      "for",
+      "you",
+      "–",
+      "updates",
+      "on",
+      "covid-19",
+      "assistance",
+      "services.learn",
+      "more",
+      "alert"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 324,
+      "y": 98,
+      "width": 134,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "investingTab",
+    "href": "https://www.wellsfargo.com/#investing",
+    "xpath": "/html[1]/body[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='investingTab']",
+    "area": 7600,
+    "shape": 475,
+    "widgetId": 13,
+    "visibleText": [
+      "Investing",
+      "and",
+      "Retirement"
+    ],
+    "neighborText": [
+      "commercial",
+      "0",
+      "loans",
+      "and",
+      "credit",
+      "investing",
+      "retirement",
+      "wealth",
+      "management",
+      "alerthere",
+      "for",
+      "you",
+      "–",
+      "updates",
+      "on",
+      "covid-19",
+      "assistance",
+      "services.learn",
+      "more",
+      "alert"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 463,
+      "y": 98,
+      "width": 190,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "wealthTab",
+    "href": "https://www.wellsfargo.com/#wealth",
+    "xpath": "/html[1]/body[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='wealthTab']",
+    "area": 6280,
+    "shape": 392,
+    "widgetId": 14,
+    "visibleText": [
+      "Wealth",
+      "Management"
+    ],
+    "neighborText": [
+      "financial",
+      "education",
+      "0",
+      "investing",
+      "and",
+      "retirement",
+      "wealth",
+      "management",
+      "rewards",
+      "benefits",
+      "alerthere",
+      "for",
+      "you",
+      "–",
+      "updates",
+      "on",
+      "covid-19",
+      "assistance",
+      "services.learn",
+      "more",
+      "learn"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 658,
+      "y": 98,
+      "width": 157,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
+    ]
+  },
+  {
+    "tag": "A",
+    "id": "rewardsTab",
+    "href": "https://www.wellsfargo.com/#rewards",
+    "xpath": "/html[1]/body[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "//*[@id='rewardsTab']",
+    "area": 6600,
+    "shape": 412,
+    "widgetId": 15,
+    "visibleText": [
+      "Rewards",
+      "and",
+      "Benefits"
+    ],
+    "neighborText": [
+      "financial",
+      "education",
+      "about",
+      "wells",
+      "fargo",
+      "0",
+      "wealth",
+      "management",
+      "rewards",
+      "and",
+      "benefits",
+      "alerthere",
+      "for",
+      "you",
+      "–",
+      "updates",
+      "on",
+      "covid-19",
+      "assistance",
+      "services.learn",
+      "more",
+      "learn"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 821,
+      "y": 98,
+      "width": 165,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
+    ]
+  },
+  {
+    "tag": "H2",
+    "id": "signOnHeader",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='signOnHeader']",
+    "area": 3264,
+    "shape": 1129,
+    "widgetId": 16,
+    "visibleText": [
+      "View",
+      "Your",
+      "Accounts"
+    ],
+    "neighborText": [
+      "alerthere",
+      "for",
+      "you",
+      "–",
+      "updates",
+      "on",
+      "covid-19",
+      "assistance",
+      "and",
+      "services.learn",
+      "more",
+      "alert",
+      "username"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 154,
+      "y": 222,
+      "width": 192,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='mainContent']/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]",
+    "area": 12636,
+    "shape": 975,
+    "widgetId": 17,
+    "visibleText": [
+      "Simplified",
+      "banking"
+    ],
+    "neighborText": [
+      "member",
+      "fdic",
+      "everyday",
+      "checking",
+      "provides",
+      "convenience",
+      "and",
+      "fast",
+      "access.",
+      "open",
+      "in",
+      "minutes."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 708,
+      "y": 294,
+      "width": 351,
+      "height": 36
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/checking/",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='mainContent']/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "area": 46683,
+    "shape": 263,
+    "widgetId": 18,
+    "visibleText": [
+      "Start",
+      "Now"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 708,
+      "y": 410,
+      "width": 351,
+      "height": 133
+    },
+    "classList": [
+      "c7"
+    ],
+    "neighborText": [
+      "Everyday",
+      "Checking",
+      "provides",
+      "convenience",
+      "and",
+      "fast",
+      "access.",
+      "Open",
+      "in",
+      "minutes.",
+      "item",
+      "3",
+      "of",
+      "3"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "name": "j_username",
+    "id": "userid",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/input[1]",
+    "idxpath": "//*[@id='userid']",
+    "area": 8832,
+    "shape": 383,
+    "widgetId": 19,
+    "neighborText": [
+      "view",
+      "your",
+      "accounts",
+      "username",
+      "password"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 255,
+      "width": 184,
+      "height": 48
+    },
+    "classList": [
+      "formElement",
+      "formElementText",
+      "login_field"
+    ],
+    "visibleText": []
+  },
+  {
+    "tag": "INPUT",
+    "name": "j_password",
+    "id": "password",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/form[1]/div[2]/input[1]",
+    "idxpath": "//*[@id='password']",
+    "area": 8832,
+    "shape": 383,
+    "widgetId": 20,
+    "neighborText": [
+      "username",
+      "password",
+      "on",
+      "save",
+      "usernameopens",
+      "a",
+      "dialog",
+      "opens",
+      "sign"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 315,
+      "width": 184,
+      "height": 48
+    },
+    "classList": [
+      "formElement",
+      "formElementPassword",
+      "login_field",
+      "pmask"
+    ],
+    "visibleText": []
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/form[1]/div[3]/label[1]",
+    "idxpath": "//*[@id='saveuid']/label[1]",
+    "area": 5952,
+    "shape": 581,
+    "widgetId": 21,
+    "visibleText": [
+      "Save",
+      "usernameOpens",
+      "a",
+      "dialog"
+    ],
+    "neighborText": [
+      "password",
+      "on",
+      "opens",
+      "a",
+      "dialog",
+      "sign"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 154,
+      "y": 367,
+      "width": 186,
+      "height": 32
+    },
+    "classList": [
+      "lsc"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "name": "btnSignon",
+    "id": "btnSignon",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/form[1]/div[4]/input[1]",
+    "idxpath": "//*[@id='btnSignon']",
+    "area": 7360,
+    "shape": 460,
+    "widgetId": 22,
+    "visibleText": [
+      "Sign",
+      "On"
+    ],
+    "neighborText": [
+      "on",
+      "save",
+      "usernameopens",
+      "a",
+      "dialog",
+      "opens",
+      "forgot",
+      "password/username?",
+      "enroll",
+      "now"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 158,
+      "y": 403,
+      "width": 184,
+      "height": 40
+    },
+    "classList": [
+      "c7"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/help/online-banking/sign-on-faqs/?linkLoc=signon",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/form[1]/div[5]/a[1]",
+    "idxpath": "//*[@id='frmSignon']/div[5]/a[1]",
+    "area": 2444,
+    "shape": 1446,
+    "widgetId": 23,
+    "visibleText": [
+      "Forgot",
+      "Password/Username?"
+    ],
+    "neighborText": [
+      "sign",
+      "on",
+      "forgot",
+      "password/username?",
+      "enroll",
+      "now",
+      "security",
+      "center",
+      "privacy,",
+      "cookies,",
+      "and"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 451,
+      "width": 188,
+      "height": 13
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://oam.wellsfargo.com/oamo/identity/enrollment",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "//*[@id='signUp']/a[1]",
+    "area": 3128,
+    "shape": 1082,
+    "widgetId": 24,
+    "visibleText": [
+      "Enroll",
+      "Now"
+    ],
+    "neighborText": [
+      "sign",
+      "on",
+      "forgot",
+      "password/username?",
+      "enroll",
+      "now",
+      "security",
+      "center",
+      "privacy,",
+      "cookies,",
+      "and"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 476,
+      "width": 184,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/privacy-security/fraud/?linkLoc=signon",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/a[2]",
+    "idxpath": "//*[@id='signUp']/a[2]",
+    "area": 3128,
+    "shape": 1082,
+    "widgetId": 25,
+    "visibleText": [
+      "Security",
+      "Center"
+    ],
+    "neighborText": [
+      "forgot",
+      "password/username?",
+      "enroll",
+      "now",
+      "security",
+      "center",
+      "privacy,",
+      "cookies,",
+      "and"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 493,
+      "width": 184,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/privacy-security/?linkLoc=signon",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/a[3]",
+    "idxpath": "//*[@id='signUp']/a[3]",
+    "area": 3128,
+    "shape": 1082,
+    "widgetId": 26,
+    "visibleText": [
+      "Privacy,",
+      "Cookies,",
+      "and",
+      "Security"
+    ],
+    "neighborText": [
+      "forgot",
+      "password/username?",
+      "enroll",
+      "now",
+      "security",
+      "center",
+      "privacy,",
+      "cookies,",
+      "and"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 510,
+      "width": 184,
+      "height": 17
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/mortgage/apply/prequalification/?dm=DMIWEPURGO",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[3]/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='taskbar']/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+    "area": 16262,
+    "shape": 184,
+    "widgetId": 27,
+    "visibleText": [
+      "Estimate",
+      "how",
+      "much",
+      "to",
+      "borrow"
+    ],
+    "neighborText": [
+      "estimate",
+      "how",
+      "much",
+      "to",
+      "borrow",
+      "find",
+      "your",
+      "credit",
+      "card"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 148,
+      "y": 594,
+      "width": 173,
+      "height": 94
+    },
+    "classList": [
+      "i7"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/credit-cards/find-a-credit-card/",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[3]/div[1]/ul[1]/li[2]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='taskbar']/div[1]/ul[1]/li[2]/div[1]/div[1]/a[1]",
+    "area": 12456,
+    "shape": 240,
+    "widgetId": 28,
+    "visibleText": [
+      "Find",
+      "your",
+      "credit",
+      "card"
+    ],
+    "neighborText": [
+      "estimate",
+      "how",
+      "much",
+      "to",
+      "borrow",
+      "find",
+      "your",
+      "credit",
+      "card",
+      "free",
+      "online",
+      "budgeting",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 342,
+      "y": 594,
+      "width": 173,
+      "height": 72
+    },
+    "classList": [
+      "i7"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/online-banking/my-money-map/",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[3]/div[1]/ul[1]/li[3]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='taskbar']/div[1]/ul[1]/li[3]/div[1]/div[1]/a[1]",
+    "area": 16262,
+    "shape": 184,
+    "widgetId": 29,
+    "visibleText": [
+      "Free",
+      "online",
+      "budgeting",
+      "tools"
+    ],
+    "neighborText": [
+      "item",
+      "1",
+      "of",
+      "3",
+      "-",
+      "you",
+      "are",
+      "here",
+      "2",
+      "find",
+      "your",
+      "credit",
+      "card",
+      "free",
+      "online",
+      "budgeting",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 594,
+      "width": 173,
+      "height": 94
+    },
+    "classList": [
+      "i7"
+    ]
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[3]/div[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='taskbar']/div[1]/ul[1]/li[4]",
+    "area": 21728,
+    "shape": 173,
+    "widgetId": 30,
+    "visibleText": [
+      "Find",
+      "routing",
+      "or",
+      "account",
+      "number",
+      "Routing",
+      "and",
+      "account",
+      "number",
+      "Routing",
+      "number",
+      "Account",
+      "number"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 719,
+      "y": 586,
+      "width": 194,
+      "height": 112
+    },
+    "classList": [
+      "task"
+    ],
+    "neighborText": [
+      "Free",
+      "online",
+      "budgeting",
+      "tools"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/ul[1]/li[2]/div[1]/span[1]",
+    "idxpath": "//*[@id='nbaDefault1']/div[1]/span[1]",
+    "area": 7590,
+    "shape": 358,
+    "widgetId": 31,
+    "visibleText": [
+      "Borrowing",
+      "and",
+      "Credit"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 888,
+      "y": 855,
+      "width": 165,
+      "height": 46
+    },
+    "classList": [],
+    "neighborText": []
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/ul[1]/li[3]/div[1]/span[1]",
+    "idxpath": "//*[@id='nbaDefault2']/div[1]/span[1]",
+    "area": 7498,
+    "shape": 354,
+    "widgetId": 32,
+    "visibleText": [
+      "Banking",
+      "Made",
+      "Easy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 889,
+      "y": 979,
+      "width": 163,
+      "height": 46
+    },
+    "classList": [],
+    "neighborText": []
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/ul[1]/li[4]/div[1]/span[1]",
+    "idxpath": "//*[@id='nbaDefault3']/div[1]/span[1]",
+    "area": 2277,
+    "shape": 430,
+    "widgetId": 33,
+    "visibleText": [
+      "Retirement"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 921,
+      "y": 1114,
+      "width": 99,
+      "height": 23
+    },
+    "classList": [],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/goals-credit/debt-to-income-calculator/?linkLoc=nba",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='nbaDefaultPanels1']/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/a[1]",
+    "area": 10520,
+    "shape": 657,
+    "widgetId": 35,
+    "visibleText": [
+      "Calculate",
+      "your",
+      "debt-to-income",
+      "ratio",
+      ">"
+    ],
+    "neighborText": [
+      "improve",
+      "your",
+      "credit",
+      ">",
+      "calculate",
+      "debt-to-income",
+      "ratio",
+      "consolidate",
+      "debt"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 240,
+      "y": 966,
+      "width": 263,
+      "height": 40
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/goals-credit/smarter-credit/improve-credit/?linkLoc=nba",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='nbaDefaultPanels1']/div[1]/div[1]/ul[1]/li[1]/div[1]/span[1]/a[1]",
+    "area": 3560,
+    "shape": 890,
+    "widgetId": 34,
+    "visibleText": [
+      "Improve",
+      "your",
+      "credit",
+      ">"
+    ],
+    "neighborText": [
+      "explore",
+      "your",
+      "credit",
+      "options",
+      "improve",
+      ">",
+      "calculate",
+      "debt-to-income",
+      "ratio"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 240,
+      "y": 920,
+      "width": 178,
+      "height": 20
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/goals-credit/smarter-credit/manage-your-debt/consider-debt-consolidation/?linkLoc=nba",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/span[1]/a[1]",
+    "idxpath": "//*[@id='nbaDefaultPanels1']/div[1]/div[1]/ul[1]/li[3]/div[1]/span[1]/a[1]",
+    "area": 3880,
+    "shape": 970,
+    "widgetId": 36,
+    "visibleText": [
+      "Consolidate",
+      "your",
+      "debt",
+      ">"
+    ],
+    "neighborText": [
+      "calculate",
+      "your",
+      "debt-to-income",
+      "ratio",
+      ">",
+      "consolidate",
+      "debt",
+      "go",
+      "to",
+      "borrowing",
+      "and",
+      "credit"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 240,
+      "y": 1032,
+      "width": 194,
+      "height": 20
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.wellsfargo.com/goals-credit/?linkLoc=nba",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]/p[1]/a[1]",
+    "idxpath": "//*[@id='nbaDefaultPanels1']/div[1]/div[1]/p[1]/a[1]",
+    "area": 9990,
+    "shape": 729,
+    "widgetId": 37,
+    "visibleText": [
+      "Go",
+      "to",
+      "Borrowing",
+      "and",
+      "Credit"
+    ],
+    "neighborText": [
+      "consolidate",
+      "your",
+      "debt",
+      ">",
+      "go",
+      "to",
+      "borrowing",
+      "and",
+      "credit"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 178,
+      "y": 1080,
+      "width": 270,
+      "height": 37
+    },
+    "classList": [
+      "c7"
+    ]
+  }
+]

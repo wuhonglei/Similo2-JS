@@ -1,0 +1,3724 @@
+[
+  {
+    "tag": "A",
+    "id": "ac-gn-firstfocus",
+    "href": "https://www.apple.com/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]",
+    "idxpath": "//*[@id='ac-gn-firstfocus']",
+    "area": 1584,
+    "shape": 81,
+    "widgetId": 1,
+    "visibleText": [
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 123,
+      "y": 0,
+      "width": 36,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-apple"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/mac/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[2]/a[1]",
+    "area": 1980,
+    "shape": 102,
+    "widgetId": 2,
+    "visibleText": [
+      "Mac"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 215,
+      "y": 0,
+      "width": 45,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-mac"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/ipad/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[3]/a[1]",
+    "area": 2024,
+    "shape": 104,
+    "widgetId": 3,
+    "visibleText": [
+      "iPad"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 317,
+      "y": 0,
+      "width": 46,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-ipad"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/iphone/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[4]/a[1]",
+    "area": 2816,
+    "shape": 145,
+    "widgetId": 4,
+    "visibleText": [
+      "iPhone"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 420,
+      "y": 0,
+      "width": 64,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-iphone"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/watch/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[5]/a[1]",
+    "area": 2596,
+    "shape": 134,
+    "widgetId": 5,
+    "visibleText": [
+      "Watch"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 540,
+      "y": 0,
+      "width": 59,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-watch"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/tv/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[6]/a[1]",
+    "area": 1628,
+    "shape": 84,
+    "widgetId": 6,
+    "visibleText": [
+      "TV"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 657,
+      "y": 0,
+      "width": 37,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-tv"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/music/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[7]/a[1]",
+    "area": 2508,
+    "shape": 129,
+    "widgetId": 7,
+    "visibleText": [
+      "Music"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 751,
+      "y": 0,
+      "width": 57,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-music"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://support.apple.com/",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[8]/a[1]",
+    "area": 3168,
+    "shape": 163,
+    "widgetId": 8,
+    "visibleText": [
+      "Support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 864,
+      "y": 0,
+      "width": 72,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-support"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[9]",
+    "area": 1672,
+    "shape": 86,
+    "widgetId": 9,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 992,
+      "y": 0,
+      "width": 38,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-item",
+      "ac-gn-item-menu",
+      "ac-gn-search"
+    ],
+    "neighborText": [
+      "Learn",
+      "more"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/bag",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/div[1]/a[1]",
+    "idxpath": "//*[@id='ac-gn-bag']/div[1]/a[1]",
+    "area": 1628,
+    "shape": 84,
+    "widgetId": 10,
+    "visibleText": [
+      "Shopping",
+      "Bag"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1086,
+      "y": 0,
+      "width": 37,
+      "height": 44
+    },
+    "classList": [
+      "ac-gn-link",
+      "ac-gn-link-bag"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]/span[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[2]/a[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Mac"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 225,
+      "y": 22,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "ac-gn-link-text"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]/span[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[3]/a[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "iPad"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 327,
+      "y": 22,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "ac-gn-link-text"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='ac-gn-firstfocus']/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 22,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "ac-gn-link-text"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]/span[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[4]/a[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "iPhone"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 430,
+      "y": 22,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "ac-gn-link-text"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/h1[1]",
+    "idxpath": "/html[1]/body[1]/h1[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "visuallyhidden"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "TV"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4486,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Watch",
+      "Apple",
+      "Arcade",
+      "Music"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/music/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "area": 462,
+    "shape": 235,
+    "visibleText": [
+      "Music"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4512,
+      "width": 33,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "TV",
+      "AirPods"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[3]",
+    "area": 24500,
+    "shape": 3920,
+    "visibleText": [
+      "3.",
+      "Apple",
+      "Fitness+",
+      "is",
+      "coming",
+      "late",
+      "2020."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4108,
+      "width": 980,
+      "height": 25
+    },
+    "classList": [],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/h4[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/h4[1]",
+    "area": 15050,
+    "shape": 1228,
+    "visibleText": [
+      "Apple",
+      "Card"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 99,
+      "y": 3440,
+      "width": 430,
+      "height": 35
+    },
+    "classList": [
+      "logo-image",
+      "logo-image-apple-card-logo",
+      "headline"
+    ],
+    "neighborText": [
+      "Get",
+      "3%",
+      "Daily",
+      "Cash",
+      "back",
+      "on",
+      "purchases",
+      "from",
+      "Apple",
+      "when",
+      "you",
+      "use",
+      "Apple",
+      "Card."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "AirPods"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4537,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Music",
+      "Apple",
+      "One",
+      "HomePod"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/airpods/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "area": 602,
+    "shape": 307,
+    "visibleText": [
+      "AirPods"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4538,
+      "width": 43,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Music",
+      "HomePod"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/tv/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+    "area": 210,
+    "shape": 107,
+    "visibleText": [
+      "TV"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4487,
+      "width": 15,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Watch",
+      "Music"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[4]",
+    "area": 40180,
+    "shape": 2390,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4134,
+      "width": 980,
+      "height": 41
+    },
+    "classList": [],
+    "neighborText": [
+      "3.",
+      "Apple",
+      "Fitness+",
+      "is",
+      "coming",
+      "late",
+      "2020."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H5",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/h5[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/h5[1]",
+    "area": 22620,
+    "shape": 371,
+    "visibleText": [
+      "Get",
+      "3%",
+      "Daily",
+      "Cash",
+      "back",
+      "on",
+      "purchases",
+      "from",
+      "Apple",
+      "when",
+      "you",
+      "use",
+      "Apple",
+      "Card."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 169,
+      "y": 3485,
+      "width": 290,
+      "height": 78
+    },
+    "classList": [
+      "subhead"
+    ],
+    "neighborText": [
+      "Apple",
+      "Card",
+      "Learn",
+      "more"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "HomePod"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4563,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "AirPods",
+      "Apple",
+      "Card",
+      "iPod",
+      "touch"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/homepod/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "area": 770,
+    "shape": 392,
+    "visibleText": [
+      "HomePod"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4564,
+      "width": 55,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "AirPods",
+      "iPod",
+      "touch"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/apple-card/",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "area": 1960,
+    "shape": 490,
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 265,
+      "y": 3575,
+      "width": 98,
+      "height": 20
+    },
+    "classList": [
+      "icon",
+      "icon-after",
+      "icon-chevronright"
+    ],
+    "neighborText": [
+      "Get",
+      "3%",
+      "Daily",
+      "Cash",
+      "back",
+      "on",
+      "purchases",
+      "from",
+      "Apple",
+      "when",
+      "you",
+      "use",
+      "Apple",
+      "Card."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://one.apple.com/us?itscg=10000&itsct=one-NA-home-tile-apl-avl-102020",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[3]/div[1]/div[1]/div[1]/div[1]/a[2]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[3]/div[1]/div[1]/div[1]/div[1]/a[2]",
+    "area": 1440,
+    "shape": 360,
+    "visibleText": [
+      "Try",
+      "it",
+      "free"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 330,
+      "y": 2957,
+      "width": 72,
+      "height": 20
+    },
+    "classList": [],
+    "neighborText": [
+      "Learn",
+      "more"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[9]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[9]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "iPod",
+      "touch"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4588,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "HomePod",
+      "Apple",
+      "Books",
+      "Accessories"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/ipod-touch/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+    "area": 840,
+    "shape": 428,
+    "visibleText": [
+      "iPod",
+      "touch"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4589,
+      "width": 60,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "HomePod",
+      "Accessories"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/iphone-12-pro/",
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/a[1]",
+    "area": 917792,
+    "shape": 169,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 1452,
+      "width": 1247,
+      "height": 736
+    },
+    "classList": [
+      "unit-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[1]/ul[1]/li[6]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[6]",
+    "area": 24500,
+    "shape": 3920,
+    "visibleText": [
+      "Available",
+      "for",
+      "qualifying",
+      "applicants",
+      "in",
+      "the",
+      "United",
+      "States."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4233,
+      "width": 980,
+      "height": 25
+    },
+    "classList": [],
+    "neighborText": [
+      "Apple",
+      "Card",
+      "is",
+      "issued",
+      "by",
+      "Goldman",
+      "Sachs",
+      "Bank",
+      "USA,",
+      "Salt",
+      "Lake",
+      "City",
+      "Branch."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/storehome",
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]/a[1]",
+    "area": 1280,
+    "shape": 500,
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 959,
+      "y": 58,
+      "width": 80,
+      "height": 16
+    },
+    "classList": [
+      "ribbon-link",
+      "icon",
+      "icon-after",
+      "icon-chevronright"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[2]",
+    "area": 55860,
+    "shape": 1719,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4051,
+      "width": 980,
+      "height": 57
+    },
+    "classList": [],
+    "neighborText": [
+      "3.",
+      "Apple",
+      "Fitness+",
+      "is",
+      "coming",
+      "late",
+      "2020."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[10]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[10]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Accessories"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4614,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "iPod",
+      "touch",
+      "App",
+      "Store",
+      "Gift",
+      "Cards"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/buy_accessories",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+    "area": 952,
+    "shape": 485,
+    "visibleText": [
+      "Accessories"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4615,
+      "width": 68,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "iPod",
+      "touch",
+      "Gift",
+      "Cards"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[1]/ul[1]/li[8]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[8]",
+    "area": 40180,
+    "shape": 2390,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4284,
+      "width": 980,
+      "height": 41
+    },
+    "classList": [],
+    "neighborText": [
+      "Available",
+      "for",
+      "qualifying",
+      "applicants",
+      "in",
+      "the",
+      "United",
+      "States.",
+      "Shop",
+      "and",
+      "Learn"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://tv.apple.com/movie/umc.cmc.4kxqi7mmx247xjrdfll0lsme1?itscg=10000&itsct=atv-0-apl_hp-pmo_wch-fireball-201019",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/a[1]",
+    "area": 377520,
+    "shape": 96,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 629,
+      "y": 3340,
+      "width": 605,
+      "height": 624
+    },
+    "classList": [
+      "unit-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/promo/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[8]/a[1]",
+    "area": 448,
+    "shape": 228,
+    "visibleText": [
+      "terms"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 318,
+      "y": 4301,
+      "width": 32,
+      "height": 14
+    },
+    "classList": [],
+    "neighborText": [
+      "Services"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[11]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[11]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Gift",
+      "Cards"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4639,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Accessories",
+      "Account"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/h3[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/h3[1]",
+    "area": 38657,
+    "shape": 4022,
+    "visibleText": [
+      "It’s",
+      "a",
+      "leap",
+      "year."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 1617,
+      "width": 1247,
+      "height": 31
+    },
+    "classList": [
+      "subhead"
+    ],
+    "neighborText": [
+      "iPhone",
+      "12",
+      "Pro",
+      "From",
+      "$41.62/mo.",
+      "or",
+      "$999",
+      "before",
+      "trade‑in.1"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/giftcards",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[11]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[11]/a[1]",
+    "area": 798,
+    "shape": 407,
+    "visibleText": [
+      "Gift",
+      "Cards"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4640,
+      "width": 57,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Accessories"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]/span[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[5]/a[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Watch"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 550,
+      "y": 22,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "ac-gn-link-text"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/product-red/",
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/a[1]",
+    "area": 917792,
+    "shape": 169,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 44,
+      "width": 1247,
+      "height": 736
+    },
+    "classList": [
+      "unit-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/apple-fitness-plus/",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/a[1]",
+    "area": 377520,
+    "shape": 96,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 629,
+      "y": 2748,
+      "width": 605,
+      "height": 624
+    },
+    "classList": [
+      "unit-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/homepod-mini/",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/div[1]/div[1]/a[1]",
+    "area": 377520,
+    "shape": 96,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 629,
+      "y": 2156,
+      "width": 605,
+      "height": 624
+    },
+    "classList": [
+      "unit-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+    "area": 13330,
+    "shape": 1387,
+    "visibleText": [
+      "Apple",
+      "TV",
+      "plus"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 717,
+      "y": 3442,
+      "width": 430,
+      "height": 31
+    },
+    "classList": [
+      "logo-image",
+      "logo-image-tv-plus-logo-light",
+      "headline"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/h4[1]",
+    "area": 18920,
+    "shape": 977,
+    "visibleText": [
+      "iPhone",
+      "12"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 99,
+      "y": 2253,
+      "width": 430,
+      "height": 44
+    },
+    "classList": [
+      "headline"
+    ],
+    "neighborText": [
+      "Blast",
+      "past",
+      "fast."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/label[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/label[1]",
+    "area": 3136,
+    "shape": 1225,
+    "visibleText": [
+      "Shop",
+      "and",
+      "Learn"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4358,
+      "width": 196,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-label"
+    ],
+    "neighborText": [
+      "Mac"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
+    "area": 6420,
+    "shape": 1605,
+    "visibleText": [
+      "From",
+      "$41.62/mo.",
+      "or",
+      "$999",
+      "before",
+      "trade‑in."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 460,
+      "y": 1664,
+      "width": 321,
+      "height": 20
+    },
+    "classList": [],
+    "neighborText": [
+      "Buy",
+      "directly",
+      "from",
+      "Apple",
+      "with",
+      "special",
+      "carrier",
+      "offers.",
+      "Learn",
+      "more"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h4[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h4[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Apple",
+      "TV",
+      "plus"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 932,
+      "y": 3442,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "visuallyhidden"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/div[1]/label[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/label[1]",
+    "area": 3136,
+    "shape": 1225,
+    "visibleText": [
+      "Services"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 329,
+      "y": 4358,
+      "width": 196,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-label"
+    ],
+    "neighborText": [
+      "terms",
+      "Apple",
+      "Music"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/span[1]",
+    "area": 9680,
+    "shape": 3781,
+    "visibleText": [
+      "Coming",
+      "late",
+      "2020"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 629,
+      "y": 2826,
+      "width": 605,
+      "height": 16
+    },
+    "classList": [
+      "violator-frameless"
+    ],
+    "neighborText": [
+      "Apple",
+      "Fitness",
+      "plus"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H5",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h5[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h5[1]",
+    "area": 40420,
+    "shape": 457,
+    "visibleText": [
+      "Fireball",
+      "Visitors",
+      "from",
+      "Darker",
+      "Worlds"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 717,
+      "y": 3537,
+      "width": 430,
+      "height": 94
+    },
+    "classList": [
+      "logo-image",
+      "logo-image-tv-plus-fireball-visitors-logo",
+      "subhead"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/div[1]/label[1]/h3[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/label[1]/h3[1]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Services"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 329,
+      "y": 4358,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-title"
+    ],
+    "neighborText": [
+      "Shop",
+      "and",
+      "Learn",
+      "terms",
+      "Apple",
+      "Store",
+      "Apple",
+      "Music"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h4[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h4[1]",
+    "area": 14190,
+    "shape": 1303,
+    "visibleText": [
+      "Apple",
+      "Fitness",
+      "plus"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 717,
+      "y": 2849,
+      "width": 430,
+      "height": 33
+    },
+    "classList": [
+      "logo-image",
+      "logo-image-apple-fitness-plus-logo",
+      "headline"
+    ],
+    "neighborText": [
+      "Coming",
+      "late",
+      "2020",
+      "A",
+      "new",
+      "fitness",
+      "experience",
+      "powered",
+      "by",
+      "Apple",
+      "Watch."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/mac/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "area": 322,
+    "shape": 164,
+    "visibleText": [
+      "Mac"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4384,
+      "width": 23,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Shop",
+      "and",
+      "Learn",
+      "iPad"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h5[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h5[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Fireball",
+      "Visitors",
+      "from",
+      "Darker",
+      "Worlds"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 932,
+      "y": 3537,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "visuallyhidden"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Apple",
+      "Music"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 329,
+      "y": 4383,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Mac",
+      "Services",
+      "Find",
+      "a",
+      "Store",
+      "Apple",
+      "TV+"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h4[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h4[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Apple",
+      "Fitness",
+      "plus"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 932,
+      "y": 2849,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "visuallyhidden"
+    ],
+    "neighborText": [
+      "A",
+      "new",
+      "fitness",
+      "experience",
+      "powered",
+      "by",
+      "Apple",
+      "Watch."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/apple-music/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "area": 966,
+    "shape": 492,
+    "visibleText": [
+      "Apple",
+      "Music"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 329,
+      "y": 4384,
+      "width": 69,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Mac",
+      "Services",
+      "Apple",
+      "TV+"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/iphone-12-pro/",
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "area": 2900,
+    "shape": 464,
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 518,
+      "y": 1727,
+      "width": 116,
+      "height": 25
+    },
+    "classList": [
+      "icon",
+      "icon-after",
+      "icon-chevronright"
+    ],
+    "neighborText": [
+      "From",
+      "$41.62/mo.",
+      "or",
+      "$999",
+      "before",
+      "trade‑in.",
+      "Buy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "iPad"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4409,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Mac",
+      "Apple",
+      "TV+",
+      "iPhone"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H5",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h5[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h5[1]",
+    "area": 15600,
+    "shape": 576,
+    "visibleText": [
+      "A",
+      "new",
+      "fitness",
+      "experience",
+      "powered",
+      "by",
+      "Apple",
+      "Watch."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 782,
+      "y": 2893,
+      "width": 300,
+      "height": 52
+    },
+    "classList": [
+      "subhead"
+    ],
+    "neighborText": [
+      "Apple",
+      "Fitness",
+      "plus",
+      "Learn",
+      "more"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/ipad/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "area": 336,
+    "shape": 171,
+    "visibleText": [
+      "iPad"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4410,
+      "width": 24,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Mac",
+      "iPhone"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/buy_iphone/iphone_12_pro",
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[2]",
+    "area": 1250,
+    "shape": 200,
+    "visibleText": [
+      "Buy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 674,
+      "y": 1727,
+      "width": 50,
+      "height": 25
+    },
+    "classList": [
+      "icon",
+      "icon-after",
+      "icon-chevronright"
+    ],
+    "neighborText": [
+      "Learn",
+      "more"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Music"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4511,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "TV",
+      "iCloud",
+      "AirPods"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Apple",
+      "TV+"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 329,
+      "y": 4409,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "iPad",
+      "Apple",
+      "Music",
+      "Shop",
+      "Online",
+      "Apple",
+      "Fitness+"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://tv.apple.com/movie/umc.cmc.4kxqi7mmx247xjrdfll0lsme1?itscg=10000&itsct=atv-0-apl_hp-pmo_wch-fireball-201019",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "area": 2180,
+    "shape": 545,
+    "visibleText": [
+      "Watch",
+      "now"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 877,
+      "y": 3889,
+      "width": 109,
+      "height": 20
+    },
+    "classList": [
+      "icon",
+      "icon-after",
+      "icon-playsolid"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/apple-tv-plus/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "area": 812,
+    "shape": 414,
+    "visibleText": [
+      "Apple",
+      "TV+"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 329,
+      "y": 4410,
+      "width": 58,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "iPad",
+      "Apple",
+      "Music",
+      "Apple",
+      "Fitness+"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/apple-fitness-plus/",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "area": 1960,
+    "shape": 490,
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 821,
+      "y": 2957,
+      "width": 98,
+      "height": 20
+    },
+    "classList": [
+      "icon",
+      "icon-after",
+      "icon-chevronright"
+    ],
+    "neighborText": [
+      "A",
+      "new",
+      "fitness",
+      "experience",
+      "powered",
+      "by",
+      "Apple",
+      "Watch.",
+      "Notify",
+      "me"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "iPhone"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4435,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "iPad",
+      "Apple",
+      "Fitness+",
+      "Watch"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/iphone/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "area": 532,
+    "shape": 271,
+    "visibleText": [
+      "iPhone"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4436,
+      "width": 38,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "iPad",
+      "Watch"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/#notify-me-modal",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/div[1]/a[2]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/div[1]/a[2]",
+    "area": 1720,
+    "shape": 430,
+    "visibleText": [
+      "Notify",
+      "me"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 953,
+      "y": 2957,
+      "width": 86,
+      "height": 20
+    },
+    "classList": [
+      "icon",
+      "icon-after",
+      "icon-chevronright",
+      "notify-me-button"
+    ],
+    "neighborText": [
+      "Learn",
+      "more"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]/span[1]",
+    "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[8]/a[1]/span[1]",
+    "area": 1,
+    "shape": 100,
+    "visibleText": [
+      "Support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 874,
+      "y": 22,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "ac-gn-link-text"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/gifts",
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[1]/a[1]",
+    "area": 917792,
+    "shape": 169,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 748,
+      "width": 1247,
+      "height": 736
+    },
+    "classList": [
+      "unit-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Watch"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4460,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "iPhone",
+      "Apple",
+      "News+",
+      "TV"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/watch/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "area": 490,
+    "shape": 250,
+    "visibleText": [
+      "Watch"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4461,
+      "width": 35,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "iPhone",
+      "TV"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[1]/ul[1]/li[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[1]",
+    "area": 55860,
+    "shape": 1719,
+    "visibleText": [
+      "0"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 3993,
+      "width": 980,
+      "height": 57
+    },
+    "classList": [],
+    "neighborText": [
+      "Apple",
+      "Footer"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/apple-one/",
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[3]/div[1]/div[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[3]/div[1]/div[1]/a[1]",
+    "area": 377520,
+    "shape": 96,
+    "visibleText": [],
+    "isButton": false,
+    "location": {
+      "x": 12,
+      "y": 2748,
+      "width": 605,
+      "height": 624
+    },
+    "classList": [
+      "unit-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[1]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Newsroom"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4577,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "For",
+      "Healthcare",
+      "About",
+      "Apple",
+      "Apple",
+      "Leadership"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/leadership/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[2]/a[1]",
+    "area": 1372,
+    "shape": 700,
+    "visibleText": [
+      "Apple",
+      "Leadership"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4604,
+      "width": 98,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "in",
+      "Healthcare",
+      "Newsroom",
+      "Job",
+      "Opportunities"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[2]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Shop",
+      "Online"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4409,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Apple",
+      "TV+",
+      "Find",
+      "a",
+      "Store",
+      "Shop",
+      "for",
+      "Business",
+      "Genius",
+      "Bar"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/shop",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
+    "area": 952,
+    "shape": 485,
+    "visibleText": [
+      "Shop",
+      "Online"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4410,
+      "width": 68,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "TV+",
+      "Find",
+      "a",
+      "Store",
+      "Genius",
+      "Bar"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[3]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Job",
+      "Opportunities"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4628,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Health",
+      "on",
+      "Apple",
+      "Watch",
+      "Apple",
+      "Leadership",
+      "Investors"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/jobs/us/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[3]/a[1]",
+    "area": 1414,
+    "shape": 721,
+    "visibleText": [
+      "Job",
+      "Opportunities"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4629,
+      "width": 101,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Health",
+      "on",
+      "Apple",
+      "Watch",
+      "Apple",
+      "Leadership",
+      "Investors"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/newsroom/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[1]/a[1]",
+    "area": 840,
+    "shape": 428,
+    "visibleText": [
+      "Newsroom"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4578,
+      "width": 60,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "For",
+      "Healthcare",
+      "About",
+      "Apple",
+      "Apple",
+      "Leadership"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[3]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Genius",
+      "Bar"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4435,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Apple",
+      "Fitness+",
+      "Shop",
+      "Online",
+      "For",
+      "Education",
+      "Today",
+      "at",
+      "Apple"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/retail/geniusbar/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[3]/a[1]",
+    "area": 854,
+    "shape": 435,
+    "visibleText": [
+      "Genius",
+      "Bar"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4436,
+      "width": 61,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "Fitness+",
+      "Shop",
+      "Online",
+      "Today",
+      "at",
+      "Apple"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[4]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[4]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Investors"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4654,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Health",
+      "Records",
+      "on",
+      "iPhone",
+      "Job",
+      "Opportunities",
+      "Events"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://investor.apple.com/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[4]/a[1]",
+    "area": 714,
+    "shape": 364,
+    "visibleText": [
+      "Investors"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4655,
+      "width": 51,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Health",
+      "Records",
+      "on",
+      "iPhone",
+      "Job",
+      "Opportunities",
+      "Events"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[2]/label[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/label[1]",
+    "area": 3136,
+    "shape": 1225,
+    "visibleText": [
+      "For",
+      "Education"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4449,
+      "width": 196,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-label"
+    ],
+    "neighborText": [
+      "Shop",
+      "for",
+      "Business",
+      "Apple",
+      "and",
+      "Education"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/today/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[4]/a[1]",
+    "area": 1176,
+    "shape": 600,
+    "visibleText": [
+      "Today",
+      "at",
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4461,
+      "width": 84,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "News+",
+      "Genius",
+      "Bar",
+      "Apple",
+      "Camp"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[5]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[5]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Events"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4679,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "For",
+      "Government",
+      "Investors",
+      "Contact",
+      "Apple"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/apple-events/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[5]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[5]/a[1]",
+    "area": 518,
+    "shape": 264,
+    "visibleText": [
+      "Events"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4680,
+      "width": 37,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "For",
+      "Government",
+      "Investors",
+      "Contact",
+      "Apple"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/label[1]/h3[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/label[1]/h3[1]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Apple",
+      "Values"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4358,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-title"
+    ],
+    "neighborText": [
+      "For",
+      "Business",
+      "Accessibility"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/education/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[1]/a[1]",
+    "area": 1624,
+    "shape": 828,
+    "visibleText": [
+      "Apple",
+      "and",
+      "Education"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4476,
+      "width": 116,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "Camp",
+      "For",
+      "Education",
+      "Shop",
+      "for",
+      "K-12"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[4]/label[1]/h3[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[4]/label[1]/h3[1]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "For",
+      "Government"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4683,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-title"
+    ],
+    "neighborText": [
+      "Health",
+      "Records",
+      "on",
+      "iPhone",
+      "Events",
+      "Shop",
+      "for",
+      "Government"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[6]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[6]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Contact",
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4705,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Shop",
+      "for",
+      "Government",
+      "Events"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/contact/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[6]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[6]/a[1]",
+    "area": 1120,
+    "shape": 571,
+    "visibleText": [
+      "Contact",
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4706,
+      "width": 80,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Shop",
+      "for",
+      "Government",
+      "Events"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[2]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Shop",
+      "for",
+      "K-12"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4500,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Apple",
+      "Camp",
+      "Apple",
+      "and",
+      "Education",
+      "Privacy",
+      "Shop",
+      "for",
+      "College"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/education/k12/how-to-buy/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[2]/a[1]",
+    "area": 1064,
+    "shape": 542,
+    "visibleText": [
+      "Shop",
+      "for",
+      "K-12"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4501,
+      "width": 76,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "Store",
+      "App",
+      "Apple",
+      "and",
+      "Education",
+      "Shop",
+      "for",
+      "College"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[2]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Education"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4409,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Shop",
+      "for",
+      "Business",
+      "Accessibility",
+      "Environment"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/retail/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[1]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[1]/a[1]",
+    "area": 1540,
+    "shape": 785,
+    "visibleText": [
+      "Find",
+      "an",
+      "Apple",
+      "Store"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 246,
+      "y": 4785,
+      "width": 110,
+      "height": 14
+    },
+    "classList": [],
+    "neighborText": [
+      "iCloud.com",
+      "other",
+      "retailer"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[3]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Shop",
+      "for",
+      "College"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4526,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Apple",
+      "Store",
+      "App",
+      "Shop",
+      "for",
+      "K-12",
+      "Supplier",
+      "Responsibility",
+      "For",
+      "Healthcare"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://locate.apple.com/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[1]/a[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[1]/a[2]",
+    "area": 1022,
+    "shape": 521,
+    "visibleText": [
+      "other",
+      "retailer"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 376,
+      "y": 4785,
+      "width": 73,
+      "height": 14
+    },
+    "classList": [],
+    "neighborText": [
+      "Find",
+      "an",
+      "Apple",
+      "Store",
+      "iCloud.com",
+      "Privacy",
+      "Policy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[3]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Environment"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4435,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "For",
+      "Education",
+      "Education",
+      "Inclusion",
+      "and",
+      "Diversity"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/environment/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[3]/a[1]",
+    "area": 980,
+    "shape": 500,
+    "visibleText": [
+      "Environment"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4436,
+      "width": 70,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "For",
+      "Education",
+      "Education",
+      "Inclusion",
+      "and",
+      "Diversity"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/retail/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
+    "area": 938,
+    "shape": 478,
+    "visibleText": [
+      "Find",
+      "a",
+      "Store"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4384,
+      "width": 67,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "Music",
+      "Apple",
+      "Store",
+      "Shop",
+      "Online"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[1]/span[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[1]/span[1]",
+    "area": 2288,
+    "shape": 893,
+    "visibleText": [
+      "Or",
+      "call",
+      "1-800-MY-APPLE."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 508,
+      "y": 4784,
+      "width": 143,
+      "height": 16
+    },
+    "classList": [
+      "nowrap"
+    ],
+    "neighborText": [
+      "Privacy",
+      "Policy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/payment_plan",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[8]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[8]/a[1]",
+    "area": 756,
+    "shape": 385,
+    "visibleText": [
+      "Financing"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4564,
+      "width": 54,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "Card",
+      "Refurbished",
+      "and",
+      "Clearance",
+      "Apple",
+      "Trade",
+      "In"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[4]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Inclusion",
+      "and",
+      "Diversity"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4460,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "For",
+      "Education",
+      "Environment",
+      "Privacy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/choose-country-region/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[2]/a[1]",
+    "area": 1064,
+    "shape": 542,
+    "visibleText": [
+      "United",
+      "States"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1036,
+      "y": 4819,
+      "width": 76,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-footer-locale-link"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[3]/label[1]/h3[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[3]/label[1]/h3[1]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "For",
+      "Healthcare"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4566,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-title"
+    ],
+    "neighborText": [
+      "Financing",
+      "Shop",
+      "for",
+      "College",
+      "About",
+      "Apple",
+      "Apple",
+      "in",
+      "Healthcare"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/trade_in",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[9]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[9]/a[1]",
+    "area": 1134,
+    "shape": 578,
+    "visibleText": [
+      "Apple",
+      "Trade",
+      "In"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4589,
+      "width": 81,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "Books",
+      "Financing",
+      "Order",
+      "Status"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[5]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[5]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Privacy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4486,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Apple",
+      "and",
+      "Education",
+      "Inclusion",
+      "and",
+      "Diversity",
+      "Supplier",
+      "Responsibility"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/privacy/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[5]/a[1]",
+    "area": 574,
+    "shape": 292,
+    "visibleText": [
+      "Privacy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4487,
+      "width": 41,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "Apple",
+      "and",
+      "Education",
+      "Inclusion",
+      "and",
+      "Diversity",
+      "Supplier",
+      "Responsibility"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "DIV",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[3]/div[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[1]",
+    "area": 4336,
+    "shape": 1693,
+    "visibleText": [
+      "Copyright",
+      "©",
+      "2020",
+      "Apple",
+      "Inc.",
+      "All",
+      "rights",
+      "reserved."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 133,
+      "y": 4818,
+      "width": 271,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-footer-legal-copyright"
+    ],
+    "neighborText": [
+      "Find",
+      "an",
+      "Apple",
+      "Store",
+      "Privacy",
+      "Policy"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/order/list",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[10]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[10]/a[1]",
+    "area": 1008,
+    "shape": 514,
+    "visibleText": [
+      "Order",
+      "Status"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4615,
+      "width": 72,
+      "height": 14
+    },
+    "classList": [
+      "ac-gf-directory-column-section-link"
+    ],
+    "neighborText": [
+      "App",
+      "Store",
+      "Apple",
+      "Trade",
+      "In",
+      "Shopping",
+      "Help"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[2]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Apple",
+      "Leadership"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4603,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Apple",
+      "in",
+      "Healthcare",
+      "Newsroom",
+      "Job",
+      "Opportunities"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[6]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[6]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Supplier",
+      "Responsibility"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4511,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Shop",
+      "for",
+      "K-12",
+      "Privacy",
+      "About",
+      "Apple"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/legal/privacy/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[3]/div[2]/a[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[1]",
+    "area": 1424,
+    "shape": 556,
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 435,
+      "y": 4818,
+      "width": 89,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-footer-legal-link"
+    ],
+    "neighborText": [
+      "Copyright",
+      "©",
+      "2020",
+      "Apple",
+      "Inc.",
+      "All",
+      "rights",
+      "reserved.",
+      "Or",
+      "call",
+      "1-800-MY-APPLE.",
+      "Terms",
+      "of",
+      "Use"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[11]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[11]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Shopping",
+      "Help"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 525,
+      "y": 4639,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Account",
+      "Order",
+      "Status",
+      "Health",
+      "Records",
+      "on",
+      "iPhone"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/legal/internet-services/terms/site.html",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[3]/div[2]/a[2]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[2]",
+    "area": 1360,
+    "shape": 531,
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 535,
+      "y": 4818,
+      "width": 85,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-footer-legal-link"
+    ],
+    "neighborText": [
+      "Privacy",
+      "Policy",
+      "Or",
+      "call",
+      "1-800-MY-APPLE.",
+      "Sales",
+      "and",
+      "Refunds"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/div[3]/ul[1]/li[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[3]/ul[1]/li[3]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "Health",
+      "Records",
+      "on",
+      "iPhone"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 4643,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-item"
+    ],
+    "neighborText": [
+      "Shopping",
+      "Help",
+      "Health",
+      "on",
+      "Apple",
+      "Watch",
+      "Job",
+      "Opportunities",
+      "For",
+      "Government"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/us/shop/goto/help/sales_refunds",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[3]/div[2]/a[3]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[3]",
+    "area": 1840,
+    "shape": 718,
+    "visibleText": [
+      "Sales",
+      "and",
+      "Refunds"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 631,
+      "y": 4818,
+      "width": 115,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-footer-legal-link"
+    ],
+    "neighborText": [
+      "Legal",
+      "Terms",
+      "of",
+      "Use"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LABEL",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/label[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/label[1]",
+    "area": 3136,
+    "shape": 1225,
+    "visibleText": [
+      "About",
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4551,
+      "width": 196,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-label"
+    ],
+    "neighborText": [
+      "Supplier",
+      "Responsibility",
+      "Newsroom"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/legal/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[3]/div[2]/a[4]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[4]",
+    "area": 656,
+    "shape": 256,
+    "visibleText": [
+      "Legal"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 757,
+      "y": 4818,
+      "width": 41,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-footer-legal-link"
+    ],
+    "neighborText": [
+      "Sales",
+      "and",
+      "Refunds",
+      "Site",
+      "Map"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[5]/div[2]/label[1]/h3[1]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/label[1]/h3[1]",
+    "area": 2816,
+    "shape": 1100,
+    "visibleText": [
+      "About",
+      "Apple"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 917,
+      "y": 4551,
+      "width": 176,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-directory-column-section-title"
+    ],
+    "neighborText": [
+      "For",
+      "Healthcare",
+      "Supplier",
+      "Responsibility",
+      "Newsroom"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.apple.com/sitemap/",
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/section[2]/div[3]/div[2]/a[5]",
+    "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[5]",
+    "area": 784,
+    "shape": 306,
+    "visibleText": [
+      "Site",
+      "Map"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 809,
+      "y": 4818,
+      "width": 49,
+      "height": 16
+    },
+    "classList": [
+      "ac-gf-footer-legal-link"
+    ],
+    "neighborText": [
+      "Legal"
+    ],
+    "widgetId": null
+  }
+]

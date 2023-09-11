@@ -1,0 +1,4688 @@
+[
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/business",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/div[1]/nav[1]/a[1]",
+    "area": 11440,
+    "shape": 715,
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": 20,
+      "y": 20,
+      "width": 286,
+      "height": 40
+    },
+    "classList": [
+      "arbor-super-nav__logo-link"
+    ],
+    "neighborText": [],
+    "visibleText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://web.archive.org/business/plans-comparison",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/div[1]/nav[1]/div[1]/a[1]",
+    "area": 5088,
+    "shape": 496,
+    "widgetId": 2,
+    "visibleText": [
+      "Start",
+      "your",
+      "free",
+      "trial"
+    ],
+    "neighborText": [
+      "start",
+      "your",
+      "free",
+      "trial"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1023,
+      "y": 24,
+      "width": 159,
+      "height": 32
+    },
+    "classList": [
+      "arbor-button",
+      "arbor-button--standard-padding",
+      "arbor-button--micro-size",
+      "arbor-button--panda-white",
+      "arbor-button--touch-device",
+      "arbor-super-nav__cta"
+    ]
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/div[1]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/div[1]/nav[1]/div[1]/button[1]",
+    "area": 576,
+    "shape": 100,
+    "widgetId": 3,
+    "neighborText": [
+      "start",
+      "your",
+      "free",
+      "trial"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 1203,
+      "y": 28,
+      "width": 24,
+      "height": 24
+    },
+    "classList": [
+      "arbor-super-nav__links-toggle"
+    ],
+    "visibleText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/business/plans-comparison",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+    "area": 8800,
+    "shape": 454,
+    "widgetId": 4,
+    "visibleText": [
+      "Start",
+      "your",
+      "free",
+      "trial"
+    ],
+    "neighborText": [
+      "start",
+      "your",
+      "free",
+      "trial",
+      "cancel",
+      "anytime"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 51,
+      "y": 562,
+      "width": 200,
+      "height": 44
+    },
+    "classList": [
+      "arbor-button",
+      "arbor-button--standard-wide-padding",
+      "arbor-button--standard-size",
+      "arbor-button--dbx-blue",
+      "arbor-button--touch-device",
+      "business-hero__button",
+      "business-hero__button--show-subtext"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/basic",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[2]/span[2]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[1]/div[1]/div[2]/div[1]/div[2]/span[2]/a[1]",
+    "area": 2057,
+    "shape": 711,
+    "widgetId": 5,
+    "visibleText": [
+      "get",
+      "Dropbox",
+      "Basic"
+    ],
+    "neighborText": [
+      "cancel",
+      "anytime",
+      "or",
+      "get",
+      "dropbox",
+      "basic"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 69,
+      "y": 669,
+      "width": 121,
+      "height": 17
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-black",
+      "arbor-link--small",
+      "arbor-link--text-style",
+      "business-hero__link",
+      "arbor-link--touch-device"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='plans']/section[1]/div[1]/div[1]/h2[1]",
+    "area": 40894,
+    "shape": 1932,
+    "widgetId": 6,
+    "visibleText": [
+      "Find",
+      "the",
+      "Dropbox",
+      "Business",
+      "plan",
+      "for",
+      "you"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 1035,
+      "width": 889,
+      "height": 46
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-headline--22",
+      "arbor-headline--title-2",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": []
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[1]/div[1]/div[2]/div[1]/span[1]",
+    "idxpath": "//*[@id='plans']/section[1]/div[1]/div[2]/div[1]/span[1]",
+    "area": 3042,
+    "shape": 450,
+    "widgetId": 7,
+    "visibleText": [
+      "Billed",
+      "monthly"
+    ],
+    "neighborText": [
+      "billed",
+      "yearly"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 128,
+      "y": 1131,
+      "width": 117,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "arbor-radio__text"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[1]/div[1]/div[2]/div[2]/span[1]",
+    "idxpath": "//*[@id='plans']/section[1]/div[1]/div[2]/div[2]/span[1]",
+    "area": 2600,
+    "shape": 384,
+    "widgetId": 8,
+    "visibleText": [
+      "Billed",
+      "yearly"
+    ],
+    "neighborText": [
+      "billed",
+      "monthly"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 291,
+      "y": 1131,
+      "width": 100,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "arbor-radio__text"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "area": 7712,
+    "shape": 753,
+    "widgetId": 9,
+    "visibleText": [
+      "Professional"
+    ],
+    "neighborText": [
+      "individual",
+      "$19.99",
+      "/",
+      "month"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1275,
+      "width": 241,
+      "height": 32
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--small",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "area": 7712,
+    "shape": 753,
+    "widgetId": 10,
+    "visibleText": [
+      "Standard"
+    ],
+    "neighborText": [
+      "team",
+      "$15",
+      "/",
+      "user",
+      "month,"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1275,
+      "width": 241,
+      "height": 32
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--small",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ]
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[1]/div[1]/h2[1]",
+    "area": 7712,
+    "shape": 753,
+    "widgetId": 11,
+    "visibleText": [
+      "Advanced"
+    ],
+    "neighborText": [
+      "team",
+      "$25",
+      "/",
+      "user",
+      "month,"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1275,
+      "width": 241,
+      "height": 32
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--small",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ]
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/a[1]/div[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='component4826377973857554580']/div[1]/nav[1]/a[1]/div[1]/*[local-name() = \"svg\"][1]",
+    "area": 1600,
+    "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 20,
+      "y": 20,
+      "width": 40,
+      "height": 40
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/nav[1]/a[1]/div[1]/div[1]/*[local-name() = \"svg\"][2]",
+    "idxpath": "//*[@id='component4826377973857554580']/div[1]/nav[1]/a[1]/div[1]/div[1]/*[local-name() = \"svg\"][2]",
+    "area": 9840,
+    "shape": 615,
+    "isButton": false,
+    "location": {
+      "x": 60,
+      "y": 20,
+      "width": 246,
+      "height": 40
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[1]/h1[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[1]/div[1]/div[1]/h1[1]",
+    "area": 246888,
+    "shape": 529,
+    "visibleText": [
+      "Everything",
+      "you",
+      "need",
+      "for",
+      "work,",
+      "all",
+      "in",
+      "one",
+      "place"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 51,
+      "y": 130,
+      "width": 1143,
+      "height": 216
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-headline--22",
+      "arbor-headline--title-1",
+      "arbor-foreground-color--black-cherry",
+      "arbor-headline--semibold"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[1]/div[1]/div[2]/p[1]",
+    "area": 48516,
+    "shape": 199,
+    "isButton": false,
+    "location": {
+      "x": 51,
+      "y": 376,
+      "width": 311,
+      "height": 156
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-bottom-margin--medium",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "Start",
+      "your",
+      "free",
+      "trial"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[2]/span[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[1]/div[1]/div[2]/div[1]/div[2]/span[1]",
+    "area": 2163,
+    "shape": 490,
+    "visibleText": [
+      "Cancel",
+      "anytime"
+    ],
+    "neighborText": [
+      "start",
+      "your",
+      "free",
+      "trial",
+      "or",
+      "get",
+      "dropbox",
+      "basic"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 51,
+      "y": 616,
+      "width": 103,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--micro",
+      "arbor-foreground-color--panda-black",
+      "business-hero__subtext"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/div[1]/div[2]/span[2]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[1]/div[1]/div[2]/div[1]/div[2]/span[2]",
+    "area": 2898,
+    "shape": 657,
+    "visibleText": [
+      "or",
+      "get",
+      "Dropbox",
+      "Basic"
+    ],
+    "neighborText": [
+      "cancel",
+      "anytime",
+      "get",
+      "dropbox",
+      "basic"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 51,
+      "y": 667,
+      "width": 138,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--medium",
+      "arbor-foreground-color--panda-black",
+      "business-hero__link-text"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[1]/div[1]/div[2]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[1]/div[1]/div[2]/button[1]",
+    "area": 1080,
+    "shape": 67,
+    "isButton": true,
+    "location": {
+      "x": 51,
+      "y": 738,
+      "width": 27,
+      "height": 40
+    },
+    "classList": [
+      "business-hero__waypoint"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[1]/div[1]/p[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[1]/div[1]/p[2]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "starting",
+      "at",
+      "3",
+      "users"
+    ],
+    "neighborText": [
+      "$25",
+      "/",
+      "user",
+      "month,",
+      "3+",
+      "users"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1374,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-foreground-color--shark"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[3]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[3]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "advanced",
+      "admin",
+      "controls",
+      "tiered",
+      "roles",
+      "single",
+      "sign",
+      "on",
+      "(sso)",
+      "integration"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 872,
+      "y": 1887,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[3]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[3]/div[1]/p[1]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "or",
+      "purchase",
+      "now"
+    ],
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "14",
+      "days",
+      "purchase",
+      "now"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1685,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[1]/div[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[1]/div[1]/div[1]/h2[1]",
+    "area": 59708,
+    "shape": 705,
+    "visibleText": [
+      "More",
+      "than",
+      "500,000",
+      "teams",
+      "use",
+      "Dropbox",
+      "Business"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 3789,
+      "width": 649,
+      "height": 92
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-bottom-margin--medium",
+      "arbor-headline--22",
+      "arbor-headline--title-2",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "Learn",
+      "more",
+      "about",
+      "our",
+      "customers"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[1]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[1]/p[1]",
+    "area": 39390,
+    "shape": 233,
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 2924,
+      "width": 303,
+      "height": 130
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "Centralize",
+      "team",
+      "content"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://web.archive.org/business/customers",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[1]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[1]/div[1]/div[1]/a[1]",
+    "area": 4464,
+    "shape": 1743,
+    "visibleText": [
+      "Learn",
+      "more",
+      "about",
+      "our",
+      "customers"
+    ],
+    "neighborText": [
+      "more",
+      "than",
+      "500,000",
+      "teams",
+      "use",
+      "dropbox",
+      "business",
+      "learn",
+      "about",
+      "our",
+      "customers"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 3911,
+      "width": 279,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--dbx-blue",
+      "arbor-link--standard",
+      "arbor-link--text-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/paper",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[1]/p[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[1]/p[1]/a[1]",
+    "area": 2480,
+    "shape": 620,
+    "visibleText": [
+      "Dropbox",
+      "Paper"
+    ],
+    "neighborText": [
+      "dropbox",
+      "paper"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 141,
+      "y": 3005,
+      "width": 124,
+      "height": 20
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-black",
+      "arbor-link--standard",
+      "arbor-link--text-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "starting",
+      "at",
+      "3",
+      "users",
+      "3+",
+      "as",
+      "much",
+      "space",
+      "your",
+      "team",
+      "needs"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1427,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "Invite",
+      "enforcement"
+    ],
+    "neighborText": [
+      "single",
+      "sign",
+      "on",
+      "(sso)",
+      "integration",
+      "priority",
+      "email,",
+      "live",
+      "chat,",
+      "and",
+      "phone",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1957,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]",
+    "area": 10122,
+    "shape": 573,
+    "visibleText": [
+      "As",
+      "much",
+      "space",
+      "as",
+      "your",
+      "team",
+      "needs"
+    ],
+    "neighborText": [
+      "3+",
+      "users",
+      "sophisticated",
+      "admin,",
+      "audit,",
+      "security,",
+      "and",
+      "integration",
+      "capabilities"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1466,
+      "width": 241,
+      "height": 42
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "single",
+      "sign",
+      "on",
+      "(sso)",
+      "integration",
+      "invite",
+      "enforcement",
+      "priority",
+      "email,",
+      "live",
+      "chat,",
+      "and",
+      "phone",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1959,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/h2[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/h2[2]",
+    "area": 6266,
+    "shape": 926,
+    "visibleText": [
+      "$15"
+    ],
+    "neighborText": [
+      "standard",
+      "/",
+      "user",
+      "month,",
+      "starting",
+      "at",
+      "3",
+      "users"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1317,
+      "width": 241,
+      "height": 26
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--nano",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--20",
+      "arbor-headline--title-5",
+      "arbor-foreground-color--panda-black",
+      "arbor-headline--medium"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "3+",
+      "users",
+      "as",
+      "much",
+      "space",
+      "your",
+      "team",
+      "needs",
+      "sophisticated",
+      "admin,",
+      "audit,",
+      "security,",
+      "and",
+      "integration",
+      "capabilities"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1468,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "single",
+      "sign",
+      "on",
+      "(sso)",
+      "integration",
+      "invite",
+      "enforcement",
+      "priority",
+      "email,",
+      "live",
+      "chat,",
+      "and",
+      "phone",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 872,
+      "y": 1959,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/p[1]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "/",
+      "user",
+      "/",
+      "month,"
+    ],
+    "neighborText": [
+      "standard",
+      "$15",
+      "starting",
+      "at",
+      "3",
+      "users"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1353,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-foreground-color--shark"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[2]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[2]/h4[1]",
+    "area": 19392,
+    "shape": 473,
+    "visibleText": [
+      "Transform",
+      "your",
+      "folders"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 471,
+      "y": 2840,
+      "width": 303,
+      "height": 64
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--medium",
+      "arbor-bottom-margin--small",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[6]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[6]",
+    "area": 10122,
+    "shape": 573,
+    "visibleText": [
+      "Priority",
+      "email,",
+      "live",
+      "chat,",
+      "and",
+      "phone",
+      "support"
+    ],
+    "neighborText": [
+      "invite",
+      "enforcement"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1993,
+      "width": 241,
+      "height": 42
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/p[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/p[1]/span[1]",
+    "area": 1220,
+    "shape": 305,
+    "neighborText": [
+      "team",
+      "standard"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 565,
+      "y": 1211,
+      "width": 61,
+      "height": 20
+    },
+    "classList": [
+      "pro-biz-plan-card__hat-icon-container"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/p[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/p[2]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "starting",
+      "at",
+      "3",
+      "users"
+    ],
+    "neighborText": [
+      "$15",
+      "/",
+      "user",
+      "month,",
+      "3+",
+      "users"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1374,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-foreground-color--shark"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[2]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[2]/p[1]",
+    "area": 47268,
+    "shape": 194,
+    "isButton": false,
+    "location": {
+      "x": 471,
+      "y": 2924,
+      "width": 303,
+      "height": 156
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "Transform",
+      "your",
+      "folders"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[6]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[6]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "invite",
+      "enforcement",
+      "priority",
+      "email,",
+      "live",
+      "chat,",
+      "and",
+      "phone",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1995,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/div[1]/p[1]",
+    "area": 4758,
+    "shape": 703,
+    "visibleText": [
+      "Individual"
+    ],
+    "neighborText": [
+      "individual",
+      "professional"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 163,
+      "y": 1208,
+      "width": 183,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "pro-biz-plan-card__hat"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "plan",
+      "highlights",
+      "send",
+      "files",
+      "up",
+      "to",
+      "100",
+      "gb",
+      "with",
+      "dropbox",
+      "transfer",
+      "mobile",
+      "offline",
+      "folders"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1815,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[1]/section[1]/div[1]/section[3]/div[1]/div[1]/figure[1]/blockquote[1]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[1]/section[1]/div[1]/section[3]/div[1]/div[1]/figure[1]/blockquote[1]/p[1]",
+    "area": 37275,
+    "shape": 338,
+    "isButton": false,
+    "location": {
+      "x": 445,
+      "y": 4158,
+      "width": 355,
+      "height": 105
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-bottom-margin--small",
+      "arbor-foreground-color--panda-black",
+      "bermuda-carousel-slide__quote"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[6]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[6]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "invite",
+      "enforcement",
+      "priority",
+      "email,",
+      "live",
+      "chat,",
+      "and",
+      "phone",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 872,
+      "y": 1995,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/div[1]/p[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/div[1]/p[1]/span[1]",
+    "area": 1880,
+    "shape": 470,
+    "neighborText": [
+      "individual",
+      "professional"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 163,
+      "y": 1211,
+      "width": 94,
+      "height": 20
+    },
+    "classList": [
+      "pro-biz-plan-card__hat-icon-container"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "plan",
+      "highlights",
+      "send",
+      "files",
+      "up",
+      "to",
+      "100",
+      "gb",
+      "with",
+      "dropbox",
+      "transfer",
+      "mobile",
+      "offline",
+      "folders"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 136,
+      "y": 1815,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "plan",
+      "highlights",
+      "single",
+      "admin",
+      "login",
+      "to",
+      "manage",
+      "multiple",
+      "teams",
+      "console",
+      "and",
+      "audit",
+      "log"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1815,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[2]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[2]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 10,
+      "y": 3987,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://web.archive.org/business/try?sku=adv",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[3]/div[1]/a[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[3]/div[1]/a[1]",
+    "area": 10604,
+    "shape": 547,
+    "visibleText": [
+      "Try",
+      "free",
+      "for",
+      "30",
+      "days"
+    ],
+    "neighborText": [
+      "sophisticated",
+      "admin,",
+      "audit,",
+      "security,",
+      "and",
+      "integration",
+      "capabilities",
+      "try",
+      "free",
+      "for",
+      "30",
+      "days",
+      "or",
+      "purchase",
+      "now"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1621,
+      "width": 241,
+      "height": 44
+    },
+    "classList": [
+      "arbor-button",
+      "arbor-button--standard-padding",
+      "arbor-button--standard-size",
+      "arbor-button--dbx-blue",
+      "arbor-button--full-width",
+      "arbor-button--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[3]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[3]/h4[1]",
+    "area": 19392,
+    "shape": 473,
+    "visibleText": [
+      "Team",
+      "collaboration,",
+      "any",
+      "time,",
+      "anywhere"
+    ],
+    "neighborText": [
+      "easily",
+      "access",
+      "your",
+      "team’s",
+      "work",
+      "from",
+      "computer,",
+      "mobile",
+      "device,",
+      "or",
+      "any",
+      "web",
+      "browser."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 839,
+      "y": 2840,
+      "width": 303,
+      "height": 64
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--medium",
+      "arbor-bottom-margin--small",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[3]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[3]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 217,
+      "y": 3987,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[3]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[3]/p[1]",
+    "area": 23634,
+    "shape": 388,
+    "visibleText": [
+      "Easily",
+      "access",
+      "your",
+      "team’s",
+      "work",
+      "from",
+      "your",
+      "computer,",
+      "mobile",
+      "device,",
+      "or",
+      "any",
+      "web",
+      "browser."
+    ],
+    "neighborText": [
+      "team",
+      "collaboration,",
+      "any",
+      "time,",
+      "anywhere"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 839,
+      "y": 2924,
+      "width": 303,
+      "height": 78
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[4]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[4]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 841,
+      "y": 3987,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/div[1]/p[1]",
+    "area": 3016,
+    "shape": 446,
+    "visibleText": [
+      "Team"
+    ],
+    "neighborText": [
+      "team"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 565,
+      "y": 2133,
+      "width": 116,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "pro-biz-plan-card__hat"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "Single",
+      "sign",
+      "on",
+      "(SSO)",
+      "integration"
+    ],
+    "neighborText": [
+      "tiered",
+      "admin",
+      "roles",
+      "invite",
+      "enforcement"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1921,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://web.archive.org/business/buy?sku=adv",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[3]/div[1]/p[1]/a[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[3]/div[1]/p[1]/a[1]",
+    "area": 1564,
+    "shape": 541,
+    "visibleText": [
+      "purchase",
+      "now"
+    ],
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days",
+      "or",
+      "purchase",
+      "now"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 888,
+      "y": 1687,
+      "width": 92,
+      "height": 17
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--dbx-blue",
+      "arbor-link--small",
+      "arbor-link--text-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "5",
+      "TB",
+      "of",
+      "secure",
+      "storage",
+      "space"
+    ],
+    "neighborText": [
+      "3+",
+      "users",
+      "easy-to-use",
+      "team",
+      "management",
+      "and",
+      "collaboration",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1466,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[5]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[5]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 1049,
+      "y": 3987,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/div[1]/p[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/div[1]/p[1]/span[1]",
+    "area": 1220,
+    "shape": 305,
+    "neighborText": [
+      "team"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 565,
+      "y": 2136,
+      "width": 61,
+      "height": 20
+    },
+    "classList": [
+      "pro-biz-plan-card__hat-icon-container"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "3+",
+      "users",
+      "5",
+      "tb",
+      "of",
+      "secure",
+      "storage",
+      "space",
+      "easy-to-use",
+      "team",
+      "management",
+      "and",
+      "collaboration",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1468,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[6]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[6]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 10,
+      "y": 4194,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/div[1]/p[1]/span[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/div[1]/p[1]/span[2]",
+    "area": 900,
+    "shape": 225,
+    "visibleText": [
+      "Team"
+    ],
+    "neighborText": [
+      "team"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 636,
+      "y": 2136,
+      "width": 45,
+      "height": 20
+    },
+    "classList": [
+      "pro-biz-plan-card__hat-label"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[4]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[4]/h4[1]",
+    "area": 19392,
+    "shape": 473,
+    "visibleText": [
+      "Use",
+      "your",
+      "favorite",
+      "collaboration",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 3455,
+      "width": 303,
+      "height": 64
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--medium",
+      "arbor-bottom-margin--small",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[3]",
+    "area": 10122,
+    "shape": 573,
+    "visibleText": [
+      "Easy-to-use",
+      "team",
+      "management",
+      "and",
+      "collaboration",
+      "tools"
+    ],
+    "neighborText": [
+      "5",
+      "tb",
+      "of",
+      "secure",
+      "storage",
+      "space"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1507,
+      "width": 241,
+      "height": 42
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[7]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[7]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 217,
+      "y": 4194,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[4]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[4]/p[1]",
+    "area": 31512,
+    "shape": 291,
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 3539,
+      "width": 303,
+      "height": 104
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "Use",
+      "your",
+      "favorite",
+      "collaboration",
+      "tools"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "5",
+      "tb",
+      "of",
+      "secure",
+      "storage",
+      "space",
+      "easy-to-use",
+      "team",
+      "management",
+      "and",
+      "collaboration",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1509,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/h2[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/h2[1]",
+    "area": 4800,
+    "shape": 468,
+    "visibleText": [
+      "Enterprise"
+    ],
+    "neighborText": [
+      "contact",
+      "sales",
+      "for",
+      "pricing"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 2200,
+      "width": 150,
+      "height": 32
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "Document",
+      "watermarking"
+    ],
+    "neighborText": [
+      "remote",
+      "account",
+      "wipe",
+      "priority",
+      "email",
+      "and",
+      "live",
+      "chat",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1942,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/div[1]/p[1]",
+    "area": 3016,
+    "shape": 446,
+    "visibleText": [
+      "Team"
+    ],
+    "neighborText": [
+      "team",
+      "advanced"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 933,
+      "y": 1208,
+      "width": 116,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "pro-biz-plan-card__hat"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "Everything",
+      "in",
+      "Standard"
+    ],
+    "neighborText": [
+      "plan",
+      "highlights",
+      "advanced",
+      "admin",
+      "controls"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1813,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/p[1]/span[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/p[1]/span[2]",
+    "area": 900,
+    "shape": 225,
+    "visibleText": [
+      "Team"
+    ],
+    "neighborText": [
+      "team",
+      "standard"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 636,
+      "y": 1211,
+      "width": 45,
+      "height": 20
+    },
+    "classList": [
+      "pro-biz-plan-card__hat-label"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/h4[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/h4[1]",
+    "area": 5278,
+    "shape": 780,
+    "visibleText": [
+      "Contact",
+      "sales",
+      "for",
+      "pricing"
+    ],
+    "neighborText": [
+      "enterprise",
+      "custom",
+      "solutions",
+      "and",
+      "individualized",
+      "support",
+      "to",
+      "help",
+      "it",
+      "professionals",
+      "manage",
+      "at",
+      "scale."
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 2252,
+      "width": 203,
+      "height": 26
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-bottom-margin--small",
+      "arbor-headline--22",
+      "arbor-headline--title-5",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "remote",
+      "account",
+      "wipe",
+      "document",
+      "watermarking",
+      "priority",
+      "email",
+      "and",
+      "live",
+      "chat",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1944,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/div[1]/p[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/div[1]/p[1]/span[1]",
+    "area": 1220,
+    "shape": 305,
+    "neighborText": [
+      "team",
+      "advanced"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 933,
+      "y": 1211,
+      "width": 61,
+      "height": 20
+    },
+    "classList": [
+      "pro-biz-plan-card__hat-icon-container"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[5]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[5]/h4[1]",
+    "area": 19392,
+    "shape": 473,
+    "visibleText": [
+      "Find",
+      "what",
+      "you",
+      "need",
+      "fast"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 471,
+      "y": 3455,
+      "width": 303,
+      "height": 64
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--medium",
+      "arbor-bottom-margin--small",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/p[1]",
+    "area": 10560,
+    "shape": 2640,
+    "visibleText": [
+      "Custom",
+      "solutions",
+      "and",
+      "individualized",
+      "support",
+      "to",
+      "help",
+      "IT",
+      "professionals",
+      "manage",
+      "at",
+      "scale."
+    ],
+    "neighborText": [
+      "contact",
+      "sales",
+      "for",
+      "pricing"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 2298,
+      "width": 528,
+      "height": 20
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--micro",
+      "arbor-bottom-margin--medium",
+      "arbor-foreground-color--panda-black",
+      "horizontal-plan-card-content__description"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[4]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "remote",
+      "account",
+      "wipe",
+      "document",
+      "watermarking",
+      "priority",
+      "email",
+      "and",
+      "live",
+      "chat",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 136,
+      "y": 1944,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://web.archive.org/enterprise/contact",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/div[2]/div[1]/a[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/div[2]/div[1]/a[1]",
+    "area": 9020,
+    "shape": 465,
+    "visibleText": [
+      "Contact",
+      "sales"
+    ],
+    "neighborText": [
+      "contact",
+      "sales"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 906,
+      "y": 2200,
+      "width": 205,
+      "height": 44
+    },
+    "classList": [
+      "arbor-button",
+      "arbor-button--standard-wide-padding",
+      "arbor-button--standard-size",
+      "arbor-button--dbx-blue",
+      "arbor-button--touch-device",
+      "horizontal-plan-card-content__cta"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[5]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[5]/p[1]",
+    "area": 39390,
+    "shape": 233,
+    "isButton": false,
+    "location": {
+      "x": 471,
+      "y": 3539,
+      "width": 303,
+      "height": 130
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "Find",
+      "what",
+      "you",
+      "need",
+      "fast"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "1",
+      "user",
+      "3",
+      "tb",
+      "of",
+      "secure",
+      "storage"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1427,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[3]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[3]/div[1]/p[1]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "or",
+      "purchase",
+      "now"
+    ],
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days",
+      "purchase",
+      "now"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 502,
+      "y": 1685,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[1]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "plan",
+      "highlights",
+      "single",
+      "admin",
+      "login",
+      "to",
+      "manage",
+      "multiple",
+      "teams",
+      "console",
+      "and",
+      "audit",
+      "log"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 504,
+      "y": 1815,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[2]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "Advanced",
+      "admin",
+      "controls"
+    ],
+    "neighborText": [
+      "everything",
+      "in",
+      "standard",
+      "tiered",
+      "admin",
+      "roles"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1849,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/div[2]/div[1]/a[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[4]/section[1]/article[1]/div[1]/div[2]/div[1]/a[1]/span[1]",
+    "area": 1957,
+    "shape": 542,
+    "visibleText": [
+      "Contact",
+      "sales"
+    ],
+    "neighborText": [
+      "contact",
+      "sales"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 957,
+      "y": 2212,
+      "width": 103,
+      "height": 19
+    },
+    "classList": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "document",
+      "watermarking",
+      "priority",
+      "email",
+      "and",
+      "live",
+      "chat",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1980,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[2]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[2]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "everything",
+      "in",
+      "standard",
+      "advanced",
+      "admin",
+      "controls",
+      "tiered",
+      "roles"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1851,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "1",
+      "user",
+      "3",
+      "tb",
+      "of",
+      "secure",
+      "storage",
+      "premium",
+      "productivity",
+      "features",
+      "and",
+      "simple,",
+      "file",
+      "sharing"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1468,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[5]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "document",
+      "watermarking",
+      "priority",
+      "email",
+      "and",
+      "live",
+      "chat",
+      "support"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 136,
+      "y": 1980,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[6]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[6]/h4[1]",
+    "area": 8416,
+    "shape": 821,
+    "visibleText": [
+      "Get",
+      "peace",
+      "of",
+      "mind"
+    ],
+    "neighborText": [
+      "secure,",
+      "distributed",
+      "infrastructure",
+      "admin",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 839,
+      "y": 3455,
+      "width": 263,
+      "height": 32
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--medium",
+      "arbor-bottom-margin--small",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[2]/span[1]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[2]/span[1]/span[1]",
+    "area": 144,
+    "shape": 100,
+    "neighborText": [
+      "everything",
+      "in",
+      "standard",
+      "advanced",
+      "admin",
+      "controls",
+      "tiered",
+      "roles"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 872,
+      "y": 1851,
+      "width": 12,
+      "height": 12
+    },
+    "classList": [
+      "arbor-list__checkmark"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[1]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[1]/h4[1]",
+    "area": 19392,
+    "shape": 473,
+    "visibleText": [
+      "Centralize",
+      "team",
+      "content"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 2840,
+      "width": 303,
+      "height": 64
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-top-margin--medium",
+      "arbor-bottom-margin--small",
+      "arbor-headline--22",
+      "arbor-headline--title-4",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[1]/section[1]/article[1]/div[2]/div[1]/ul[1]/li[3]",
+    "area": 10122,
+    "shape": 573,
+    "visibleText": [
+      "Premium",
+      "productivity",
+      "features",
+      "and",
+      "simple,",
+      "secure",
+      "file",
+      "sharing"
+    ],
+    "neighborText": [
+      "3",
+      "tb",
+      "of",
+      "secure",
+      "storage"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 134,
+      "y": 1507,
+      "width": 241,
+      "height": 42
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[6]/p[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[6]/p[1]",
+    "area": 31512,
+    "shape": 291,
+    "isButton": false,
+    "location": {
+      "x": 839,
+      "y": 3507,
+      "width": 303,
+      "height": 104
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "Get",
+      "peace",
+      "of",
+      "mind"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[3]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "Tiered",
+      "admin",
+      "roles"
+    ],
+    "neighborText": [
+      "advanced",
+      "admin",
+      "controls",
+      "single",
+      "sign",
+      "on",
+      "(sso)",
+      "integration"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1885,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-top-margin--small",
+      "arbor-foreground-color--panda-black",
+      "arbor-list__item",
+      "arbor-list__item--has-image"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/business/trust/security",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[6]/p[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[6]/p[1]/a[1]",
+    "area": 5580,
+    "shape": 1395,
+    "visibleText": [
+      "secure,",
+      "distributed",
+      "infrastructure"
+    ],
+    "neighborText": [
+      "get",
+      "peace",
+      "of",
+      "mind",
+      "secure,",
+      "distributed",
+      "infrastructure",
+      "admin",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 855,
+      "y": 3510,
+      "width": 279,
+      "height": 20
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-black",
+      "arbor-link--standard",
+      "arbor-link--text-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[1]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[1]/div[1]/p[1]",
+    "area": 5061,
+    "shape": 1147,
+    "visibleText": [
+      "/",
+      "user",
+      "/",
+      "month,"
+    ],
+    "neighborText": [
+      "advanced",
+      "$25",
+      "starting",
+      "at",
+      "3",
+      "users"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1353,
+      "width": 241,
+      "height": 21
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--small",
+      "arbor-foreground-color--shark"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[3]/span[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[3]/section[1]/article[1]/div[5]/div[1]/ul[1]/li[3]/span[1]",
+    "area": 256,
+    "shape": 100,
+    "neighborText": [
+      "advanced",
+      "admin",
+      "controls",
+      "tiered",
+      "roles",
+      "single",
+      "sign",
+      "on",
+      "(sso)",
+      "integration"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 870,
+      "y": 1887,
+      "width": 16,
+      "height": 16
+    },
+    "classList": [
+      "arbor-list__icon-container",
+      "arbor-list__icon-container--small-top"
+    ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/business/tour/administrative-tools",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[4]/div[1]/div[2]/div[6]/p[1]/a[2]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[4]/div[1]/div[2]/div[6]/p[1]/a[2]",
+    "area": 1960,
+    "shape": 490,
+    "visibleText": [
+      "admin",
+      "tools"
+    ],
+    "neighborText": [
+      "get",
+      "peace",
+      "of",
+      "mind",
+      "secure,",
+      "distributed",
+      "infrastructure",
+      "admin",
+      "tools"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 894,
+      "y": 3536,
+      "width": 98,
+      "height": 20
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-black",
+      "arbor-link--standard",
+      "arbor-link--text-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/p[1]",
+    "idxpath": "//*[@id='plans']/div[1]/section[1]/div[1]/div[2]/section[1]/div[1]/p[1]",
+    "area": 3016,
+    "shape": 446,
+    "visibleText": [
+      "Team"
+    ],
+    "neighborText": [
+      "team",
+      "standard"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 565,
+      "y": 1208,
+      "width": 116,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-foreground-color--panda-black",
+      "pro-biz-plan-card__hat"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]",
+    "area": 33043,
+    "shape": 90,
+    "visibleText": [
+      "SupportHelp",
+      "centerContact",
+      "usCookiesPrivacy",
+      "&",
+      "termsSitemap"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 4874,
+      "width": 173,
+      "height": 191
+    },
+    "classList": [
+      "arbor-grid-element",
+      "arbor-align--flex-start",
+      "arbor-grid-element--width--5-12",
+      "arbor-grid-element--width--1-4--medium",
+      "arbor-grid-element--width--1-6--large",
+      "arbor-direction--column",
+      "arbor-right-margin--1-6",
+      "arbor-right-margin--0-1--medium",
+      "arbor-right-margin--1-24--large",
+      "arbor-top-margin--large",
+      "arbor-top-margin--none--medium",
+      "arbor-top-margin--none--large",
+      "arbor-spacing--flex-start"
+    ],
+    "neighborText": [
+      "Community"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://help.dropbox.com",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
+    "area": 1136,
+    "shape": 443,
+    "visibleText": [
+      "Help",
+      "center"
+    ],
+    "neighborText": [
+      "support",
+      "help",
+      "center",
+      "contact",
+      "us",
+      "cookies"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 4921,
+      "width": 71,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[4]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[4]",
+    "area": 3094,
+    "shape": 457,
+    "visibleText": [
+      "Dropbox",
+      "Enterprise"
+    ],
+    "neighborText": [
+      "professional",
+      "dropbox",
+      "business",
+      "enterprise"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 5008,
+      "width": 119,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/enterprise?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[4]/a[1]",
+    "area": 1904,
+    "shape": 743,
+    "visibleText": [
+      "Dropbox",
+      "Enterprise"
+    ],
+    "neighborText": [
+      "professional",
+      "dropbox",
+      "business",
+      "enterprise"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 5014,
+      "width": 119,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[2]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[2]",
+    "area": 2470,
+    "shape": 365,
+    "visibleText": [
+      "Contact",
+      "us"
+    ],
+    "neighborText": [
+      "support",
+      "help",
+      "center",
+      "contact",
+      "us",
+      "cookies",
+      "privacy",
+      "&",
+      "terms"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 4946,
+      "width": 95,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/contact?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
+    "area": 1072,
+    "shape": 418,
+    "visibleText": [
+      "Contact",
+      "us"
+    ],
+    "neighborText": [
+      "help",
+      "center",
+      "contact",
+      "us",
+      "cookies",
+      "privacy",
+      "&",
+      "terms"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 4952,
+      "width": 67,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[2]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[2]",
+    "area": 2002,
+    "shape": 296,
+    "visibleText": [
+      "Mobile",
+      "apps"
+    ],
+    "neighborText": [
+      "dropbox",
+      "desktop",
+      "app",
+      "mobile",
+      "apps",
+      "plans",
+      "security"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 4946,
+      "width": 77,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/mobile?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+    "area": 1200,
+    "shape": 468,
+    "visibleText": [
+      "Mobile",
+      "apps"
+    ],
+    "neighborText": [
+      "desktop",
+      "app",
+      "mobile",
+      "apps",
+      "plans",
+      "security"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 4952,
+      "width": 75,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[3]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[3]",
+    "area": 2470,
+    "shape": 365,
+    "visibleText": [
+      "Cookies"
+    ],
+    "neighborText": [
+      "help",
+      "center",
+      "contact",
+      "us",
+      "cookies",
+      "privacy",
+      "&",
+      "terms",
+      "sitemap"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 4977,
+      "width": 95,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/terms/cookies?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[3]/a[1]",
+    "area": 784,
+    "shape": 306,
+    "visibleText": [
+      "Cookies"
+    ],
+    "neighborText": [
+      "help",
+      "center",
+      "contact",
+      "us",
+      "cookies",
+      "privacy",
+      "&",
+      "terms",
+      "sitemap"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 4983,
+      "width": 49,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[3]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[3]",
+    "area": 2002,
+    "shape": 296,
+    "visibleText": [
+      "Plans"
+    ],
+    "neighborText": [
+      "desktop",
+      "app",
+      "mobile",
+      "apps",
+      "plans",
+      "security",
+      "features"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 4977,
+      "width": 77,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
+    "idxpath": "//*[@id='locale-container']/button[1]",
+    "area": 4114,
+    "shape": 850,
+    "visibleText": [
+      "English",
+      "(United",
+      "States)"
+    ],
+    "neighborText": [
+      "english",
+      "(united",
+      "states)"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 103,
+      "y": 5216,
+      "width": 187,
+      "height": 22
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-black",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[4]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[4]",
+    "area": 2470,
+    "shape": 365,
+    "visibleText": [
+      "Privacy",
+      "&",
+      "terms"
+    ],
+    "neighborText": [
+      "contact",
+      "us",
+      "cookies",
+      "privacy",
+      "&",
+      "terms",
+      "sitemap"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 5008,
+      "width": 95,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/privacy?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[4]/a[1]",
+    "area": 1520,
+    "shape": 593,
+    "visibleText": [
+      "Privacy",
+      "&",
+      "terms"
+    ],
+    "neighborText": [
+      "contact",
+      "us",
+      "cookies",
+      "privacy",
+      "&",
+      "terms",
+      "sitemap"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 5014,
+      "width": 95,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[4]",
+    "area": 2002,
+    "shape": 296,
+    "visibleText": [
+      "Security"
+    ],
+    "neighborText": [
+      "mobile",
+      "apps",
+      "plans",
+      "security",
+      "features"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 5008,
+      "width": 77,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/span[1]",
+    "idxpath": "//*[@id='locale-container']/button[1]/div[1]/span[1]",
+    "area": 1924,
+    "shape": 1138,
+    "visibleText": [
+      "English",
+      "(United",
+      "States)"
+    ],
+    "neighborText": [
+      "english",
+      "(united",
+      "states)"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 128,
+      "y": 5221,
+      "width": 148,
+      "height": 13
+    },
+    "classList": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[5]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[5]",
+    "area": 2470,
+    "shape": 365,
+    "visibleText": [
+      "Sitemap"
+    ],
+    "neighborText": [
+      "cookies",
+      "privacy",
+      "&",
+      "terms",
+      "sitemap"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 5039,
+      "width": 95,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/span[1]/span[1]",
+    "idxpath": "//*[@id='locale-container']/button[1]/div[1]/span[1]/span[1]",
+    "area": 2516,
+    "shape": 870,
+    "visibleText": [
+      "English",
+      "(United",
+      "States)"
+    ],
+    "neighborText": [
+      "english",
+      "(united",
+      "states)"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 128,
+      "y": 5219,
+      "width": 148,
+      "height": 17
+    },
+    "classList": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[5]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[5]",
+    "area": 2002,
+    "shape": 296,
+    "visibleText": [
+      "Features"
+    ],
+    "neighborText": [
+      "plans",
+      "security",
+      "features"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 5039,
+      "width": 77,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/features?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[1]/ul[1]/li[5]/a[1]",
+    "area": 848,
+    "shape": 331,
+    "visibleText": [
+      "Features"
+    ],
+    "neighborText": [
+      "plans",
+      "security",
+      "features"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 103,
+      "y": 5045,
+      "width": 53,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]",
+    "area": 22317,
+    "shape": 134,
+    "visibleText": [
+      "CommunityDevelopersReferralsForum"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4874,
+      "width": 173,
+      "height": 129
+    },
+    "classList": [
+      "arbor-grid-element",
+      "arbor-align--flex-start",
+      "arbor-grid-element--width--5-12",
+      "arbor-grid-element--width--1-4--medium",
+      "arbor-grid-element--width--1-6--large",
+      "arbor-direction--column",
+      "arbor-right-margin--0-1",
+      "arbor-right-margin--1-8--medium",
+      "arbor-right-margin--1-24--large",
+      "arbor-top-margin--large",
+      "arbor-top-margin--large--medium",
+      "arbor-top-margin--none--large",
+      "arbor-spacing--flex-start"
+    ],
+    "neighborText": [
+      "Products"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[3]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[3]",
+    "area": 3094,
+    "shape": 457,
+    "visibleText": [
+      "Dropbox",
+      "Business"
+    ],
+    "neighborText": [
+      "plus",
+      "professional",
+      "dropbox",
+      "business",
+      "enterprise"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4977,
+      "width": 119,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]/h4[1]",
+    "area": 2444,
+    "shape": 361,
+    "visibleText": [
+      "Community"
+    ],
+    "neighborText": [
+      "developers",
+      "referrals"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4874,
+      "width": 94,
+      "height": 26
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-5",
+      "arbor-foreground-color--panda-white",
+      "arbor-footer__group-section"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[1]",
+    "area": 1768,
+    "shape": 261,
+    "visibleText": [
+      "Developers"
+    ],
+    "neighborText": [
+      "community",
+      "developers",
+      "referrals",
+      "forum"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4915,
+      "width": 68,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/developers?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[1]/a[1]",
+    "area": 1088,
+    "shape": 425,
+    "visibleText": [
+      "Developers"
+    ],
+    "neighborText": [
+      "community",
+      "developers",
+      "referrals",
+      "forum"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4921,
+      "width": 68,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]",
+    "area": 2730,
+    "shape": 403,
+    "visibleText": [
+      "About",
+      "us"
+    ],
+    "neighborText": [
+      "company",
+      "about",
+      "us",
+      "jobs",
+      "press"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 4915,
+      "width": 105,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/about?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+    "area": 880,
+    "shape": 343,
+    "visibleText": [
+      "About",
+      "us"
+    ],
+    "neighborText": [
+      "company",
+      "about",
+      "us",
+      "jobs",
+      "press"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 4921,
+      "width": 55,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[8]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[8]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 841,
+      "y": 4194,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[2]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[2]",
+    "area": 1768,
+    "shape": 261,
+    "visibleText": [
+      "Referrals"
+    ],
+    "neighborText": [
+      "community",
+      "developers",
+      "referrals",
+      "forum"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4946,
+      "width": 68,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/referrals?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[2]/a[1]",
+    "area": 864,
+    "shape": 337,
+    "visibleText": [
+      "Referrals"
+    ],
+    "neighborText": [
+      "developers",
+      "referrals",
+      "forum"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4952,
+      "width": 54,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[5]/section[2]/div[9]/button[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/main[1]/section[5]/section[2]/div[9]/button[1]",
+    "area": 34969,
+    "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 1049,
+      "y": 4194,
+      "width": 187,
+      "height": 187
+    },
+    "classList": [
+      "customers__marquee-customer-button"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[3]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[3]",
+    "area": 2730,
+    "shape": 403,
+    "visibleText": [
+      "Jobs"
+    ],
+    "neighborText": [
+      "company",
+      "about",
+      "us",
+      "jobs",
+      "press",
+      "investor",
+      "relations"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 4946,
+      "width": 105,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/business?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[3]/a[1]",
+    "area": 1776,
+    "shape": 693,
+    "visibleText": [
+      "Dropbox",
+      "Business"
+    ],
+    "neighborText": [
+      "plus",
+      "professional",
+      "dropbox",
+      "business",
+      "enterprise"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4983,
+      "width": 111,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://bit.ly/dbxdotcomapps",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+    "area": 432,
+    "shape": 168,
+    "visibleText": [
+      "Jobs"
+    ],
+    "neighborText": [
+      "about",
+      "us",
+      "jobs",
+      "press",
+      "investor",
+      "relations"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 4952,
+      "width": 27,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[3]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[3]",
+    "area": 1768,
+    "shape": 261,
+    "visibleText": [
+      "Forum"
+    ],
+    "neighborText": [
+      "developers",
+      "referrals",
+      "forum"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4977,
+      "width": 68,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropboxforum.com",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[3]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[4]/ul[1]/li[3]/a[1]",
+    "area": 640,
+    "shape": 250,
+    "visibleText": [
+      "Forum"
+    ],
+    "neighborText": [
+      "developers",
+      "referrals",
+      "forum"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 753,
+      "y": 4983,
+      "width": 40,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[4]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[4]",
+    "area": 2730,
+    "shape": 403,
+    "visibleText": [
+      "Press"
+    ],
+    "neighborText": [
+      "about",
+      "us",
+      "jobs",
+      "press",
+      "investor",
+      "relations",
+      "blog"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 4977,
+      "width": 105,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/news?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[4]/a[1]",
+    "area": 512,
+    "shape": 200,
+    "visibleText": [
+      "Press"
+    ],
+    "neighborText": [
+      "about",
+      "us",
+      "jobs",
+      "press",
+      "investor",
+      "relations",
+      "blog"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 4983,
+      "width": 32,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]",
+    "area": 27680,
+    "shape": 108,
+    "visibleText": [
+      "ProductsPlusProfessionalDropbox",
+      "BusinessDropbox",
+      "Enterprise"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4874,
+      "width": 173,
+      "height": 160
+    },
+    "classList": [
+      "arbor-grid-element",
+      "arbor-align--flex-start",
+      "arbor-grid-element--width--5-12",
+      "arbor-grid-element--width--1-4--medium",
+      "arbor-grid-element--width--1-6--large",
+      "arbor-direction--column",
+      "arbor-right-margin--1-6",
+      "arbor-right-margin--1-8--medium",
+      "arbor-right-margin--0-1--large",
+      "arbor-top-margin--large",
+      "arbor-top-margin--large--medium",
+      "arbor-top-margin--none--large",
+      "arbor-spacing--flex-start"
+    ],
+    "neighborText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "H4",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/h4[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/h4[1]",
+    "area": 1924,
+    "shape": 284,
+    "visibleText": [
+      "Products"
+    ],
+    "neighborText": [
+      "plus",
+      "professional"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4874,
+      "width": 74,
+      "height": 26
+    },
+    "classList": [
+      "arbor-headline",
+      "arbor-bottom-margin--micro",
+      "arbor-headline--22",
+      "arbor-headline--title-5",
+      "arbor-foreground-color--panda-white",
+      "arbor-footer__group-section"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://investors.dropbox.com/",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[5]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[5]/a[1]",
+    "area": 1680,
+    "shape": 656,
+    "visibleText": [
+      "Investor",
+      "relations"
+    ],
+    "neighborText": [
+      "jobs",
+      "press",
+      "investor",
+      "relations",
+      "blog"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 5014,
+      "width": 105,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[1]",
+    "area": 3094,
+    "shape": 457,
+    "visibleText": [
+      "Plus"
+    ],
+    "neighborText": [
+      "products",
+      "plus",
+      "professional",
+      "dropbox",
+      "business"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4915,
+      "width": 119,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[3]/ul[1]/li[1]",
+    "area": 2470,
+    "shape": 365,
+    "visibleText": [
+      "Help",
+      "center"
+    ],
+    "neighborText": [
+      "support",
+      "help",
+      "center",
+      "contact",
+      "us",
+      "cookies"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 4915,
+      "width": 95,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/plus?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[1]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[1]/a[1]",
+    "area": 416,
+    "shape": 162,
+    "visibleText": [
+      "Plus"
+    ],
+    "neighborText": [
+      "products",
+      "plus",
+      "professional",
+      "dropbox",
+      "business"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4921,
+      "width": 26,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[6]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[6]",
+    "area": 2730,
+    "shape": 403,
+    "visibleText": [
+      "Blog"
+    ],
+    "neighborText": [
+      "press",
+      "investor",
+      "relations",
+      "blog"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 5039,
+      "width": 105,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://blogs.dropbox.com/dropbox",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[6]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[2]/ul[1]/li[6]/a[1]",
+    "area": 448,
+    "shape": 175,
+    "visibleText": [
+      "Blog"
+    ],
+    "neighborText": [
+      "press",
+      "investor",
+      "relations",
+      "blog"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 320,
+      "y": 5045,
+      "width": 28,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[2]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[2]",
+    "area": 3094,
+    "shape": 457,
+    "visibleText": [
+      "Professional"
+    ],
+    "neighborText": [
+      "products",
+      "plus",
+      "professional",
+      "dropbox",
+      "business",
+      "enterprise"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4946,
+      "width": 119,
+      "height": 26
+    },
+    "classList": [
+      "arbor-copy",
+      "arbor-copy--standard",
+      "arbor-top-margin--nano",
+      "arbor-foreground-color--panda-black"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.dropbox.com/pro?trigger=_footer",
+    "xpath": "/html[1]/body[1]/div[12]/div[1]/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='component4826377973857554580']/section[1]/div[1]/ul[1]/li[5]/ul[1]/li[2]/a[1]",
+    "area": 1184,
+    "shape": 462,
+    "visibleText": [
+      "Professional"
+    ],
+    "neighborText": [
+      "plus",
+      "professional",
+      "dropbox",
+      "business",
+      "enterprise"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 969,
+      "y": 4952,
+      "width": 74,
+      "height": 16
+    },
+    "classList": [
+      "arbor-link",
+      "arbor-foreground-color--panda-white",
+      "arbor-link--micro",
+      "arbor-link--nav-style",
+      "arbor-link--touch-device"
+    ],
+    "widgetId": null
+  }
+]

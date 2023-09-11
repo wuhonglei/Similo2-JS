@@ -1,0 +1,3495 @@
+[
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1q2j1fr",
+      "eexq7ln0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[3]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[3]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[2]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[2]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[4]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[4]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[5]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[5]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[6]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[6]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[7]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[7]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[8]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[8]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[10]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[10]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[11]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[11]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[12]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[12]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[13]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[13]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[14]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[14]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[16]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[16]",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[15]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[15]",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[17]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[17]",
+    "widgetId": 18,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[18]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[18]",
+    "widgetId": 19,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[19]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/div[4]/ul[1]/li[19]",
+    "widgetId": 20,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-cwdrld"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[2]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"masthead-bar-one\")/div[1]/div[2]/a[1]",
+    "widgetId": 21,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-hnzl8o"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "id": "desktop-sections-button",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[1]/button[1]",
+    "idxpath": "id(\"desktop-sections-button\")",
+    "widgetId": 22,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1o0yzqm",
+      "er09x8g2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]",
+    "widgetId": 23,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-fnhm75",
+      "ewfai8r0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-rjc11k",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1nhs83s",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-10eo376",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[1]/h3[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-9k48ks",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-rjc11k",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-9k48ks",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1nhs83s",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[1]/button[1]/span[1]",
+    "idxpath": "id(\"desktop-sections-button\")/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1dv1kvn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-10eo376",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]/span[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1dv1kvn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1f8er69"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-rjc11k",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-9k48ks",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[1]/a[2]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1f8er69"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-9k48ks",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/ul[1]/li[2]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[3]/article[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[3]/article[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ogiugu"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[3]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[3]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-rjc11k",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[2]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1vlye70"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ogiugu"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[3]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1vlye70"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[2]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ogiugu"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1nhs83s",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[4]",
+    "idxpath": "id(\"app\")/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1vlye70"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[3]/article[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-10eo376",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-9k48ks",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-139djpv",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[11]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[11]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[11]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[5]/article[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[5]/article[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[12]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[6]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[6]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[12]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[12]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[13]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[13]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-139djpv",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[13]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[13]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[14]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[14]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[7]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[7]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[14]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[14]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[15]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[15]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-rjc11k",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[4]/ul[1]/li[15]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[4]/ul[1]/li[15]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[7]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "P",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[2]/article[1]/div[1]/div[1]/a[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-16zz6rx",
+      "e1lfvv700"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[1]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[1]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "id": "site-index-section-label-4",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/h3[1]",
+    "idxpath": "id(\"site-index-section-label-4\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1onhbft"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "id": "site-index-label",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/h2[1]",
+    "idxpath": "id(\"site-index-label\")",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1dv1kvn"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[8]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[8]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/header[1]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/header[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/header[1]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "id(\"site-index\")/div[1]/header[1]/a[1]/*[local-name() = \"svg\"][1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[2]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[2]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[2]/article[1]/div[1]/a[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[9]/article[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[9]/article[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[5]/article[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[5]/article[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H3",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/header[1]/a[1]/h3[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/header[1]/a[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-1y96f0w"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[3]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[4]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[5]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[7]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "credit"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[4]/article[1]/div[1]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[2]/div[4]/article[1]/div[1]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-z9cw67",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[6]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/h2[1]",
+    "idxpath": "id(\"site-content\")/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-rgkthq",
+      "e1voiwgp0"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[1]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[8]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[2]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[8]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[2]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "IFRAME",
+    "xpath": "/html[1]/body[1]/iframe[2]",
+    "idxpath": "/html[1]/body[1]/iframe[2]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[9]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[3]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[3]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[9]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[3]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[10]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[4]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[4]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[10]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[4]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[11]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[5]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[5]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[11]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[11]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[5]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[12]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[6]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[6]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[12]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[12]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[6]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[13]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[13]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-ist4u3"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[7]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[7]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/section[5]/ul[1]/li[13]/a[1]",
+    "idxpath": "id(\"site-index\")/div[1]/div[2]/div[1]/section[5]/ul[1]/li[13]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-wbbhzv"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[7]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[8]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[8]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[8]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[9]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[9]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[9]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[10]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[10]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[10]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[13]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[13]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[13]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[13]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[14]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[14]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-a7htku",
+      "e5u916q2"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/footer[1]/nav[1]/ul[2]/li[14]/a[1]",
+    "idxpath": "id(\"app\")/div[2]/footer[1]/nav[1]/ul[2]/li[14]/a[1]",
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "css-jq1cx6"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null,
+    "widgetId": null
+  }
+]

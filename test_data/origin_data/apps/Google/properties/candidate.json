@@ -1,0 +1,593 @@
+[
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[1]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_1']/span[2]",
+    "area": 825,
+    "shape": 366,
+    "widgetId": 1,
+    "visibleText": [
+      "Search"
+    ],
+    "neighborText": [
+      "search",
+      "images"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 4,
+      "y": 8,
+      "width": 55,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[2]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_2']/span[2]",
+    "area": 810,
+    "shape": 360,
+    "widgetId": 2,
+    "visibleText": [
+      "Images"
+    ],
+    "neighborText": [
+      "search",
+      "images",
+      "maps",
+      "play"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 59,
+      "y": 8,
+      "width": 54,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[3]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_8']/span[2]",
+    "area": 645,
+    "shape": 286,
+    "widgetId": 3,
+    "visibleText": [
+      "Maps"
+    ],
+    "neighborText": [
+      "images",
+      "maps",
+      "play",
+      "youtube"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 114,
+      "y": 8,
+      "width": 43,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[4]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_78']/span[2]",
+    "area": 555,
+    "shape": 246,
+    "widgetId": 4,
+    "visibleText": [
+      "Play"
+    ],
+    "neighborText": [
+      "images",
+      "maps",
+      "play",
+      "youtube"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 157,
+      "y": 8,
+      "width": 37,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[5]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_36']/span[2]",
+    "area": 945,
+    "shape": 420,
+    "widgetId": 5,
+    "visibleText": [
+      "YouTube"
+    ],
+    "neighborText": [
+      "maps",
+      "play",
+      "youtube",
+      "news",
+      "gmail"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 195,
+      "y": 8,
+      "width": 63,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[6]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_426']/span[2]",
+    "area": 660,
+    "shape": 293,
+    "widgetId": 6,
+    "visibleText": [
+      "News"
+    ],
+    "neighborText": [
+      "youtube",
+      "news",
+      "gmail",
+      "drive"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 258,
+      "y": 8,
+      "width": 44,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[7]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_23']/span[2]",
+    "area": 675,
+    "shape": 300,
+    "widgetId": 7,
+    "visibleText": [
+      "Gmail"
+    ],
+    "neighborText": [
+      "youtube",
+      "news",
+      "gmail",
+      "drive",
+      "morecalendartranslatemobilebooksshoppingbloggerfinancephotosvideosdocseven",
+      "more",
+      "»"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 302,
+      "y": 8,
+      "width": 45,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[8]/a[1]/span[2]",
+    "idxpath": "//*[@id='gb_49']/span[2]",
+    "area": 630,
+    "shape": 280,
+    "widgetId": 8,
+    "visibleText": [
+      "Drive"
+    ],
+    "neighborText": [
+      "news",
+      "gmail",
+      "drive",
+      "morecalendartranslatemobilebooksshoppingbloggerfinancephotosvideosdocseven",
+      "more",
+      "»"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 348,
+      "y": 8,
+      "width": 42,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
+    ]
+  },
+  {
+    "tag": "SPAN",
+    "id": "gbztms1",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[9]/a[1]/span[2]/span[1]",
+    "idxpath": "//*[@id='gbztms1']",
+    "area": 435,
+    "shape": 193,
+    "widgetId": 9,
+    "visibleText": [
+      "More"
+    ],
+    "neighborText": [
+      "drive",
+      "morecalendartranslatemobilebooksshoppingbloggerfinancephotosvideosdocseven",
+      "more",
+      "»"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 397,
+      "y": 8,
+      "width": 29,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "SPAN",
+    "id": "gbi4s1",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[2]/span[1]",
+    "idxpath": "//*[@id='gbi4s1']",
+    "area": 645,
+    "shape": 286,
+    "widgetId": 10,
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "neighborText": [
+      "sign",
+      "in",
+      "0",
+      "search",
+      "settingsweb",
+      "history"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1163,
+      "y": 8,
+      "width": 43,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "SPAN",
+    "id": "gbi5",
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/a[1]/span[2]/span[1]",
+    "idxpath": "//*[@id='gbi5']",
+    "area": 272,
+    "shape": 94,
+    "widgetId": 11,
+    "neighborText": [
+      "sign",
+      "in",
+      "0",
+      "search",
+      "settingsweb",
+      "history"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 1220,
+      "y": 7,
+      "width": 16,
+      "height": 17
+    },
+    "classList": [],
+    "visibleText": []
+  },
+  {
+    "tag": "INPUT",
+    "name": "q",
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/input[1]",
+    "idxpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/input[1]",
+    "area": 17476,
+    "shape": 1511,
+    "widgetId": 12,
+    "neighborText": [
+      "google",
+      "search",
+      "i'm",
+      "feeling",
+      "lucky",
+      "advanced"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 366,
+      "y": 254,
+      "width": 514,
+      "height": 34
+    },
+    "classList": [
+      "lst"
+    ],
+    "visibleText": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.google.com/advanced_search?hl=en&authuser=0",
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[3]/a[1]",
+    "idxpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[3]/a[1]",
+    "area": 2928,
+    "shape": 2033,
+    "widgetId": 13,
+    "visibleText": [
+      "Advanced",
+      "search"
+    ],
+    "neighborText": [
+      "advanced",
+      "search"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 893,
+      "y": 257,
+      "width": 244,
+      "height": 12
+    },
+    "classList": []
+  },
+  {
+    "tag": "INPUT",
+    "name": "btnG",
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[1]/span[1]/input[1]",
+    "idxpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[1]/span[1]/input[1]",
+    "area": 3360,
+    "shape": 373,
+    "widgetId": 14,
+    "visibleText": [
+      "Google",
+      "Search"
+    ],
+    "neighborText": [
+      "i'm",
+      "feeling",
+      "lucky"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 502,
+      "y": 294,
+      "width": 112,
+      "height": 30
+    },
+    "classList": [
+      "lsb"
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "name": "btnI",
+    "id": "tsuid1",
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[2]/span[1]/input[1]",
+    "idxpath": "//*[@id='tsuid1']",
+    "area": 3840,
+    "shape": 426,
+    "widgetId": 15,
+    "visibleText": [
+      "I'm",
+      "Feeling",
+      "Lucky"
+    ],
+    "neighborText": [
+      "google",
+      "search"
+    ],
+    "isButton": true,
+    "location": {
+      "x": 620,
+      "y": 294,
+      "width": 128,
+      "height": 30
+    },
+    "classList": [
+      "lsb"
+    ]
+  },
+  {
+    "tag": "A",
+    "href": "https://www.google.com/intl/en/ads/",
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/div[1]/div[1]/a[1]",
+    "idxpath": "//*[@id='WqQANb']/a[1]",
+    "area": 1905,
+    "shape": 846,
+    "widgetId": 16,
+    "visibleText": [
+      "Advertising",
+      "Programs"
+    ],
+    "neighborText": [
+      "advertising",
+      "programsbusiness",
+      "solutionsabout",
+      "google©",
+      "2020",
+      "-",
+      "privacy",
+      "terms",
+      "advertising",
+      "programs",
+      "business",
+      "solutions",
+      "©"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 438,
+      "y": 414,
+      "width": 127,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.google.com/services/",
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/div[1]/div[1]/a[2]",
+    "idxpath": "//*[@id='WqQANb']/a[2]",
+    "area": 1680,
+    "shape": 746,
+    "widgetId": 17,
+    "visibleText": [
+      "Business",
+      "Solutions"
+    ],
+    "neighborText": [
+      "advertising",
+      "programsbusiness",
+      "solutionsabout",
+      "google©",
+      "2020",
+      "-",
+      "privacy",
+      "terms",
+      "advertising",
+      "programs",
+      "business",
+      "solutions",
+      "about",
+      "google",
+      "©"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 590,
+      "y": 414,
+      "width": 112,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.google.com/intl/en/about.html",
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/div[1]/div[1]/a[3]",
+    "idxpath": "//*[@id='WqQANb']/a[3]",
+    "area": 1215,
+    "shape": 540,
+    "widgetId": 18,
+    "visibleText": [
+      "About",
+      "Google"
+    ],
+    "neighborText": [
+      "advertising",
+      "programsbusiness",
+      "solutionsabout",
+      "google©",
+      "2020",
+      "-",
+      "privacy",
+      "terms",
+      "business",
+      "solutions",
+      "about",
+      "google",
+      "©"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 726,
+      "y": 414,
+      "width": 81,
+      "height": 15
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.google.com/intl/en/policies/privacy/",
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/p[1]/a[1]",
+    "idxpath": "//*[@id='footer']/p[1]/a[1]",
+    "area": 408,
+    "shape": 283,
+    "widgetId": 19,
+    "visibleText": [
+      "Privacy"
+    ],
+    "neighborText": [
+      "advertising",
+      "programsbusiness",
+      "solutionsabout",
+      "google©",
+      "2020",
+      "-",
+      "privacy",
+      "terms",
+      "advertising",
+      "programs",
+      "business",
+      "solutions",
+      "©"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 608,
+      "y": 448,
+      "width": 34,
+      "height": 12
+    },
+    "classList": []
+  },
+  {
+    "tag": "A",
+    "href": "https://www.google.com/intl/en/policies/terms/",
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/p[1]/a[2]",
+    "idxpath": "//*[@id='footer']/p[1]/a[2]",
+    "area": 348,
+    "shape": 241,
+    "widgetId": 20,
+    "visibleText": [
+      "Terms"
+    ],
+    "neighborText": [
+      "advertising",
+      "programsbusiness",
+      "solutionsabout",
+      "google©",
+      "2020",
+      "-",
+      "privacy",
+      "terms",
+      "business",
+      "solutions",
+      "about",
+      "google",
+      "©"
+    ],
+    "isButton": false,
+    "location": {
+      "x": 653,
+      "y": 448,
+      "width": 29,
+      "height": 12
+    },
+    "classList": []
+  }
+]

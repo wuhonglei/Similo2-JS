@@ -1,0 +1,484 @@
+[
+  {
+    "tag": "A",
+    "name": "&lpos=sitenavdefault&lid=sitenav_main-logo",
+    "xpath": "/html[1]/body[1]/div[5]/div[2]/header[1]/div[2]/h1[1]/a[1]",
+    "idxpath": "id(\"global-header\")/div[2]/h1[1]/a[1]",
+    "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "BUTTON",
+    "xpath": "/html[1]/body[1]/div[5]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+    "idxpath": "id(\"global-scoreboard\")/div[1]/div[1]/div[1]/div[2]/button[1]",
+    "widgetId": 2,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "button-filter",
+      "sm",
+      "dropdown-toggle",
+      "current-league-name"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=espnplus:leftrail:upsellmodule",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/header[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/ul[1]/header[1]/a[1]",
+    "widgetId": 3,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "button",
+      "md",
+      "button--eplus",
+      "espn-plus-paywall-article"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[1]/div[1]/header[1]/h2[1]",
+    "widgetId": 4,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H1",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[3]/div[1]/header[1]/h1[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[3]/div[1]/header[1]/h1[1]",
+    "widgetId": 5,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "module__header"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[2]/div[1]/header[1]/h2[1]",
+    "widgetId": 6,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[3]/div[1]/header[1]/h2[1]",
+    "widgetId": 7,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/footer[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[3]/div[1]/footer[1]/a[1]",
+    "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "open-favs"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/header[1]/h2[1]",
+    "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:sites:1:espndeportes",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 10,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:sites:2:theundefeated",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 11,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link",
+      "external"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:sites:3:espnw",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:sites:4:espnfc",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
+    "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:sites:5:xgames",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]",
+    "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link",
+      "external"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:sites:6:secnetwork",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
+    "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link",
+      "external"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/header[1]/h2[1]",
+    "widgetId": 16,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:apps:1:espn",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 17,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:apps:2:espnfantasy",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 18,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:followespn:1:facebook",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]",
+    "widgetId": 19,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:followespn:2:twitter",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]",
+    "widgetId": 20,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:followespn:3:instagram",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]",
+    "widgetId": 21,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "A",
+    "name": "&lpos=fp:followespn:4:snapchat",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]",
+    "widgetId": 22,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks_list__link"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  },
+  {
+    "tag": "H2",
+    "xpath": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/header[1]/h2[1]",
+    "idxpath": "id(\"main-container\")/div[1]/section[1]/article[7]/div[1]/header[1]/h2[1]",
+    "widgetId": 23,
+    "isButton": false,
+    "location": {
+      "x": null,
+      "y": null,
+      "width": null,
+      "height": null
+    },
+    "classList": [
+      "quicklinks__heading"
+    ],
+    "neighborText": [],
+    "visibleText": [],
+    "area": null,
+    "shape": null
+  }
+]
