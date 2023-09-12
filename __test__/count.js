@@ -14,12 +14,22 @@ function sum(dataList, name) {
   }, 0);
 }
 
+function display(json) {
+  delete json.Total;
+  const locatedSuccess = sum(Object.values(json), 'locatedSuccess');
+  const locatedError = sum(Object.values(json), 'locatedError');
+  const ratio = Math.floor((locatedError * 100) / (locatedSuccess + locatedError));
+
+  return {
+    locatedSuccess,
+    locatedError,
+    ratio,
+  };
+}
+
 function count() {
   console.info('当前数据');
-  delete currentResult.Total;
-  const locatedSuccess = sum(Object.values(currentResult), 'locatedSuccess');
-  const locatedError = sum(Object.values(currentResult), 'locatedError');
-  const ratio = Math.floor((locatedError * 100) / (locatedSuccess + locatedError));
+  const { locatedSuccess, locatedError, ratio } = display(currentResult);
 
   console.info('locatedSuccess', locatedSuccess);
   console.info('locatedError', locatedError);

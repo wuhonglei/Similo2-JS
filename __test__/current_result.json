@@ -4,8 +4,8 @@
     "locatedError": 0
   },
   "Aliexpress": {
-    "locatedSuccess": 38,
-    "locatedError": 1
+    "locatedSuccess": 39,
+    "locatedError": 0
   },
   "Amazon": {
     "locatedSuccess": 8,
@@ -24,8 +24,8 @@
     "locatedError": 0
   },
   "Chase": {
-    "locatedSuccess": 30,
-    "locatedError": 1
+    "locatedSuccess": 31,
+    "locatedError": 0
   },
   "Cnn": {
     "locatedSuccess": 11,
@@ -36,8 +36,8 @@
     "locatedError": 0
   },
   "Dropbox": {
-    "locatedSuccess": 7,
-    "locatedError": 4
+    "locatedSuccess": 6,
+    "locatedError": 5
   },
   "Ebay": {
     "locatedSuccess": 22,
@@ -48,12 +48,12 @@
     "locatedError": 0
   },
   "Etsy": {
-    "locatedSuccess": 10,
-    "locatedError": 3
+    "locatedSuccess": 11,
+    "locatedError": 2
   },
   "Facebook": {
-    "locatedSuccess": 24,
-    "locatedError": 1
+    "locatedSuccess": 25,
+    "locatedError": 0
   },
   "Fidelity": {
     "locatedSuccess": 19,
@@ -84,8 +84,8 @@
     "locatedError": 2
   },
   "Instagram": {
-    "locatedSuccess": 11,
-    "locatedError": 4
+    "locatedSuccess": 12,
+    "locatedError": 3
   },
   "Instructure": {
     "locatedSuccess": 1,
@@ -104,8 +104,8 @@
     "locatedError": 2
   },
   "Microsoft": {
-    "locatedSuccess": 3,
-    "locatedError": 1
+    "locatedSuccess": 4,
+    "locatedError": 0
   },
   "Microsoftonline": {
     "locatedSuccess": 6,
@@ -164,8 +164,8 @@
     "locatedError": 0
   },
   "Walmart": {
-    "locatedSuccess": 3,
-    "locatedError": 4
+    "locatedSuccess": 4,
+    "locatedError": 3
   },
   "Wellsfargo": {
     "locatedSuccess": 37,
@@ -180,8 +180,8 @@
     "locatedError": 5
   },
   "Youtube": {
-    "locatedSuccess": 6,
-    "locatedError": 2
+    "locatedSuccess": 7,
+    "locatedError": 1
   },
   "Zillow": {
     "locatedSuccess": 7,
@@ -192,7 +192,7 @@
     "locatedError": 2
   },
   "Total": {
-    "locatedSuccess": 546,
-    "locatedError": 60
+    "locatedSuccess": 553,
+    "locatedError": 53
   }
 }
