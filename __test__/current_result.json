@@ -1,0 +1,198 @@
+{
+  "Adobe": {
+    "locatedSuccess": 2,
+    "locatedError": 0
+  },
+  "Aliexpress": {
+    "locatedSuccess": 38,
+    "locatedError": 1
+  },
+  "Amazon": {
+    "locatedSuccess": 8,
+    "locatedError": 2
+  },
+  "Apple": {
+    "locatedSuccess": 10,
+    "locatedError": 0
+  },
+  "Bestbuy": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Bing": {
+    "locatedSuccess": 10,
+    "locatedError": 0
+  },
+  "Chase": {
+    "locatedSuccess": 30,
+    "locatedError": 1
+  },
+  "Cnn": {
+    "locatedSuccess": 11,
+    "locatedError": 5
+  },
+  "Craigslist": {
+    "locatedSuccess": 45,
+    "locatedError": 0
+  },
+  "Dropbox": {
+    "locatedSuccess": 7,
+    "locatedError": 4
+  },
+  "Ebay": {
+    "locatedSuccess": 22,
+    "locatedError": 3
+  },
+  "Espn": {
+    "locatedSuccess": 23,
+    "locatedError": 0
+  },
+  "Etsy": {
+    "locatedSuccess": 10,
+    "locatedError": 3
+  },
+  "Facebook": {
+    "locatedSuccess": 24,
+    "locatedError": 1
+  },
+  "Fidelity": {
+    "locatedSuccess": 19,
+    "locatedError": 0
+  },
+  "Force": {
+    "locatedSuccess": 17,
+    "locatedError": 0
+  },
+  "Foxnews": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Google": {
+    "locatedSuccess": 20,
+    "locatedError": 0
+  },
+  "Hulu": {
+    "locatedSuccess": 2,
+    "locatedError": 0
+  },
+  "Imdb": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Indeed": {
+    "locatedSuccess": 11,
+    "locatedError": 2
+  },
+  "Instagram": {
+    "locatedSuccess": 11,
+    "locatedError": 4
+  },
+  "Instructure": {
+    "locatedSuccess": 1,
+    "locatedError": 1
+  },
+  "Intuit": {
+    "locatedSuccess": 6,
+    "locatedError": 5
+  },
+  "Linkedin": {
+    "locatedSuccess": 2,
+    "locatedError": 2
+  },
+  "Live": {
+    "locatedSuccess": 1,
+    "locatedError": 2
+  },
+  "Microsoft": {
+    "locatedSuccess": 3,
+    "locatedError": 1
+  },
+  "Microsoftonline": {
+    "locatedSuccess": 6,
+    "locatedError": 0
+  },
+  "Myshopify": {
+    "locatedSuccess": 2,
+    "locatedError": 0
+  },
+  "Netflix": {
+    "locatedSuccess": 1,
+    "locatedError": 2
+  },
+  "Nytimes": {
+    "locatedSuccess": 23,
+    "locatedError": 0
+  },
+  "Office": {
+    "locatedSuccess": 10,
+    "locatedError": 2
+  },
+  "Okta": {
+    "locatedSuccess": 9,
+    "locatedError": 1
+  },
+  "Paypal": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Reddit": {
+    "locatedSuccess": 30,
+    "locatedError": 0
+  },
+  "Spotify": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Target": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Twitch": {
+    "locatedSuccess": 3,
+    "locatedError": 2
+  },
+  "Twitter": {
+    "locatedSuccess": 19,
+    "locatedError": 1
+  },
+  "Ups": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Usps": {
+    "locatedSuccess": 0,
+    "locatedError": 0
+  },
+  "Walmart": {
+    "locatedSuccess": 3,
+    "locatedError": 4
+  },
+  "Wellsfargo": {
+    "locatedSuccess": 37,
+    "locatedError": 0
+  },
+  "Wikipedia": {
+    "locatedSuccess": 39,
+    "locatedError": 0
+  },
+  "Yahoo": {
+    "locatedSuccess": 12,
+    "locatedError": 5
+  },
+  "Youtube": {
+    "locatedSuccess": 6,
+    "locatedError": 2
+  },
+  "Zillow": {
+    "locatedSuccess": 7,
+    "locatedError": 2
+  },
+  "Zoom": {
+    "locatedSuccess": 6,
+    "locatedError": 2
+  },
+  "Total": {
+    "locatedSuccess": 546,
+    "locatedError": 60
+  }
+}
