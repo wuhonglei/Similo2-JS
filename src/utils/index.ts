@@ -79,3 +79,22 @@ export function isEmpty(value: any): boolean {
 
   return false;
 }
+
+/**
+ * 获取数组交集
+ * @param a
+ * @param b
+ */
+export function intersection<T extends any>(a: T[], b: T[]): T[] {
+  return [...new Set(a.filter((item) => b.includes(item)))];
+}
+
+/**
+ * 获取数组并集
+ * @param a
+ * @param b
+ * @returns
+ */
+export function union<T extends any>(a: T[], b: T[]): T[] {
+  return [...new Set([...a, ...b])];
+}

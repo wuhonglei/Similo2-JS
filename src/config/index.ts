@@ -1,10 +1,12 @@
 import type { Property, PropertyConfig, PropertyConfigByName, PropertyName } from '../interface/property';
 import {
+  classListSimilarity,
   equalSimilarity,
   equalSimilarityCaseInsensitive,
   integerSimilarity,
   pointSimilarity,
   stringSimilarity,
+  wordSimilarity,
   xpathSimilarity,
 } from '../utils/compare';
 
@@ -23,15 +25,15 @@ export const propertyConfigByName: PropertyConfigByName<PropertyName> = {
   },
   visibleText: {
     weight: 1.5,
-    compare: (a: string[], b: string[]) => stringSimilarity(a.join(' ').toLowerCase(), b.join(' ').toLowerCase()),
+    compare: wordSimilarity,
   },
   neighborText: {
     weight: 1.5,
-    compare: (a: string[], b: string[]) => stringSimilarity(a.join(' ').toLowerCase(), b.join(' ').toLowerCase()),
+    compare: wordSimilarity,
   },
   classList: {
     weight: 0.5,
-    compare: (a: string[], b: string[]) => stringSimilarity(a.join(' ').toLowerCase(), b.join(' ').toLowerCase()),
+    compare: classListSimilarity,
   },
   href: {
     weight: 0.5,

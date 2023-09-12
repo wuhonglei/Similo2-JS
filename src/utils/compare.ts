@@ -2,7 +2,7 @@
  * 属性值比较
  */
 
-import { isEmpty, isNil, isString, stripString, toPrecision } from '.';
+import { intersection, isEmpty, isNil, isString, stripString, toPrecision, union } from '.';
 import { Point } from '../interface';
 
 export function equalSimilarity<T extends string | number | boolean>(a: T, b: T): number {
@@ -28,7 +28,7 @@ export function equalSimilarity<T extends string | number | boolean>(a: T, b: T)
  * @returns
  */
 export function equalSimilarityCaseInsensitive(a: string, b: string): number {
-  if (!a || !b) {
+  if (isEmpty(a) || isEmpty(b)) {
     return 0;
   }
 
@@ -127,7 +127,7 @@ function swapArrayByLength<T>(a: T[], b: T[]): { min: T[]; max: T[] } {
 export function stringSimilarity(a: string, b: string): number {
   const newA = stripString(a);
   const newB = stripString(b);
-  if (!newA || !newB) {
+  if (isEmpty(newA) || isEmpty(newB)) {
     return 0;
   }
 
@@ -151,10 +151,29 @@ export function stringSimilarity(a: string, b: string): number {
  * ! 感叹号, 例如 Get it now!
  * ® 注册商标, 例如 Starbucks®
  * . 句号, 例如 back.
+ * , 逗号, 例如 UP,
  * @param str
  */
 function wordSanitize(str: string): string {
-  return str.replace(/(&|\?|...|\!|®)/g, '').replace(/(\.|,)$/, '');
+  return (str || '').replace(/(&|\?|\.\.\.|\!|®|©|[,.\/\-$]$)/g, '');
+}
+
+function worldListSanitize(wordList: string[]): string[] {
+  return wordList.map((word) => wordSanitize(word).toLowerCase()).filter(Boolean);
+}
+
+/**
+ * Jaccard(雅卡尔) 相似度, 比较文本集之间的相似度
+ * 参考: https://www.wikiwand.com/zh/%E9%9B%85%E5%8D%A1%E5%B0%94%E6%8C%87%E6%95%B0
+ * @param wordList1
+ * @param wordList2
+ */
+function jaccardSimilarity(wordList1: string[], wordList2: string[]): number {
+  if (isEmpty(wordList1) || isEmpty(wordList2)) {
+    return 0;
+  }
+
+  return intersection(wordList1, wordList2).length / union(wordList1, wordList2).length;
 }
 
 /**
@@ -165,8 +184,46 @@ function wordSanitize(str: string): string {
  * @param wordList2
  */
 export function wordSimilarity(wordList1: string[], wordList2: string[]): number {
-  const words1 = wordList1.join(' ');
-  const words2 = wordList2.join(' ');
+  const cleanWorldList1 = worldListSanitize(wordList1);
+  const cleanWorldList2 = worldListSanitize(wordList2);
+  const score = jaccardSimilarity(cleanWorldList1, cleanWorldList2);
+  return toPrecision(score);
+}
+
+/**
+ * class 名称分割
+ * -- 分割, followus--text
+ * - 分割, other-project-link
+ * __ 分割, footer__module
+ * _ 分割, sc_fjdhpX
+ * () 分割, W(190px)
+ * [] 分割 .example[data-v-f3f3eg9]
+ * @param classname
+ */
+export function classSegment(classname: string): string[] {
+  return classname.split(/(--|-|__|_|\[|\()/).filter(Boolean);
+}
+
+/**
+ * 比较两个 classList 的相似度
+ * @param classList1
+ * @param classList2
+ */
+export function classListSimilarity(classList1: string[], classList2: string[]): number {
+  if (isEmpty(classList1) || isEmpty(classList2)) {
+    return 0;
+  }
+  const cleanClassList1 = classList1
+    .map((classname) => classSegment(classname))
+    .flat()
+    .map((classname) => classname.toLowerCase());
+  const cleanClassList2 = classList2
+    .map((classname) => classSegment(classname))
+    .flat()
+    .map((classname) => classname.toLowerCase());
+
+  const score = jaccardSimilarity(cleanClassList1, cleanClassList2);
+  return toPrecision(score);
 }
 
 /**
@@ -176,7 +233,7 @@ export function wordSimilarity(wordList1: string[], wordList2: string[]): number
  * @param b
  */
 export function xpathSimilarity(a: string, b: string): number {
-  if (!a || !b) {
+  if (isEmpty(a) || isEmpty(b)) {
     return 0;
   }
 
