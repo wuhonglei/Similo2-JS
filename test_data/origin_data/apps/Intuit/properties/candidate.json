@@ -4249,12 +4249,14 @@
     "tag": "A",
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[1]/a[1]",
     "idxpath": "id(\"app\")/div[1]/div[8]/div[1]/div[1]/div[1]/footer[1]/div[3]/section[1]/div[1]/div[1]/div[1]/a[1]",
+    "area": 3390,
+    "shape": 376,
     "isButton": false,
     "location": {
-      "x": null,
-      "y": null,
-      "width": null,
-      "height": null
+      "x": 296,
+      "y": 46,
+      "width": 113,
+      "height": 30
     },
     "classList": [
       "link"
@@ -4263,8 +4265,6 @@
     "visibleText": [
       "Sitemap"
     ],
-    "area": null,
-    "shape": null,
     "widgetId": null
   },
   {

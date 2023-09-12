@@ -143,6 +143,33 @@ export function stringSimilarity(a: string, b: string): number {
 }
 
 /**
+ * 移除标点符号
+ * ... 例如 I'm shopping for...
+ * ® 注册标识, 例如 Starbucks® Rewards Visa® Prepaid Card
+ * ? 例如 stay?
+ * ... 省略号, 例如 More...
+ * ! 感叹号, 例如 Get it now!
+ * ® 注册商标, 例如 Starbucks®
+ * . 句号, 例如 back.
+ * @param str
+ */
+function wordSanitize(str: string): string {
+  return str.replace(/(&|\?|...|\!|®)/g, '').replace(/(\.|,)$/, '');
+}
+
+/**
+ * 单词相似度比较
+ * 1. 数据清洗：去除空格、标点符号、换行符
+ * 2. 相似度比较
+ * @param wordList1
+ * @param wordList2
+ */
+export function wordSimilarity(wordList1: string[], wordList2: string[]): number {
+  const words1 = wordList1.join(' ');
+  const words2 = wordList2.join(' ');
+}
+
+/**
  * xpath 相似度
  * 如果 XPath 末尾仅添加（或删除）一个元​​素可以使其与另一个 XPath 相匹配，则它们被认为是相似的
  * @param a
