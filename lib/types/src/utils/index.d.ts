@@ -15,3 +15,16 @@ export declare function isArray<T extends any>(value: T[]): value is T[];
 export declare function isPlainObject(value: any): value is Record<string, any>;
 export declare function isNumber(value: any): value is number;
 export declare function isEmpty(value: any): boolean;
+/**
+ * 获取数组交集
+ * @param a
+ * @param b
+ */
+export declare function intersection<T extends any>(a: T[], b: T[]): T[];
+/**
+ * 获取数组并集
+ * @param a
+ * @param b
+ * @returns
+ */
+export declare function union<T extends any>(a: T[], b: T[]): T[];
