@@ -23,7 +23,7 @@ export function getElementByXPath(xpath: string): Element {
   return document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as Element;
 }
 
-export function toPrecision(num: number, precision: number): number {
+export function toPrecision(num: number, precision = 6): number {
   return Number(num.toFixed(precision));
 }
 

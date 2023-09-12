@@ -5,6 +5,7 @@ import {
   integerSimilarity,
   pointSimilarity,
   stringSimilarity,
+  xpathSimilarity,
 } from '../utils/compare';
 
 export const propertyConfigByName: PropertyConfigByName<PropertyName> = {
@@ -42,11 +43,11 @@ export const propertyConfigByName: PropertyConfigByName<PropertyName> = {
   },
   xpath: {
     weight: 0.5,
-    compare: stringSimilarity,
+    compare: xpathSimilarity,
   },
   idxpath: {
     weight: 0.5,
-    compare: stringSimilarity,
+    compare: xpathSimilarity,
   },
   isButton: {
     weight: 0.5,

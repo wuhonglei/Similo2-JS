@@ -45,3 +45,26 @@ export interface PropertyConfig<T extends PropertyName> {
 export type PropertyConfigByName<Key extends PropertyName> = {
   [K in Key]: PropertyConfig<K>;
 };
+
+export interface SimilarPropertyResult {
+  maxScore: number;
+  maxIndex: number;
+  scores: number[];
+  similarProperty: Property;
+  normalizedScores: number[];
+  scoreDetails: SimilarScoreDetail[][];
+}
+
+export interface SimilarScoreDetail {
+  name: PropertyName;
+  weight: number;
+  similarity: number;
+  score: number;
+}
+
+export interface MaxScoreDetail {
+  max: number;
+  index: number;
+  scores: number[];
+  normalizedScores: number[];
+}
