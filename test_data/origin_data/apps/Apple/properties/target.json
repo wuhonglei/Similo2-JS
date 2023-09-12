@@ -8,9 +8,6 @@
     "area": 1760,
     "shape": 90,
     "widgetId": 1,
-    "visibleText": [
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 123,
@@ -22,7 +19,10 @@
       "ac-gn-link",
       "ac-gn-link-apple"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Apple"
+    ]
   },
   {
     "tag": "A",
@@ -32,9 +32,6 @@
     "area": 2112,
     "shape": 109,
     "widgetId": 2,
-    "visibleText": [
-      "Mac"
-    ],
     "isButton": false,
     "location": {
       "x": 219,
@@ -46,7 +43,10 @@
       "ac-gn-link",
       "ac-gn-link-mac"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Mac"
+    ]
   },
   {
     "tag": "A",
@@ -56,9 +56,6 @@
     "area": 2024,
     "shape": 104,
     "widgetId": 3,
-    "visibleText": [
-      "iPad"
-    ],
     "isButton": false,
     "location": {
       "x": 323,
@@ -70,7 +67,10 @@
       "ac-gn-link",
       "ac-gn-link-ipad"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "iPad"
+    ]
   },
   {
     "tag": "A",
@@ -80,9 +80,6 @@
     "area": 2816,
     "shape": 145,
     "widgetId": 4,
-    "visibleText": [
-      "iPhone"
-    ],
     "isButton": false,
     "location": {
       "x": 426,
@@ -94,7 +91,10 @@
       "ac-gn-link",
       "ac-gn-link-iphone"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "iPhone"
+    ]
   },
   {
     "tag": "A",
@@ -104,9 +104,6 @@
     "area": 2596,
     "shape": 134,
     "widgetId": 5,
-    "visibleText": [
-      "Watch"
-    ],
     "isButton": false,
     "location": {
       "x": 546,
@@ -118,7 +115,10 @@
       "ac-gn-link",
       "ac-gn-link-watch"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Watch"
+    ]
   },
   {
     "tag": "A",
@@ -128,9 +128,6 @@
     "area": 1628,
     "shape": 84,
     "widgetId": 6,
-    "visibleText": [
-      "TV"
-    ],
     "isButton": false,
     "location": {
       "x": 662,
@@ -142,7 +139,10 @@
       "ac-gn-link",
       "ac-gn-link-tv"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "TV"
+    ]
   },
   {
     "tag": "A",
@@ -152,9 +152,6 @@
     "area": 2508,
     "shape": 129,
     "widgetId": 7,
-    "visibleText": [
-      "Music"
-    ],
     "isButton": false,
     "location": {
       "x": 756,
@@ -166,7 +163,10 @@
       "ac-gn-link",
       "ac-gn-link-music"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Music"
+    ]
   },
   {
     "tag": "A",
@@ -176,9 +176,6 @@
     "area": 3168,
     "shape": 163,
     "widgetId": 8,
-    "visibleText": [
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 869,
@@ -190,7 +187,10 @@
       "ac-gn-link",
       "ac-gn-link-support"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Support"
+    ]
   },
   {
     "tag": "LI",
@@ -199,10 +199,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 9,
-    "visibleText": [
-      "Search",
-      "apple.com"
-    ],
     "isButton": false,
     "location": {
       "x": 997,
@@ -215,7 +211,11 @@
       "ac-gn-item-menu",
       "ac-gn-search"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Search",
+      "apple.com"
+    ]
   },
   {
     "tag": "A",
@@ -225,10 +225,6 @@
     "area": 1496,
     "shape": 77,
     "widgetId": 10,
-    "visibleText": [
-      "Shopping",
-      "Bag"
-    ],
     "isButton": false,
     "location": {
       "x": 1089,
@@ -240,6 +236,10 @@
       "ac-gn-link",
       "ac-gn-link-bag"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Shopping",
+      "Bag"
+    ]
   }
 ]

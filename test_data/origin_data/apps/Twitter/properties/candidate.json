@@ -83,7 +83,10 @@
       "forgot"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
     "area": null,
     "shape": null
   },
@@ -103,7 +106,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null
   },
@@ -123,7 +128,10 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null
   },
@@ -143,7 +151,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Blog"
+    ],
     "area": null,
     "shape": null
   },
@@ -163,7 +173,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Status"
+    ],
     "area": null,
     "shape": null
   },
@@ -183,7 +195,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null
   },
@@ -203,7 +217,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null
   },
@@ -223,7 +239,10 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null
   },
@@ -243,7 +262,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookies"
+    ],
     "area": null,
     "shape": null
   },
@@ -263,7 +284,10 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ads",
+      "info"
+    ],
     "area": null,
     "shape": null
   },
@@ -283,7 +307,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Brand"
+    ],
     "area": null,
     "shape": null
   },
@@ -303,7 +329,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advertise"
+    ],
     "area": null,
     "shape": null
   },
@@ -323,7 +351,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Businesses"
+    ],
     "area": null,
     "shape": null
   },
@@ -343,7 +373,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null
   },
@@ -363,7 +395,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Directory"
+    ],
     "area": null,
     "shape": null
   },
@@ -383,7 +417,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Settings"
+    ],
     "area": null,
     "shape": null
   },
@@ -404,7 +440,11 @@
       "StreamsFooter-copyright"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "2020",
+      "Twitter"
+    ],
     "area": null,
     "shape": null
   },
@@ -424,7 +464,11 @@
       "focusable"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "content"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -465,7 +509,11 @@
       "StaticLoggedOutHomePage-signupSubtitle"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Join",
+      "Twitter",
+      "today."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -483,7 +531,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Brand"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -501,7 +551,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "bird",
+      "Created",
+      "with",
+      "Sketch."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -521,7 +576,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Apps"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -539,7 +596,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Apps"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -599,7 +658,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advertise"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -617,7 +678,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ads",
+      "info"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -658,7 +722,9 @@
       "StreamsFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marketing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -676,7 +742,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marketing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -694,7 +762,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -712,7 +782,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Businesses"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -730,7 +802,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -754,7 +829,10 @@
       "StaticLoggedOutHomePage-buttonSignup"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -772,7 +850,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -790,7 +870,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Blog"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -808,7 +890,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Directory"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -826,7 +910,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Status"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -844,7 +930,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Settings"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -862,7 +950,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -880,7 +970,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -898,7 +990,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -922,7 +1017,10 @@
       "StaticLoggedOutHomePage-buttonLogin"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "in"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -940,7 +1038,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookies"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

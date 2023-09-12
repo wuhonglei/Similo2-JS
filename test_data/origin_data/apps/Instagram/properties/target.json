@@ -17,7 +17,9 @@
       "WyGvZ"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null
   },
@@ -37,7 +39,12 @@
       "_9nyy2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mobile",
+      "Number",
+      "or",
+      "Email"
+    ],
     "area": null,
     "shape": null
   },
@@ -57,7 +64,9 @@
       "_9nyy2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Password"
+    ],
     "area": null,
     "shape": null
   },
@@ -78,7 +87,10 @@
       "_1OSdk"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
     "area": null,
     "shape": null
   },
@@ -96,7 +108,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -156,7 +171,11 @@
       "b_nGN"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "the",
+      "app."
+    ],
     "area": null,
     "shape": null
   },
@@ -176,7 +195,10 @@
       "l93RR"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "us"
+    ],
     "area": null,
     "shape": null
   },
@@ -196,7 +218,9 @@
       "l93RR"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Blog"
+    ],
     "area": null,
     "shape": null
   },
@@ -216,7 +240,9 @@
       "l93RR"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null
   },
@@ -236,7 +262,9 @@
       "l93RR"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "API"
+    ],
     "area": null,
     "shape": null
   },
@@ -256,7 +284,9 @@
       "l93RR"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null
   },
@@ -277,7 +307,9 @@
       "_vfM2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null
   },
@@ -297,7 +329,9 @@
       "l93RR"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Hashtags"
+    ],
     "area": null,
     "shape": null
   }

@@ -108,7 +108,9 @@
       "g_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Account"
+    ],
     "area": null,
     "shape": null
   },
@@ -152,7 +154,9 @@
       "g_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Reorder"
+    ],
     "area": null,
     "shape": null
   },
@@ -172,7 +176,10 @@
       "POVCard-link--pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -194,7 +201,12 @@
       "button--link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "*See",
+      "terms",
+      "&",
+      "conditions"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -234,7 +246,12 @@
       "button-wrapper"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "*See",
+      "terms",
+      "&",
+      "conditions"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -255,7 +272,18 @@
       "slider-slide--active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "on",
+      "SamsungDeals",
+      "on",
+      "TVs,",
+      "tablets,",
+      "watches,",
+      "&",
+      "more.Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -296,7 +324,9 @@
       "b_r"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Account"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -314,7 +344,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pause",
+      "slide",
+      "animation"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -383,7 +417,11 @@
       "font-bold"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pause",
+      "slide",
+      "animation"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -410,7 +448,9 @@
       "w_i"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Account"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -430,7 +470,11 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pause",
+      "slide",
+      "animation"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -450,7 +494,22 @@
       "carousel-paginator-list-accessibleButtons"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cyber",
+      "deals",
+      "going",
+      "fast!,",
+      "slide",
+      "1",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -475,7 +534,12 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -495,7 +559,20 @@
       "slider-slide"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "40%",
+      "off",
+      "dolls",
+      "&",
+      "playsetsSave",
+      "on",
+      "select",
+      "L.O.L.,",
+      "Disney,",
+      "&",
+      "more.Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -515,7 +592,22 @@
       "carousel-paginator-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cyber",
+      "deals",
+      "going",
+      "fast!,",
+      "slide",
+      "1",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -536,7 +628,9 @@
       "b_r"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Reorder"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -554,7 +648,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Walmart.com",
+      "-",
+      "Save",
+      "Money.",
+      "Live",
+      "Better."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -574,7 +675,22 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cyber",
+      "deals",
+      "going",
+      "fast!,",
+      "slide",
+      "1",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -640,7 +756,16 @@
       "slick-active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "on",
+      "Samsung,",
+      "slide",
+      "2",
+      "of",
+      "5,",
+      "active"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -667,7 +792,9 @@
       "w_i"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Reorder"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -688,7 +815,16 @@
       "carousel-paginator-item--active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "on",
+      "Samsung,",
+      "slide",
+      "2",
+      "of",
+      "5,",
+      "active"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -709,7 +845,11 @@
       "an_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pickup",
+      "&",
+      "delivery"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -730,7 +870,10 @@
       "POVCard-link--pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -750,7 +893,16 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "on",
+      "Samsung,",
+      "slide",
+      "2",
+      "of",
+      "5,",
+      "active"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -770,7 +922,11 @@
       "g_b"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pickup",
+      "&",
+      "delivery"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -810,7 +966,23 @@
       "carousel-paginator-list-accessibleButtons"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "40%",
+      "off",
+      "dolls",
+      "&",
+      "playsets,",
+      "slide",
+      "3",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -851,7 +1023,19 @@
       "slider-slide"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Prevent",
+      "colds",
+      "&",
+      "fluGo-to",
+      "picks",
+      "to",
+      "prep",
+      "for",
+      "the",
+      "season.Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -872,7 +1056,11 @@
       "POVCard-link--pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Try",
+      "it",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -892,7 +1080,23 @@
       "carousel-paginator-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "40%",
+      "off",
+      "dolls",
+      "&",
+      "playsets,",
+      "slide",
+      "3",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -912,7 +1116,23 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "40%",
+      "off",
+      "dolls",
+      "&",
+      "playsets,",
+      "slide",
+      "3",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -953,7 +1173,22 @@
       "carousel-paginator-list-accessibleButtons"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Prevent",
+      "colds",
+      "&",
+      "flu,",
+      "slide",
+      "4",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -993,7 +1228,22 @@
       "carousel-paginator-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Prevent",
+      "colds",
+      "&",
+      "flu,",
+      "slide",
+      "4",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1078,7 +1328,23 @@
       "slider-slide"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cyber",
+      "deals",
+      "going",
+      "fast!Save",
+      "$140",
+      "on",
+      "Beats",
+      "Studio3",
+      "Headphones",
+      "while",
+      "you",
+      "can.",
+      "Online",
+      "only.Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1119,7 +1385,22 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "time",
+      "with",
+      "Walmart+,",
+      "slide",
+      "5",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1139,7 +1420,9 @@
       "price-currency"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1159,7 +1442,9 @@
       "price-group"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$149.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1201,7 +1486,9 @@
       "price-mantissa"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1221,7 +1508,9 @@
       "price-currency"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1266,7 +1555,10 @@
       "price--strikethrough"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "was",
+      "$34.00$34.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1286,7 +1578,9 @@
       "price-characteristic"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "149"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1350,7 +1644,10 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "was",
+      "$34.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1370,7 +1667,9 @@
       "price-mark"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1391,7 +1690,12 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Holiday",
+      "fashion",
+      "from",
+      "$15"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1412,7 +1716,10 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Gift",
+      "finder"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1432,7 +1739,9 @@
       "price-group"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$34.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1452,7 +1761,9 @@
       "price-mantissa"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1517,7 +1828,9 @@
       "price-range"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$149.00$149.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1537,7 +1850,9 @@
       "price-currency"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1557,7 +1872,9 @@
       "price-range-to"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "-"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1577,7 +1894,9 @@
       "price-characteristic"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "34"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1598,7 +1917,9 @@
       "price-range"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$229.99$229.99"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1618,7 +1939,9 @@
       "price-mark"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1638,7 +1961,9 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$229.99"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1659,7 +1984,9 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Home"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1679,7 +2006,12 @@
       "CETile-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Earn",
+      "5%",
+      "cash",
+      "back"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1699,7 +2031,9 @@
       "price-mantissa"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1719,7 +2053,9 @@
       "price-group"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$229.99"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1739,7 +2075,9 @@
       "price-currency"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1757,7 +2095,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "every",
+      "day",
+      "on",
+      "Walmart.com"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1780,7 +2123,11 @@
       "button--small"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Add",
+      "to",
+      "cart"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1800,7 +2147,9 @@
       "price-characteristic"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "20"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1820,7 +2169,9 @@
       "price-characteristic"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "229"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1841,7 +2192,11 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Patio",
+      "and",
+      "garden"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1861,7 +2216,18 @@
       "slider-slide"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Keurig",
+      "K-compact",
+      "Brewer",
+      "Black",
+      "Coffee",
+      "Maker86$49.00$49.00was",
+      "$59.00$59.002-day",
+      "deliveryAdd",
+      "to",
+      "cart"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1881,7 +2247,9 @@
       "price-mark"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1925,7 +2293,10 @@
       "display-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "how"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1988,7 +2359,10 @@
       "CETile-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Introducing",
+      "Walmart+"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2009,7 +2383,10 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Walmart",
+      "Cookshop"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2032,7 +2409,10 @@
       "button--ghost"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Choose",
+      "options"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2094,7 +2474,10 @@
       "button-wrapper"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Choose",
+      "options"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2114,7 +2497,9 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$149.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2200,7 +2585,12 @@
       "display-inline-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Holiday",
+      "go-tos",
+      "for",
+      "less"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2312,7 +2702,12 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trees",
+      "starting",
+      "at",
+      "$39"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2356,7 +2751,22 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Prevent",
+      "colds",
+      "&",
+      "flu,",
+      "slide",
+      "4",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2376,7 +2786,9 @@
       "price"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$20.00$20.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2396,7 +2808,9 @@
       "price-mark"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2416,7 +2830,9 @@
       "stars-reviews"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "55"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2437,7 +2853,10 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Women’s",
+      "clothing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2457,7 +2876,9 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$20.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2477,7 +2898,9 @@
       "stars-reviews-count-node"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "55"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2519,7 +2942,22 @@
       "carousel-paginator-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "time",
+      "with",
+      "Walmart+,",
+      "slide",
+      "5",
+      "of",
+      "5,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2539,7 +2977,9 @@
       "price-group"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$20.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2560,7 +3000,12 @@
       "u-text-truncate"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Festive",
+      "PJs",
+      "under",
+      "$15"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2581,7 +3026,11 @@
       "price-range"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$149.00$149.00",
+      "-",
+      "$229.99$229.99"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2626,7 +3075,10 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Store",
+      "Pickup"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2665,7 +3117,11 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tax",
+      "Exempt",
+      "Program"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2685,7 +3141,18 @@
       "carousel-paginator-list-accessibleButtons"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "3",
+      "of",
+      "6,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2706,7 +3173,9 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2751,7 +3220,11 @@
       "w_b"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "In",
+      "The",
+      "Spotlight"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2773,7 +3246,9 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2812,7 +3287,11 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Portable",
+      "Air",
+      "Conditioners"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2850,7 +3329,18 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "3",
+      "of",
+      "6,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2894,7 +3384,11 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Portable",
+      "Air",
+      "Conditioners"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2914,7 +3408,18 @@
       "carousel-paginator-list-accessibleButtons"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "4",
+      "of",
+      "6,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2954,7 +3459,11 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Portable",
+      "Air",
+      "Conditioners"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2974,7 +3483,9 @@
       "price-currency"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2995,7 +3506,12 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Request",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3039,7 +3555,9 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "PS4"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3062,7 +3580,10 @@
       "price--strikethrough"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "was",
+      "$59.00$59.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3084,7 +3605,12 @@
       "w_b"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "to",
+      "Know",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3123,7 +3649,9 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "PS4"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3143,7 +3671,10 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "was",
+      "$59.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3165,7 +3696,10 @@
       "w_b"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3210,7 +3744,9 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "PS4"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3230,7 +3766,18 @@
       "carousel-paginator-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "2",
+      "of",
+      "6,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3250,7 +3797,9 @@
       "price-group"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$59.00"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3271,7 +3820,10 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3310,7 +3862,9 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trampoline"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3330,7 +3884,9 @@
       "price-currency"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3351,7 +3907,10 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3395,7 +3954,9 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trampoline"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3415,7 +3976,9 @@
       "price-characteristic"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "59"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3437,7 +4000,10 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3458,7 +4024,10 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Store",
+      "Pickup"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3498,7 +4067,9 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trampoline"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3518,7 +4089,9 @@
       "price-mark"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3539,7 +4112,9 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Returns"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3583,7 +4158,9 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skateboard"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3603,7 +4180,18 @@
       "carousel-paginator-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "6",
+      "of",
+      "6,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3624,7 +4212,9 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Returns"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3663,7 +4253,9 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skateboard"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3706,7 +4298,18 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "6",
+      "of",
+      "6,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3728,7 +4331,9 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Returns"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3773,7 +4378,9 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skateboard"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3794,7 +4401,10 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Product",
+      "Recalls"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3833,7 +4443,10 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Outdoor",
+      "Furniture"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3854,7 +4467,10 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Product",
+      "Recalls"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3876,7 +4492,12 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Request",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3920,7 +4541,10 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Outdoor",
+      "Furniture"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3942,7 +4566,10 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Product",
+      "Recalls"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3982,7 +4609,10 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Outdoor",
+      "Furniture"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4005,7 +4635,11 @@
       "button--small"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Add",
+      "to",
+      "cart"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4026,7 +4660,9 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4048,7 +4684,10 @@
       "a4_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4069,7 +4708,14 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "2020",
+      "Walmart.",
+      "All",
+      "Rights",
+      "Reserved."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4089,7 +4735,18 @@
       "visuallyhidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "2",
+      "of",
+      "6,",
+      "Activate",
+      "to",
+      "move",
+      "to",
+      "this",
+      "slide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4110,7 +4767,9 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4130,7 +4789,10 @@
       "g_b"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4152,7 +4814,25 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "To",
+      "ensure",
+      "we",
+      "are",
+      "able",
+      "to",
+      "help",
+      "you",
+      "as",
+      "best",
+      "we",
+      "can,",
+      "please",
+      "include",
+      "your",
+      "reference",
+      "number:"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4194,7 +4874,9 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4215,7 +4897,13 @@
       "slick-active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "slide",
+      "1",
+      "of",
+      "6,",
+      "active"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4243,7 +4931,9 @@
       "v_a"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Feedback"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4288,7 +4978,10 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4310,7 +5003,10 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Store",
+      "Pickup"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4359,7 +5055,9 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Feedback"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4404,7 +5102,10 @@
       "w_j"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4427,7 +5128,11 @@
       "w_e"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "Our",
+      "Brands"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4449,7 +5154,9 @@
       "o_u"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Feedback"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4495,7 +5202,10 @@
       "i_c"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4539,7 +5249,12 @@
       "o_n"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Request",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

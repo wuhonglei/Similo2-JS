@@ -17,7 +17,11 @@
       "plan-container__headline"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Select",
+      "Your",
+      "Plan"
+    ],
     "area": null,
     "shape": null
   },
@@ -39,7 +43,11 @@
       "Masthead__input-cta"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SIGN",
+      "UP",
+      "NOW"
+    ],
     "area": null,
     "shape": null
   }

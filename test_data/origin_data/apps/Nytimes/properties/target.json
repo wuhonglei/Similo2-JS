@@ -36,7 +36,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "World"
+    ],
     "area": null,
     "shape": null
   },
@@ -56,7 +58,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "U.S."
+    ],
     "area": null,
     "shape": null
   },
@@ -76,7 +80,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Politics"
+    ],
     "area": null,
     "shape": null
   },
@@ -96,7 +102,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "N.Y."
+    ],
     "area": null,
     "shape": null
   },
@@ -116,7 +124,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Business"
+    ],
     "area": null,
     "shape": null
   },
@@ -136,7 +146,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Opinion"
+    ],
     "area": null,
     "shape": null
   },
@@ -156,7 +168,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tech"
+    ],
     "area": null,
     "shape": null
   },
@@ -176,7 +190,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Science"
+    ],
     "area": null,
     "shape": null
   },
@@ -196,7 +212,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Health"
+    ],
     "area": null,
     "shape": null
   },
@@ -216,7 +234,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sports"
+    ],
     "area": null,
     "shape": null
   },
@@ -236,7 +256,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Arts"
+    ],
     "area": null,
     "shape": null
   },
@@ -256,7 +278,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Books"
+    ],
     "area": null,
     "shape": null
   },
@@ -276,7 +300,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Style"
+    ],
     "area": null,
     "shape": null
   },
@@ -296,7 +322,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Food"
+    ],
     "area": null,
     "shape": null
   },
@@ -316,7 +344,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Travel"
+    ],
     "area": null,
     "shape": null
   },
@@ -336,7 +366,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Magazine"
+    ],
     "area": null,
     "shape": null
   },
@@ -356,7 +388,10 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "T",
+      "Magazine"
+    ],
     "area": null,
     "shape": null
   },
@@ -376,7 +411,10 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Real",
+      "Estate"
+    ],
     "area": null,
     "shape": null
   },
@@ -396,7 +434,9 @@
       "css-cwdrld"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Video"
+    ],
     "area": null,
     "shape": null
   },
@@ -416,7 +456,10 @@
       "css-2bwtzy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Today’s",
+      "Paper"
+    ],
     "area": null,
     "shape": null
   },
@@ -438,7 +481,9 @@
       "em5m38e2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sections"
+    ],
     "area": null,
     "shape": null
   },
@@ -459,7 +504,9 @@
       "e1f9nlu40"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SEARCH"
+    ],
     "area": null,
     "shape": null
   }

@@ -17,7 +17,9 @@
       "c-sgl-stk-uhfLogo"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft"
+    ],
     "area": null,
     "shape": null
   },
@@ -38,7 +40,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null
   },
@@ -59,7 +63,11 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search",
+      "Search",
+      "Microsoft.com"
+    ],
     "area": null,
     "shape": null
   },
@@ -83,7 +91,15 @@
       "glyph-shopping-cart"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "0",
+      "Cart",
+      "0",
+      "items",
+      "in",
+      "shopping",
+      "cart"
+    ],
     "area": null,
     "shape": null
   },
@@ -104,7 +120,9 @@
       "uhf-menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Windows"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -125,7 +143,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -147,7 +167,9 @@
       "uhf-menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Xbox"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -168,7 +190,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Xbox"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -190,7 +214,9 @@
       "uhf-menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Deals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -211,7 +237,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Deals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -233,7 +261,9 @@
       "uhf-menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -254,7 +284,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Windows"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -293,7 +325,10 @@
       "all-ms-nav"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -311,7 +346,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -332,7 +370,12 @@
       "m-skip-to-main"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -354,7 +397,9 @@
       "uhf-menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -372,7 +417,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -394,7 +441,10 @@
       "uhf-menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "365"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -415,7 +465,10 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "365"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -437,7 +490,9 @@
       "uhf-menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Office"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -458,7 +513,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Office"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -479,7 +536,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -497,7 +557,18 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cyber",
+      "Week",
+      "continues",
+      "with",
+      "instant",
+      "savings",
+      "on",
+      "speed",
+      "and",
+      "style."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -517,7 +588,14 @@
       "c-heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "on",
+      "Surface",
+      "for",
+      "Business",
+      "devices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -538,7 +616,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -576,7 +657,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Modern",
+      "solutions",
+      "to",
+      "drive",
+      "business",
+      "productivity."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -615,7 +703,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -656,7 +747,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -695,7 +789,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Give",
+      "new",
+      "games",
+      "for",
+      "the",
+      "holidays."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -758,7 +859,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -796,7 +900,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -817,7 +924,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -838,7 +948,11 @@
       "h-align"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Make",
+      "merry",
+      "memories"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -856,7 +970,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -892,7 +1009,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "Surface",
+      "devices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -912,7 +1033,10 @@
       "c-heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -932,7 +1056,10 @@
       "c-heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "Teams"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -953,7 +1080,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -975,7 +1105,10 @@
       "p-ctaalign"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -998,7 +1131,11 @@
       "large-icon"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "Surface",
+      "devices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1016,7 +1153,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Chat,",
+      "meet,",
+      "call,",
+      "and",
+      "collaborate."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1034,7 +1177,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1052,7 +1198,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Buy",
+      "Xbox",
+      "games",
+      "and",
+      "consoles"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1073,7 +1225,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1093,7 +1248,13 @@
       "c-heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Gaming",
+      "PCs",
+      "on",
+      "sale",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1116,7 +1277,13 @@
       "large-icon"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Buy",
+      "Xbox",
+      "games",
+      "and",
+      "consoles"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1134,7 +1301,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1152,7 +1322,19 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Powered",
+      "for",
+      "gaming",
+      "with",
+      "the",
+      "latest",
+      "processors,",
+      "graphics",
+      "cards,",
+      "and",
+      "features."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1170,7 +1352,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1188,7 +1373,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "Windows",
+      "10"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1208,7 +1397,12 @@
       "c-heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "365",
+      "for",
+      "business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1229,7 +1423,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1252,7 +1449,11 @@
       "large-icon"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "Windows",
+      "10"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1274,7 +1475,23 @@
       "m-sitebanner-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Miss",
+      "out",
+      "on",
+      "Monday?",
+      "There's",
+      "still",
+      "time",
+      "to",
+      "score",
+      "great",
+      "deals.",
+      "Shop",
+      "Cyber",
+      "Week",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1292,7 +1509,20 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Stay",
+      "a",
+      "step",
+      "ahead",
+      "with",
+      "powerful",
+      "apps",
+      "for",
+      "productivity,",
+      "connection,",
+      "and",
+      "security."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1310,7 +1540,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "your",
+      "next",
+      "PC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1331,7 +1566,10 @@
       "c-glyph"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1375,7 +1613,12 @@
       "large-icon"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "your",
+      "next",
+      "PC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1393,7 +1636,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1414,7 +1660,10 @@
       "h-align"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Xbox",
+      "controllers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1432,7 +1681,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "Business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1472,7 +1724,12 @@
       "c-heading-3"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft's",
+      "response",
+      "to",
+      "COVID-19"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1490,7 +1747,16 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Precision,",
+      "power,",
+      "and",
+      "excitement—all",
+      "in",
+      "one",
+      "pretty",
+      "package"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1550,7 +1816,10 @@
       "p-ctaalign"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1591,7 +1860,21 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Read",
+      "how",
+      "we’re",
+      "responding",
+      "to",
+      "the",
+      "COVID-19",
+      "outbreak,",
+      "and",
+      "get",
+      "resources",
+      "to",
+      "help."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1611,7 +1894,11 @@
       "c-heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Products",
+      "for",
+      "home"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1629,7 +1916,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shop",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1668,7 +1958,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1687,7 +1980,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "our",
+      "ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1705,7 +2002,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Pro",
+      "X"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1725,7 +2026,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company",
+      "news"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1745,7 +2049,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "our",
+      "ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1765,7 +2073,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Pro",
+      "X"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1783,7 +2095,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "at",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1801,7 +2117,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "Microsoft",
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1819,7 +2139,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Go",
+      "2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1838,7 +2162,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Safety",
+      "&",
+      "eco"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1858,7 +2186,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "at",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1878,7 +2210,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Go",
+      "2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1896,7 +2232,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Investors"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1914,7 +2252,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "in",
+      "education"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1934,7 +2276,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Investors"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1952,7 +2296,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Laptop",
+      "Go"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1972,7 +2320,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "in",
+      "education"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1990,7 +2342,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Diversity",
+      "and",
+      "inclusion"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2008,7 +2364,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "Visual",
+      "Studio"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2028,7 +2388,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Diversity",
+      "and",
+      "inclusion"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2048,7 +2412,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "Visual",
+      "Studio"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2066,7 +2434,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2084,7 +2454,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Windows",
+      "Dev",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2104,7 +2478,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2124,7 +2500,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Windows",
+      "Dev",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2142,7 +2522,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2162,7 +2544,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2180,7 +2565,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developer",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2200,7 +2588,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2220,7 +2610,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developer",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2244,7 +2637,11 @@
       "glyph-world"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "English",
+      "(United",
+      "States)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2262,7 +2659,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "developer",
+      "program"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2282,7 +2683,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Safety",
+      "&",
+      "eco"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2300,7 +2705,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Account",
+      "profile"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2319,7 +2727,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sitemap"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2339,7 +2749,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "developer",
+      "program"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2359,7 +2773,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Account",
+      "profile"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2379,7 +2796,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sitemap"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2397,7 +2816,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Channel",
+      "9"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2415,7 +2837,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Azure"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2435,7 +2859,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Laptop",
+      "Go"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2454,7 +2882,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2474,7 +2905,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Channel",
+      "9"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2494,7 +2928,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Azure"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2514,7 +2950,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2532,7 +2971,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Office",
+      "Dev",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2550,7 +2993,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "AppSource"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2569,7 +3014,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2589,7 +3036,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Office",
+      "Dev",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2609,7 +3060,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "AppSource"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2629,7 +3082,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2647,7 +3102,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "Garage"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2665,7 +3123,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Automotive"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2684,7 +3144,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2704,7 +3168,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft",
+      "Garage"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2724,7 +3191,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Automotive"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2742,7 +3211,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company",
+      "news"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2762,7 +3234,11 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2780,7 +3256,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2799,7 +3277,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trademarks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2817,7 +3297,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Duo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2837,7 +3320,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2857,7 +3342,9 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trademarks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2877,7 +3364,10 @@
       "c-uhff-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Surface",
+      "Duo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

@@ -34,7 +34,10 @@
       "about-us"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Us"
+    ],
     "area": null,
     "shape": null
   }

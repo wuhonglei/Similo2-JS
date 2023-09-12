@@ -20,20 +20,7 @@ function parseContentToJson(content) {
     json[camelCase(key)] = value.join('=');
   });
 
-  const sameObject = pick(json, [
-    'tag',
-    'name',
-    'id',
-    'href',
-    'alt',
-    'xpath',
-    'idxpath',
-    'area',
-    'shape',
-    'widgetId',
-    'visibleText',
-    'neighborText',
-  ]);
+  const sameObject = pick(json, ['tag', 'name', 'id', 'href', 'alt', 'xpath', 'idxpath', 'area', 'shape', 'widgetId']);
   const isButton = json.isButton === 'yes';
   const location = pick(json, ['x', 'y', 'width', 'height']);
   const classList = (json.class || '').split(/[\n\s]+/).filter(Boolean);
@@ -43,7 +30,7 @@ function parseContentToJson(content) {
   )
     .split(/[\n\s]+/)
     .filter(Boolean);
-  const visibleText = (json.visibleText || '').split(/[\n\s]+/).filter(Boolean);
+  const visibleText = (json.visibleText || json.text || '').split(/[\n\s]+/).filter(Boolean);
   const res = {
     ...sameObject,
     isButton,

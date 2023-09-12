@@ -7,16 +7,6 @@
     "area": 11480,
     "shape": 717,
     "widgetId": 1,
-    "visibleText": [
-      "Dropbox",
-      "BusinessDropbox",
-      "Business"
-    ],
-    "neighborText": [
-      "dropbox",
-      "businessdropbox",
-      "business"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -26,6 +16,16 @@
     },
     "classList": [
       "arbor-super-nav__logo-link"
+    ],
+    "neighborText": [
+      "dropbox",
+      "businessdropbox",
+      "business"
+    ],
+    "visibleText": [
+      "Dropbox",
+      "BusinessDropbox",
+      "Business"
     ]
   },
   {
@@ -36,20 +36,6 @@
     "area": 5152,
     "shape": 503,
     "widgetId": 2,
-    "visibleText": [
-      "Try",
-      "free",
-      "for",
-      "30",
-      "days"
-    ],
-    "neighborText": [
-      "try",
-      "free",
-      "for",
-      "30",
-      "days"
-    ],
     "isButton": false,
     "location": {
       "x": 1021,
@@ -64,6 +50,20 @@
       "arbor-button--panda-white",
       "arbor-button--touch-device",
       "arbor-super-nav__cta"
+    ],
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days"
+    ],
+    "visibleText": [
+      "Try",
+      "free",
+      "for",
+      "30",
+      "days"
     ]
   },
   {
@@ -73,13 +73,6 @@
     "area": 576,
     "shape": 100,
     "widgetId": 3,
-    "neighborText": [
-      "try",
-      "free",
-      "for",
-      "30",
-      "days"
-    ],
     "isButton": true,
     "location": {
       "x": 1203,
@@ -89,6 +82,13 @@
     },
     "classList": [
       "arbor-super-nav__links-toggle"
+    ],
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days"
     ],
     "visibleText": []
   },
@@ -100,22 +100,6 @@
     "area": 11396,
     "shape": 588,
     "widgetId": 4,
-    "visibleText": [
-      "Try",
-      "free",
-      "for",
-      "30",
-      "days"
-    ],
-    "neighborText": [
-      "try",
-      "free",
-      "for",
-      "30",
-      "days",
-      "purchase",
-      "now"
-    ],
     "isButton": false,
     "location": {
       "x": 51,
@@ -131,6 +115,22 @@
       "arbor-button--full-width",
       "arbor-button--touch-device",
       "business-hero__button"
+    ],
+    "neighborText": [
+      "try",
+      "free",
+      "for",
+      "30",
+      "days",
+      "purchase",
+      "now"
+    ],
+    "visibleText": [
+      "Try",
+      "free",
+      "for",
+      "30",
+      "days"
     ]
   },
   {
@@ -141,19 +141,6 @@
     "area": 2057,
     "shape": 711,
     "widgetId": 5,
-    "visibleText": [
-      "get",
-      "Dropbox",
-      "Basic"
-    ],
-    "neighborText": [
-      "purchase",
-      "now",
-      "or",
-      "get",
-      "dropbox",
-      "basic"
-    ],
     "isButton": false,
     "location": {
       "x": 69,
@@ -168,6 +155,19 @@
       "arbor-link--text-style",
       "business-hero__link",
       "arbor-link--touch-device"
+    ],
+    "neighborText": [
+      "purchase",
+      "now",
+      "or",
+      "get",
+      "dropbox",
+      "basic"
+    ],
+    "visibleText": [
+      "get",
+      "Dropbox",
+      "Basic"
     ]
   },
   {
@@ -177,15 +177,6 @@
     "area": 40894,
     "shape": 1932,
     "widgetId": 6,
-    "visibleText": [
-      "Find",
-      "the",
-      "Dropbox",
-      "Business",
-      "plan",
-      "for",
-      "you"
-    ],
     "isButton": false,
     "location": {
       "x": 103,
@@ -199,7 +190,16 @@
       "arbor-headline--title-2",
       "arbor-foreground-color--panda-black"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Find",
+      "the",
+      "Dropbox",
+      "Business",
+      "plan",
+      "for",
+      "you"
+    ]
   },
   {
     "tag": "SPAN",
@@ -208,14 +208,6 @@
     "area": 3042,
     "shape": 450,
     "widgetId": 7,
-    "visibleText": [
-      "Billed",
-      "monthly"
-    ],
-    "neighborText": [
-      "billed",
-      "yearly"
-    ],
     "isButton": false,
     "location": {
       "x": 128,
@@ -228,6 +220,14 @@
       "arbor-copy--standard",
       "arbor-foreground-color--panda-black",
       "arbor-radio__text"
+    ],
+    "neighborText": [
+      "billed",
+      "yearly"
+    ],
+    "visibleText": [
+      "Billed",
+      "monthly"
     ]
   },
   {
@@ -237,14 +237,6 @@
     "area": 2600,
     "shape": 384,
     "widgetId": 8,
-    "visibleText": [
-      "Billed",
-      "yearly"
-    ],
-    "neighborText": [
-      "billed",
-      "monthly"
-    ],
     "isButton": false,
     "location": {
       "x": 291,
@@ -257,6 +249,14 @@
       "arbor-copy--standard",
       "arbor-foreground-color--panda-black",
       "arbor-radio__text"
+    ],
+    "neighborText": [
+      "billed",
+      "monthly"
+    ],
+    "visibleText": [
+      "Billed",
+      "yearly"
     ]
   },
   {
@@ -266,12 +266,6 @@
     "area": 6266,
     "shape": 926,
     "widgetId": 9,
-    "visibleText": [
-      "Standard"
-    ],
-    "neighborText": [
-      "$12.50"
-    ],
     "isButton": false,
     "location": {
       "x": 134,
@@ -285,6 +279,12 @@
       "arbor-headline--22",
       "arbor-headline--title-5",
       "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "$12.50"
+    ],
+    "visibleText": [
+      "Standard"
     ]
   },
   {
@@ -294,14 +294,6 @@
     "area": 6266,
     "shape": 926,
     "widgetId": 10,
-    "visibleText": [
-      "Advanced"
-    ],
-    "neighborText": [
-      "best",
-      "value",
-      "$20"
-    ],
     "isButton": false,
     "location": {
       "x": 502,
@@ -315,6 +307,14 @@
       "arbor-headline--22",
       "arbor-headline--title-5",
       "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "best",
+      "value",
+      "$20"
+    ],
+    "visibleText": [
+      "Advanced"
     ]
   },
   {
@@ -324,13 +324,6 @@
     "area": 6266,
     "shape": 926,
     "widgetId": 11,
-    "visibleText": [
-      "Enterprise"
-    ],
-    "neighborText": [
-      "contact",
-      "us"
-    ],
     "isButton": false,
     "location": {
       "x": 870,
@@ -344,6 +337,13 @@
       "arbor-headline--22",
       "arbor-headline--title-5",
       "arbor-foreground-color--panda-black"
+    ],
+    "neighborText": [
+      "contact",
+      "us"
+    ],
+    "visibleText": [
+      "Enterprise"
     ]
   }
 ]

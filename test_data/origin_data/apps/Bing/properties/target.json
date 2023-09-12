@@ -7,12 +7,6 @@
     "area": 697,
     "shape": 241,
     "widgetId": 1,
-    "visibleText": [
-      "Images"
-    ],
-    "neighborText": [
-      "videos"
-    ],
     "isButton": false,
     "location": {
       "x": 126,
@@ -20,7 +14,13 @@
       "width": 41,
       "height": 17
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "videos"
+    ],
+    "visibleText": [
+      "Images"
+    ]
   },
   {
     "tag": "A",
@@ -30,13 +30,6 @@
     "area": 646,
     "shape": 223,
     "widgetId": 2,
-    "visibleText": [
-      "Videos"
-    ],
-    "neighborText": [
-      "images",
-      "maps"
-    ],
     "isButton": false,
     "location": {
       "x": 203,
@@ -44,7 +37,14 @@
       "width": 38,
       "height": 17
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "images",
+      "maps"
+    ],
+    "visibleText": [
+      "Videos"
+    ]
   },
   {
     "tag": "SPAN",
@@ -54,10 +54,6 @@
     "area": 663,
     "shape": 229,
     "widgetId": 3,
-    "visibleText": [
-      "Sign",
-      "in"
-    ],
     "isButton": false,
     "location": {
       "x": 895,
@@ -66,7 +62,11 @@
       "height": 17
     },
     "classList": [],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ]
   },
   {
     "tag": "SPAN",
@@ -76,11 +76,6 @@
     "area": 1024,
     "shape": 100,
     "widgetId": 4,
-    "neighborText": [
-      "sign",
-      "in",
-      "rewards"
-    ],
     "isButton": false,
     "location": {
       "x": 940,
@@ -92,6 +87,11 @@
       "sw_spd",
       "id_avatar"
     ],
+    "neighborText": [
+      "sign",
+      "in",
+      "rewards"
+    ],
     "visibleText": []
   },
   {
@@ -102,9 +102,6 @@
     "area": 799,
     "shape": 276,
     "widgetId": 5,
-    "visibleText": [
-      "Rewards"
-    ],
     "isButton": false,
     "location": {
       "x": 989,
@@ -113,7 +110,10 @@
       "height": 17
     },
     "classList": [],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Rewards"
+    ]
   },
   {
     "tag": "A",
@@ -145,9 +145,6 @@
     "area": 1024,
     "shape": 100,
     "widgetId": 6,
-    "neighborText": [
-      "rewards"
-    ],
     "isButton": false,
     "location": {
       "x": 1045,
@@ -156,6 +153,9 @@
       "height": 32
     },
     "classList": [],
+    "neighborText": [
+      "rewards"
+    ],
     "visibleText": []
   },
   {

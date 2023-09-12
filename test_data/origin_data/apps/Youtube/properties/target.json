@@ -94,7 +94,9 @@
       "search-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search"
+    ],
     "area": null,
     "shape": null
   },
@@ -116,7 +118,10 @@
       "yt-uix-button-primary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -134,7 +139,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Home"
+    ],
     "area": null,
     "shape": null
   },
@@ -152,7 +159,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trending"
+    ],
     "area": null,
     "shape": null
   },
@@ -170,7 +179,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "History"
+    ],
     "area": null,
     "shape": null
   }

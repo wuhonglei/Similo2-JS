@@ -41,7 +41,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "one!"
+    ],
     "area": null,
     "shape": null
   },
@@ -61,7 +64,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Can’t",
+      "access",
+      "your",
+      "account?"
+    ],
     "area": null,
     "shape": null
   },
@@ -104,7 +112,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
     "area": null,
     "shape": null
   },
@@ -123,7 +135,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "&",
+      "cookies"
+    ],
     "area": null,
     "shape": null
   },
@@ -141,7 +157,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign-in",
+      "options"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

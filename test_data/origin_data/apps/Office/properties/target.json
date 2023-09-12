@@ -17,7 +17,9 @@
       "c-sgl-stk-uhfLogo"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Microsoft"
+    ],
     "area": null,
     "shape": null
   },
@@ -35,7 +37,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Office"
+    ],
     "area": null,
     "shape": null
   },
@@ -54,7 +58,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Products"
+    ],
     "area": null,
     "shape": null
   },
@@ -73,7 +79,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Resources"
+    ],
     "area": null,
     "shape": null
   },
@@ -94,7 +102,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Templates"
+    ],
     "area": null,
     "shape": null
   },
@@ -115,7 +125,9 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null
   },
@@ -136,7 +148,10 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "My",
+      "account"
+    ],
     "area": null,
     "shape": null
   },
@@ -156,7 +171,11 @@
       "c-uhf-nav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Buy",
+      "Office",
+      "365"
+    ],
     "area": null,
     "shape": null
   },
@@ -177,7 +196,10 @@
       "all-ms-nav"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "All",
+      "Microsoft"
+    ],
     "area": null,
     "shape": null
   },
@@ -198,7 +220,11 @@
       "hero__headline"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Office"
+    ],
     "area": null,
     "shape": null
   },
@@ -216,7 +242,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "Office"
+    ],
     "area": null,
     "shape": null
   },
@@ -234,7 +263,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   }

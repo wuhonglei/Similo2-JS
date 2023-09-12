@@ -13,7 +13,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Buy"
+    ],
     "area": null,
     "shape": null
   },
@@ -31,7 +33,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Rent"
+    ],
     "area": null,
     "shape": null
   },
@@ -49,7 +53,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sell"
+    ],
     "area": null,
     "shape": null
   },
@@ -67,7 +73,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Agent",
+      "finder"
+    ],
     "area": null,
     "shape": null
   },
@@ -85,7 +94,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advertise"
+    ],
     "area": null,
     "shape": null
   },
@@ -108,7 +119,10 @@
       "login"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -151,7 +165,9 @@
       "search-button-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search"
+    ],
     "area": null,
     "shape": null
   },

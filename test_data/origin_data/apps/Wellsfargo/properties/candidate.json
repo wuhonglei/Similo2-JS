@@ -7,14 +7,6 @@
     "area": 510,
     "shape": 226,
     "widgetId": 1,
-    "visibleText": [
-      "Enroll"
-    ],
-    "neighborText": [
-      "enroll",
-      "customer",
-      "service"
-    ],
     "isButton": false,
     "location": {
       "x": 674,
@@ -25,6 +17,14 @@
     "classList": [
       "signIn",
       "signLockImg"
+    ],
+    "neighborText": [
+      "enroll",
+      "customer",
+      "service"
+    ],
+    "visibleText": [
+      "Enroll"
     ]
   },
   {
@@ -35,10 +35,14 @@
     "area": 1590,
     "shape": 706,
     "widgetId": 2,
-    "visibleText": [
-      "Customer",
-      "Service"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 724,
+      "y": 22,
+      "width": 106,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "enroll",
       "customer",
@@ -47,14 +51,10 @@
       "financial",
       "education"
     ],
-    "isButton": false,
-    "location": {
-      "x": 724,
-      "y": 22,
-      "width": 106,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "Customer",
+      "Service"
+    ]
   },
   {
     "tag": "A",
@@ -64,9 +64,14 @@
     "area": 1395,
     "shape": 620,
     "widgetId": 3,
-    "visibleText": [
-      "ATMs/Locations"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 847,
+      "y": 22,
+      "width": 93,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "customer",
       "service",
@@ -78,14 +83,9 @@
       "wells",
       "fargo"
     ],
-    "isButton": false,
-    "location": {
-      "x": 847,
-      "y": 22,
-      "width": 93,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "ATMs/Locations"
+    ]
   },
   {
     "tag": "A",
@@ -95,9 +95,14 @@
     "area": 690,
     "shape": 306,
     "widgetId": 4,
-    "visibleText": [
-      "Español"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 956,
+      "y": 22,
+      "width": 46,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "atms/locations",
       "español",
@@ -112,14 +117,9 @@
       "wells",
       "fargo"
     ],
-    "isButton": false,
-    "location": {
-      "x": 956,
-      "y": 22,
-      "width": 46,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "Español"
+    ]
   },
   {
     "tag": "BUTTON",
@@ -129,12 +129,14 @@
     "area": 3204,
     "shape": 247,
     "widgetId": 5,
-    "visibleText": [
-      "Search",
-      "Opens",
-      "a",
-      "dialog."
-    ],
+    "isButton": true,
+    "location": {
+      "x": 1019,
+      "y": 10,
+      "width": 89,
+      "height": 36
+    },
+    "classList": [],
     "neighborText": [
       "español",
       "search",
@@ -145,14 +147,12 @@
       "wells",
       "fargo"
     ],
-    "isButton": true,
-    "location": {
-      "x": 1019,
-      "y": 10,
-      "width": 89,
-      "height": 36
-    },
-    "classList": []
+    "visibleText": [
+      "Search",
+      "Opens",
+      "a",
+      "dialog."
+    ]
   },
   {
     "tag": "A",
@@ -164,9 +164,15 @@
     "area": 2044,
     "shape": 260,
     "widgetId": 6,
-    "visibleText": [
-      "selected",
-      "Personal"
+    "isButton": false,
+    "location": {
+      "x": 143,
+      "y": 71,
+      "width": 73,
+      "height": 28
+    },
+    "classList": [
+      "tabNavLink"
     ],
     "neighborText": [
       "selected",
@@ -189,15 +195,9 @@
       "services.learn",
       "more"
     ],
-    "isButton": false,
-    "location": {
-      "x": 143,
-      "y": 71,
-      "width": 73,
-      "height": 28
-    },
-    "classList": [
-      "tabNavLink"
+    "visibleText": [
+      "selected",
+      "Personal"
     ]
   },
   {
@@ -210,9 +210,15 @@
     "area": 2034,
     "shape": 627,
     "widgetId": 7,
-    "visibleText": [
-      "Small",
-      "Business"
+    "isButton": false,
+    "location": {
+      "x": 256,
+      "y": 71,
+      "width": 113,
+      "height": 18
+    },
+    "classList": [
+      "tabNavLink"
     ],
     "neighborText": [
       "selected",
@@ -227,15 +233,9 @@
       "cards",
       "loans"
     ],
-    "isButton": false,
-    "location": {
-      "x": 256,
-      "y": 71,
-      "width": 113,
-      "height": 18
-    },
-    "classList": [
-      "tabNavLink"
+    "visibleText": [
+      "Small",
+      "Business"
     ]
   },
   {
@@ -248,8 +248,15 @@
     "area": 1602,
     "shape": 494,
     "widgetId": 8,
-    "visibleText": [
-      "Commercial"
+    "isButton": false,
+    "location": {
+      "x": 410,
+      "y": 71,
+      "width": 89,
+      "height": 18
+    },
+    "classList": [
+      "tabNavLink"
     ],
     "neighborText": [
       "small",
@@ -262,15 +269,8 @@
       "investing",
       "retirement"
     ],
-    "isButton": false,
-    "location": {
-      "x": 410,
-      "y": 71,
-      "width": 89,
-      "height": 18
-    },
-    "classList": [
-      "tabNavLink"
+    "visibleText": [
+      "Commercial"
     ]
   },
   {
@@ -281,10 +281,14 @@
     "area": 2295,
     "shape": 794,
     "widgetId": 9,
-    "visibleText": [
-      "Financial",
-      "Education"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 801,
+      "y": 72,
+      "width": 135,
+      "height": 17
+    },
+    "classList": [],
     "neighborText": [
       "customer",
       "service",
@@ -302,14 +306,10 @@
       "and",
       "benefits"
     ],
-    "isButton": false,
-    "location": {
-      "x": 801,
-      "y": 72,
-      "width": 135,
-      "height": 17
-    },
-    "classList": []
+    "visibleText": [
+      "Financial",
+      "Education"
+    ]
   },
   {
     "tag": "A",
@@ -319,11 +319,14 @@
     "area": 2142,
     "shape": 741,
     "widgetId": 10,
-    "visibleText": [
-      "About",
-      "Wells",
-      "Fargo"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 982,
+      "y": 72,
+      "width": 126,
+      "height": 17
+    },
+    "classList": [],
     "neighborText": [
       "atms/locations",
       "español",
@@ -342,14 +345,11 @@
       "and",
       "benefits"
     ],
-    "isButton": false,
-    "location": {
-      "x": 982,
-      "y": 72,
-      "width": 126,
-      "height": 17
-    },
-    "classList": []
+    "visibleText": [
+      "About",
+      "Wells",
+      "Fargo"
+    ]
   },
   {
     "tag": "A",
@@ -360,11 +360,15 @@
     "area": 7600,
     "shape": 475,
     "widgetId": 11,
-    "visibleText": [
-      "Banking",
-      "and",
-      "Credit",
-      "Cards"
+    "isButton": false,
+    "location": {
+      "x": 128,
+      "y": 98,
+      "width": 190,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
     ],
     "neighborText": [
       "selected",
@@ -389,15 +393,11 @@
       "more",
       "alert"
     ],
-    "isButton": false,
-    "location": {
-      "x": 128,
-      "y": 98,
-      "width": 190,
-      "height": 40
-    },
-    "classList": [
-      "navLevel1"
+    "visibleText": [
+      "Banking",
+      "and",
+      "Credit",
+      "Cards"
     ]
   },
   {
@@ -409,10 +409,15 @@
     "area": 5360,
     "shape": 335,
     "widgetId": 12,
-    "visibleText": [
-      "Loans",
-      "and",
-      "Credit"
+    "isButton": false,
+    "location": {
+      "x": 324,
+      "y": 98,
+      "width": 134,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
     ],
     "neighborText": [
       "small",
@@ -438,15 +443,10 @@
       "more",
       "alert"
     ],
-    "isButton": false,
-    "location": {
-      "x": 324,
-      "y": 98,
-      "width": 134,
-      "height": 40
-    },
-    "classList": [
-      "navLevel1"
+    "visibleText": [
+      "Loans",
+      "and",
+      "Credit"
     ]
   },
   {
@@ -458,10 +458,15 @@
     "area": 7600,
     "shape": 475,
     "widgetId": 13,
-    "visibleText": [
-      "Investing",
-      "and",
-      "Retirement"
+    "isButton": false,
+    "location": {
+      "x": 463,
+      "y": 98,
+      "width": 190,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
     ],
     "neighborText": [
       "commercial",
@@ -485,15 +490,10 @@
       "more",
       "alert"
     ],
-    "isButton": false,
-    "location": {
-      "x": 463,
-      "y": 98,
-      "width": 190,
-      "height": 40
-    },
-    "classList": [
-      "navLevel1"
+    "visibleText": [
+      "Investing",
+      "and",
+      "Retirement"
     ]
   },
   {
@@ -505,9 +505,15 @@
     "area": 6280,
     "shape": 392,
     "widgetId": 14,
-    "visibleText": [
-      "Wealth",
-      "Management"
+    "isButton": false,
+    "location": {
+      "x": 658,
+      "y": 98,
+      "width": 157,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
     ],
     "neighborText": [
       "financial",
@@ -532,15 +538,9 @@
       "more",
       "learn"
     ],
-    "isButton": false,
-    "location": {
-      "x": 658,
-      "y": 98,
-      "width": 157,
-      "height": 40
-    },
-    "classList": [
-      "navLevel1"
+    "visibleText": [
+      "Wealth",
+      "Management"
     ]
   },
   {
@@ -552,10 +552,15 @@
     "area": 6600,
     "shape": 412,
     "widgetId": 15,
-    "visibleText": [
-      "Rewards",
-      "and",
-      "Benefits"
+    "isButton": false,
+    "location": {
+      "x": 821,
+      "y": 98,
+      "width": 165,
+      "height": 40
+    },
+    "classList": [
+      "navLevel1"
     ],
     "neighborText": [
       "financial",
@@ -581,15 +586,10 @@
       "more",
       "learn"
     ],
-    "isButton": false,
-    "location": {
-      "x": 821,
-      "y": 98,
-      "width": 165,
-      "height": 40
-    },
-    "classList": [
-      "navLevel1"
+    "visibleText": [
+      "Rewards",
+      "and",
+      "Benefits"
     ]
   },
   {
@@ -600,11 +600,14 @@
     "area": 3264,
     "shape": 1129,
     "widgetId": 16,
-    "visibleText": [
-      "View",
-      "Your",
-      "Accounts"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 154,
+      "y": 222,
+      "width": 192,
+      "height": 17
+    },
+    "classList": [],
     "neighborText": [
       "alerthere",
       "for",
@@ -620,14 +623,11 @@
       "alert",
       "username"
     ],
-    "isButton": false,
-    "location": {
-      "x": 154,
-      "y": 222,
-      "width": 192,
-      "height": 17
-    },
-    "classList": []
+    "visibleText": [
+      "View",
+      "Your",
+      "Accounts"
+    ]
   },
   {
     "tag": "H2",
@@ -636,10 +636,14 @@
     "area": 12636,
     "shape": 975,
     "widgetId": 17,
-    "visibleText": [
-      "Simplified",
-      "banking"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 708,
+      "y": 294,
+      "width": 351,
+      "height": 36
+    },
+    "classList": [],
     "neighborText": [
       "member",
       "fdic",
@@ -654,14 +658,10 @@
       "in",
       "minutes."
     ],
-    "isButton": false,
-    "location": {
-      "x": 708,
-      "y": 294,
-      "width": 351,
-      "height": 36
-    },
-    "classList": []
+    "visibleText": [
+      "Simplified",
+      "banking"
+    ]
   },
   {
     "tag": "A",
@@ -671,10 +671,6 @@
     "area": 46683,
     "shape": 263,
     "widgetId": 18,
-    "visibleText": [
-      "Start",
-      "Now"
-    ],
     "isButton": false,
     "location": {
       "x": 708,
@@ -700,6 +696,10 @@
       "3",
       "of",
       "3"
+    ],
+    "visibleText": [
+      "Start",
+      "Now"
     ]
   },
   {
@@ -711,13 +711,6 @@
     "area": 8832,
     "shape": 383,
     "widgetId": 19,
-    "neighborText": [
-      "view",
-      "your",
-      "accounts",
-      "username",
-      "password"
-    ],
     "isButton": false,
     "location": {
       "x": 158,
@@ -730,6 +723,13 @@
       "formElementText",
       "login_field"
     ],
+    "neighborText": [
+      "view",
+      "your",
+      "accounts",
+      "username",
+      "password"
+    ],
     "visibleText": []
   },
   {
@@ -741,17 +741,6 @@
     "area": 8832,
     "shape": 383,
     "widgetId": 20,
-    "neighborText": [
-      "username",
-      "password",
-      "on",
-      "save",
-      "usernameopens",
-      "a",
-      "dialog",
-      "opens",
-      "sign"
-    ],
     "isButton": false,
     "location": {
       "x": 158,
@@ -765,6 +754,17 @@
       "login_field",
       "pmask"
     ],
+    "neighborText": [
+      "username",
+      "password",
+      "on",
+      "save",
+      "usernameopens",
+      "a",
+      "dialog",
+      "opens",
+      "sign"
+    ],
     "visibleText": []
   },
   {
@@ -774,20 +774,6 @@
     "area": 5952,
     "shape": 581,
     "widgetId": 21,
-    "visibleText": [
-      "Save",
-      "usernameOpens",
-      "a",
-      "dialog"
-    ],
-    "neighborText": [
-      "password",
-      "on",
-      "opens",
-      "a",
-      "dialog",
-      "sign"
-    ],
     "isButton": false,
     "location": {
       "x": 154,
@@ -797,6 +783,20 @@
     },
     "classList": [
       "lsc"
+    ],
+    "neighborText": [
+      "password",
+      "on",
+      "opens",
+      "a",
+      "dialog",
+      "sign"
+    ],
+    "visibleText": [
+      "Save",
+      "usernameOpens",
+      "a",
+      "dialog"
     ]
   },
   {
@@ -808,9 +808,15 @@
     "area": 7360,
     "shape": 460,
     "widgetId": 22,
-    "visibleText": [
-      "Sign",
-      "On"
+    "isButton": true,
+    "location": {
+      "x": 158,
+      "y": 403,
+      "width": 184,
+      "height": 40
+    },
+    "classList": [
+      "c7"
     ],
     "neighborText": [
       "on",
@@ -824,15 +830,9 @@
       "enroll",
       "now"
     ],
-    "isButton": true,
-    "location": {
-      "x": 158,
-      "y": 403,
-      "width": 184,
-      "height": 40
-    },
-    "classList": [
-      "c7"
+    "visibleText": [
+      "Sign",
+      "On"
     ]
   },
   {
@@ -843,10 +843,14 @@
     "area": 2444,
     "shape": 1446,
     "widgetId": 23,
-    "visibleText": [
-      "Forgot",
-      "Password/Username?"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 451,
+      "width": 188,
+      "height": 13
+    },
+    "classList": [],
     "neighborText": [
       "sign",
       "on",
@@ -860,14 +864,10 @@
       "cookies,",
       "and"
     ],
-    "isButton": false,
-    "location": {
-      "x": 158,
-      "y": 451,
-      "width": 188,
-      "height": 13
-    },
-    "classList": []
+    "visibleText": [
+      "Forgot",
+      "Password/Username?"
+    ]
   },
   {
     "tag": "A",
@@ -877,10 +877,14 @@
     "area": 3128,
     "shape": 1082,
     "widgetId": 24,
-    "visibleText": [
-      "Enroll",
-      "Now"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 476,
+      "width": 184,
+      "height": 17
+    },
+    "classList": [],
     "neighborText": [
       "sign",
       "on",
@@ -894,14 +898,10 @@
       "cookies,",
       "and"
     ],
-    "isButton": false,
-    "location": {
-      "x": 158,
-      "y": 476,
-      "width": 184,
-      "height": 17
-    },
-    "classList": []
+    "visibleText": [
+      "Enroll",
+      "Now"
+    ]
   },
   {
     "tag": "A",
@@ -911,10 +911,14 @@
     "area": 3128,
     "shape": 1082,
     "widgetId": 25,
-    "visibleText": [
-      "Security",
-      "Center"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 493,
+      "width": 184,
+      "height": 17
+    },
+    "classList": [],
     "neighborText": [
       "forgot",
       "password/username?",
@@ -926,14 +930,10 @@
       "cookies,",
       "and"
     ],
-    "isButton": false,
-    "location": {
-      "x": 158,
-      "y": 493,
-      "width": 184,
-      "height": 17
-    },
-    "classList": []
+    "visibleText": [
+      "Security",
+      "Center"
+    ]
   },
   {
     "tag": "A",
@@ -943,12 +943,14 @@
     "area": 3128,
     "shape": 1082,
     "widgetId": 26,
-    "visibleText": [
-      "Privacy,",
-      "Cookies,",
-      "and",
-      "Security"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 158,
+      "y": 510,
+      "width": 184,
+      "height": 17
+    },
+    "classList": [],
     "neighborText": [
       "forgot",
       "password/username?",
@@ -960,14 +962,12 @@
       "cookies,",
       "and"
     ],
-    "isButton": false,
-    "location": {
-      "x": 158,
-      "y": 510,
-      "width": 184,
-      "height": 17
-    },
-    "classList": []
+    "visibleText": [
+      "Privacy,",
+      "Cookies,",
+      "and",
+      "Security"
+    ]
   },
   {
     "tag": "A",
@@ -977,12 +977,15 @@
     "area": 16262,
     "shape": 184,
     "widgetId": 27,
-    "visibleText": [
-      "Estimate",
-      "how",
-      "much",
-      "to",
-      "borrow"
+    "isButton": false,
+    "location": {
+      "x": 148,
+      "y": 594,
+      "width": 173,
+      "height": 94
+    },
+    "classList": [
+      "i7"
     ],
     "neighborText": [
       "estimate",
@@ -995,15 +998,12 @@
       "credit",
       "card"
     ],
-    "isButton": false,
-    "location": {
-      "x": 148,
-      "y": 594,
-      "width": 173,
-      "height": 94
-    },
-    "classList": [
-      "i7"
+    "visibleText": [
+      "Estimate",
+      "how",
+      "much",
+      "to",
+      "borrow"
     ]
   },
   {
@@ -1014,11 +1014,15 @@
     "area": 12456,
     "shape": 240,
     "widgetId": 28,
-    "visibleText": [
-      "Find",
-      "your",
-      "credit",
-      "card"
+    "isButton": false,
+    "location": {
+      "x": 342,
+      "y": 594,
+      "width": 173,
+      "height": 72
+    },
+    "classList": [
+      "i7"
     ],
     "neighborText": [
       "estimate",
@@ -1035,15 +1039,11 @@
       "budgeting",
       "tools"
     ],
-    "isButton": false,
-    "location": {
-      "x": 342,
-      "y": 594,
-      "width": 173,
-      "height": 72
-    },
-    "classList": [
-      "i7"
+    "visibleText": [
+      "Find",
+      "your",
+      "credit",
+      "card"
     ]
   },
   {
@@ -1054,11 +1054,15 @@
     "area": 16262,
     "shape": 184,
     "widgetId": 29,
-    "visibleText": [
-      "Free",
-      "online",
-      "budgeting",
-      "tools"
+    "isButton": false,
+    "location": {
+      "x": 536,
+      "y": 594,
+      "width": 173,
+      "height": 94
+    },
+    "classList": [
+      "i7"
     ],
     "neighborText": [
       "item",
@@ -1079,15 +1083,11 @@
       "budgeting",
       "tools"
     ],
-    "isButton": false,
-    "location": {
-      "x": 536,
-      "y": 594,
-      "width": 173,
-      "height": 94
-    },
-    "classList": [
-      "i7"
+    "visibleText": [
+      "Free",
+      "online",
+      "budgeting",
+      "tools"
     ]
   },
   {
@@ -1097,21 +1097,6 @@
     "area": 21728,
     "shape": 173,
     "widgetId": 30,
-    "visibleText": [
-      "Find",
-      "routing",
-      "or",
-      "account",
-      "number",
-      "Routing",
-      "and",
-      "account",
-      "number",
-      "Routing",
-      "number",
-      "Account",
-      "number"
-    ],
     "isButton": false,
     "location": {
       "x": 719,
@@ -1127,6 +1112,21 @@
       "online",
       "budgeting",
       "tools"
+    ],
+    "visibleText": [
+      "Find",
+      "routing",
+      "or",
+      "account",
+      "number",
+      "Routing",
+      "and",
+      "account",
+      "number",
+      "Routing",
+      "number",
+      "Account",
+      "number"
     ]
   },
   {
@@ -1136,11 +1136,6 @@
     "area": 7590,
     "shape": 358,
     "widgetId": 31,
-    "visibleText": [
-      "Borrowing",
-      "and",
-      "Credit"
-    ],
     "isButton": false,
     "location": {
       "x": 888,
@@ -1149,7 +1144,12 @@
       "height": 46
     },
     "classList": [],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Borrowing",
+      "and",
+      "Credit"
+    ]
   },
   {
     "tag": "SPAN",
@@ -1158,11 +1158,6 @@
     "area": 7498,
     "shape": 354,
     "widgetId": 32,
-    "visibleText": [
-      "Banking",
-      "Made",
-      "Easy"
-    ],
     "isButton": false,
     "location": {
       "x": 889,
@@ -1171,7 +1166,12 @@
       "height": 46
     },
     "classList": [],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Banking",
+      "Made",
+      "Easy"
+    ]
   },
   {
     "tag": "SPAN",
@@ -1180,9 +1180,6 @@
     "area": 2277,
     "shape": 430,
     "widgetId": 33,
-    "visibleText": [
-      "Retirement"
-    ],
     "isButton": false,
     "location": {
       "x": 921,
@@ -1191,7 +1188,10 @@
       "height": 23
     },
     "classList": [],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Retirement"
+    ]
   },
   {
     "tag": "A",
@@ -1201,13 +1201,14 @@
     "area": 10520,
     "shape": 657,
     "widgetId": 35,
-    "visibleText": [
-      "Calculate",
-      "your",
-      "debt-to-income",
-      "ratio",
-      ">"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 240,
+      "y": 966,
+      "width": 263,
+      "height": 40
+    },
+    "classList": [],
     "neighborText": [
       "improve",
       "your",
@@ -1219,14 +1220,13 @@
       "consolidate",
       "debt"
     ],
-    "isButton": false,
-    "location": {
-      "x": 240,
-      "y": 966,
-      "width": 263,
-      "height": 40
-    },
-    "classList": []
+    "visibleText": [
+      "Calculate",
+      "your",
+      "debt-to-income",
+      "ratio",
+      ">"
+    ]
   },
   {
     "tag": "A",
@@ -1236,12 +1236,14 @@
     "area": 3560,
     "shape": 890,
     "widgetId": 34,
-    "visibleText": [
-      "Improve",
-      "your",
-      "credit",
-      ">"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 240,
+      "y": 920,
+      "width": 178,
+      "height": 20
+    },
+    "classList": [],
     "neighborText": [
       "explore",
       "your",
@@ -1253,14 +1255,12 @@
       "debt-to-income",
       "ratio"
     ],
-    "isButton": false,
-    "location": {
-      "x": 240,
-      "y": 920,
-      "width": 178,
-      "height": 20
-    },
-    "classList": []
+    "visibleText": [
+      "Improve",
+      "your",
+      "credit",
+      ">"
+    ]
   },
   {
     "tag": "A",
@@ -1270,12 +1270,14 @@
     "area": 3880,
     "shape": 970,
     "widgetId": 36,
-    "visibleText": [
-      "Consolidate",
-      "your",
-      "debt",
-      ">"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 240,
+      "y": 1032,
+      "width": 194,
+      "height": 20
+    },
+    "classList": [],
     "neighborText": [
       "calculate",
       "your",
@@ -1290,14 +1292,12 @@
       "and",
       "credit"
     ],
-    "isButton": false,
-    "location": {
-      "x": 240,
-      "y": 1032,
-      "width": 194,
-      "height": 20
-    },
-    "classList": []
+    "visibleText": [
+      "Consolidate",
+      "your",
+      "debt",
+      ">"
+    ]
   },
   {
     "tag": "A",
@@ -1307,12 +1307,15 @@
     "area": 9990,
     "shape": 729,
     "widgetId": 37,
-    "visibleText": [
-      "Go",
-      "to",
-      "Borrowing",
-      "and",
-      "Credit"
+    "isButton": false,
+    "location": {
+      "x": 178,
+      "y": 1080,
+      "width": 270,
+      "height": 37
+    },
+    "classList": [
+      "c7"
     ],
     "neighborText": [
       "consolidate",
@@ -1325,15 +1328,12 @@
       "and",
       "credit"
     ],
-    "isButton": false,
-    "location": {
-      "x": 178,
-      "y": 1080,
-      "width": 270,
-      "height": 37
-    },
-    "classList": [
-      "c7"
+    "visibleText": [
+      "Go",
+      "to",
+      "Borrowing",
+      "and",
+      "Credit"
     ]
   }
 ]

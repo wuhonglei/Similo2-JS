@@ -6,9 +6,6 @@
     "area": 2813,
     "shape": 334,
     "widgetId": 1,
-    "visibleText": [
-      "Amazon"
-    ],
     "isButton": false,
     "location": {
       "x": 27,
@@ -23,6 +20,9 @@
     "neighborText": [
       "search-alias=aps",
       "Departments"
+    ],
+    "visibleText": [
+      "Amazon"
     ]
   },
   {
@@ -57,9 +57,6 @@
     "area": 1575,
     "shape": 128,
     "widgetId": 3,
-    "visibleText": [
-      "Go"
-    ],
     "isButton": true,
     "location": {
       "x": 777,
@@ -81,6 +78,9 @@
       "&",
       "Lists",
       "EN"
+    ],
+    "visibleText": [
+      "Go"
     ]
   },
   {
@@ -90,9 +90,6 @@
     "area": 2408,
     "shape": 130,
     "widgetId": 4,
-    "visibleText": [
-      "EN"
-    ],
     "isButton": false,
     "location": {
       "x": 761,
@@ -116,6 +113,9 @@
       "Lists",
       "United",
       "States"
+    ],
+    "visibleText": [
+      "EN"
     ]
   },
   {
@@ -127,16 +127,6 @@
     "area": 6160,
     "shape": 318,
     "widgetId": 5,
-    "visibleText": [
-      "Hello.",
-      "Sign",
-      "inAccount",
-      "&",
-      "ListsSign",
-      "inAccount",
-      "&",
-      "Lists"
-    ],
     "isButton": false,
     "location": {
       "x": 823,
@@ -153,6 +143,16 @@
       "Go",
       "Orders",
       "EN"
+    ],
+    "visibleText": [
+      "Hello.",
+      "Sign",
+      "inAccount",
+      "&",
+      "ListsSign",
+      "inAccount",
+      "&",
+      "Lists"
     ]
   },
   {
@@ -164,9 +164,6 @@
     "area": 1716,
     "shape": 253,
     "widgetId": 6,
-    "visibleText": [
-      "Orders"
-    ],
     "isButton": false,
     "location": {
       "x": 966,
@@ -194,6 +191,9 @@
       "of",
       "the",
       "day"
+    ],
+    "visibleText": [
+      "Orders"
     ]
   },
   {
@@ -205,10 +205,6 @@
     "area": 2522,
     "shape": 373,
     "widgetId": 7,
-    "visibleText": [
-      "Try",
-      "Prime"
-    ],
     "isButton": false,
     "location": {
       "x": 1035,
@@ -232,6 +228,10 @@
       "Lists",
       "Cart",
       "Orders"
+    ],
+    "visibleText": [
+      "Try",
+      "Prime"
     ]
   },
   {
@@ -243,9 +243,6 @@
     "area": 4576,
     "shape": 236,
     "widgetId": 8,
-    "visibleText": [
-      "Cart"
-    ],
     "isButton": false,
     "location": {
       "x": 1134,
@@ -261,6 +258,9 @@
       "Orders",
       "Try",
       "Prime"
+    ],
+    "visibleText": [
+      "Cart"
     ]
   },
   {
@@ -271,10 +271,6 @@
     "area": 1200,
     "shape": 833,
     "widgetId": 9,
-    "visibleText": [
-      "Today's",
-      "Deals"
-    ],
     "isButton": false,
     "location": {
       "x": 307,
@@ -291,6 +287,10 @@
       "Sell",
       "Popular",
       "departments"
+    ],
+    "visibleText": [
+      "Today's",
+      "Deals"
     ]
   },
   {
@@ -301,9 +301,6 @@
     "area": 492,
     "shape": 341,
     "widgetId": 10,
-    "visibleText": [
-      "Sell"
-    ],
     "isButton": false,
     "location": {
       "x": 549,
@@ -321,6 +318,9 @@
       "Registry",
       "Help",
       "Grocery"
+    ],
+    "visibleText": [
+      "Sell"
     ]
   }
 ]

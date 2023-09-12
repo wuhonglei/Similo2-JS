@@ -15,7 +15,10 @@
       "buttonLargeWhite"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "premium"
+    ],
     "area": null,
     "shape": null
   },
@@ -35,7 +38,10 @@
       "buttonLargeBlue"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -55,7 +61,10 @@
       "linkButton"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "account"
+    ],
     "area": null,
     "shape": null
   }

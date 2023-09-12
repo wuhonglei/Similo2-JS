@@ -13,7 +13,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "craigslist"
+    ],
     "area": null,
     "shape": null
   },
@@ -33,7 +35,11 @@
       "area"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SF",
+      "bay",
+      "area"
+    ],
     "area": null,
     "shape": null
   },
@@ -51,7 +57,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sfc"
+    ],
     "area": null,
     "shape": null
   },
@@ -69,7 +77,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sby"
+    ],
     "area": null,
     "shape": null
   },
@@ -87,7 +97,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "eby"
+    ],
     "area": null,
     "shape": null
   },
@@ -105,7 +117,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pen"
+    ],
     "area": null,
     "shape": null
   },
@@ -123,7 +137,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "scz"
+    ],
     "area": null,
     "shape": null
   },
@@ -141,7 +157,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "nby"
+    ],
     "area": null,
     "shape": null
   },
@@ -160,7 +178,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "create",
+      "a",
+      "posting"
+    ],
     "area": null,
     "shape": null
   },
@@ -178,7 +200,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "my",
+      "account"
+    ],
     "area": null,
     "shape": null
   },
@@ -220,7 +245,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "help,",
+      "faq,",
+      "abuse,",
+      "legal"
+    ],
     "area": null,
     "shape": null
   },
@@ -238,7 +268,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "avoid",
+      "scams",
+      "&",
+      "fraud"
+    ],
     "area": null,
     "shape": null
   },
@@ -256,7 +291,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "personal",
+      "safety",
+      "tips"
+    ],
     "area": null,
     "shape": null
   },
@@ -274,7 +313,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "terms",
+      "of",
+      "use"
+    ],
     "area": null,
     "shape": null
   },
@@ -292,7 +335,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "privacy",
+      "policynew"
+    ],
     "area": null,
     "shape": null
   },
@@ -310,7 +356,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "system",
+      "status"
+    ],
     "area": null,
     "shape": null
   },
@@ -328,7 +377,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "about",
+      "craigslist"
+    ],
     "area": null,
     "shape": null
   },
@@ -346,7 +398,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "craigslist",
+      "blog"
+    ],
     "area": null,
     "shape": null
   },
@@ -364,7 +419,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "craigslist",
+      "open",
+      "source"
+    ],
     "area": null,
     "shape": null
   },
@@ -382,7 +441,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "best-of-craigslist"
+    ],
     "area": null,
     "shape": null
   },
@@ -400,7 +461,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "progressive",
+      "directory"
+    ],
     "area": null,
     "shape": null
   },
@@ -418,7 +482,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "weather"
+    ],
     "area": null,
     "shape": null
   },
@@ -436,7 +502,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "quake"
+    ],
     "area": null,
     "shape": null
   },
@@ -454,7 +522,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tide"
+    ],
     "area": null,
     "shape": null
   },
@@ -474,7 +544,9 @@
       "ccc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "community"
+    ],
     "area": null,
     "shape": null
   },
@@ -494,7 +566,9 @@
       "hhh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "housing"
+    ],
     "area": null,
     "shape": null
   },
@@ -514,7 +588,9 @@
       "jjj"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "jobs"
+    ],
     "area": null,
     "shape": null
   },
@@ -534,7 +610,10 @@
       "sss"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "for",
+      "sale"
+    ],
     "area": null,
     "shape": null
   },
@@ -554,7 +633,10 @@
       "forums"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "discussion",
+      "forums"
+    ],
     "area": null,
     "shape": null
   },
@@ -574,7 +656,9 @@
       "ggg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "gigs"
+    ],
     "area": null,
     "shape": null
   },
@@ -594,7 +678,9 @@
       "rrr"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "resumes"
+    ],
     "area": null,
     "shape": null
   },
@@ -614,7 +700,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "bakersfield"
+    ],
     "area": null,
     "shape": null
   },
@@ -634,7 +722,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "activities"
+    ],
     "area": null,
     "shape": null
   },
@@ -652,7 +742,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "apple"
+    ],
     "area": null,
     "shape": null
   },
@@ -672,7 +764,9 @@
       "ata"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "antiques"
+    ],
     "area": null,
     "shape": null
   },
@@ -692,7 +786,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "computer"
+    ],
     "area": null,
     "shape": null
   },
@@ -712,7 +808,10 @@
       "swp"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "housing",
+      "swap"
+    ],
     "area": null,
     "shape": null
   },
@@ -732,7 +831,9 @@
       "edu"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "education"
+    ],
     "area": null,
     "shape": null
   },
@@ -752,7 +853,9 @@
       "ats"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "artists"
+    ],
     "area": null,
     "shape": null
   },
@@ -772,7 +875,11 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "apts",
+      "/",
+      "housing"
+    ],
     "area": null,
     "shape": null
   },
@@ -792,7 +899,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "arts"
+    ],
     "area": null,
     "shape": null
   },
@@ -812,7 +921,9 @@
       "lbg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "labor"
+    ],
     "area": null,
     "shape": null
   },
@@ -832,7 +943,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "appliances"
+    ],
     "area": null,
     "shape": null
   },
@@ -852,7 +965,10 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "general",
+      "labor"
+    ],
     "area": null,
     "shape": null
   },
@@ -869,7 +985,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rants",
+      "&",
+      "raves"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -889,7 +1009,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lessons"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -907,7 +1029,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "religion"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -925,7 +1049,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rideshare"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -945,7 +1071,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "marine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -965,7 +1093,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "religion"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -985,7 +1115,9 @@
       "rid"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rideshare"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1003,7 +1135,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pet"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1021,7 +1155,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rofo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1041,7 +1177,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "recover"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1061,7 +1199,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rideshare"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1081,7 +1221,9 @@
       "pas"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pet"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1099,7 +1241,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rofo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1117,7 +1261,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "volunteers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1137,7 +1283,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pet"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1157,7 +1305,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rofo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1177,7 +1327,9 @@
       "vol"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "volunteers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1195,7 +1347,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "real",
+      "estate"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1213,7 +1368,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "science"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1233,7 +1390,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "volunteers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1253,7 +1412,10 @@
       "rts"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "real",
+      "estate"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1271,7 +1433,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "science"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1291,7 +1455,10 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "local",
+      "news"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1311,7 +1478,10 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "real",
+      "estate"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1331,7 +1501,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "science"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1351,7 +1523,11 @@
       "rnr"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rants",
+      "&",
+      "raves"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1369,7 +1545,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lost+found"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1387,7 +1565,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "skilled",
+      "trade"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1405,7 +1586,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "spirit"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1425,7 +1608,9 @@
       "laf"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lost+found"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1445,7 +1630,10 @@
       "sks"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "skilled",
+      "trade"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1463,7 +1651,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "spirit"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1483,7 +1673,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lost+found"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1503,7 +1695,10 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "skilled",
+      "trade"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1521,7 +1716,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "marine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1541,7 +1738,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "spirit"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1559,7 +1758,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sfc"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1577,7 +1778,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "missed",
+      "connections"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1595,7 +1799,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sm",
+      "biz",
+      "ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1613,7 +1821,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sports"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1633,7 +1843,10 @@
       "mis"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "missed",
+      "connections"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1653,7 +1866,11 @@
       "biz"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sm",
+      "biz",
+      "ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1671,7 +1888,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sports"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1689,7 +1908,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sby"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1707,7 +1928,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "religion"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1727,7 +1950,10 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "missed",
+      "connections"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1747,7 +1973,11 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sm",
+      "biz",
+      "ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1767,7 +1997,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sports"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1785,7 +2017,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "musicians"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1803,7 +2037,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "travel/vac"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1821,7 +2057,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "super"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1839,7 +2077,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "eby"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1859,7 +2099,9 @@
       "muc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "musicians"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1879,7 +2121,9 @@
       "trv"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "travel/vac"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1897,7 +2141,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "super"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1917,7 +2163,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "musicians"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1937,7 +2185,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "travel/vac"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1957,7 +2207,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "super"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1975,7 +2227,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pen"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1993,7 +2247,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pets"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2011,7 +2267,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "write/ed/tran"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2029,7 +2287,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2049,7 +2309,11 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rants",
+      "&",
+      "raves"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2069,7 +2333,9 @@
       "pet"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pets"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2089,7 +2355,9 @@
       "wet"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "write/ed/tran"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2107,7 +2375,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2125,7 +2395,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "nby"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2145,7 +2417,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "pets"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2165,7 +2439,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "write/ed/tran"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2185,7 +2461,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2203,7 +2481,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "politics"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2223,7 +2503,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "legal"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2243,7 +2525,9 @@
       "mas"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "marine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2263,7 +2547,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "psych"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2281,7 +2567,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "scz"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2301,7 +2589,9 @@
       "pol"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "politics"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2319,7 +2609,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lessons"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2337,7 +2629,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "recover"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2357,7 +2651,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "politics"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2377,7 +2673,9 @@
       "lss"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lessons"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2395,7 +2693,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "recover"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2413,7 +2713,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "office",
+      "/",
+      "commercial"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2431,7 +2735,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "video",
+      "gaming"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2451,7 +2758,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tv"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2471,7 +2780,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "roseburg"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2491,7 +2802,9 @@
       "tlg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "talent"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2509,7 +2822,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "wanted"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2527,7 +2842,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "vegan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2545,7 +2862,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "roseburg"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2565,7 +2884,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "talent"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2585,7 +2906,9 @@
       "waa"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "wanted"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2603,7 +2926,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "vegan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2623,7 +2948,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sacramento"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2641,7 +2968,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tv"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2659,7 +2988,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "writing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2679,7 +3010,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "wanted"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2699,7 +3032,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "vegan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2717,7 +3052,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sacramento"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2737,7 +3074,9 @@
       "wrg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "writing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2755,7 +3094,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "wheels+tires"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2773,7 +3114,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "words"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2793,7 +3136,11 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "san",
+      "luis",
+      "obispo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2813,7 +3160,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "writing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2833,7 +3182,9 @@
       "wta"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "wheels+tires"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2854,7 +3205,10 @@
       "hot"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "us",
+      "cities"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2872,7 +3226,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "words"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2890,7 +3246,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "san",
+      "luis",
+      "obispo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2910,7 +3270,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "gigs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2930,7 +3292,9 @@
       "ban"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "resumes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2950,7 +3314,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "words"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2970,7 +3336,10 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "santa",
+      "barbara"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2988,7 +3357,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "computer"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3008,7 +3379,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rvs+camp"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3026,7 +3399,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "writing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3044,7 +3419,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "santa",
+      "barbara"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3064,7 +3442,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "labor"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3084,7 +3464,9 @@
       "cpg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "computer"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3104,7 +3486,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "resumes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3122,7 +3506,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "writing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3142,7 +3528,10 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "santa",
+      "maria"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3162,7 +3551,11 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "rooms",
+      "/",
+      "shared"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3182,7 +3575,9 @@
       "sga"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sporting"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3202,7 +3597,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "writing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3220,7 +3617,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "santa",
+      "maria"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3238,7 +3638,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "creative"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3258,7 +3660,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "sporting"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3278,7 +3682,10 @@
       "vga"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "video",
+      "gaming"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3298,7 +3705,10 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "siskiyou",
+      "co"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3318,7 +3728,9 @@
       "crg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "creative"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3336,7 +3748,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tickets"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3354,7 +3768,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "siskiyou",
+      "co"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3374,7 +3791,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "creative"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3394,7 +3813,9 @@
       "tia"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tickets"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3414,7 +3835,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "stockton"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3432,7 +3855,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tv"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3450,7 +3875,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "crew"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3470,7 +3897,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tickets"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3488,7 +3917,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "stockton"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3508,7 +3939,9 @@
       "cwg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "crew"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3526,7 +3959,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tools"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3546,7 +3981,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "susanville"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3566,7 +4003,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "crew"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3586,7 +4025,9 @@
       "tla"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tools"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3604,7 +4045,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "reno"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3622,7 +4065,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "susanville"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3640,7 +4085,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "domestic"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3660,7 +4107,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "tools"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3680,7 +4129,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ventura"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3700,7 +4151,9 @@
       "dmg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "domestic"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3718,7 +4171,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "toys+games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3736,7 +4191,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ventura"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3754,7 +4211,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "talent"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3774,7 +4233,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "domestic"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3794,7 +4255,9 @@
       "taa"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "toys+games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3814,7 +4277,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "visalia-tulare"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3832,7 +4297,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "event"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3852,7 +4319,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "toys+games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3870,7 +4339,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "visalia-tulare"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3890,7 +4361,9 @@
       "evg"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "event"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3908,7 +4381,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "trailers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3928,7 +4403,10 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "video",
+      "gaming"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3946,7 +4424,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "travel"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3966,7 +4446,9 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "yuba-sutter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3986,7 +4468,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "event"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4006,7 +4490,9 @@
       "tra"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "trailers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4024,7 +4510,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "travel"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4042,7 +4530,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "yuba-sutter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4062,7 +4552,10 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "housing",
+      "wanted"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4082,7 +4575,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "trailers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4102,7 +4597,9 @@
       "txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "travel"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4143,7 +4640,10 @@
       "hot"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "us",
+      "states"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4163,7 +4663,19 @@
       "s"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "canada",
+      "calgary",
+      "edmonton",
+      "halifax",
+      "montreal",
+      "ottawa",
+      "saskatoon",
+      "toronto",
+      "vancouver",
+      "victoria",
+      "winnipeg"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4184,7 +4696,9 @@
       "hot"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "canada"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4225,7 +4739,10 @@
       "hot"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "cl",
+      "worldwide"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4243,7 +4760,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "2020",
+      "craigslistCL"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4263,7 +4784,9 @@
       "desktop"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "craigslist"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4281,7 +4804,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4299,7 +4824,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4317,7 +4844,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "safety"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4335,7 +4864,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "safety"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4355,7 +4886,9 @@
       "desktop"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "privacynew"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4373,7 +4906,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4393,7 +4928,9 @@
       "desktop"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "feedback"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4411,7 +4948,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "feedback"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4449,7 +4988,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "terms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4467,7 +5008,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "terms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4485,7 +5028,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "about"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4503,7 +5048,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "about"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4525,7 +5072,9 @@
       "linklike"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "mobile"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

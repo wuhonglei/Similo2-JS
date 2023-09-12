@@ -6,15 +6,6 @@
     "area": 1836,
     "shape": 566,
     "widgetId": 1,
-    "visibleText": [
-      "my",
-      "subreddits"
-    ],
-    "neighborText": [
-      "popular",
-      "reddit.com",
-      "hot"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -25,6 +16,15 @@
     "classList": [
       "selected",
       "title"
+    ],
+    "neighborText": [
+      "popular",
+      "reddit.com",
+      "hot"
+    ],
+    "visibleText": [
+      "my",
+      "subreddits"
     ]
   },
   {
@@ -34,8 +34,15 @@
     "area": 517,
     "shape": 427,
     "widgetId": 2,
-    "visibleText": [
-      "popular"
+    "isButton": false,
+    "location": {
+      "x": 112,
+      "y": 3,
+      "width": 47,
+      "height": 11
+    },
+    "classList": [
+      "selected"
     ],
     "neighborText": [
       "my",
@@ -50,15 +57,8 @@
       "hot",
       "new"
     ],
-    "isButton": false,
-    "location": {
-      "x": 112,
-      "y": 3,
-      "width": 47,
-      "height": 11
-    },
-    "classList": [
-      "selected"
+    "visibleText": [
+      "popular"
     ]
   },
   {
@@ -69,8 +69,15 @@
     "area": 176,
     "shape": 145,
     "widgetId": 3,
-    "visibleText": [
-      "all"
+    "isButton": false,
+    "location": {
+      "x": 171,
+      "y": 3,
+      "width": 16,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "popular",
@@ -83,15 +90,8 @@
       "new",
       "rising"
     ],
-    "isButton": false,
-    "location": {
-      "x": 171,
-      "y": 3,
-      "width": 16,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "all"
     ]
   },
   {
@@ -102,8 +102,16 @@
     "area": 440,
     "shape": 363,
     "widgetId": 4,
-    "visibleText": [
-      "random"
+    "isButton": false,
+    "location": {
+      "x": 198,
+      "y": 3,
+      "width": 40,
+      "height": 11
+    },
+    "classList": [
+      "random",
+      "choice"
     ],
     "neighborText": [
       "popular",
@@ -119,16 +127,8 @@
       "rising",
       "controversial"
     ],
-    "isButton": false,
-    "location": {
-      "x": 198,
-      "y": 3,
-      "width": 40,
-      "height": 11
-    },
-    "classList": [
-      "random",
-      "choice"
+    "visibleText": [
+      "random"
     ]
   },
   {
@@ -138,9 +138,14 @@
     "area": 583,
     "shape": 481,
     "widgetId": 5,
-    "visibleText": [
-      "AskReddit"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 256,
+      "y": 3,
+      "width": 53,
+      "height": 11
+    },
+    "classList": [],
     "neighborText": [
       "-random",
       "random",
@@ -154,14 +159,9 @@
       "rising",
       "controversial"
     ],
-    "isButton": false,
-    "location": {
-      "x": 256,
-      "y": 3,
-      "width": 53,
-      "height": 11
-    },
-    "classList": []
+    "visibleText": [
+      "AskReddit"
+    ]
   },
   {
     "tag": "A",
@@ -171,8 +171,15 @@
     "area": 330,
     "shape": 272,
     "widgetId": 6,
-    "visibleText": [
-      "funny"
+    "isButton": false,
+    "location": {
+      "x": 321,
+      "y": 3,
+      "width": 30,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "askreddit",
@@ -185,15 +192,8 @@
       "controversial",
       "top"
     ],
-    "isButton": false,
-    "location": {
-      "x": 321,
-      "y": 3,
-      "width": 30,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "funny"
     ]
   },
   {
@@ -204,8 +204,15 @@
     "area": 418,
     "shape": 345,
     "widgetId": 7,
-    "visibleText": [
-      "gaming"
+    "isButton": false,
+    "location": {
+      "x": 362,
+      "y": 3,
+      "width": 38,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "-funny",
@@ -219,15 +226,8 @@
       "top",
       "gilded"
     ],
-    "isButton": false,
-    "location": {
-      "x": 362,
-      "y": 3,
-      "width": 38,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "gaming"
     ]
   },
   {
@@ -238,8 +238,15 @@
     "area": 297,
     "shape": 245,
     "widgetId": 8,
-    "visibleText": [
-      "news"
+    "isButton": false,
+    "location": {
+      "x": 484,
+      "y": 3,
+      "width": 27,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "-worldnews",
@@ -254,15 +261,8 @@
       "wiki",
       "promoted"
     ],
-    "isButton": false,
-    "location": {
-      "x": 484,
-      "y": 3,
-      "width": 27,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "news"
     ]
   },
   {
@@ -273,8 +273,15 @@
     "area": 385,
     "shape": 318,
     "widgetId": 9,
-    "visibleText": [
-      "videos"
+    "isButton": false,
+    "location": {
+      "x": 522,
+      "y": 3,
+      "width": 35,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "-news",
@@ -288,15 +295,8 @@
       "wiki",
       "promoted"
     ],
-    "isButton": false,
-    "location": {
-      "x": 522,
-      "y": 3,
-      "width": 35,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "videos"
     ]
   },
   {
@@ -307,8 +307,15 @@
     "area": 836,
     "shape": 690,
     "widgetId": 10,
-    "visibleText": [
-      "todayilearned"
+    "isButton": false,
+    "location": {
+      "x": 569,
+      "y": 3,
+      "width": 76,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "-videos",
@@ -323,15 +330,8 @@
       "wiki",
       "promoted"
     ],
-    "isButton": false,
-    "location": {
-      "x": 569,
-      "y": 3,
-      "width": 76,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "todayilearned"
     ]
   },
   {
@@ -342,8 +342,15 @@
     "area": 396,
     "shape": 327,
     "widgetId": 11,
-    "visibleText": [
-      "movies"
+    "isButton": false,
+    "location": {
+      "x": 690,
+      "y": 3,
+      "width": 36,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "-todayilearned",
@@ -358,15 +365,8 @@
       "-pics",
       "pics"
     ],
-    "isButton": false,
-    "location": {
-      "x": 690,
-      "y": 3,
-      "width": 36,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "movies"
     ]
   },
   {
@@ -377,8 +377,15 @@
     "area": 319,
     "shape": 263,
     "widgetId": 12,
-    "visibleText": [
-      "Jokes"
+    "isButton": false,
+    "location": {
+      "x": 1081,
+      "y": 3,
+      "width": 29,
+      "height": 11
+    },
+    "classList": [
+      "choice"
     ],
     "neighborText": [
       "-television",
@@ -400,15 +407,8 @@
       "up",
       "seconds."
     ],
-    "isButton": false,
-    "location": {
-      "x": 1081,
-      "y": 3,
-      "width": 29,
-      "height": 11
-    },
-    "classList": [
-      "choice"
+    "visibleText": [
+      "Jokes"
     ]
   },
   {
@@ -420,18 +420,6 @@
     "area": 4800,
     "shape": 300,
     "widgetId": 13,
-    "visibleText": [
-      "reddit.com"
-    ],
-    "neighborText": [
-      "my",
-      "subreddits",
-      "popular",
-      "-all",
-      "-",
-      "reddit.com",
-      "hot"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -441,6 +429,18 @@
     },
     "classList": [
       "default-header"
+    ],
+    "neighborText": [
+      "my",
+      "subreddits",
+      "popular",
+      "-all",
+      "-",
+      "reddit.com",
+      "hot"
+    ],
+    "visibleText": [
+      "reddit.com"
     ]
   },
   {
@@ -450,8 +450,15 @@
     "area": 540,
     "shape": 240,
     "widgetId": 14,
-    "visibleText": [
-      "hot"
+    "isButton": false,
+    "location": {
+      "x": 132,
+      "y": 49,
+      "width": 36,
+      "height": 15
+    },
+    "classList": [
+      "selected"
     ],
     "neighborText": [
       "my",
@@ -466,15 +473,8 @@
       "hot",
       "new"
     ],
-    "isButton": false,
-    "location": {
-      "x": 132,
-      "y": 49,
-      "width": 36,
-      "height": 15
-    },
-    "classList": [
-      "selected"
+    "visibleText": [
+      "hot"
     ]
   },
   {
@@ -484,9 +484,14 @@
     "area": 600,
     "shape": 266,
     "widgetId": 15,
-    "visibleText": [
-      "new"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 174,
+      "y": 49,
+      "width": 40,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "popular",
       "-all",
@@ -500,14 +505,9 @@
       "new",
       "rising"
     ],
-    "isButton": false,
-    "location": {
-      "x": 174,
-      "y": 49,
-      "width": 40,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "new"
+    ]
   },
   {
     "tag": "LI",
@@ -516,9 +516,14 @@
     "area": 750,
     "shape": 333,
     "widgetId": 16,
-    "visibleText": [
-      "rising"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 220,
+      "y": 49,
+      "width": 50,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "-all",
       "all",
@@ -532,14 +537,9 @@
       "rising",
       "controversial"
     ],
-    "isButton": false,
-    "location": {
-      "x": 220,
-      "y": 49,
-      "width": 50,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "rising"
+    ]
   },
   {
     "tag": "LI",
@@ -548,9 +548,14 @@
     "area": 1500,
     "shape": 666,
     "widgetId": 17,
-    "visibleText": [
-      "controversial"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 277,
+      "y": 49,
+      "width": 100,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "-random",
       "random",
@@ -572,14 +577,9 @@
       "your",
       "email"
     ],
-    "isButton": false,
-    "location": {
-      "x": 277,
-      "y": 49,
-      "width": 100,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "controversial"
+    ]
   },
   {
     "tag": "LI",
@@ -588,9 +588,14 @@
     "area": 510,
     "shape": 226,
     "widgetId": 18,
-    "visibleText": [
-      "top"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 383,
+      "y": 49,
+      "width": 34,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "-funny",
       "funny",
@@ -607,14 +612,9 @@
       "your",
       "email"
     ],
-    "isButton": false,
-    "location": {
-      "x": 383,
-      "y": 49,
-      "width": 34,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "top"
+    ]
   },
   {
     "tag": "LI",
@@ -623,9 +623,14 @@
     "area": 795,
     "shape": 353,
     "widgetId": 19,
-    "visibleText": [
-      "gilded"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 423,
+      "y": 49,
+      "width": 53,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "-gaming",
       "gaming",
@@ -644,14 +649,9 @@
       "your",
       "email"
     ],
-    "isButton": false,
-    "location": {
-      "x": 423,
-      "y": 49,
-      "width": 53,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "gilded"
+    ]
   },
   {
     "tag": "LI",
@@ -660,9 +660,14 @@
     "area": 600,
     "shape": 266,
     "widgetId": 20,
-    "visibleText": [
-      "wiki"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 483,
+      "y": 49,
+      "width": 40,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "-worldnews",
       "worldnews",
@@ -680,14 +685,9 @@
       "your",
       "email"
     ],
-    "isButton": false,
-    "location": {
-      "x": 483,
-      "y": 49,
-      "width": 40,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "wiki"
+    ]
   },
   {
     "tag": "INPUT",
@@ -697,9 +697,14 @@
     "area": 9000,
     "shape": 1000,
     "widgetId": 21,
-    "visibleText": [
-      "search"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 942,
+      "y": 72,
+      "width": 300,
+      "height": 30
+    },
+    "classList": [],
     "neighborText": [
       "want",
       "to",
@@ -717,14 +722,9 @@
       "password",
       "×"
     ],
-    "isButton": false,
-    "location": {
-      "x": 942,
-      "y": 72,
-      "width": 300,
-      "height": 30
-    },
-    "classList": []
+    "visibleText": [
+      "search"
+    ]
   },
   {
     "tag": "INPUT",
@@ -734,9 +734,14 @@
     "area": 3807,
     "shape": 522,
     "widgetId": 22,
-    "visibleText": [
-      "username"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 948,
+      "y": 120,
+      "width": 141,
+      "height": 27
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "username",
@@ -754,14 +759,9 @@
       "release",
       "(i.imgur.com)"
     ],
-    "isButton": false,
-    "location": {
-      "x": 948,
-      "y": 120,
-      "width": 141,
-      "height": 27
-    },
-    "classList": []
+    "visibleText": [
+      "username"
+    ]
   },
   {
     "tag": "INPUT",
@@ -771,16 +771,6 @@
     "area": 3834,
     "shape": 525,
     "widgetId": 23,
-    "visibleText": [
-      "password"
-    ],
-    "neighborText": [
-      "search",
-      "username",
-      "password",
-      "reset",
-      "login"
-    ],
     "isButton": false,
     "location": {
       "x": 1094,
@@ -788,7 +778,17 @@
       "width": 142,
       "height": 27
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "search",
+      "username",
+      "password",
+      "reset",
+      "login"
+    ],
+    "visibleText": [
+      "password"
+    ]
   },
   {
     "tag": "LABEL",
@@ -797,10 +797,14 @@
     "area": 1136,
     "shape": 443,
     "widgetId": 24,
-    "visibleText": [
-      "remember",
-      "me"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 966,
+      "y": 166,
+      "width": 71,
+      "height": 16
+    },
+    "classList": [],
     "neighborText": [
       "username",
       "on",
@@ -826,14 +830,10 @@
       "to",
       "r/funny"
     ],
-    "isButton": false,
-    "location": {
-      "x": 966,
-      "y": 166,
-      "width": 71,
-      "height": 16
-    },
-    "classList": []
+    "visibleText": [
+      "remember",
+      "me"
+    ]
   },
   {
     "tag": "A",
@@ -843,9 +843,15 @@
     "area": 912,
     "shape": 633,
     "widgetId": 25,
-    "visibleText": [
-      "reset",
-      "password"
+    "isButton": false,
+    "location": {
+      "x": 1052,
+      "y": 168,
+      "width": 76,
+      "height": 12
+    },
+    "classList": [
+      "recover-password"
     ],
     "neighborText": [
       "username",
@@ -858,15 +864,9 @@
       "new",
       "link"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1052,
-      "y": 168,
-      "width": 76,
-      "height": 12
-    },
-    "classList": [
-      "recover-password"
+    "visibleText": [
+      "reset",
+      "password"
     ]
   },
   {
@@ -876,16 +876,6 @@
     "area": 1056,
     "shape": 183,
     "widgetId": 26,
-    "visibleText": [
-      "login"
-    ],
-    "neighborText": [
-      "password",
-      "submit",
-      "a",
-      "new",
-      "link"
-    ],
     "isButton": true,
     "location": {
       "x": 1192,
@@ -895,6 +885,16 @@
     },
     "classList": [
       "btn"
+    ],
+    "neighborText": [
+      "password",
+      "submit",
+      "a",
+      "new",
+      "link"
+    ],
+    "visibleText": [
+      "login"
     ]
   },
   {
@@ -905,11 +905,16 @@
     "area": 8642,
     "shape": 1027,
     "widgetId": 27,
-    "visibleText": [
-      "Submit",
-      "a",
-      "new",
-      "link"
+    "isButton": false,
+    "location": {
+      "x": 943,
+      "y": 204,
+      "width": 298,
+      "height": 29
+    },
+    "classList": [
+      "login-required",
+      "access-required"
     ],
     "neighborText": [
       "on",
@@ -952,16 +957,11 @@
       "appendix-",
       "r/gifs"
     ],
-    "isButton": false,
-    "location": {
-      "x": 943,
-      "y": 204,
-      "width": 298,
-      "height": 29
-    },
-    "classList": [
-      "login-required",
-      "access-required"
+    "visibleText": [
+      "Submit",
+      "a",
+      "new",
+      "link"
     ]
   },
   {
@@ -972,12 +972,16 @@
     "area": 8642,
     "shape": 1027,
     "widgetId": 28,
-    "visibleText": [
-      "Submit",
-      "a",
-      "new",
-      "text",
-      "post"
+    "isButton": false,
+    "location": {
+      "x": 943,
+      "y": 247,
+      "width": 298,
+      "height": 29
+    },
+    "classList": [
+      "login-required",
+      "access-required"
     ],
     "neighborText": [
       "submit",
@@ -1015,16 +1019,12 @@
       "appendix-",
       "r/gifs"
     ],
-    "isButton": false,
-    "location": {
-      "x": 943,
-      "y": 247,
-      "width": 298,
-      "height": 29
-    },
-    "classList": [
-      "login-required",
-      "access-required"
+    "visibleText": [
+      "Submit",
+      "a",
+      "new",
+      "text",
+      "post"
     ]
   },
   {
@@ -1036,9 +1036,14 @@
     "area": 169,
     "shape": 100,
     "widgetId": 29,
-    "visibleText": [
-      "on"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 948,
+      "y": 167,
+      "width": 13,
+      "height": 13
+    },
+    "classList": [],
     "neighborText": [
       "username",
       "remember",
@@ -1063,14 +1068,9 @@
       "to",
       "r/funny"
     ],
-    "isButton": false,
-    "location": {
-      "x": 948,
-      "y": 167,
-      "width": 13,
-      "height": 13
-    },
-    "classList": []
+    "visibleText": [
+      "on"
+    ]
   },
   {
     "tag": "LI",
@@ -1079,9 +1079,14 @@
     "area": 480,
     "shape": 333,
     "widgetId": 30,
-    "visibleText": [
-      "English"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 1202,
+      "y": 48,
+      "width": 40,
+      "height": 12
+    },
+    "classList": [],
     "neighborText": [
       "-nottheonion",
       "-",
@@ -1103,13 +1108,8 @@
       "english",
       "search"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1202,
-      "y": 48,
-      "width": 40,
-      "height": 12
-    },
-    "classList": []
+    "visibleText": [
+      "English"
+    ]
   }
 ]

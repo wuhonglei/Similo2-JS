@@ -17,7 +17,10 @@
       "_yb_y2znd"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yahoo",
+      "Home"
+    ],
     "area": null,
     "shape": null
   },
@@ -80,7 +83,10 @@
       "_yb_119us"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -122,7 +128,9 @@
       "_yb_bjpkm"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mail"
+    ],
     "area": null,
     "shape": null
   },
@@ -142,7 +150,9 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mail"
+    ],
     "area": null,
     "shape": null
   },
@@ -162,7 +172,9 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News"
+    ],
     "area": null,
     "shape": null
   },
@@ -182,7 +194,9 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Finance"
+    ],
     "area": null,
     "shape": null
   },
@@ -202,7 +216,9 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sports"
+    ],
     "area": null,
     "shape": null
   },
@@ -222,7 +238,9 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Entertainment"
+    ],
     "area": null,
     "shape": null
   },
@@ -245,7 +263,10 @@
       "W(50%)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trending",
+      "Now"
+    ],
     "area": null,
     "shape": null
   },
@@ -270,7 +291,9 @@
       "Mb(8px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Scoreboard"
+    ],
     "area": null,
     "shape": null
   },
@@ -315,7 +338,9 @@
       "D(ib)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yesterday"
+    ],
     "area": null,
     "shape": null
   },
@@ -344,7 +369,9 @@
       "wafer-fetch-complete"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Today"
+    ],
     "area": null,
     "shape": null
   },
@@ -389,7 +416,9 @@
       "D(ib)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tomorrow"
+    ],
     "area": null,
     "shape": null
   },
@@ -417,7 +446,11 @@
       "Mt(4px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "More",
+      "scores",
+      "»"
+    ],
     "area": null,
     "shape": null
   },
@@ -495,7 +528,20 @@
       "LineClamp(3,48px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Michael",
+      "Flynn",
+      "Wants",
+      "Trump",
+      "To",
+      "Declare",
+      "Martial",
+      "Law",
+      "And",
+      "Redo",
+      "The",
+      "Election"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -527,7 +573,15 @@
       "wafer-destroyed"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ex-NFL",
+      "lineman",
+      "unrecognizable",
+      "following",
+      "extreme",
+      "weight",
+      "loss"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -552,7 +606,24 @@
       "LineClamp(3,48px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Betsy",
+      "DeVos",
+      "'made",
+      "a",
+      "mess",
+      "of",
+      "the",
+      "student",
+      "loan",
+      "program':",
+      "potential",
+      "Biden",
+      "pick",
+      "for",
+      "education",
+      "secretary"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -578,7 +649,15 @@
       "Lh(1.33)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ex-NFL",
+      "lineman",
+      "unrecognizable",
+      "following",
+      "extreme",
+      "weight",
+      "loss"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -600,7 +679,18 @@
       "W(50%)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Associated",
+      "PressDeVos",
+      "says",
+      "free",
+      "college",
+      "amounts",
+      "to",
+      "a",
+      "'socialist",
+      "takeover'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -642,7 +732,16 @@
       "Pos(r)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Texas",
+      "parks",
+      "department:",
+      "We've",
+      "never",
+      "seen",
+      "this",
+      "before"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -669,7 +768,18 @@
       "wafer-destroyed"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Associated",
+      "PressDeVos",
+      "says",
+      "free",
+      "college",
+      "amounts",
+      "to",
+      "a",
+      "'socialist",
+      "takeover'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -694,7 +804,22 @@
       "LineClamp(3,48px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trump’s",
+      "Attempt",
+      "To",
+      "Pardon",
+      "His",
+      "Children",
+      "Confirms",
+      "He",
+      "Loves",
+      "Them",
+      "—",
+      "Even",
+      "Don",
+      "Jr."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -714,7 +839,10 @@
       "_yb_u3cpc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shopping",
+      "Shopping"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -746,7 +874,16 @@
       "wafer-destroyed"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Texas",
+      "parks",
+      "department:",
+      "We've",
+      "never",
+      "seen",
+      "this",
+      "before"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -771,7 +908,17 @@
       "LineClamp(3,48px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "DeVos",
+      "says",
+      "free",
+      "college",
+      "amounts",
+      "to",
+      "a",
+      "'socialist",
+      "takeover'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -791,7 +938,9 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shopping"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -869,7 +1018,12 @@
       "_yb_u3cpc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Premium",
+      "Offers",
+      "Premium",
+      "Offers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -924,7 +1078,10 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Premium",
+      "Offers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -968,7 +1125,14 @@
       "ntk-link:f_C($c-fuji-purple-a)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "'He",
+      "chose",
+      "a",
+      "different",
+      "path'",
+      "»"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1000,7 +1164,17 @@
       "wafer-destroyed"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tennessee",
+      "baby",
+      "breaks",
+      "record",
+      "set",
+      "by",
+      "her",
+      "big",
+      "sister"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1020,7 +1194,10 @@
       "_yb_u3cpc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "More...",
+      "More..."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1068,7 +1245,17 @@
       "Lh(1.33)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tennessee",
+      "baby",
+      "breaks",
+      "record",
+      "set",
+      "by",
+      "her",
+      "big",
+      "sister"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1115,7 +1302,9 @@
       "_yb_vsgqh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "More..."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1139,7 +1328,15 @@
       "Pos(r)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Hiker",
+      "saw",
+      "mysterious",
+      "monolith",
+      "removed",
+      "from",
+      "desert"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1168,7 +1365,18 @@
       "stream-item-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sadie",
+      "Robertson",
+      "says",
+      "COVID",
+      "spread",
+      "'like",
+      "wildfire'",
+      "through",
+      "her",
+      "family"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1189,7 +1397,10 @@
       "_yb_u3cpc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mail",
+      "Mail"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1216,7 +1427,18 @@
       "wafer-destroyed"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sadie",
+      "Robertson",
+      "says",
+      "COVID",
+      "spread",
+      "'like",
+      "wildfire'",
+      "through",
+      "her",
+      "family"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1256,7 +1478,18 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sadie",
+      "Robertson",
+      "says",
+      "COVID",
+      "spread",
+      "'like",
+      "wildfire'",
+      "through",
+      "her",
+      "family"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1276,7 +1509,10 @@
       "_yb_u3cpc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Coronavirus",
+      "Coronavirus"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1332,7 +1568,16 @@
       "ntk-footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "New",
+      "Hershey's",
+      "Kisses'",
+      "ad",
+      "angers",
+      "fans:",
+      "'Completely",
+      "ruined!'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1352,7 +1597,14 @@
       "Pend(7px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "on",
+      "NBC:",
+      "Steelers",
+      "vs",
+      "Ravens"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1378,7 +1630,16 @@
       "Lh(1.33)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "New",
+      "Hershey's",
+      "Kisses'",
+      "ad",
+      "angers",
+      "fans:",
+      "'Completely",
+      "ruined!'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1469,7 +1730,10 @@
       "_yb_u3cpc"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Finance",
+      "Finance"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1489,7 +1753,10 @@
       "_yb_115ht"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search",
+      "query"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1614,7 +1881,15 @@
       "Pos(r)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ex-NFL",
+      "lineman",
+      "unrecognizable",
+      "following",
+      "extreme",
+      "weight",
+      "loss"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1724,7 +1999,17 @@
       "ntk-link:f_C($c-fuji-purple-a)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Brad",
+      "Parscale:",
+      "Trump",
+      "could",
+      "have",
+      "'won",
+      "by",
+      "a",
+      "landslide'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1776,7 +2061,9 @@
       "Mend(20px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yesterday"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1798,7 +2085,9 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1841,7 +2130,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1866,7 +2157,11 @@
       "Pt(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "10.",
+      "Rafer",
+      "Johnson"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1887,7 +2182,9 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Feedback"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1907,7 +2204,9 @@
       "C($c-fuji-grey-o)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "48°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1931,7 +2230,9 @@
       "O(n)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tomorrow"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1953,7 +2254,9 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Feedback"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1971,7 +2274,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1991,7 +2296,27 @@
       "Hidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Partly",
+      "cloudy",
+      "today",
+      "with",
+      "a",
+      "high",
+      "of",
+      "58",
+      "°F",
+      "(14.4",
+      "°C)",
+      "and",
+      "a",
+      "low",
+      "of",
+      "48",
+      "°F",
+      "(8.9",
+      "°C)."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2015,7 +2340,9 @@
       "Fw(600)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "10."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2039,7 +2366,11 @@
       "Mb(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Baltimore",
+      "Pittsburgh",
+      "1419Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2083,7 +2414,11 @@
       "C($c-fuji-grey-n)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Baltimore",
+      "Pittsburgh",
+      "1419Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2125,7 +2460,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yahoo!",
+      "Mail"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2146,7 +2484,11 @@
       "Fw(b)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "December",
+      "2",
+      "-"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2174,7 +2516,9 @@
       "Fz(12px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Baltimore"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2198,7 +2542,11 @@
       "C($c-fuji-grape-jelly)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "5.",
+      "Asian",
+      "Singles"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2218,7 +2566,11 @@
       "M(0)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "See",
+      "more",
+      "»"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2246,7 +2598,9 @@
       "Fz(12px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pittsburgh"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2270,7 +2624,9 @@
       "Fw(600)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "9."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2294,7 +2650,9 @@
       "Fw(600)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "5."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2320,7 +2678,11 @@
       "Td(n)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "See",
+      "more",
+      "»"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2378,7 +2740,9 @@
       "C($c-fuji-grey-m)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Weather"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2396,7 +2760,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2419,7 +2785,9 @@
       "C()"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2442,7 +2810,10 @@
       "Mstart(a)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "San",
+      "Francisco"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2469,7 +2840,17 @@
       "wafer-destroyed"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Associated",
+      "PressWisconsin,",
+      "Arizona",
+      "certify",
+      "Biden",
+      "wins",
+      "in",
+      "presidential",
+      "vote"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2490,7 +2871,9 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2513,7 +2896,9 @@
       "Fz(1em)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2537,7 +2922,11 @@
       "Mb(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Chelsea",
+      "Sevilla",
+      "40Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2560,7 +2949,10 @@
       "Fz(13px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "San",
+      "Francisco"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2581,7 +2973,10 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "(Updated)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2601,7 +2996,27 @@
       "Hidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mostly",
+      "sunny",
+      "today",
+      "with",
+      "a",
+      "high",
+      "of",
+      "58",
+      "°F",
+      "(14.4",
+      "°C)",
+      "and",
+      "a",
+      "low",
+      "of",
+      "49",
+      "°F",
+      "(9.4",
+      "°C)."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2627,7 +3042,11 @@
       "C($c-fuji-grey-n)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Chelsea",
+      "Sevilla",
+      "40Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2651,7 +3070,9 @@
       "Fw(600)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "6."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2673,7 +3094,10 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "(Updated)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2694,7 +3118,9 @@
       "Pend(5px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "58°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2736,7 +3162,10 @@
       "Fw(600)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pat",
+      "Patterson"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2757,7 +3186,10 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "(Updated)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2775,7 +3207,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2800,7 +3234,12 @@
       "Pt(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "7.",
+      "United",
+      "Healthcare",
+      "AARP"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2822,7 +3261,10 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "(Updated)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2850,7 +3292,9 @@
       "Fz(12px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sevilla"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2870,7 +3314,9 @@
       "C($c-fuji-grey-o)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "49°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2894,7 +3340,12 @@
       "C($c-fuji-grape-jelly)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "7.",
+      "United",
+      "Healthcare",
+      "AARP"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2915,7 +3366,14 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2936,7 +3394,9 @@
       "Pend(5px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "58°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2954,7 +3414,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "°"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2977,7 +3439,9 @@
       "Fz(1em)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Today"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2999,7 +3463,14 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3022,7 +3493,9 @@
       "C()"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3051,7 +3524,11 @@
       "more-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "See",
+      "More",
+      "»"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3113,7 +3590,13 @@
       "Mb(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "West",
+      "Virginia",
+      "Gonzaga",
+      "9615:00",
+      "1st"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3137,7 +3620,11 @@
       "Fw(600)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Millie",
+      "Bobby",
+      "Brown"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3162,7 +3649,12 @@
       "Pt(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "8.",
+      "Meticore",
+      "Customer",
+      "Reviews"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3183,7 +3675,9 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advertise"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3209,7 +3703,13 @@
       "C($c-fuji-grey-n)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "West",
+      "Virginia",
+      "Gonzaga",
+      "9615:00",
+      "1st"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3238,7 +3738,19 @@
       "stream-item-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Molly",
+      "Shannon,",
+      "56,",
+      "shows",
+      "off",
+      "red",
+      "bikini",
+      "on",
+      "Hawaiian",
+      "beach:",
+      "'Superstar'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3262,7 +3774,12 @@
       "C($c-fuji-grape-jelly)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "8.",
+      "Meticore",
+      "Customer",
+      "Reviews"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3284,7 +3801,9 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advertise"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3304,7 +3823,14 @@
       "Hidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Change",
+      "Sports",
+      "to",
+      "display",
+      "different",
+      "scores"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3331,7 +3857,19 @@
       "wafer-destroyed"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Molly",
+      "Shannon,",
+      "56,",
+      "shows",
+      "off",
+      "red",
+      "bikini",
+      "on",
+      "Hawaiian",
+      "beach:",
+      "'Superstar'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3359,7 +3897,10 @@
       "Fz(12px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "West",
+      "Virginia"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3380,7 +3921,11 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Our",
+      "Ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3402,7 +3947,9 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3433,7 +3980,15 @@
       "Fz(12px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBA",
+      "NFL",
+      "MLB",
+      "NHL",
+      "NCAAB",
+      "NCAAF",
+      "Trending"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3451,7 +4006,19 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Molly",
+      "Shannon,",
+      "56,",
+      "shows",
+      "off",
+      "red",
+      "bikini",
+      "on",
+      "Hawaiian",
+      "beach:",
+      "'Superstar'"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3475,7 +4042,11 @@
       "Fw(600)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Meticore",
+      "Customer",
+      "Reviews"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3497,7 +4068,11 @@
       "C(#0078ff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Our",
+      "Ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3542,7 +4117,17 @@
       "Bxz(bb)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "\"Divorce\"",
+      "star",
+      "stunned",
+      "in",
+      "a",
+      "new",
+      "beachside",
+      "photo."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3567,7 +4152,12 @@
       "Pt(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "9.",
+      "Millie",
+      "Bobby",
+      "Brown"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3588,7 +4178,9 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3611,7 +4203,9 @@
       "Fz(1em)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Thu"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

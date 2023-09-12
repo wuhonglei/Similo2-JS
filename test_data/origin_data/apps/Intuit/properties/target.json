@@ -93,7 +93,9 @@
       "header__navLink"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Products"
+    ],
     "area": null,
     "shape": null
   },
@@ -113,7 +115,11 @@
       "header__navLink"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support",
+      "and",
+      "Communities"
+    ],
     "area": null,
     "shape": null
   },
@@ -133,7 +139,9 @@
       "header__navLink"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company"
+    ],
     "area": null,
     "shape": null
   },
@@ -153,7 +161,9 @@
       "header__navLink"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Partners"
+    ],
     "area": null,
     "shape": null
   },
@@ -194,7 +204,10 @@
       "header__web"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "In"
+    ],
     "area": null,
     "shape": null
   },

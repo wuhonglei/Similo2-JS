@@ -7,13 +7,6 @@
     "area": 697,
     "shape": 241,
     "widgetId": 1,
-    "visibleText": [
-      "Images"
-    ],
-    "neighborText": [
-      "images",
-      "videos"
-    ],
     "isButton": false,
     "location": {
       "x": 352,
@@ -21,7 +14,14 @@
       "width": 41,
       "height": 17
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "images",
+      "videos"
+    ],
+    "visibleText": [
+      "Images"
+    ]
   },
   {
     "tag": "A",
@@ -31,14 +31,6 @@
     "area": 646,
     "shape": 223,
     "widgetId": 2,
-    "visibleText": [
-      "Videos"
-    ],
-    "neighborText": [
-      "images",
-      "videos",
-      "shopping"
-    ],
     "isButton": false,
     "location": {
       "x": 429,
@@ -46,7 +38,15 @@
       "width": 38,
       "height": 17
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "images",
+      "videos",
+      "shopping"
+    ],
+    "visibleText": [
+      "Videos"
+    ]
   },
   {
     "tag": "SPAN",
@@ -56,14 +56,6 @@
     "area": 663,
     "shape": 229,
     "widgetId": 3,
-    "visibleText": [
-      "Sign",
-      "in"
-    ],
-    "neighborText": [
-      "sign",
-      "in"
-    ],
     "isButton": false,
     "location": {
       "x": 895,
@@ -71,7 +63,15 @@
       "width": 39,
       "height": 17
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "sign",
+      "in"
+    ],
+    "visibleText": [
+      "Sign",
+      "in"
+    ]
   },
   {
     "tag": "SPAN",
@@ -81,11 +81,6 @@
     "area": 1024,
     "shape": 100,
     "widgetId": 4,
-    "neighborText": [
-      "sign",
-      "in",
-      "rewards"
-    ],
     "isButton": false,
     "location": {
       "x": 940,
@@ -97,6 +92,11 @@
       "sw_spd",
       "id_avatar"
     ],
+    "neighborText": [
+      "sign",
+      "in",
+      "rewards"
+    ],
     "visibleText": []
   },
   {
@@ -107,14 +107,6 @@
     "area": 799,
     "shape": 276,
     "widgetId": 5,
-    "visibleText": [
-      "Rewards"
-    ],
-    "neighborText": [
-      "sign",
-      "in",
-      "rewards"
-    ],
     "isButton": false,
     "location": {
       "x": 989,
@@ -124,6 +116,14 @@
     },
     "classList": [
       "hp"
+    ],
+    "neighborText": [
+      "sign",
+      "in",
+      "rewards"
+    ],
+    "visibleText": [
+      "Rewards"
     ]
   },
   {
@@ -134,9 +134,6 @@
     "area": 1600,
     "shape": 100,
     "widgetId": 6,
-    "neighborText": [
-      "rewards"
-    ],
     "isButton": false,
     "location": {
       "x": 1041,
@@ -145,6 +142,9 @@
       "height": 40
     },
     "classList": [],
+    "neighborText": [
+      "rewards"
+    ],
     "visibleText": []
   },
   {
@@ -156,9 +156,6 @@
     "area": 780,
     "shape": 51,
     "widgetId": 7,
-    "neighborText": [
-      "rewards"
-    ],
     "isButton": false,
     "location": {
       "x": 1101,
@@ -169,6 +166,9 @@
     "classList": [
       "idp_ham",
       "hphbtop"
+    ],
+    "neighborText": [
+      "rewards"
     ],
     "visibleText": []
   },

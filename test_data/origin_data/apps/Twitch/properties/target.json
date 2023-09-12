@@ -38,7 +38,10 @@
       "button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -61,7 +64,10 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null
   },
@@ -82,7 +88,9 @@
       "button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Browse"
+    ],
     "area": null,
     "shape": null
   },
@@ -100,7 +108,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitch",
+      "Main",
+      "Page"
+    ],
     "area": null,
     "shape": null
   }

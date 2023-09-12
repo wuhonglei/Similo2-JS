@@ -7,10 +7,14 @@
     "area": 504,
     "shape": 257,
     "widgetId": 1,
-    "visibleText": [
-      "Sign",
-      "in"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 51,
+      "y": 8,
+      "width": 36,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "open",
       "expand",
@@ -23,14 +27,10 @@
       "in",
       "or"
     ],
-    "isButton": false,
-    "location": {
-      "x": 51,
-      "y": 8,
-      "width": 36,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Sign",
+      "in"
+    ]
   },
   {
     "tag": "A",
@@ -40,9 +40,14 @@
     "area": 560,
     "shape": 285,
     "widgetId": 2,
-    "visibleText": [
-      "register"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 105,
+      "y": 8,
+      "width": 40,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "open",
       "expand",
@@ -60,14 +65,9 @@
       "daily",
       "deals"
     ],
-    "isButton": false,
-    "location": {
-      "x": 105,
-      "y": 8,
-      "width": 40,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "register"
+    ]
   },
   {
     "tag": "A",
@@ -77,9 +77,15 @@
     "area": 1320,
     "shape": 272,
     "widgetId": 3,
-    "visibleText": [
-      "Daily",
-      "Deals"
+    "isButton": false,
+    "location": {
+      "x": 172,
+      "y": 5,
+      "width": 60,
+      "height": 22
+    },
+    "classList": [
+      "gh-p"
     ],
     "neighborText": [
       "shop",
@@ -99,15 +105,9 @@
       "brand",
       "outlet"
     ],
-    "isButton": false,
-    "location": {
-      "x": 172,
-      "y": 5,
-      "width": 60,
-      "height": 22
-    },
-    "classList": [
-      "gh-p"
+    "visibleText": [
+      "Daily",
+      "Deals"
     ]
   },
   {
@@ -118,10 +118,15 @@
     "area": 1760,
     "shape": 363,
     "widgetId": 4,
-    "visibleText": [
-      "Help",
-      "&",
-      "Contact"
+    "isButton": false,
+    "location": {
+      "x": 340,
+      "y": 5,
+      "width": 80,
+      "height": 22
+    },
+    "classList": [
+      "gh-p"
     ],
     "neighborText": [
       "search",
@@ -133,15 +138,10 @@
       "&",
       "contact"
     ],
-    "isButton": false,
-    "location": {
-      "x": 340,
-      "y": 5,
-      "width": 80,
-      "height": 22
-    },
-    "classList": [
-      "gh-p"
+    "visibleText": [
+      "Help",
+      "&",
+      "Contact"
     ]
   },
   {
@@ -152,8 +152,15 @@
     "area": 532,
     "shape": 271,
     "widgetId": 5,
-    "visibleText": [
-      "Sell"
+    "isButton": false,
+    "location": {
+      "x": 898,
+      "y": 7,
+      "width": 38,
+      "height": 14
+    },
+    "classList": [
+      "gh-p"
     ],
     "neighborText": [
       "0",
@@ -170,15 +177,8 @@
       "information",
       "watchlist"
     ],
-    "isButton": false,
-    "location": {
-      "x": 898,
-      "y": 7,
-      "width": 38,
-      "height": 14
-    },
-    "classList": [
-      "gh-p"
+    "visibleText": [
+      "Sell"
     ]
   },
   {
@@ -189,9 +189,16 @@
     "area": 1896,
     "shape": 329,
     "widgetId": 6,
-    "visibleText": [
-      "My",
-      "eBay"
+    "isButton": false,
+    "location": {
+      "x": 1025,
+      "y": 3,
+      "width": 79,
+      "height": 24
+    },
+    "classList": [
+      "gh-eb-li-a",
+      "gh-rvi-menu"
     ],
     "neighborText": [
       "search",
@@ -211,16 +218,9 @@
       "ebay",
       "notification"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1025,
-      "y": 3,
-      "width": 79,
-      "height": 24
-    },
-    "classList": [
-      "gh-eb-li-a",
-      "gh-rvi-menu"
+    "visibleText": [
+      "My",
+      "eBay"
     ]
   },
   {
@@ -231,8 +231,17 @@
     "area": 1568,
     "shape": 200,
     "widgetId": 7,
-    "visibleText": [
-      "Notification"
+    "isButton": false,
+    "location": {
+      "x": 1111,
+      "y": 1,
+      "width": 56,
+      "height": 28
+    },
+    "classList": [
+      "gh-eb-li",
+      "gh-layer",
+      "rt"
     ],
     "neighborText": [
       "search",
@@ -250,17 +259,8 @@
       "for",
       "details."
     ],
-    "isButton": false,
-    "location": {
-      "x": 1111,
-      "y": 1,
-      "width": 56,
-      "height": 28
-    },
-    "classList": [
-      "gh-eb-li",
-      "gh-layer",
-      "rt"
+    "visibleText": [
+      "Notification"
     ]
   },
   {
@@ -271,6 +271,16 @@
     "area": 1260,
     "shape": 160,
     "widgetId": 8,
+    "isButton": false,
+    "location": {
+      "x": 1167,
+      "y": 1,
+      "width": 45,
+      "height": 28
+    },
+    "classList": [
+      "gh-eb-li-a"
+    ],
     "neighborText": [
       "search",
       "advanced",
@@ -284,16 +294,6 @@
       "for",
       "details."
     ],
-    "isButton": false,
-    "location": {
-      "x": 1167,
-      "y": 1,
-      "width": 45,
-      "height": 28
-    },
-    "classList": [
-      "gh-eb-li-a"
-    ],
     "visibleText": []
   },
   {
@@ -303,6 +303,16 @@
     "area": 5616,
     "shape": 243,
     "widgetId": 9,
+    "isButton": false,
+    "location": {
+      "x": 32,
+      "y": 44,
+      "width": 117,
+      "height": 48
+    },
+    "classList": [
+      "gh-td"
+    ],
     "neighborText": [
       "open",
       "expand",
@@ -322,16 +332,6 @@
       "home",
       "saved"
     ],
-    "isButton": false,
-    "location": {
-      "x": 32,
-      "y": 44,
-      "width": 117,
-      "height": 48
-    },
-    "classList": [
-      "gh-td"
-    ],
     "visibleText": []
   },
   {
@@ -342,10 +342,15 @@
     "area": 3870,
     "shape": 209,
     "widgetId": 10,
-    "visibleText": [
-      "Shop",
-      "by",
-      "category"
+    "isButton": true,
+    "location": {
+      "x": 172,
+      "y": 44,
+      "width": 90,
+      "height": 43
+    },
+    "classList": [
+      "gh-control"
     ],
     "neighborText": [
       "search",
@@ -366,15 +371,10 @@
       "0",
       "motors"
     ],
-    "isButton": true,
-    "location": {
-      "x": 172,
-      "y": 44,
-      "width": 90,
-      "height": 43
-    },
-    "classList": [
-      "gh-control"
+    "visibleText": [
+      "Shop",
+      "by",
+      "category"
     ]
   },
   {
@@ -386,10 +386,16 @@
     "area": 20102,
     "shape": 1392,
     "widgetId": 11,
-    "visibleText": [
-      "Search",
-      "for",
-      "anything"
+    "isButton": false,
+    "location": {
+      "x": 272,
+      "y": 49,
+      "width": 529,
+      "height": 38
+    },
+    "classList": [
+      "gh-tb",
+      "ui-autocomplete-input"
     ],
     "neighborText": [
       "shop",
@@ -418,16 +424,10 @@
       "goods",
       "toys"
     ],
-    "isButton": false,
-    "location": {
-      "x": 272,
-      "y": 49,
-      "width": 529,
-      "height": 38
-    },
-    "classList": [
-      "gh-tb",
-      "ui-autocomplete-input"
+    "visibleText": [
+      "Search",
+      "for",
+      "anything"
     ]
   },
   {
@@ -438,8 +438,17 @@
     "area": 7056,
     "shape": 400,
     "widgetId": 12,
-    "visibleText": [
-      "Search"
+    "isButton": true,
+    "location": {
+      "x": 973,
+      "y": 47,
+      "width": 168,
+      "height": 42
+    },
+    "classList": [
+      "btn",
+      "btn-prim",
+      "gh-spr"
     ],
     "neighborText": [
       "0",
@@ -472,17 +481,8 @@
       "music",
       "deals"
     ],
-    "isButton": true,
-    "location": {
-      "x": 973,
-      "y": 47,
-      "width": 168,
-      "height": 42
-    },
-    "classList": [
-      "btn",
-      "btn-prim",
-      "gh-spr"
+    "visibleText": [
+      "Search"
     ]
   },
   {
@@ -494,9 +494,14 @@
     "area": 2720,
     "shape": 170,
     "widgetId": 13,
-    "visibleText": [
-      "Advanced"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 1141,
+      "y": 48,
+      "width": 68,
+      "height": 40
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "advanced",
@@ -514,14 +519,9 @@
       "details.",
       "deals"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1141,
-      "y": 48,
-      "width": 68,
-      "height": 40
-    },
-    "classList": []
+    "visibleText": [
+      "Advanced"
+    ]
   },
   {
     "tag": "LI",
@@ -530,8 +530,15 @@
     "area": 2006,
     "shape": 173,
     "widgetId": 14,
-    "visibleText": [
-      "Home"
+    "isButton": false,
+    "location": {
+      "x": 126,
+      "y": 110,
+      "width": 59,
+      "height": 34
+    },
+    "classList": [
+      "hl-cat-nav__active"
     ],
     "neighborText": [
       "shop",
@@ -546,15 +553,8 @@
       "of",
       "2"
     ],
-    "isButton": false,
-    "location": {
-      "x": 126,
-      "y": 110,
-      "width": 59,
-      "height": 34
-    },
-    "classList": [
-      "hl-cat-nav__active"
+    "visibleText": [
+      "Home"
     ]
   },
   {
@@ -565,9 +565,14 @@
     "area": 560,
     "shape": 285,
     "widgetId": 15,
-    "visibleText": [
-      "Saved"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 209,
+      "y": 120,
+      "width": 40,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "shop",
       "by",
@@ -586,14 +591,9 @@
       "of",
       "2"
     ],
-    "isButton": false,
-    "location": {
-      "x": 209,
-      "y": 120,
-      "width": 40,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Saved"
+    ]
   },
   {
     "tag": "A",
@@ -603,9 +603,14 @@
     "area": 504,
     "shape": 257,
     "widgetId": 16,
-    "visibleText": [
-      "Motors"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 275,
+      "y": 120,
+      "width": 36,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "shop",
       "by",
@@ -618,14 +623,9 @@
       "motors",
       "fashion"
     ],
-    "isButton": false,
-    "location": {
-      "x": 275,
-      "y": 120,
-      "width": 36,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Motors"
+    ]
   },
   {
     "tag": "A",
@@ -635,9 +635,14 @@
     "area": 588,
     "shape": 300,
     "widgetId": 17,
-    "visibleText": [
-      "Fashion"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 338,
+      "y": 120,
+      "width": 42,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "for",
@@ -647,14 +652,9 @@
       "fashion",
       "electronics"
     ],
-    "isButton": false,
-    "location": {
-      "x": 338,
-      "y": 120,
-      "width": 42,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Fashion"
+    ]
   },
   {
     "tag": "A",
@@ -664,9 +664,14 @@
     "area": 812,
     "shape": 414,
     "widgetId": 18,
-    "visibleText": [
-      "Electronics"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 407,
+      "y": 120,
+      "width": 58,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "for",
@@ -678,14 +683,9 @@
       "&",
       "art"
     ],
-    "isButton": false,
-    "location": {
-      "x": 407,
-      "y": 120,
-      "width": 58,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Electronics"
+    ]
   },
   {
     "tag": "A",
@@ -695,11 +695,14 @@
     "area": 1260,
     "shape": 642,
     "widgetId": 19,
-    "visibleText": [
-      "Collectibles",
-      "&",
-      "Art"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 491,
+      "y": 120,
+      "width": 90,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "for",
@@ -712,14 +715,11 @@
       "home",
       "garden"
     ],
-    "isButton": false,
-    "location": {
-      "x": 491,
-      "y": 120,
-      "width": 90,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Collectibles",
+      "&",
+      "Art"
+    ]
   },
   {
     "tag": "A",
@@ -729,11 +729,14 @@
     "area": 1204,
     "shape": 614,
     "widgetId": 20,
-    "visibleText": [
-      "Home",
-      "&",
-      "Garden"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 608,
+      "y": 120,
+      "width": 86,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "for",
@@ -747,14 +750,11 @@
       "sporting",
       "goods"
     ],
-    "isButton": false,
-    "location": {
-      "x": 608,
-      "y": 120,
-      "width": 86,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Home",
+      "&",
+      "Garden"
+    ]
   },
   {
     "tag": "A",
@@ -764,10 +764,14 @@
     "area": 1162,
     "shape": 592,
     "widgetId": 21,
-    "visibleText": [
-      "Sporting",
-      "Goods"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 721,
+      "y": 120,
+      "width": 83,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "for",
@@ -780,14 +784,10 @@
       "goods",
       "toys"
     ],
-    "isButton": false,
-    "location": {
-      "x": 721,
-      "y": 120,
-      "width": 83,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Sporting",
+      "Goods"
+    ]
   },
   {
     "tag": "A",
@@ -797,9 +797,14 @@
     "area": 336,
     "shape": 171,
     "widgetId": 22,
-    "visibleText": [
-      "Toys"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 830,
+      "y": 120,
+      "width": 24,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "for",
@@ -812,14 +817,9 @@
       "&",
       "industrial"
     ],
-    "isButton": false,
-    "location": {
-      "x": 830,
-      "y": 120,
-      "width": 24,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Toys"
+    ]
   },
   {
     "tag": "A",
@@ -829,11 +829,14 @@
     "area": 1568,
     "shape": 800,
     "widgetId": 23,
-    "visibleText": [
-      "Business",
-      "&",
-      "Industrial"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 881,
+      "y": 120,
+      "width": 112,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "0",
       "search",
@@ -843,14 +846,11 @@
       "industrial",
       "music"
     ],
-    "isButton": false,
-    "location": {
-      "x": 881,
-      "y": 120,
-      "width": 112,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Business",
+      "&",
+      "Industrial"
+    ]
   },
   {
     "tag": "A",
@@ -860,9 +860,14 @@
     "area": 434,
     "shape": 221,
     "widgetId": 24,
-    "visibleText": [
-      "Music"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 1019,
+      "y": 120,
+      "width": 31,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "0",
@@ -872,14 +877,9 @@
       "music",
       "deals"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1019,
-      "y": 120,
-      "width": 31,
-      "height": 14
-    },
-    "classList": []
+    "visibleText": [
+      "Music"
+    ]
   },
   {
     "tag": "A",
@@ -889,16 +889,6 @@
     "area": 420,
     "shape": 214,
     "widgetId": 25,
-    "visibleText": [
-      "Deals"
-    ],
-    "neighborText": [
-      "search",
-      "advanced",
-      "0",
-      "music",
-      "deals"
-    ],
     "isButton": false,
     "location": {
       "x": 1076,
@@ -906,7 +896,17 @@
       "width": 30,
       "height": 14
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "search",
+      "advanced",
+      "0",
+      "music",
+      "deals"
+    ],
+    "visibleText": [
+      "Deals"
+    ]
   },
   {
     "tag": "TD",
@@ -914,6 +914,16 @@
     "idxpath": "//*[@id='gh-f']/table[1]/tbody[1]/tr[1]/td[1]",
     "area": 22596,
     "shape": 1280,
+    "isButton": false,
+    "location": {
+      "x": 269,
+      "y": 47,
+      "width": 538,
+      "height": 42
+    },
+    "classList": [
+      "gh-td-s"
+    ],
     "neighborText": [
       "shop",
       "by",
@@ -941,16 +951,6 @@
       "goods",
       "toys"
     ],
-    "isButton": false,
-    "location": {
-      "x": 269,
-      "y": 47,
-      "width": 538,
-      "height": 42
-    },
-    "classList": [
-      "gh-td-s"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -960,12 +960,6 @@
     "idxpath": "//*[@id='gh-ac-box2']/label[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Enter",
-      "your",
-      "search",
-      "keyword"
-    ],
     "isButton": false,
     "location": {
       "x": -9727,
@@ -977,6 +971,12 @@
       "gh-ar-hdn"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Enter",
+      "your",
+      "search",
+      "keyword"
+    ],
     "widgetId": null
   },
   {
@@ -985,6 +985,14 @@
     "idxpath": "//*[@id='gh-ac-box2']/*[local-name() = \"svg\"][1]",
     "area": 196,
     "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 289,
+      "y": 61,
+      "width": 14,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "shop",
       "by",
@@ -1004,14 +1012,6 @@
       "motors",
       "fashion"
     ],
-    "isButton": false,
-    "location": {
-      "x": 289,
-      "y": 61,
-      "width": 14,
-      "height": 14
-    },
-    "classList": [],
     "visibleText": [],
     "widgetId": null
   },
@@ -1022,6 +1022,16 @@
     "idxpath": "//*[@id='gh-cat-td']",
     "area": 6720,
     "shape": 380,
+    "isButton": false,
+    "location": {
+      "x": 808,
+      "y": 47,
+      "width": 160,
+      "height": 42
+    },
+    "classList": [
+      "gh-td"
+    ],
     "neighborText": [
       "search",
       "for",
@@ -1045,16 +1055,6 @@
       "&",
       "industrial"
     ],
-    "isButton": false,
-    "location": {
-      "x": 808,
-      "y": 47,
-      "width": 160,
-      "height": 42
-    },
-    "classList": [
-      "gh-td"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1064,10 +1064,15 @@
     "idxpath": "/html[1]/body[1]/div[2]/div[1]/button[1]",
     "area": 1496,
     "shape": 309,
-    "visibleText": [
-      "Open",
-      "Expand",
-      "Svg"
+    "isButton": true,
+    "location": {
+      "x": 0,
+      "y": 0,
+      "width": 68,
+      "height": 22
+    },
+    "classList": [
+      "hl-pushdown__toggle"
     ],
     "neighborText": [
       "expand",
@@ -1080,15 +1085,10 @@
       "in",
       "or"
     ],
-    "isButton": true,
-    "location": {
-      "x": 0,
-      "y": 0,
-      "width": 68,
-      "height": 22
-    },
-    "classList": [
-      "hl-pushdown__toggle"
+    "visibleText": [
+      "Open",
+      "Expand",
+      "Svg"
     ],
     "widgetId": null
   },
@@ -1098,10 +1098,14 @@
     "idxpath": "/html[1]/body[1]/div[2]/div[1]/button[1]/*[local-name() = \"svg\"][1]",
     "area": 112,
     "shape": 175,
-    "visibleText": [
-      "Expand",
-      "Svg"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 46,
+      "y": 8,
+      "width": 14,
+      "height": 8
+    },
+    "classList": [],
     "neighborText": [
       "open",
       "expand",
@@ -1114,14 +1118,10 @@
       "in",
       "or"
     ],
-    "isButton": false,
-    "location": {
-      "x": 46,
-      "y": 8,
-      "width": 14,
-      "height": 8
-    },
-    "classList": [],
+    "visibleText": [
+      "Expand",
+      "Svg"
+    ],
     "widgetId": null
   },
   {
@@ -1132,18 +1132,6 @@
     "idxpath": "//*[@id='gh-hdn-stm']",
     "area": 160,
     "shape": 40,
-    "visibleText": [
-      "Skip",
-      "to",
-      "main",
-      "content"
-    ],
-    "neighborText": [
-      "skip",
-      "to",
-      "main",
-      "content"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -1153,6 +1141,18 @@
     },
     "classList": [
       "gh-acc-a"
+    ],
+    "neighborText": [
+      "skip",
+      "to",
+      "main",
+      "content"
+    ],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
     ],
     "widgetId": null
   },
@@ -1187,21 +1187,6 @@
     "idxpath": "//*[@id='gh']/table[1]/tbody[1]/tr[1]/td[2]",
     "area": 432,
     "shape": 18,
-    "neighborText": [
-      "shop",
-      "by",
-      "category",
-      "hi!",
-      "sign",
-      "in",
-      "or",
-      "register",
-      "or",
-      "daily",
-      "deals",
-      "home",
-      "saved"
-    ],
     "isButton": false,
     "location": {
       "x": 149,
@@ -1212,15 +1197,6 @@
     "classList": [
       "gh-td"
     ],
-    "visibleText": [],
-    "widgetId": null
-  },
-  {
-    "tag": "TD",
-    "xpath": "/html[1]/body[1]/header[1]/table[1]/tbody[1]/tr[1]/td[3]",
-    "idxpath": "//*[@id='gh']/table[1]/tbody[1]/tr[1]/td[3]",
-    "area": 432,
-    "shape": 18,
     "neighborText": [
       "shop",
       "by",
@@ -1236,6 +1212,15 @@
       "home",
       "saved"
     ],
+    "visibleText": [],
+    "widgetId": null
+  },
+  {
+    "tag": "TD",
+    "xpath": "/html[1]/body[1]/header[1]/table[1]/tbody[1]/tr[1]/td[3]",
+    "idxpath": "//*[@id='gh']/table[1]/tbody[1]/tr[1]/td[3]",
+    "area": 432,
+    "shape": 18,
     "isButton": false,
     "location": {
       "x": 158,
@@ -1246,6 +1231,21 @@
     "classList": [
       "gh-td"
     ],
+    "neighborText": [
+      "shop",
+      "by",
+      "category",
+      "hi!",
+      "sign",
+      "in",
+      "or",
+      "register",
+      "or",
+      "daily",
+      "deals",
+      "home",
+      "saved"
+    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1255,6 +1255,16 @@
     "idxpath": "//*[@id='gh']/table[1]/tbody[1]/tr[1]/td[4]",
     "area": 4896,
     "shape": 212,
+    "isButton": false,
+    "location": {
+      "x": 167,
+      "y": 44,
+      "width": 102,
+      "height": 48
+    },
+    "classList": [
+      "gh-td"
+    ],
     "neighborText": [
       "shop",
       "by",
@@ -1277,16 +1287,6 @@
       "0",
       "motors"
     ],
-    "isButton": false,
-    "location": {
-      "x": 167,
-      "y": 44,
-      "width": 102,
-      "height": 48
-    },
-    "classList": [
-      "gh-td"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1298,8 +1298,15 @@
     "idxpath": "//*[@id='gh-cat']",
     "area": 6080,
     "shape": 421,
-    "visibleText": [
-      "0"
+    "isButton": false,
+    "location": {
+      "x": 806,
+      "y": 49,
+      "width": 160,
+      "height": 38
+    },
+    "classList": [
+      "gh-sb"
     ],
     "neighborText": [
       "search",
@@ -1324,15 +1331,8 @@
       "&",
       "industrial"
     ],
-    "isButton": false,
-    "location": {
-      "x": 806,
-      "y": 49,
-      "width": 160,
-      "height": 38
-    },
-    "classList": [
-      "gh-sb"
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -1342,8 +1342,15 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[3]",
     "area": 2108,
     "shape": 182,
-    "visibleText": [
-      "0"
+    "isButton": false,
+    "location": {
+      "x": 262,
+      "y": 110,
+      "width": 62,
+      "height": 34
+    },
+    "classList": [
+      "hl-cat-nav__js-tab"
     ],
     "neighborText": [
       "shop",
@@ -1357,15 +1364,8 @@
       "0",
       "fashion"
     ],
-    "isButton": false,
-    "location": {
-      "x": 262,
-      "y": 110,
-      "width": 62,
-      "height": 34
-    },
-    "classList": [
-      "hl-cat-nav__js-tab"
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -1376,21 +1376,6 @@
     "idxpath": "//*[@id='gh-p-3']",
     "area": 1200,
     "shape": 833,
-    "visibleText": [
-      "Help",
-      "&",
-      "Contact"
-    ],
-    "neighborText": [
-      "search",
-      "for",
-      "anything",
-      "brand",
-      "outlet",
-      "help",
-      "&",
-      "contact"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -1402,6 +1387,21 @@
       "gh-t",
       "gh-divider-l"
     ],
+    "neighborText": [
+      "search",
+      "for",
+      "anything",
+      "brand",
+      "outlet",
+      "help",
+      "&",
+      "contact"
+    ],
+    "visibleText": [
+      "Help",
+      "&",
+      "Contact"
+    ],
     "widgetId": null
   },
   {
@@ -1410,8 +1410,15 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[2]",
     "area": 2618,
     "shape": 226,
-    "visibleText": [
-      "Saved"
+    "isButton": false,
+    "location": {
+      "x": 185,
+      "y": 110,
+      "width": 77,
+      "height": 34
+    },
+    "classList": [
+      "saved"
     ],
     "neighborText": [
       "shop",
@@ -1431,15 +1438,8 @@
       "of",
       "2"
     ],
-    "isButton": false,
-    "location": {
-      "x": 185,
-      "y": 110,
-      "width": 77,
-      "height": 34
-    },
-    "classList": [
-      "saved"
+    "visibleText": [
+      "Saved"
     ],
     "widgetId": null
   },
@@ -1450,8 +1450,17 @@
     "idxpath": "//*[@id='gh-p-2']",
     "area": 704,
     "shape": 275,
-    "visibleText": [
-      "Sell"
+    "isButton": false,
+    "location": {
+      "x": 895,
+      "y": 4,
+      "width": 44,
+      "height": 16
+    },
+    "classList": [
+      "gh-eb-li",
+      "gh-t-rt",
+      "gh--link__divider"
     ],
     "neighborText": [
       "0",
@@ -1468,17 +1477,8 @@
       "information",
       "watchlist"
     ],
-    "isButton": false,
-    "location": {
-      "x": 895,
-      "y": 4,
-      "width": 44,
-      "height": 16
-    },
-    "classList": [
-      "gh-eb-li",
-      "gh-t-rt",
-      "gh--link__divider"
+    "visibleText": [
+      "Sell"
     ],
     "widgetId": null
   },
@@ -1489,25 +1489,6 @@
     "idxpath": "//*[@id='gh-wl-click']",
     "area": 1944,
     "shape": 337,
-    "visibleText": [
-      "WatchlistExpand",
-      "Watch",
-      "ListLoading...Sign",
-      "in",
-      "to",
-      "see",
-      "your",
-      "user",
-      "information"
-    ],
-    "neighborText": [
-      "0",
-      "search",
-      "sell",
-      "watchlist",
-      "my",
-      "ebay"
-    ],
     "isButton": false,
     "location": {
       "x": 938,
@@ -1520,6 +1501,25 @@
       "gh-margin",
       "rt"
     ],
+    "neighborText": [
+      "0",
+      "search",
+      "sell",
+      "watchlist",
+      "my",
+      "ebay"
+    ],
+    "visibleText": [
+      "WatchlistExpand",
+      "Watch",
+      "ListLoading...Sign",
+      "in",
+      "to",
+      "see",
+      "your",
+      "user",
+      "information"
+    ],
     "widgetId": null
   },
   {
@@ -1529,18 +1529,6 @@
     "idxpath": "//*[@id='gh-wl-click']/div[1]/a[2]",
     "area": 1881,
     "shape": 521,
-    "visibleText": [
-      "Expand",
-      "Watch",
-      "List"
-    ],
-    "neighborText": [
-      "expand",
-      "watch",
-      "list",
-      "my",
-      "ebay"
-    ],
     "isButton": false,
     "location": {
       "x": -9080,
@@ -1553,6 +1541,18 @@
       "gh-acc-a2",
       "gh-control"
     ],
+    "neighborText": [
+      "expand",
+      "watch",
+      "list",
+      "my",
+      "ebay"
+    ],
+    "visibleText": [
+      "Expand",
+      "Watch",
+      "List"
+    ],
     "widgetId": null
   },
   {
@@ -1562,9 +1562,16 @@
     "idxpath": "//*[@id='gh-p-4']",
     "area": 1044,
     "shape": 725,
-    "visibleText": [
-      "Brand",
-      "Outlet"
+    "isButton": false,
+    "location": {
+      "x": 241,
+      "y": 9,
+      "width": 87,
+      "height": 12
+    },
+    "classList": [
+      "gh-t",
+      "gh-divider-l"
     ],
     "neighborText": [
       "shop",
@@ -1581,16 +1588,9 @@
       "&",
       "contact"
     ],
-    "isButton": false,
-    "location": {
-      "x": 241,
-      "y": 9,
-      "width": 87,
-      "height": 12
-    },
-    "classList": [
-      "gh-t",
-      "gh-divider-l"
+    "visibleText": [
+      "Brand",
+      "Outlet"
     ],
     "widgetId": null
   },
@@ -1600,6 +1600,17 @@
     "idxpath": "//*[@id='gh-f']/table[1]/tbody[1]/tr[1]/td[3]",
     "area": 7266,
     "shape": 411,
+    "isButton": false,
+    "location": {
+      "x": 968,
+      "y": 47,
+      "width": 173,
+      "height": 42
+    },
+    "classList": [
+      "gh-td",
+      "gh-sch-btn"
+    ],
     "neighborText": [
       "0",
       "search",
@@ -1632,17 +1643,6 @@
       "music",
       "deals"
     ],
-    "isButton": false,
-    "location": {
-      "x": 968,
-      "y": 47,
-      "width": 173,
-      "height": 42
-    },
-    "classList": [
-      "gh-td",
-      "gh-sch-btn"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1653,19 +1653,6 @@
     "idxpath": "//*[@id='gh-eb-My']/div[1]/a[2]",
     "area": 1729,
     "shape": 478,
-    "visibleText": [
-      "Expand",
-      "My",
-      "eBay"
-    ],
-    "neighborText": [
-      "expand",
-      "watch",
-      "list",
-      "my",
-      "ebay",
-      "cart"
-    ],
     "isButton": false,
     "location": {
       "x": -8986,
@@ -1678,6 +1665,19 @@
       "gh-acc-a2",
       "gh-control"
     ],
+    "neighborText": [
+      "expand",
+      "watch",
+      "list",
+      "my",
+      "ebay",
+      "cart"
+    ],
+    "visibleText": [
+      "Expand",
+      "My",
+      "eBay"
+    ],
     "widgetId": null
   },
   {
@@ -1687,8 +1687,15 @@
     "idxpath": "//*[@id='gh-as-td']",
     "area": 2856,
     "shape": 161,
-    "visibleText": [
-      "Advanced"
+    "isButton": false,
+    "location": {
+      "x": 1141,
+      "y": 47,
+      "width": 68,
+      "height": 42
+    },
+    "classList": [
+      "gh-td"
     ],
     "neighborText": [
       "search",
@@ -1707,15 +1714,8 @@
       "details.",
       "deals"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1141,
-      "y": 47,
-      "width": 68,
-      "height": 42
-    },
-    "classList": [
-      "gh-td"
+    "visibleText": [
+      "Advanced"
     ],
     "widgetId": null
   },
@@ -1726,9 +1726,15 @@
     "idxpath": "//*[@id='gh-p-4']/a[1]",
     "area": 1474,
     "shape": 304,
-    "visibleText": [
-      "Brand",
-      "Outlet"
+    "isButton": false,
+    "location": {
+      "x": 252,
+      "y": 5,
+      "width": 67,
+      "height": 22
+    },
+    "classList": [
+      "gh-p"
     ],
     "neighborText": [
       "shop",
@@ -1745,15 +1751,9 @@
       "&",
       "contact"
     ],
-    "isButton": false,
-    "location": {
-      "x": 252,
-      "y": 5,
-      "width": 67,
-      "height": 22
-    },
-    "classList": [
-      "gh-p"
+    "visibleText": [
+      "Brand",
+      "Outlet"
     ],
     "widgetId": null
   },
@@ -1763,6 +1763,16 @@
     "idxpath": "//*[@id='gh']/table[1]/tbody[1]/tr[1]/td[6]",
     "area": 144,
     "shape": 6,
+    "isButton": false,
+    "location": {
+      "x": 1209,
+      "y": 44,
+      "width": 3,
+      "height": 48
+    },
+    "classList": [
+      "gh-td"
+    ],
     "neighborText": [
       "advanced",
       "notification",
@@ -1775,16 +1785,6 @@
       "for",
       "details."
     ],
-    "isButton": false,
-    "location": {
-      "x": 1209,
-      "y": 44,
-      "width": 3,
-      "height": 48
-    },
-    "classList": [
-      "gh-td"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1794,8 +1794,17 @@
     "idxpath": "//*[@id='gh-eb-Alerts']/div[1]/button[1]",
     "area": 1456,
     "shape": 185,
-    "visibleText": [
-      "Notification"
+    "isButton": true,
+    "location": {
+      "x": 1111,
+      "y": 1,
+      "width": 52,
+      "height": 28
+    },
+    "classList": [
+      "gh-control",
+      "ghn-b",
+      "gh-eb-li-a"
     ],
     "neighborText": [
       "search",
@@ -1813,17 +1822,8 @@
       "for",
       "details."
     ],
-    "isButton": true,
-    "location": {
-      "x": 1111,
-      "y": 1,
-      "width": 52,
-      "height": 28
-    },
-    "classList": [
-      "gh-control",
-      "ghn-b",
-      "gh-eb-li-a"
+    "visibleText": [
+      "Notification"
     ],
     "widgetId": null
   },
@@ -1833,6 +1833,16 @@
     "idxpath": "//*[@id='gh']/table[1]/tbody[1]/tr[1]/td[7]",
     "area": 96,
     "shape": 4,
+    "isButton": false,
+    "location": {
+      "x": 1213,
+      "y": 44,
+      "width": 2,
+      "height": 48
+    },
+    "classList": [
+      "sticky_placeholder"
+    ],
     "neighborText": [
       "advanced",
       "notification",
@@ -1845,16 +1855,6 @@
       "for",
       "details."
     ],
-    "isButton": false,
-    "location": {
-      "x": 1213,
-      "y": 44,
-      "width": 2,
-      "height": 48
-    },
-    "classList": [
-      "sticky_placeholder"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1865,12 +1865,15 @@
     "idxpath": "//*[@id='gh-eb-u']",
     "area": 3225,
     "shape": 516,
-    "visibleText": [
-      "Hi!",
-      "Sign",
-      "in",
-      "or",
-      "register"
+    "isButton": false,
+    "location": {
+      "x": 32,
+      "y": 2,
+      "width": 129,
+      "height": 25
+    },
+    "classList": [
+      "gh-t"
     ],
     "neighborText": [
       "open",
@@ -1889,15 +1892,12 @@
       "daily",
       "deals"
     ],
-    "isButton": false,
-    "location": {
-      "x": 32,
-      "y": 2,
-      "width": 129,
-      "height": 25
-    },
-    "classList": [
-      "gh-t"
+    "visibleText": [
+      "Hi!",
+      "Sign",
+      "in",
+      "or",
+      "register"
     ],
     "widgetId": null
   },
@@ -1907,6 +1907,14 @@
     "idxpath": "//*[@id='gh-minicart-hover']/div[1]/a[1]/*[local-name() = \"svg\"][1]",
     "area": 460,
     "shape": 115,
+    "isButton": false,
+    "location": {
+      "x": 1178,
+      "y": 5,
+      "width": 23,
+      "height": 20
+    },
+    "classList": [],
     "neighborText": [
       "search",
       "advanced",
@@ -1920,14 +1928,6 @@
       "for",
       "details."
     ],
-    "isButton": false,
-    "location": {
-      "x": 1178,
-      "y": 5,
-      "width": 23,
-      "height": 20
-    },
-    "classList": [],
     "visibleText": [],
     "widgetId": null
   },
@@ -1938,16 +1938,6 @@
     "idxpath": "//*[@id='gh-minicart-hover']/div[1]/a[2]",
     "area": 1311,
     "shape": 363,
-    "visibleText": [
-      "Expand",
-      "Cart"
-    ],
-    "neighborText": [
-      "expand",
-      "my",
-      "ebay",
-      "cart"
-    ],
     "isButton": false,
     "location": {
       "x": -8857,
@@ -1960,6 +1950,16 @@
       "gh-acc-a2",
       "gh-control"
     ],
+    "neighborText": [
+      "expand",
+      "my",
+      "ebay",
+      "cart"
+    ],
+    "visibleText": [
+      "Expand",
+      "Cart"
+    ],
     "widgetId": null
   },
   {
@@ -1969,10 +1969,14 @@
     "idxpath": "//*[@id='gh-ug-flex']",
     "area": 756,
     "shape": 385,
-    "visibleText": [
-      "or",
-      "register"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 91,
+      "y": 8,
+      "width": 54,
+      "height": 14
+    },
+    "classList": [],
     "neighborText": [
       "open",
       "expand",
@@ -1989,14 +1993,10 @@
       "daily",
       "deals"
     ],
-    "isButton": false,
-    "location": {
-      "x": 91,
-      "y": 8,
-      "width": 54,
-      "height": 14
-    },
-    "classList": [],
+    "visibleText": [
+      "or",
+      "register"
+    ],
     "widgetId": null
   },
   {
@@ -2006,9 +2006,16 @@
     "idxpath": "//*[@id='gh-p-1']",
     "area": 960,
     "shape": 666,
-    "visibleText": [
-      "Daily",
-      "Deals"
+    "isButton": false,
+    "location": {
+      "x": 161,
+      "y": 9,
+      "width": 80,
+      "height": 12
+    },
+    "classList": [
+      "gh-t",
+      "gh-divider-l"
     ],
     "neighborText": [
       "shop",
@@ -2028,16 +2035,9 @@
       "brand",
       "outlet"
     ],
-    "isButton": false,
-    "location": {
-      "x": 161,
-      "y": 9,
-      "width": 80,
-      "height": 12
-    },
-    "classList": [
-      "gh-t",
-      "gh-divider-l"
+    "visibleText": [
+      "Daily",
+      "Deals"
     ],
     "widgetId": null
   },
@@ -2047,9 +2047,14 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[1]/span[1]",
     "area": 759,
     "shape": 143,
-    "visibleText": [
-      "Home"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 139,
+      "y": 120,
+      "width": 33,
+      "height": 23
+    },
+    "classList": [],
     "neighborText": [
       "shop",
       "by",
@@ -2063,14 +2068,9 @@
       "of",
       "2"
     ],
-    "isButton": false,
-    "location": {
-      "x": 139,
-      "y": 120,
-      "width": 33,
-      "height": 23
-    },
-    "classList": [],
+    "visibleText": [
+      "Home"
+    ],
     "widgetId": null
   },
   {
@@ -2079,34 +2079,6 @@
     "idxpath": "//*[@id='items_list1']/div[1]/div[1]/div[1]/h2[1]",
     "area": 14080,
     "shape": 1375,
-    "visibleText": [
-      "Today's",
-      "Deals",
-      "–",
-      "All",
-      "With",
-      "Free",
-      "Shipping",
-      "-",
-      "Carousel"
-    ],
-    "neighborText": [
-      "today's",
-      "deals",
-      "–",
-      "all",
-      "with",
-      "free",
-      "shipping",
-      "-",
-      "carousel",
-      "see",
-      "showing",
-      "slide",
-      "1",
-      "of",
-      "3"
-    ],
     "isButton": false,
     "location": {
       "x": 32,
@@ -2117,26 +2089,6 @@
     "classList": [
       "hl-card-header__headline"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "A",
-    "href": "http://deals.ebay.com/?_trkparms=pageci%3A4e92e180-3432-11eb-b03c-5ae7509be25d%7Cparentrq%3A20c61e8b1760ad4d0af6d348ffdc04dc%7Ciid%3A1",
-    "xpath": "/html[1]/body[1]/div[5]/div[7]/div[1]/div[1]/div[1]/h2[1]/a[1]",
-    "idxpath": "//*[@id='items_list1']/div[1]/div[1]/div[1]/h2[1]/a[1]",
-    "area": 11880,
-    "shape": 1629,
-    "visibleText": [
-      "Today's",
-      "Deals",
-      "–",
-      "All",
-      "With",
-      "Free",
-      "Shipping",
-      "-",
-      "Carousel"
-    ],
     "neighborText": [
       "today's",
       "deals",
@@ -2154,6 +2106,26 @@
       "of",
       "3"
     ],
+    "visibleText": [
+      "Today's",
+      "Deals",
+      "–",
+      "All",
+      "With",
+      "Free",
+      "Shipping",
+      "-",
+      "Carousel"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://deals.ebay.com/?_trkparms=pageci%3A4e92e180-3432-11eb-b03c-5ae7509be25d%7Cparentrq%3A20c61e8b1760ad4d0af6d348ffdc04dc%7Ciid%3A1",
+    "xpath": "/html[1]/body[1]/div[5]/div[7]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+    "idxpath": "//*[@id='items_list1']/div[1]/div[1]/div[1]/h2[1]/a[1]",
+    "area": 11880,
+    "shape": 1629,
     "isButton": false,
     "location": {
       "x": 32,
@@ -2162,6 +2134,34 @@
       "height": 27
     },
     "classList": [],
+    "neighborText": [
+      "today's",
+      "deals",
+      "–",
+      "all",
+      "with",
+      "free",
+      "shipping",
+      "-",
+      "carousel",
+      "see",
+      "showing",
+      "slide",
+      "1",
+      "of",
+      "3"
+    ],
+    "visibleText": [
+      "Today's",
+      "Deals",
+      "–",
+      "All",
+      "With",
+      "Free",
+      "Shipping",
+      "-",
+      "Carousel"
+    ],
     "widgetId": null
   },
   {
@@ -2171,22 +2171,6 @@
     "idxpath": "//*[@id='carousel-status-s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel']",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Carousel",
-      "showing",
-      "banner",
-      "1",
-      "of",
-      "2"
-    ],
-    "neighborText": [
-      "carousel",
-      "showing",
-      "banner",
-      "1",
-      "of",
-      "2"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -2197,6 +2181,22 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "carousel",
+      "showing",
+      "banner",
+      "1",
+      "of",
+      "2"
+    ],
+    "visibleText": [
+      "Carousel",
+      "showing",
+      "banner",
+      "1",
+      "of",
+      "2"
+    ],
     "widgetId": null
   },
   {
@@ -2205,9 +2205,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[2]",
     "area": 411510,
     "shape": 377,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1247,
@@ -2220,6 +2217,9 @@
       "hl-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -2228,18 +2228,6 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[4]",
     "area": 2312,
     "shape": 200,
-    "visibleText": [
-      "0"
-    ],
-    "neighborText": [
-      "search",
-      "for",
-      "anything",
-      "0",
-      "motors",
-      "fashion",
-      "electronics"
-    ],
     "isButton": false,
     "location": {
       "x": 325,
@@ -2250,6 +2238,18 @@
     "classList": [
       "hl-cat-nav__js-tab"
     ],
+    "neighborText": [
+      "search",
+      "for",
+      "anything",
+      "0",
+      "motors",
+      "fashion",
+      "electronics"
+    ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -2258,14 +2258,14 @@
     "idxpath": "//*[@id='carousel-status-s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel']/span[1]",
     "area": 3152,
     "shape": 1231,
-    "visibleText": [
-      "Carousel",
-      "showing",
-      "banner",
-      "1",
-      "of",
-      "2"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 0,
+      "y": 144,
+      "width": 197,
+      "height": 16
+    },
+    "classList": [],
     "neighborText": [
       "home",
       "saved",
@@ -2276,14 +2276,14 @@
       "of",
       "2"
     ],
-    "isButton": false,
-    "location": {
-      "x": 0,
-      "y": 144,
-      "width": 197,
-      "height": 16
-    },
-    "classList": [],
+    "visibleText": [
+      "Carousel",
+      "showing",
+      "banner",
+      "1",
+      "of",
+      "2"
+    ],
     "widgetId": null
   },
   {
@@ -2292,9 +2292,15 @@
     "idxpath": "//*[@id='items_list1']/div[1]/div[1]/div[1]/h2[1]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "-",
-      "Carousel"
+    "isButton": false,
+    "location": {
+      "x": 472,
+      "y": 1000,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "clipped"
     ],
     "neighborText": [
       "today's",
@@ -2308,15 +2314,9 @@
       "carousel",
       "see"
     ],
-    "isButton": false,
-    "location": {
-      "x": 472,
-      "y": 1000,
-      "width": 1,
-      "height": 1
-    },
-    "classList": [
-      "clipped"
+    "visibleText": [
+      "-",
+      "Carousel"
     ],
     "widgetId": null
   },
@@ -2326,6 +2326,17 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-container']/button[1]",
     "area": 1024,
     "shape": 100,
+    "isButton": true,
+    "location": {
+      "x": 8,
+      "y": 301,
+      "width": 32,
+      "height": 32
+    },
+    "classList": [
+      "carousel__control",
+      "carousel__control--prev"
+    ],
     "neighborText": [
       "certified",
       "refurbished",
@@ -2340,17 +2351,6 @@
       "up",
       "-"
     ],
-    "isButton": true,
-    "location": {
-      "x": 8,
-      "y": 301,
-      "width": 32,
-      "height": 32
-    },
-    "classList": [
-      "carousel__control",
-      "carousel__control--prev"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -2361,12 +2361,14 @@
     "idxpath": "//*[@id='rtm_list2']/div[2]/div[1]/a[1]",
     "area": 2465,
     "shape": 852,
-    "visibleText": [
-      "Read",
-      "more",
-      "Read",
-      "more"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 572,
+      "width": 145,
+      "height": 17
+    },
+    "classList": [],
     "neighborText": [
       "a",
       "message",
@@ -2378,14 +2380,12 @@
       "read",
       "more"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1053,
-      "y": 572,
-      "width": 145,
-      "height": 17
-    },
-    "classList": [],
+    "visibleText": [
+      "Read",
+      "more",
+      "Read",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -2394,9 +2394,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[4]",
     "area": 28875,
     "shape": 94,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 540,
@@ -2418,6 +2415,9 @@
       "Power",
       "tools"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -2427,10 +2427,14 @@
     "idxpath": "//*[@id='items_list1']/div[1]/div[1]/div[2]/a[1]",
     "area": 2310,
     "shape": 523,
-    "visibleText": [
-      "See",
-      "all"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 492,
+      "y": 1007,
+      "width": 110,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "today's",
       "deals",
@@ -2448,14 +2452,10 @@
       "of",
       "3"
     ],
-    "isButton": false,
-    "location": {
-      "x": 492,
-      "y": 1007,
-      "width": 110,
-      "height": 21
-    },
-    "classList": [],
+    "visibleText": [
+      "See",
+      "all"
+    ],
     "widgetId": null
   },
   {
@@ -2464,8 +2464,15 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[5]",
     "area": 2856,
     "shape": 247,
-    "visibleText": [
-      "0"
+    "isButton": false,
+    "location": {
+      "x": 394,
+      "y": 110,
+      "width": 84,
+      "height": 34
+    },
+    "classList": [
+      "hl-cat-nav__js-tab"
     ],
     "neighborText": [
       "search",
@@ -2478,15 +2485,8 @@
       "&",
       "art"
     ],
-    "isButton": false,
-    "location": {
-      "x": 394,
-      "y": 110,
-      "width": 84,
-      "height": 34
-    },
-    "classList": [
-      "hl-cat-nav__js-tab"
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -2496,14 +2496,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[2]/a[1]/h3[1]",
     "area": 2736,
     "shape": 757,
-    "visibleText": [
-      "Headphones"
-    ],
-    "neighborText": [
-      "laptops",
-      "power",
-      "tools"
-    ],
     "isButton": false,
     "location": {
       "x": 220,
@@ -2514,6 +2506,14 @@
     "classList": [
       "hl-popular-destinations-name"
     ],
+    "neighborText": [
+      "laptops",
+      "power",
+      "tools"
+    ],
+    "visibleText": [
+      "Headphones"
+    ],
     "widgetId": null
   },
   {
@@ -2522,9 +2522,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[1]",
     "area": 411510,
     "shape": 377,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -2539,6 +2536,9 @@
     "neighborText": [
       "Home"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -2547,10 +2547,6 @@
     "idxpath": "//*[@id='items_list1']/div[1]/div[1]/div[2]/a[1]/*[local-name() = \"svg\"][1]",
     "area": 462,
     "shape": 104,
-    "neighborText": [
-      "see",
-      "all"
-    ],
     "isButton": false,
     "location": {
       "x": 580,
@@ -2559,6 +2555,10 @@
       "height": 21
     },
     "classList": [],
+    "neighborText": [
+      "see",
+      "all"
+    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -2568,17 +2568,6 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[5]/div[1]/button[1]",
     "area": 1800,
     "shape": 555,
-    "visibleText": [
-      "Expand:",
-      "Electronics"
-    ],
-    "neighborText": [
-      "expand:",
-      "fashion",
-      "collectibles",
-      "&",
-      "art"
-    ],
     "isButton": true,
     "location": {
       "x": 407,
@@ -2587,6 +2576,17 @@
       "height": 18
     },
     "classList": [],
+    "neighborText": [
+      "expand:",
+      "fashion",
+      "collectibles",
+      "&",
+      "art"
+    ],
+    "visibleText": [
+      "Expand:",
+      "Electronics"
+    ],
     "widgetId": null
   },
   {
@@ -2595,8 +2595,15 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[6]",
     "area": 3944,
     "shape": 341,
-    "visibleText": [
-      "0"
+    "isButton": false,
+    "location": {
+      "x": 478,
+      "y": 110,
+      "width": 116,
+      "height": 34
+    },
+    "classList": [
+      "hl-cat-nav__js-tab"
     ],
     "neighborText": [
       "search",
@@ -2610,15 +2617,8 @@
       "home",
       "garden"
     ],
-    "isButton": false,
-    "location": {
-      "x": 478,
-      "y": 110,
-      "width": 116,
-      "height": 34
-    },
-    "classList": [
-      "hl-cat-nav__js-tab"
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -2628,15 +2628,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[4]/a[1]/h3[1]",
     "area": 2736,
     "shape": 757,
-    "visibleText": [
-      "Kitchen",
-      "essentials"
-    ],
-    "neighborText": [
-      "power",
-      "tools",
-      "vacuums"
-    ],
     "isButton": false,
     "location": {
       "x": 551,
@@ -2647,6 +2638,15 @@
     "classList": [
       "hl-popular-destinations-name"
     ],
+    "neighborText": [
+      "power",
+      "tools",
+      "vacuums"
+    ],
+    "visibleText": [
+      "Kitchen",
+      "essentials"
+    ],
     "widgetId": null
   },
   {
@@ -2655,9 +2655,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[6]",
     "area": 28875,
     "shape": 94,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 706,
@@ -2671,6 +2668,9 @@
     "neighborText": [
       "Kitchen",
       "essentials"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -2701,14 +2701,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[1]/div[1]/div[1]/div[1]/h2[1]",
     "area": 40320,
     "shape": 205,
-    "visibleText": [
-      "The",
-      "perfect",
-      "gift.",
-      "The",
-      "perfect",
-      "price."
-    ],
     "isButton": false,
     "location": {
       "x": 32,
@@ -2728,6 +2720,14 @@
       "two-year",
       "warranty."
     ],
+    "visibleText": [
+      "The",
+      "perfect",
+      "gift.",
+      "The",
+      "perfect",
+      "price."
+    ],
     "widgetId": null
   },
   {
@@ -2736,13 +2736,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[2]/div[1]/a[1]/div[2]/div[1]/div[1]/h2[1]",
     "area": 40320,
     "shape": 205,
-    "visibleText": [
-      "Kick",
-      "back",
-      "in",
-      "adidas",
-      "essentials"
-    ],
     "isButton": false,
     "location": {
       "x": 1279,
@@ -2760,6 +2753,13 @@
       "great",
       "prices."
     ],
+    "visibleText": [
+      "Kick",
+      "back",
+      "in",
+      "adidas",
+      "essentials"
+    ],
     "widgetId": null
   },
   {
@@ -2768,22 +2768,6 @@
     "idxpath": "//*[@id='destinations_list1']/div[1]/div[1]/div[1]/h2[1]",
     "area": 14080,
     "shape": 1375,
-    "visibleText": [
-      "Great",
-      "gifts",
-      "come",
-      "Certified",
-      "Refurbished"
-    ],
-    "neighborText": [
-      "great",
-      "gifts",
-      "come",
-      "certified",
-      "refurbished",
-      "see",
-      "all"
-    ],
     "isButton": false,
     "location": {
       "x": 32,
@@ -2794,22 +2778,6 @@
     "classList": [
       "hl-card-header__headline"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "A",
-    "href": "https://www.ebay.com/b/Certified-Refurbished/bn_7040708936?_trkparms=pageci%3A4e92e180-3432-11eb-b03c-5ae7509be25d%7Cparentrq%3A20c61e8b1760ad4d0af6d348ffdc04dc%7Ciid%3A1",
-    "xpath": "/html[1]/body[1]/div[5]/div[5]/div[1]/div[1]/div[1]/h2[1]/a[1]",
-    "idxpath": "//*[@id='destinations_list1']/div[1]/div[1]/div[1]/h2[1]/a[1]",
-    "area": 11880,
-    "shape": 1629,
-    "visibleText": [
-      "Great",
-      "gifts",
-      "come",
-      "Certified",
-      "Refurbished"
-    ],
     "neighborText": [
       "great",
       "gifts",
@@ -2819,6 +2787,22 @@
       "see",
       "all"
     ],
+    "visibleText": [
+      "Great",
+      "gifts",
+      "come",
+      "Certified",
+      "Refurbished"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.ebay.com/b/Certified-Refurbished/bn_7040708936?_trkparms=pageci%3A4e92e180-3432-11eb-b03c-5ae7509be25d%7Cparentrq%3A20c61e8b1760ad4d0af6d348ffdc04dc%7Ciid%3A1",
+    "xpath": "/html[1]/body[1]/div[5]/div[5]/div[1]/div[1]/div[1]/h2[1]/a[1]",
+    "idxpath": "//*[@id='destinations_list1']/div[1]/div[1]/div[1]/h2[1]/a[1]",
+    "area": 11880,
+    "shape": 1629,
     "isButton": false,
     "location": {
       "x": 32,
@@ -2827,6 +2811,22 @@
       "height": 27
     },
     "classList": [],
+    "neighborText": [
+      "great",
+      "gifts",
+      "come",
+      "certified",
+      "refurbished",
+      "see",
+      "all"
+    ],
+    "visibleText": [
+      "Great",
+      "gifts",
+      "come",
+      "Certified",
+      "Refurbished"
+    ],
     "widgetId": null
   },
   {
@@ -2835,8 +2835,15 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[8]",
     "area": 3706,
     "shape": 320,
-    "visibleText": [
-      "0"
+    "isButton": false,
+    "location": {
+      "x": 708,
+      "y": 110,
+      "width": 109,
+      "height": 34
+    },
+    "classList": [
+      "hl-cat-nav__js-tab"
     ],
     "neighborText": [
       "search",
@@ -2850,15 +2857,8 @@
       "goods",
       "toys"
     ],
-    "isButton": false,
-    "location": {
-      "x": 708,
-      "y": 110,
-      "width": 109,
-      "height": 34
-    },
-    "classList": [
-      "hl-cat-nav__js-tab"
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -2868,13 +2868,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[2]/div[1]/a[1]/div[2]/div[1]/div[1]/h2[1]/div[1]/span[1]",
     "area": 28140,
     "shape": 156,
-    "visibleText": [
-      "Kick",
-      "back",
-      "in",
-      "adidas",
-      "essentials"
-    ],
     "isButton": false,
     "location": {
       "x": 1279,
@@ -2892,6 +2885,13 @@
       "great",
       "prices."
     ],
+    "visibleText": [
+      "Kick",
+      "back",
+      "in",
+      "adidas",
+      "essentials"
+    ],
     "widgetId": null
   },
   {
@@ -2900,14 +2900,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[6]/a[1]/h3[1]",
     "area": 2736,
     "shape": 757,
-    "visibleText": [
-      "Vacuums"
-    ],
-    "neighborText": [
-      "kitchen",
-      "essentials",
-      "speakers"
-    ],
     "isButton": false,
     "location": {
       "x": 716,
@@ -2918,6 +2910,14 @@
     "classList": [
       "hl-popular-destinations-name"
     ],
+    "neighborText": [
+      "kitchen",
+      "essentials",
+      "speakers"
+    ],
+    "visibleText": [
+      "Vacuums"
+    ],
     "widgetId": null
   },
   {
@@ -2926,14 +2926,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[1]/div[1]/div[1]/div[1]/h2[1]/a[1]/div[1]/span[1]",
     "area": 36180,
     "shape": 201,
-    "visibleText": [
-      "The",
-      "perfect",
-      "gift.",
-      "The",
-      "perfect",
-      "price."
-    ],
     "isButton": false,
     "location": {
       "x": 32,
@@ -2958,6 +2950,14 @@
       "two-year",
       "warranty."
     ],
+    "visibleText": [
+      "The",
+      "perfect",
+      "gift.",
+      "The",
+      "perfect",
+      "price."
+    ],
     "widgetId": null
   },
   {
@@ -2967,15 +2967,14 @@
     "idxpath": "//*[@id='destinations_list1']/div[1]/div[1]/div[2]/a[1]",
     "area": 2310,
     "shape": 523,
-    "visibleText": [
-      "See",
-      "all",
-      "Great",
-      "gifts",
-      "come",
-      "Certified",
-      "Refurbished"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 492,
+      "y": 693,
+      "width": 110,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "great",
       "gifts",
@@ -2985,14 +2984,15 @@
       "see",
       "all"
     ],
-    "isButton": false,
-    "location": {
-      "x": 492,
-      "y": 693,
-      "width": 110,
-      "height": 21
-    },
-    "classList": [],
+    "visibleText": [
+      "See",
+      "all",
+      "Great",
+      "gifts",
+      "come",
+      "Certified",
+      "Refurbished"
+    ],
     "widgetId": null
   },
   {
@@ -3001,9 +3001,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[7]",
     "area": 28875,
     "shape": 94,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 871,
@@ -3016,6 +3013,9 @@
     ],
     "neighborText": [
       "Vacuums"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -3046,8 +3046,15 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[9]",
     "area": 1700,
     "shape": 147,
-    "visibleText": [
-      "0"
+    "isButton": false,
+    "location": {
+      "x": 817,
+      "y": 110,
+      "width": 50,
+      "height": 34
+    },
+    "classList": [
+      "hl-cat-nav__js-tab"
     ],
     "neighborText": [
       "search",
@@ -3061,15 +3068,8 @@
       "&",
       "industrial"
     ],
-    "isButton": false,
-    "location": {
-      "x": 817,
-      "y": 110,
-      "width": 50,
-      "height": 34
-    },
-    "classList": [
-      "hl-cat-nav__js-tab"
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -3079,22 +3079,6 @@
     "idxpath": "//*[@id='destinations_list1']/div[1]/div[1]/div[2]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Great",
-      "gifts",
-      "come",
-      "Certified",
-      "Refurbished"
-    ],
-    "neighborText": [
-      "see",
-      "all",
-      "great",
-      "gifts",
-      "come",
-      "certified",
-      "refurbished"
-    ],
     "isButton": false,
     "location": {
       "x": 572,
@@ -3105,14 +3089,6 @@
     "classList": [
       "clipped"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "svg",
-    "xpath": "/html[1]/body[1]/div[5]/div[5]/div[1]/div[1]/div[2]/a[1]/*[local-name() = \"svg\"][1]",
-    "idxpath": "//*[@id='destinations_list1']/div[1]/div[1]/div[2]/a[1]/*[local-name() = \"svg\"][1]",
-    "area": 462,
-    "shape": 104,
     "neighborText": [
       "see",
       "all",
@@ -3122,6 +3098,21 @@
       "certified",
       "refurbished"
     ],
+    "visibleText": [
+      "Great",
+      "gifts",
+      "come",
+      "Certified",
+      "Refurbished"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "svg",
+    "xpath": "/html[1]/body[1]/div[5]/div[5]/div[1]/div[1]/div[2]/a[1]/*[local-name() = \"svg\"][1]",
+    "idxpath": "//*[@id='destinations_list1']/div[1]/div[1]/div[2]/a[1]/*[local-name() = \"svg\"][1]",
+    "area": 462,
+    "shape": 104,
     "isButton": false,
     "location": {
       "x": 580,
@@ -3130,6 +3121,15 @@
       "height": 21
     },
     "classList": [],
+    "neighborText": [
+      "see",
+      "all",
+      "great",
+      "gifts",
+      "come",
+      "certified",
+      "refurbished"
+    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -3139,9 +3139,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[3]",
     "area": 28875,
     "shape": 94,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 375,
@@ -3167,6 +3164,9 @@
       "Refurbished",
       "Headphones"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -3175,16 +3175,14 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]",
     "area": 11439,
     "shape": 680,
-    "visibleText": [
-      "Certified",
-      "Refurbished",
-      "top",
-      "brands",
-      "with",
-      "a",
-      "two-year",
-      "warranty."
-    ],
+    "isButton": false,
+    "location": {
+      "x": 32,
+      "y": 309,
+      "width": 279,
+      "height": 41
+    },
+    "classList": [],
     "neighborText": [
       "wrap",
       "it",
@@ -3199,14 +3197,16 @@
       "two-year",
       "warranty."
     ],
-    "isButton": false,
-    "location": {
-      "x": 32,
-      "y": 309,
-      "width": 279,
-      "height": 41
-    },
-    "classList": [],
+    "visibleText": [
+      "Certified",
+      "Refurbished",
+      "top",
+      "brands",
+      "with",
+      "a",
+      "two-year",
+      "warranty."
+    ],
     "widgetId": null
   },
   {
@@ -3215,9 +3215,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[1]",
     "area": 28875,
     "shape": 94,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 45,
@@ -3234,6 +3231,9 @@
       "come",
       "Certified",
       "Refurbished"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -3270,16 +3270,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[7]/a[1]/h3[1]",
     "area": 2736,
     "shape": 757,
-    "visibleText": [
-      "Speakers"
-    ],
-    "neighborText": [
-      "vacuums",
-      "learn",
-      "more",
-      "about",
-      "like-new"
-    ],
     "isButton": false,
     "location": {
       "x": 881,
@@ -3290,6 +3280,16 @@
     "classList": [
       "hl-popular-destinations-name"
     ],
+    "neighborText": [
+      "vacuums",
+      "learn",
+      "more",
+      "about",
+      "like-new"
+    ],
+    "visibleText": [
+      "Speakers"
+    ],
     "widgetId": null
   },
   {
@@ -3299,6 +3299,28 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
     "area": 6811,
     "shape": 283,
+    "isButton": false,
+    "location": {
+      "x": 32,
+      "y": 376,
+      "width": 139,
+      "height": 49
+    },
+    "classList": [],
+    "neighborText": [
+      "certified",
+      "refurbished",
+      "top",
+      "brands",
+      "with",
+      "a",
+      "two-year",
+      "warranty.",
+      "wrap",
+      "it",
+      "up",
+      "-"
+    ],
     "visibleText": [
       "Wrap",
       "it",
@@ -3316,28 +3338,6 @@
       "two-year",
       "warranty."
     ],
-    "neighborText": [
-      "certified",
-      "refurbished",
-      "top",
-      "brands",
-      "with",
-      "a",
-      "two-year",
-      "warranty.",
-      "wrap",
-      "it",
-      "up",
-      "-"
-    ],
-    "isButton": false,
-    "location": {
-      "x": 32,
-      "y": 376,
-      "width": 139,
-      "height": 49
-    },
-    "classList": [],
     "widgetId": null
   },
   {
@@ -3346,6 +3346,14 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[2]/div[1]/a[1]/div[2]/div[1]/div[1]/div[2]/div[2]/*[local-name() = \"svg\"][1]",
     "area": 462,
     "shape": 104,
+    "isButton": false,
+    "location": {
+      "x": 1403,
+      "y": 386,
+      "width": 22,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "fresh",
       "sneakers",
@@ -3355,14 +3363,6 @@
       "great",
       "prices."
     ],
-    "isButton": false,
-    "location": {
-      "x": 1403,
-      "y": 386,
-      "width": 22,
-      "height": 21
-    },
-    "classList": [],
     "visibleText": [],
     "widgetId": null
   },
@@ -3372,9 +3372,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[8]",
     "area": 32010,
     "shape": 85,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1036,
@@ -3387,6 +3384,9 @@
     ],
     "neighborText": [
       "Speakers"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -3453,6 +3453,14 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[1]/div[1]/div[1]/div[1]/div[2]/a[1]/div[2]/*[local-name() = \"svg\"][1]",
     "area": 462,
     "shape": 104,
+    "isButton": false,
+    "location": {
+      "x": 131,
+      "y": 386,
+      "width": 22,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "certified",
       "refurbished",
@@ -3467,14 +3475,6 @@
       "up",
       "-"
     ],
-    "isButton": false,
-    "location": {
-      "x": 131,
-      "y": 386,
-      "width": 22,
-      "height": 21
-    },
-    "classList": [],
     "visibleText": [],
     "widgetId": null
   },
@@ -3484,12 +3484,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[1]/a[1]/h3[1]",
     "area": 2736,
     "shape": 757,
-    "visibleText": [
-      "Laptops"
-    ],
-    "neighborText": [
-      "headphones"
-    ],
     "isButton": false,
     "location": {
       "x": 55,
@@ -3500,6 +3494,12 @@
     "classList": [
       "hl-popular-destinations-name"
     ],
+    "neighborText": [
+      "headphones"
+    ],
+    "visibleText": [
+      "Laptops"
+    ],
     "widgetId": null
   },
   {
@@ -3508,6 +3508,30 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[0]-2-match-media-0-ebay-carousel-list']/li[1]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
+    "isButton": false,
+    "location": {
+      "x": 171,
+      "y": 376,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "clipped"
+    ],
+    "neighborText": [
+      "certified",
+      "refurbished",
+      "top",
+      "brands",
+      "with",
+      "a",
+      "two-year",
+      "warranty.",
+      "wrap",
+      "it",
+      "up",
+      "-"
+    ],
     "visibleText": [
       "-",
       "Certified",
@@ -3519,30 +3543,6 @@
       "two-year",
       "warranty."
     ],
-    "neighborText": [
-      "certified",
-      "refurbished",
-      "top",
-      "brands",
-      "with",
-      "a",
-      "two-year",
-      "warranty.",
-      "wrap",
-      "it",
-      "up",
-      "-"
-    ],
-    "isButton": false,
-    "location": {
-      "x": 171,
-      "y": 376,
-      "width": 1,
-      "height": 1
-    },
-    "classList": [
-      "clipped"
-    ],
     "widgetId": null
   },
   {
@@ -3551,17 +3551,6 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[11]/div[1]/button[1]",
     "area": 1386,
     "shape": 427,
-    "visibleText": [
-      "Expand:",
-      "Music"
-    ],
-    "neighborText": [
-      "expand:",
-      "business",
-      "&",
-      "industrial",
-      "deals"
-    ],
     "isButton": true,
     "location": {
       "x": 1019,
@@ -3570,6 +3559,17 @@
       "height": 18
     },
     "classList": [],
+    "neighborText": [
+      "expand:",
+      "business",
+      "&",
+      "industrial",
+      "deals"
+    ],
+    "visibleText": [
+      "Expand:",
+      "Music"
+    ],
     "widgetId": null
   },
   {
@@ -3578,9 +3578,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[2]",
     "area": 28875,
     "shape": 94,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 210,
@@ -3598,6 +3595,9 @@
       "Certified",
       "Refurbished",
       "Laptops"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -3668,15 +3668,6 @@
     "idxpath": "//*[@id='destinations_list1']/ul[1]/li[8]/a[1]/h3[1]",
     "area": 5472,
     "shape": 378,
-    "visibleText": [
-      "Learn",
-      "more",
-      "about",
-      "like-new"
-    ],
-    "neighborText": [
-      "speakers"
-    ],
     "isButton": false,
     "location": {
       "x": 1047,
@@ -3687,6 +3678,15 @@
     "classList": [
       "hl-popular-destinations-name"
     ],
+    "neighborText": [
+      "speakers"
+    ],
+    "visibleText": [
+      "Learn",
+      "more",
+      "about",
+      "like-new"
+    ],
     "widgetId": null
   },
   {
@@ -3695,17 +3695,6 @@
     "idxpath": "//*[@id='mainContent']/div[1]/ul[1]/li[12]/div[1]/button[1]",
     "area": 1386,
     "shape": 427,
-    "visibleText": [
-      "Expand:",
-      "Deals"
-    ],
-    "neighborText": [
-      "expand:",
-      "business",
-      "&",
-      "industrial",
-      "music"
-    ],
     "isButton": true,
     "location": {
       "x": 1041,
@@ -3714,6 +3703,17 @@
       "height": 18
     },
     "classList": [],
+    "neighborText": [
+      "expand:",
+      "business",
+      "&",
+      "industrial",
+      "music"
+    ],
+    "visibleText": [
+      "Expand:",
+      "Deals"
+    ],
     "widgetId": null
   },
   {
@@ -3723,15 +3723,6 @@
     "idxpath": "//*[@id='rtm_list2']/div[1]/div[1]/div[1]/a[1]",
     "area": 32637,
     "shape": 2996,
-    "visibleText": [
-      "A",
-      "message",
-      "to",
-      "our",
-      "community",
-      "about",
-      "COVID-19"
-    ],
     "isButton": false,
     "location": {
       "x": 48,
@@ -3751,6 +3742,15 @@
       "unprecedented",
       "situation."
     ],
+    "visibleText": [
+      "A",
+      "message",
+      "to",
+      "our",
+      "community",
+      "about",
+      "COVID-19"
+    ],
     "widgetId": null
   },
   {
@@ -3759,16 +3759,6 @@
     "idxpath": "//*[@id='rtm_list3']/div[1]/div[1]/h2[1]/a[1]/div[1]/span[1]",
     "area": 36448,
     "shape": 202,
-    "visibleText": [
-      "Need",
-      "an",
-      "excuse",
-      "to",
-      "make",
-      "some",
-      "extra",
-      "cash?"
-    ],
     "isButton": false,
     "location": {
       "x": 32,
@@ -3792,6 +3782,16 @@
       "your",
       "back."
     ],
+    "visibleText": [
+      "Need",
+      "an",
+      "excuse",
+      "to",
+      "make",
+      "some",
+      "extra",
+      "cash?"
+    ],
     "widgetId": null
   },
   {
@@ -3800,19 +3800,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[7]/a[1]/div[3]/span[1]",
     "area": 504,
     "shape": 257,
-    "visibleText": [
-      "Previous",
-      "Price:",
-      "$99.95"
-    ],
-    "neighborText": [
-      "$39.99",
-      "previous",
-      "price:",
-      "·",
-      "60%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 1344,
@@ -3823,6 +3810,19 @@
     "classList": [
       "hl-item__additionalPrice"
     ],
+    "neighborText": [
+      "$39.99",
+      "previous",
+      "price:",
+      "·",
+      "60%",
+      "off"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:",
+      "$99.95"
+    ],
     "widgetId": null
   },
   {
@@ -3831,6 +3831,19 @@
     "idxpath": "//*[@id='rtm_list3']/div[1]/div[1]/div[1]/div[1]/span[1]",
     "area": 17640,
     "shape": 444,
+    "isButton": false,
+    "location": {
+      "x": 32,
+      "y": 1552,
+      "width": 280,
+      "height": 63
+    },
+    "classList": [],
+    "neighborText": [
+      "learn",
+      "more",
+      "-"
+    ],
     "visibleText": [
       "Access",
       "millions",
@@ -3846,19 +3859,6 @@
       "your",
       "back."
     ],
-    "neighborText": [
-      "learn",
-      "more",
-      "-"
-    ],
-    "isButton": false,
-    "location": {
-      "x": 32,
-      "y": 1552,
-      "width": 280,
-      "height": 63
-    },
-    "classList": [],
     "widgetId": null
   },
   {
@@ -3867,17 +3867,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[7]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "60%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$39.99",
-      "previous",
-      "price:",
-      "$99.95",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 1405,
@@ -3888,6 +3877,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$39.99",
+      "previous",
+      "price:",
+      "$99.95",
+      "·"
+    ],
+    "visibleText": [
+      "60%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -3896,8 +3896,15 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[13]/a[1]/div[2]/span[1]",
     "area": 3546,
     "shape": 1094,
-    "visibleText": [
-      "$140.99"
+    "isButton": false,
+    "location": {
+      "x": 2652,
+      "y": 1273,
+      "width": 197,
+      "height": 18
+    },
+    "classList": [
+      "hl-item__displayPrice"
     ],
     "neighborText": [
       "$304.95",
@@ -3910,15 +3917,8 @@
       "$49.96",
       "$395.00"
     ],
-    "isButton": false,
-    "location": {
-      "x": 2652,
-      "y": 1273,
-      "width": 197,
-      "height": 18
-    },
-    "classList": [
-      "hl-item__displayPrice"
+    "visibleText": [
+      "$140.99"
     ],
     "widgetId": null
   },
@@ -3928,17 +3928,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[10]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$129.95",
-      "$199.99",
-      "previous",
-      "price:",
-      "$329.99"
-    ],
     "isButton": false,
     "location": {
       "x": 1998,
@@ -3949,6 +3938,17 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "$129.95",
+      "$199.99",
+      "previous",
+      "price:",
+      "$329.99"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
+    ],
     "widgetId": null
   },
   {
@@ -3957,9 +3957,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[8]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1558,
@@ -3972,6 +3969,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -3981,15 +3981,14 @@
     "idxpath": "//*[@id='rtm_list3']/div[1]/div[1]/div[2]/a[1]",
     "area": 7252,
     "shape": 302,
-    "visibleText": [
-      "Learn",
-      "more",
-      "Learn",
-      "more",
-      "-",
-      "Learn",
-      "more"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 32,
+      "y": 1619,
+      "width": 148,
+      "height": 49
+    },
+    "classList": [],
     "neighborText": [
       "access",
       "millions",
@@ -4007,14 +4006,15 @@
       "learn",
       "more"
     ],
-    "isButton": false,
-    "location": {
-      "x": 32,
-      "y": 1619,
-      "width": 148,
-      "height": 49
-    },
-    "classList": [],
+    "visibleText": [
+      "Learn",
+      "more",
+      "Learn",
+      "more",
+      "-",
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -4044,9 +4044,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[13]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 2648,
@@ -4059,6 +4056,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -4067,17 +4067,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[10]/a[1]/div[3]/span[2]",
     "area": 64,
     "shape": 25,
-    "visibleText": [
-      "·"
-    ],
-    "neighborText": [
-      "$199.99",
-      "previous",
-      "price:",
-      "$329.99",
-      "39%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2051,
@@ -4088,6 +4077,17 @@
     "classList": [
       "hl-item__separator"
     ],
+    "neighborText": [
+      "$199.99",
+      "previous",
+      "price:",
+      "$329.99",
+      "39%",
+      "off"
+    ],
+    "visibleText": [
+      "·"
+    ],
     "widgetId": null
   },
   {
@@ -4096,20 +4096,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[13]/a[1]/div[3]/span[1]",
     "area": 602,
     "shape": 307,
-    "visibleText": [
-      "Previous",
-      "Price:",
-      "$575.00"
-    ],
-    "neighborText": [
-      "$304.95",
-      "$140.99",
-      "previous",
-      "price:",
-      "·",
-      "75%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2652,
@@ -4120,6 +4106,20 @@
     "classList": [
       "hl-item__additionalPrice"
     ],
+    "neighborText": [
+      "$304.95",
+      "$140.99",
+      "previous",
+      "price:",
+      "·",
+      "75%",
+      "off"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:",
+      "$575.00"
+    ],
     "widgetId": null
   },
   {
@@ -4128,17 +4128,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[10]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "39%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$199.99",
-      "previous",
-      "price:",
-      "$329.99",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 2066,
@@ -4149,6 +4138,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$199.99",
+      "previous",
+      "price:",
+      "$329.99",
+      "·"
+    ],
+    "visibleText": [
+      "39%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -4157,6 +4157,14 @@
     "idxpath": "//*[@id='rtm_list3']/div[1]/div[1]/div[2]/a[1]/div[2]/*[local-name() = \"svg\"][1]",
     "area": 462,
     "shape": 104,
+    "isButton": false,
+    "location": {
+      "x": 140,
+      "y": 1630,
+      "width": 22,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "access",
       "millions",
@@ -4174,14 +4182,6 @@
       "learn",
       "more"
     ],
-    "isButton": false,
-    "location": {
-      "x": 140,
-      "y": 1630,
-      "width": 22,
-      "height": 21
-    },
-    "classList": [],
     "visibleText": [],
     "widgetId": null
   },
@@ -4191,17 +4191,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[13]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$304.95",
-      "$140.99",
-      "previous",
-      "price:",
-      "$575.00"
-    ],
     "isButton": false,
     "location": {
       "x": 2652,
@@ -4212,6 +4201,17 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "$304.95",
+      "$140.99",
+      "previous",
+      "price:",
+      "$575.00"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
+    ],
     "widgetId": null
   },
   {
@@ -4220,9 +4220,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[11]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 2212,
@@ -4236,6 +4233,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -4244,10 +4244,15 @@
     "idxpath": "//*[@id='rtm_list3']/div[1]/div[1]/div[2]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "-",
-      "Learn",
-      "more"
+    "isButton": false,
+    "location": {
+      "x": 180,
+      "y": 1619,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "clipped"
     ],
     "neighborText": [
       "access",
@@ -4266,15 +4271,10 @@
       "learn",
       "more"
     ],
-    "isButton": false,
-    "location": {
-      "x": 180,
-      "y": 1619,
-      "width": 1,
-      "height": 1
-    },
-    "classList": [
-      "clipped"
+    "visibleText": [
+      "-",
+      "Learn",
+      "more"
     ],
     "widgetId": null
   },
@@ -4341,9 +4341,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[3]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 468,
@@ -4372,6 +4369,9 @@
       "Shipping",
       "See",
       "all"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -4419,17 +4419,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[13]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "75%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$140.99",
-      "previous",
-      "price:",
-      "$575.00",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 2720,
@@ -4440,6 +4429,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$140.99",
+      "previous",
+      "price:",
+      "$575.00",
+      "·"
+    ],
+    "visibleText": [
+      "75%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -4448,20 +4448,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[8]/a[1]/div[3]/span[1]",
     "area": 504,
     "shape": 257,
-    "visibleText": [
-      "Previous",
-      "Price:",
-      "$55.00"
-    ],
-    "neighborText": [
-      "$39.99",
-      "$20.00",
-      "previous",
-      "price:",
-      "·",
-      "64%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 1562,
@@ -4472,6 +4458,20 @@
     "classList": [
       "hl-item__additionalPrice"
     ],
+    "neighborText": [
+      "$39.99",
+      "$20.00",
+      "previous",
+      "price:",
+      "·",
+      "64%",
+      "off"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:",
+      "$55.00"
+    ],
     "widgetId": null
   },
   {
@@ -4480,9 +4480,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[14]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 2866,
@@ -4495,6 +4492,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -4545,18 +4545,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[8]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$39.99",
-      "$20.00",
-      "previous",
-      "price:",
-      "$55.00",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 1562,
@@ -4567,6 +4555,18 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "$39.99",
+      "$20.00",
+      "previous",
+      "price:",
+      "$55.00",
+      "·"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
+    ],
     "widgetId": null
   },
   {
@@ -4575,9 +4575,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[6]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1122,
@@ -4591,6 +4588,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -4620,17 +4620,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[8]/a[1]/div[3]/span[2]",
     "area": 64,
     "shape": 25,
-    "visibleText": [
-      "·"
-    ],
-    "neighborText": [
-      "$20.00",
-      "previous",
-      "price:",
-      "$55.00",
-      "64%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 1608,
@@ -4641,6 +4630,17 @@
     "classList": [
       "hl-item__separator"
     ],
+    "neighborText": [
+      "$20.00",
+      "previous",
+      "price:",
+      "$55.00",
+      "64%",
+      "off"
+    ],
+    "visibleText": [
+      "·"
+    ],
     "widgetId": null
   },
   {
@@ -4649,20 +4649,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[11]/a[1]/div[3]/span[1]",
     "area": 602,
     "shape": 307,
-    "visibleText": [
-      "Previous",
-      "Price:",
-      "$139.99"
-    ],
-    "neighborText": [
-      "$199.99",
-      "$89.99",
-      "previous",
-      "price:",
-      "·",
-      "36%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2216,
@@ -4673,6 +4659,20 @@
     "classList": [
       "hl-item__additionalPrice"
     ],
+    "neighborText": [
+      "$199.99",
+      "$89.99",
+      "previous",
+      "price:",
+      "·",
+      "36%",
+      "off"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:",
+      "$139.99"
+    ],
     "widgetId": null
   },
   {
@@ -4681,17 +4681,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[7]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$39.99",
-      "previous",
-      "price:",
-      "$99.95",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 1344,
@@ -4702,6 +4691,17 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "$39.99",
+      "previous",
+      "price:",
+      "$99.95",
+      "·"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
+    ],
     "widgetId": null
   },
   {
@@ -4710,17 +4710,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[8]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "64%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$20.00",
-      "previous",
-      "price:",
-      "$55.00",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 1623,
@@ -4731,6 +4720,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$20.00",
+      "previous",
+      "price:",
+      "$55.00",
+      "·"
+    ],
+    "visibleText": [
+      "64%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -4739,18 +4739,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[14]/a[1]/div[2]/span[1]",
     "area": 3546,
     "shape": 1094,
-    "visibleText": [
-      "$49.96"
-    ],
-    "neighborText": [
-      "$140.99",
-      "previous",
-      "price:",
-      "$395.00",
-      "·",
-      "87%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2870,
@@ -4761,6 +4749,18 @@
     "classList": [
       "hl-item__displayPrice"
     ],
+    "neighborText": [
+      "$140.99",
+      "previous",
+      "price:",
+      "$395.00",
+      "·",
+      "87%",
+      "off"
+    ],
+    "visibleText": [
+      "$49.96"
+    ],
     "widgetId": null
   },
   {
@@ -4769,17 +4769,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[11]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$199.99",
-      "$89.99",
-      "previous",
-      "price:",
-      "$139.99"
-    ],
     "isButton": false,
     "location": {
       "x": 2216,
@@ -4790,6 +4779,17 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "$199.99",
+      "$89.99",
+      "previous",
+      "price:",
+      "$139.99"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
+    ],
     "widgetId": null
   },
   {
@@ -4798,9 +4798,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[9]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1776,
@@ -4813,6 +4810,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -4842,17 +4842,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[11]/a[1]/div[3]/span[2]",
     "area": 64,
     "shape": 25,
-    "visibleText": [
-      "·"
-    ],
-    "neighborText": [
-      "$89.99",
-      "previous",
-      "price:",
-      "$139.99",
-      "36%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2269,
@@ -4863,6 +4852,17 @@
     "classList": [
       "hl-item__separator"
     ],
+    "neighborText": [
+      "$89.99",
+      "previous",
+      "price:",
+      "$139.99",
+      "36%",
+      "off"
+    ],
+    "visibleText": [
+      "·"
+    ],
     "widgetId": null
   },
   {
@@ -4871,9 +4871,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[1]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 32,
@@ -4897,6 +4894,9 @@
       "-",
       "Carousel"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -4905,9 +4905,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[5]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 904,
@@ -4920,6 +4917,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -4928,20 +4928,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[14]/a[1]/div[3]/span[1]",
     "area": 602,
     "shape": 307,
-    "visibleText": [
-      "Previous",
-      "Price:",
-      "$395.00"
-    ],
-    "neighborText": [
-      "$140.99",
-      "$49.96",
-      "previous",
-      "price:",
-      "·",
-      "87%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2870,
@@ -4952,6 +4938,20 @@
     "classList": [
       "hl-item__additionalPrice"
     ],
+    "neighborText": [
+      "$140.99",
+      "$49.96",
+      "previous",
+      "price:",
+      "·",
+      "87%",
+      "off"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:",
+      "$395.00"
+    ],
     "widgetId": null
   },
   {
@@ -4960,17 +4960,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[11]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "36%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$89.99",
-      "previous",
-      "price:",
-      "$139.99",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 2284,
@@ -4981,6 +4970,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$89.99",
+      "previous",
+      "price:",
+      "$139.99",
+      "·"
+    ],
+    "visibleText": [
+      "36%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -4989,17 +4989,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[14]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$140.99",
-      "$49.96",
-      "previous",
-      "price:",
-      "$395.00"
-    ],
     "isButton": false,
     "location": {
       "x": 2870,
@@ -5010,6 +4999,17 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "$140.99",
+      "$49.96",
+      "previous",
+      "price:",
+      "$395.00"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
+    ],
     "widgetId": null
   },
   {
@@ -5018,9 +5018,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[12]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 2430,
@@ -5033,6 +5030,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -5062,17 +5062,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[14]/a[1]/div[3]/span[2]",
     "area": 64,
     "shape": 25,
-    "visibleText": [
-      "·"
-    ],
-    "neighborText": [
-      "$49.96",
-      "previous",
-      "price:",
-      "$395.00",
-      "87%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2923,
@@ -5083,6 +5072,17 @@
     "classList": [
       "hl-item__separator"
     ],
+    "neighborText": [
+      "$49.96",
+      "previous",
+      "price:",
+      "$395.00",
+      "87%",
+      "off"
+    ],
+    "visibleText": [
+      "·"
+    ],
     "widgetId": null
   },
   {
@@ -5091,9 +5091,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[4]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 686,
@@ -5106,6 +5103,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -5135,17 +5135,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[14]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "87%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$49.96",
-      "previous",
-      "price:",
-      "$395.00",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 2938,
@@ -5156,6 +5145,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$49.96",
+      "previous",
+      "price:",
+      "$395.00",
+      "·"
+    ],
+    "visibleText": [
+      "87%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -5164,20 +5164,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[9]/a[1]/div[3]/span[1]",
     "area": 602,
     "shape": 307,
-    "visibleText": [
-      "Previous",
-      "Price:",
-      "$199.95"
-    ],
-    "neighborText": [
-      "$20.00",
-      "$129.95",
-      "previous",
-      "price:",
-      "·",
-      "35%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 1780,
@@ -5188,6 +5174,20 @@
     "classList": [
       "hl-item__additionalPrice"
     ],
+    "neighborText": [
+      "$20.00",
+      "$129.95",
+      "previous",
+      "price:",
+      "·",
+      "35%",
+      "off"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:",
+      "$199.95"
+    ],
     "widgetId": null
   },
   {
@@ -5196,17 +5196,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[6]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "50%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$39.99",
-      "previous",
-      "price:",
-      "$79.99",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 1187,
@@ -5217,6 +5206,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$39.99",
+      "previous",
+      "price:",
+      "$79.99",
+      "·"
+    ],
+    "visibleText": [
+      "50%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -5225,8 +5225,15 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[12]/a[1]/div[2]/span[1]",
     "area": 3546,
     "shape": 1094,
-    "visibleText": [
-      "$304.95"
+    "isButton": false,
+    "location": {
+      "x": 2434,
+      "y": 1273,
+      "width": 197,
+      "height": 18
+    },
+    "classList": [
+      "hl-item__displayPrice"
     ],
     "neighborText": [
       "$89.99",
@@ -5239,15 +5246,8 @@
       "$140.99",
       "$575.00"
     ],
-    "isButton": false,
-    "location": {
-      "x": 2434,
-      "y": 1273,
-      "width": 197,
-      "height": 18
-    },
-    "classList": [
-      "hl-item__displayPrice"
+    "visibleText": [
+      "$304.95"
     ],
     "widgetId": null
   },
@@ -5257,17 +5257,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[9]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$20.00",
-      "$129.95",
-      "previous",
-      "price:",
-      "$199.95"
-    ],
     "isButton": false,
     "location": {
       "x": 1780,
@@ -5277,6 +5266,17 @@
     },
     "classList": [
       "clipped"
+    ],
+    "neighborText": [
+      "$20.00",
+      "$129.95",
+      "previous",
+      "price:",
+      "$199.95"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
     ],
     "widgetId": null
   },
@@ -5307,9 +5307,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[7]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1340,
@@ -5322,6 +5319,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -5351,17 +5351,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[9]/a[1]/div[3]/span[2]",
     "area": 64,
     "shape": 25,
-    "visibleText": [
-      "·"
-    ],
-    "neighborText": [
-      "$129.95",
-      "previous",
-      "price:",
-      "$199.95",
-      "35%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 1833,
@@ -5371,6 +5360,17 @@
     },
     "classList": [
       "hl-item__separator"
+    ],
+    "neighborText": [
+      "$129.95",
+      "previous",
+      "price:",
+      "$199.95",
+      "35%",
+      "off"
+    ],
+    "visibleText": [
+      "·"
     ],
     "widgetId": null
   },
@@ -5398,20 +5398,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[12]/a[1]/div[3]/span[1]",
     "area": 602,
     "shape": 307,
-    "visibleText": [
-      "Previous",
-      "Price:",
-      "$799.00"
-    ],
-    "neighborText": [
-      "$89.99",
-      "$304.95",
-      "previous",
-      "price:",
-      "·",
-      "62%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2434,
@@ -5422,6 +5408,20 @@
     "classList": [
       "hl-item__additionalPrice"
     ],
+    "neighborText": [
+      "$89.99",
+      "$304.95",
+      "previous",
+      "price:",
+      "·",
+      "62%",
+      "off"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:",
+      "$799.00"
+    ],
     "widgetId": null
   },
   {
@@ -5430,17 +5430,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[9]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "35%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$129.95",
-      "previous",
-      "price:",
-      "$199.95",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 1848,
@@ -5451,6 +5440,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$129.95",
+      "previous",
+      "price:",
+      "$199.95",
+      "·"
+    ],
+    "visibleText": [
+      "35%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -5459,16 +5459,6 @@
     "idxpath": "//*[@id='rtm_list3']/div[1]/div[1]/h2[1]",
     "area": 40320,
     "shape": 205,
-    "visibleText": [
-      "Need",
-      "an",
-      "excuse",
-      "to",
-      "make",
-      "some",
-      "extra",
-      "cash?"
-    ],
     "isButton": false,
     "location": {
       "x": 32,
@@ -5492,6 +5482,16 @@
       "your",
       "back."
     ],
+    "visibleText": [
+      "Need",
+      "an",
+      "excuse",
+      "to",
+      "make",
+      "some",
+      "extra",
+      "cash?"
+    ],
     "widgetId": null
   },
   {
@@ -5500,17 +5500,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[7]/a[1]/div[3]/span[2]",
     "area": 64,
     "shape": 25,
-    "visibleText": [
-      "·"
-    ],
-    "neighborText": [
-      "$39.99",
-      "previous",
-      "price:",
-      "$99.95",
-      "60%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 1390,
@@ -5521,6 +5510,17 @@
     "classList": [
       "hl-item__separator"
     ],
+    "neighborText": [
+      "$39.99",
+      "previous",
+      "price:",
+      "$99.95",
+      "60%",
+      "off"
+    ],
+    "visibleText": [
+      "·"
+    ],
     "widgetId": null
   },
   {
@@ -5529,17 +5529,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[12]/a[1]/div[3]/span[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Previous",
-      "Price:"
-    ],
-    "neighborText": [
-      "$89.99",
-      "$304.95",
-      "previous",
-      "price:",
-      "$799.00"
-    ],
     "isButton": false,
     "location": {
       "x": 2434,
@@ -5550,6 +5539,17 @@
     "classList": [
       "clipped"
     ],
+    "neighborText": [
+      "$89.99",
+      "$304.95",
+      "previous",
+      "price:",
+      "$799.00"
+    ],
+    "visibleText": [
+      "Previous",
+      "Price:"
+    ],
     "widgetId": null
   },
   {
@@ -5558,9 +5558,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[10]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1994,
@@ -5573,6 +5570,9 @@
       "hl-standard-carousel__item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -5602,17 +5602,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[12]/a[1]/div[3]/span[2]",
     "area": 64,
     "shape": 25,
-    "visibleText": [
-      "·"
-    ],
-    "neighborText": [
-      "$304.95",
-      "previous",
-      "price:",
-      "$799.00",
-      "62%",
-      "off"
-    ],
     "isButton": false,
     "location": {
       "x": 2487,
@@ -5623,6 +5612,17 @@
     "classList": [
       "hl-item__separator"
     ],
+    "neighborText": [
+      "$304.95",
+      "previous",
+      "price:",
+      "$799.00",
+      "62%",
+      "off"
+    ],
+    "visibleText": [
+      "·"
+    ],
     "widgetId": null
   },
   {
@@ -5631,9 +5631,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[2]",
     "area": 50904,
     "shape": 80,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 250,
@@ -5657,6 +5654,9 @@
       "Carousel",
       "See",
       "all"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -5697,17 +5697,6 @@
     "idxpath": "//*[@id='s0-0-31-3-0-0[4]-4-match-media-0-ebay-carousel-list']/li[12]/a[1]/div[3]/span[3]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "62%",
-      "OFF"
-    ],
-    "neighborText": [
-      "$304.95",
-      "previous",
-      "price:",
-      "$799.00",
-      "·"
-    ],
     "isButton": false,
     "location": {
       "x": 2502,
@@ -5718,6 +5707,17 @@
     "classList": [
       "hl-item__discount"
     ],
+    "neighborText": [
+      "$304.95",
+      "previous",
+      "price:",
+      "$799.00",
+      "·"
+    ],
+    "visibleText": [
+      "62%",
+      "OFF"
+    ],
     "widgetId": null
   },
   {
@@ -5727,9 +5727,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[2]/a[1]",
     "area": 888,
     "shape": 616,
-    "visibleText": [
-      "Company",
-      "info"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2195,
+      "width": 74,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "ebay",
@@ -5744,15 +5750,9 @@
       "news",
       "investors"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2195,
-      "width": 74,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Company",
+      "info"
     ],
     "widgetId": null
   },
@@ -5763,17 +5763,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[1]/h3[1]/a[1]",
     "area": 480,
     "shape": 187,
-    "visibleText": [
-      "Buy"
-    ],
-    "neighborText": [
-      "buy",
-      "registration",
-      "ebay",
-      "money",
-      "back",
-      "guarantee"
-    ],
     "isButton": false,
     "location": {
       "x": 42,
@@ -5785,6 +5774,17 @@
       "gf-bttl",
       "thrd"
     ],
+    "neighborText": [
+      "buy",
+      "registration",
+      "ebay",
+      "money",
+      "back",
+      "guarantee"
+    ],
+    "visibleText": [
+      "Buy"
+    ],
     "widgetId": null
   },
   {
@@ -5793,26 +5793,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[4]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Investors"
-    ],
-    "neighborText": [
-      "see",
-      "all",
-      "companies",
-      "stay",
-      "connected",
-      "facebook",
-      "twitter",
-      "company",
-      "info",
-      "news",
-      "investors",
-      "careers",
-      "diversity",
-      "&",
-      "inclusion"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -5823,6 +5803,26 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "see",
+      "all",
+      "companies",
+      "stay",
+      "connected",
+      "facebook",
+      "twitter",
+      "company",
+      "info",
+      "news",
+      "investors",
+      "careers",
+      "diversity",
+      "&",
+      "inclusion"
+    ],
+    "visibleText": [
+      "Investors"
+    ],
     "widgetId": null
   },
   {
@@ -5832,8 +5832,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[4]/a[1]",
     "area": 576,
     "shape": 400,
-    "visibleText": [
-      "Investors"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2243,
+      "width": 48,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "see",
@@ -5852,15 +5859,8 @@
       "&",
       "inclusion"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2243,
-      "width": 48,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Investors"
     ],
     "widgetId": null
   },
@@ -5870,8 +5870,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[2]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "Registration"
+    "isButton": false,
+    "location": {
+      "x": 42,
+      "y": 2195,
+      "width": 177,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "buy",
@@ -5892,15 +5899,8 @@
       "business",
       "sellers"
     ],
-    "isButton": false,
-    "location": {
-      "x": 42,
-      "y": 2195,
-      "width": 177,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Registration"
     ],
     "widgetId": null
   },
@@ -5910,10 +5910,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[6]/h3[1]",
     "area": 2832,
     "shape": 1106,
-    "visibleText": [
-      "Tools",
-      "&",
-      "apps"
+    "isButton": false,
+    "location": {
+      "x": 265,
+      "y": 2315,
+      "width": 177,
+      "height": 16
+    },
+    "classList": [
+      "gf-bttl"
     ],
     "neighborText": [
       "stores",
@@ -5927,15 +5932,10 @@
       "facebook",
       "twitter"
     ],
-    "isButton": false,
-    "location": {
-      "x": 265,
-      "y": 2315,
-      "width": 177,
-      "height": 16
-    },
-    "classList": [
-      "gf-bttl"
+    "visibleText": [
+      "Tools",
+      "&",
+      "apps"
     ],
     "widgetId": null
   },
@@ -5946,8 +5946,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[2]/a[1]",
     "area": 768,
     "shape": 533,
-    "visibleText": [
-      "Registration"
+    "isButton": false,
+    "location": {
+      "x": 42,
+      "y": 2195,
+      "width": 64,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "buy",
@@ -5961,15 +5968,8 @@
       "buying",
       "help"
     ],
-    "isButton": false,
-    "location": {
-      "x": 42,
-      "y": 2195,
-      "width": 64,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Registration"
     ],
     "widgetId": null
   },
@@ -5979,23 +5979,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[5]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Careers"
-    ],
-    "neighborText": [
-      "stay",
-      "connected",
-      "facebook",
-      "twitter",
-      "news",
-      "investors",
-      "careers",
-      "diversity",
-      "&",
-      "inclusion",
-      "global",
-      "impact"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -6006,6 +5989,23 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "stay",
+      "connected",
+      "facebook",
+      "twitter",
+      "news",
+      "investors",
+      "careers",
+      "diversity",
+      "&",
+      "inclusion",
+      "global",
+      "impact"
+    ],
+    "visibleText": [
+      "Careers"
+    ],
     "widgetId": null
   },
   {
@@ -6015,8 +6015,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[5]/a[1]",
     "area": 504,
     "shape": 350,
-    "visibleText": [
-      "Careers"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2267,
+      "width": 42,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "stay",
@@ -6032,15 +6039,8 @@
       "global",
       "impact"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2267,
-      "width": 42,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Careers"
     ],
     "widgetId": null
   },
@@ -6050,11 +6050,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[3]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "eBay",
-      "Money",
-      "Back",
-      "Guarantee"
+    "isButton": false,
+    "location": {
+      "x": 42,
+      "y": 2219,
+      "width": 177,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "buy",
@@ -6077,15 +6081,11 @@
       "sellers",
       "affiliates"
     ],
-    "isButton": false,
-    "location": {
-      "x": 42,
-      "y": 2219,
-      "width": 177,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "eBay",
+      "Money",
+      "Back",
+      "Guarantee"
     ],
     "widgetId": null
   },
@@ -6096,11 +6096,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[3]/a[1]",
     "area": 1872,
     "shape": 1300,
-    "visibleText": [
-      "eBay",
-      "Money",
-      "Back",
-      "Guarantee"
+    "isButton": false,
+    "location": {
+      "x": 42,
+      "y": 2219,
+      "width": 156,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "buy",
@@ -6115,15 +6119,11 @@
       "help",
       "stores"
     ],
-    "isButton": false,
-    "location": {
-      "x": 42,
-      "y": 2219,
-      "width": 156,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "eBay",
+      "Money",
+      "Back",
+      "Guarantee"
     ],
     "widgetId": null
   },
@@ -6133,26 +6133,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[6]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Diversity",
-      "&",
-      "Inclusion"
-    ],
-    "neighborText": [
-      "stay",
-      "connected",
-      "facebook",
-      "twitter",
-      "investors",
-      "careers",
-      "diversity",
-      "&",
-      "inclusion",
-      "global",
-      "impact",
-      "government",
-      "relations"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -6163,6 +6143,26 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "stay",
+      "connected",
+      "facebook",
+      "twitter",
+      "investors",
+      "careers",
+      "diversity",
+      "&",
+      "inclusion",
+      "global",
+      "impact",
+      "government",
+      "relations"
+    ],
+    "visibleText": [
+      "Diversity",
+      "&",
+      "Inclusion"
+    ],
     "widgetId": null
   },
   {
@@ -6172,10 +6172,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[6]/a[1]",
     "area": 1296,
     "shape": 900,
-    "visibleText": [
-      "Diversity",
-      "&",
-      "Inclusion"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2291,
+      "width": 108,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "stay",
@@ -6192,15 +6197,10 @@
       "government",
       "relations"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2291,
-      "width": 108,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Diversity",
+      "&",
+      "Inclusion"
     ],
     "widgetId": null
   },
@@ -6210,11 +6210,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[4]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "Bidding",
-      "&",
-      "buying",
-      "help"
+    "isButton": false,
+    "location": {
+      "x": 42,
+      "y": 2243,
+      "width": 177,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "registration",
@@ -6238,15 +6242,11 @@
       "tools",
       "apps"
     ],
-    "isButton": false,
-    "location": {
-      "x": 42,
-      "y": 2243,
-      "width": 177,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Bidding",
+      "&",
+      "buying",
+      "help"
     ],
     "widgetId": null
   },
@@ -6257,11 +6257,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[4]/a[1]",
     "area": 1392,
     "shape": 966,
-    "visibleText": [
-      "Bidding",
-      "&",
-      "buying",
-      "help"
+    "isButton": false,
+    "location": {
+      "x": 42,
+      "y": 2243,
+      "width": 116,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "registration",
@@ -6275,15 +6279,11 @@
       "help",
       "stores"
     ],
-    "isButton": false,
-    "location": {
-      "x": 42,
-      "y": 2243,
-      "width": 116,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Bidding",
+      "&",
+      "buying",
+      "help"
     ],
     "widgetId": null
   },
@@ -6293,25 +6293,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[7]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Global",
-      "Impact"
-    ],
-    "neighborText": [
-      "facebook",
-      "twitter",
-      "careers",
-      "diversity",
-      "&",
-      "inclusion",
-      "global",
-      "impact",
-      "government",
-      "relations",
-      "advertise",
-      "with",
-      "us"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -6322,6 +6303,25 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "facebook",
+      "twitter",
+      "careers",
+      "diversity",
+      "&",
+      "inclusion",
+      "global",
+      "impact",
+      "government",
+      "relations",
+      "advertise",
+      "with",
+      "us"
+    ],
+    "visibleText": [
+      "Global",
+      "Impact"
+    ],
     "widgetId": null
   },
   {
@@ -6331,9 +6331,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[7]/a[1]",
     "area": 888,
     "shape": 616,
-    "visibleText": [
-      "Global",
-      "Impact"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2315,
+      "width": 74,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "facebook",
@@ -6350,15 +6356,9 @@
       "with",
       "us"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2315,
-      "width": 74,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Global",
+      "Impact"
     ],
     "widgetId": null
   },
@@ -6368,9 +6368,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[1]",
     "area": 2832,
     "shape": 1106,
-    "visibleText": [
-      "eBay",
-      "companies"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2163,
+      "width": 177,
+      "height": 16
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "sell",
@@ -6389,15 +6395,9 @@
       "info",
       "news"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2163,
-      "width": 177,
-      "height": 16
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "eBay",
+      "companies"
     ],
     "widgetId": null
   },
@@ -6408,8 +6408,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[1]/ul[1]/li[5]/a[1]",
     "area": 408,
     "shape": 283,
-    "visibleText": [
-      "Stores"
+    "isButton": false,
+    "location": {
+      "x": 42,
+      "y": 2267,
+      "width": 34,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "ebay",
@@ -6422,15 +6429,8 @@
       "help",
       "stores"
     ],
-    "isButton": false,
-    "location": {
-      "x": 42,
-      "y": 2267,
-      "width": 34,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Stores"
     ],
     "widgetId": null
   },
@@ -6440,25 +6440,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[8]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Government",
-      "relations"
-    ],
-    "neighborText": [
-      "facebook",
-      "twitter",
-      "diversity",
-      "&",
-      "inclusion",
-      "global",
-      "impact",
-      "government",
-      "relations",
-      "advertise",
-      "with",
-      "us",
-      "policies"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -6469,6 +6450,25 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "facebook",
+      "twitter",
+      "diversity",
+      "&",
+      "inclusion",
+      "global",
+      "impact",
+      "government",
+      "relations",
+      "advertise",
+      "with",
+      "us",
+      "policies"
+    ],
+    "visibleText": [
+      "Government",
+      "relations"
+    ],
     "widgetId": null
   },
   {
@@ -6478,9 +6478,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[8]/a[1]",
     "area": 1368,
     "shape": 950,
-    "visibleText": [
-      "Government",
-      "relations"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2339,
+      "width": 114,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "facebook",
@@ -6497,15 +6503,9 @@
       "us",
       "policies"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2339,
-      "width": 114,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Government",
+      "relations"
     ],
     "widgetId": null
   },
@@ -6515,10 +6515,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[2]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "See",
-      "all",
-      "companies"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2195,
+      "width": 177,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "sell",
@@ -6540,15 +6545,10 @@
       "news",
       "investors"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2195,
-      "width": 177,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "See",
+      "all",
+      "companies"
     ],
     "widgetId": null
   },
@@ -6559,10 +6559,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[2]/a[1]",
     "area": 1176,
     "shape": 816,
-    "visibleText": [
-      "See",
-      "all",
-      "companies"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2195,
+      "width": 98,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "sell",
@@ -6579,15 +6584,10 @@
       "stay",
       "connected"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2195,
-      "width": 98,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "See",
+      "all",
+      "companies"
     ],
     "widgetId": null
   },
@@ -6597,27 +6597,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[9]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Advertise",
-      "with",
-      "us"
-    ],
-    "neighborText": [
-      "twitter",
-      "global",
-      "impact",
-      "government",
-      "relations",
-      "advertise",
-      "with",
-      "us",
-      "policies",
-      "verified",
-      "rights",
-      "owner",
-      "(vero)",
-      "program"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -6628,6 +6607,27 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "twitter",
+      "global",
+      "impact",
+      "government",
+      "relations",
+      "advertise",
+      "with",
+      "us",
+      "policies",
+      "verified",
+      "rights",
+      "owner",
+      "(vero)",
+      "program"
+    ],
+    "visibleText": [
+      "Advertise",
+      "with",
+      "us"
+    ],
     "widgetId": null
   },
   {
@@ -6637,10 +6637,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[9]/a[1]",
     "area": 1080,
     "shape": 750,
-    "visibleText": [
-      "Advertise",
-      "with",
-      "us"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2363,
+      "width": 90,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "twitter",
@@ -6658,15 +6663,10 @@
       "(vero)",
       "program"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2363,
-      "width": 90,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Advertise",
+      "with",
+      "us"
     ],
     "widgetId": null
   },
@@ -6676,9 +6676,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[3]",
     "area": 7080,
     "shape": 442,
-    "visibleText": [
-      "Stay",
-      "connected"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2219,
+      "width": 177,
+      "height": 40
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "sell",
@@ -6709,15 +6715,9 @@
       "diversity",
       "inclusion"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2219,
-      "width": 177,
-      "height": 40
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Stay",
+      "connected"
     ],
     "widgetId": null
   },
@@ -6727,8 +6727,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[3]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "News"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2219,
+      "width": 213,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "ebay",
@@ -6745,15 +6752,8 @@
       "investors",
       "careers"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2219,
-      "width": 213,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "News"
     ],
     "widgetId": null
   },
@@ -6764,8 +6764,16 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[1]/h3[1]/a[1]",
     "area": 448,
     "shape": 175,
-    "visibleText": [
-      "Sell"
+    "isButton": false,
+    "location": {
+      "x": 265,
+      "y": 2163,
+      "width": 28,
+      "height": 16
+    },
+    "classList": [
+      "gf-bttl",
+      "thrd"
     ],
     "neighborText": [
       "buy",
@@ -6780,16 +6788,8 @@
       "how",
       "to"
     ],
-    "isButton": false,
-    "location": {
-      "x": 265,
-      "y": 2163,
-      "width": 28,
-      "height": 16
-    },
-    "classList": [
-      "gf-bttl",
-      "thrd"
+    "visibleText": [
+      "Sell"
     ],
     "widgetId": null
   },
@@ -6799,24 +6799,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[10]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Policies"
-    ],
-    "neighborText": [
-      "government",
-      "relations",
-      "advertise",
-      "with",
-      "us",
-      "policies",
-      "verified",
-      "rights",
-      "owner",
-      "(vero)",
-      "program",
-      "eci",
-      "licenses"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -6827,6 +6809,24 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "government",
+      "relations",
+      "advertise",
+      "with",
+      "us",
+      "policies",
+      "verified",
+      "rights",
+      "owner",
+      "(vero)",
+      "program",
+      "eci",
+      "licenses"
+    ],
+    "visibleText": [
+      "Policies"
+    ],
     "widgetId": null
   },
   {
@@ -6836,8 +6836,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[10]/a[1]",
     "area": 492,
     "shape": 341,
-    "visibleText": [
-      "Policies"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2387,
+      "width": 41,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "government",
@@ -6854,15 +6861,8 @@
       "eci",
       "licenses"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2387,
-      "width": 41,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Policies"
     ],
     "widgetId": null
   },
@@ -6872,8 +6872,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[4]",
     "area": 2832,
     "shape": 1106,
-    "visibleText": [
-      "Facebook"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2275,
+      "width": 177,
+      "height": 16
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "how",
@@ -6899,15 +6906,8 @@
       "government",
       "relations"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2275,
-      "width": 177,
-      "height": 16
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Facebook"
     ],
     "widgetId": null
   },
@@ -6918,8 +6918,16 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[4]/a[1]",
     "area": 1168,
     "shape": 456,
-    "visibleText": [
-      "Facebook"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2275,
+      "width": 73,
+      "height": 16
+    },
+    "classList": [
+      "thrd",
+      "gf-i"
     ],
     "neighborText": [
       "how",
@@ -6936,16 +6944,8 @@
       "facebook",
       "twitter"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2275,
-      "width": 73,
-      "height": 16
-    },
-    "classList": [
-      "thrd",
-      "gf-i"
+    "visibleText": [
+      "Facebook"
     ],
     "widgetId": null
   },
@@ -6955,26 +6955,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[11]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Verified",
-      "Rights",
-      "Owner",
-      "(VeRO)",
-      "Program"
-    ],
-    "neighborText": [
-      "advertise",
-      "with",
-      "us",
-      "policies",
-      "verified",
-      "rights",
-      "owner",
-      "(vero)",
-      "program",
-      "eci",
-      "licenses"
-    ],
     "isButton": false,
     "location": {
       "x": 713,
@@ -6985,6 +6965,26 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "advertise",
+      "with",
+      "us",
+      "policies",
+      "verified",
+      "rights",
+      "owner",
+      "(vero)",
+      "program",
+      "eci",
+      "licenses"
+    ],
+    "visibleText": [
+      "Verified",
+      "Rights",
+      "Owner",
+      "(VeRO)",
+      "Program"
+    ],
     "widgetId": null
   },
   {
@@ -6994,12 +6994,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[11]/a[1]",
     "area": 2496,
     "shape": 1733,
-    "visibleText": [
-      "Verified",
-      "Rights",
-      "Owner",
-      "(VeRO)",
-      "Program"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2411,
+      "width": 208,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "advertise",
@@ -7014,15 +7017,12 @@
       "eci",
       "licenses"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2411,
-      "width": 208,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Verified",
+      "Rights",
+      "Owner",
+      "(VeRO)",
+      "Program"
     ],
     "widgetId": null
   },
@@ -7032,8 +7032,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[5]",
     "area": 2832,
     "shape": 1106,
-    "visibleText": [
-      "Twitter"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2303,
+      "width": 177,
+      "height": 16
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "business",
@@ -7059,15 +7066,8 @@
       "with",
       "us"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2303,
-      "width": 177,
-      "height": 16
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Twitter"
     ],
     "widgetId": null
   },
@@ -7078,8 +7078,16 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[3]/ul[1]/li[5]/a[1]",
     "area": 896,
     "shape": 350,
-    "visibleText": [
-      "Twitter"
+    "isButton": false,
+    "location": {
+      "x": 489,
+      "y": 2303,
+      "width": 56,
+      "height": 16
+    },
+    "classList": [
+      "thrd",
+      "gf-i"
     ],
     "neighborText": [
       "business",
@@ -7094,16 +7102,8 @@
       "facebook",
       "twitter"
     ],
-    "isButton": false,
-    "location": {
-      "x": 489,
-      "y": 2303,
-      "width": 56,
-      "height": 16
-    },
-    "classList": [
-      "thrd",
-      "gf-i"
+    "visibleText": [
+      "Twitter"
     ],
     "widgetId": null
   },
@@ -7113,9 +7113,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[12]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "eCI",
-      "Licenses"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2435,
+      "width": 213,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "policies",
@@ -7127,15 +7133,9 @@
       "eci",
       "licenses"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2435,
-      "width": 213,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "eCI",
+      "Licenses"
     ],
     "widgetId": null
   },
@@ -7146,8 +7146,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[3]/a[1]",
     "area": 360,
     "shape": 250,
-    "visibleText": [
-      "News"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2219,
+      "width": 30,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "ebay",
@@ -7164,15 +7171,8 @@
       "investors",
       "careers"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2219,
-      "width": 30,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "News"
     ],
     "widgetId": null
   },
@@ -7183,9 +7183,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[12]/a[1]",
     "area": 828,
     "shape": 575,
-    "visibleText": [
-      "eCI",
-      "Licenses"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2435,
+      "width": 69,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "policies",
@@ -7197,15 +7203,9 @@
       "eci",
       "licenses"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2435,
-      "width": 69,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "eCI",
+      "Licenses"
     ],
     "widgetId": null
   },
@@ -7234,9 +7234,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[2]/ul[1]/li[4]/a[1]",
     "area": 1032,
     "shape": 716,
-    "visibleText": [
-      "Business",
-      "sellers"
+    "isButton": false,
+    "location": {
+      "x": 265,
+      "y": 2243,
+      "width": 86,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "registration",
@@ -7260,15 +7266,9 @@
       "tools",
       "apps"
     ],
-    "isButton": false,
-    "location": {
-      "x": 265,
-      "y": 2243,
-      "width": 86,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Business",
+      "sellers"
     ],
     "widgetId": null
   },
@@ -7296,19 +7296,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[1]",
     "area": 2832,
     "shape": 1106,
-    "visibleText": [
-      "Help",
-      "&",
-      "Contact"
-    ],
-    "neighborText": [
-      "help",
-      "&",
-      "contact",
-      "resolution",
-      "center",
-      "seller"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -7319,6 +7306,19 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "help",
+      "&",
+      "contact",
+      "resolution",
+      "center",
+      "seller"
+    ],
+    "visibleText": [
+      "Help",
+      "&",
+      "Contact"
+    ],
     "widgetId": null
   },
   {
@@ -7328,9 +7328,16 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[1]/h3[1]/a[1]",
     "area": 1408,
     "shape": 550,
-    "visibleText": [
-      "About",
-      "eBay"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2163,
+      "width": 88,
+      "height": 16
+    },
+    "classList": [
+      "gf-bttl",
+      "thrd"
     ],
     "neighborText": [
       "ebay",
@@ -7344,16 +7351,9 @@
       "info",
       "news"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2163,
-      "width": 88,
-      "height": 16
-    },
-    "classList": [
-      "gf-bttl",
-      "thrd"
+    "visibleText": [
+      "About",
+      "eBay"
     ],
     "widgetId": null
   },
@@ -7363,11 +7363,6 @@
     "idxpath": "//*[@id='glbfooter']/h2[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Additional",
-      "site",
-      "navigation"
-    ],
     "isButton": false,
     "location": {
       "x": -10000,
@@ -7379,6 +7374,11 @@
       "gh-ar-hdn"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Additional",
+      "site",
+      "navigation"
+    ],
     "widgetId": null
   },
   {
@@ -7387,9 +7387,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[4]/ul[1]/li[2]",
     "area": 2556,
     "shape": 1775,
-    "visibleText": [
-      "Company",
-      "info"
+    "isButton": false,
+    "location": {
+      "x": 713,
+      "y": 2195,
+      "width": 213,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "ebay",
@@ -7404,15 +7410,9 @@
       "news",
       "investors"
     ],
-    "isButton": false,
-    "location": {
-      "x": 713,
-      "y": 2195,
-      "width": 213,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Company",
+      "info"
     ],
     "widgetId": null
   },
@@ -7422,21 +7422,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[3]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "Seller",
-      "Center"
-    ],
-    "neighborText": [
-      "help",
-      "&",
-      "contact",
-      "resolution",
-      "center",
-      "seller",
-      "us",
-      "ebay",
-      "returns"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -7447,6 +7432,21 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "help",
+      "&",
+      "contact",
+      "resolution",
+      "center",
+      "seller",
+      "us",
+      "ebay",
+      "returns"
+    ],
+    "visibleText": [
+      "Seller",
+      "Center"
+    ],
     "widgetId": null
   },
   {
@@ -7456,9 +7456,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[3]/a[1]",
     "area": 840,
     "shape": 583,
-    "visibleText": [
-      "Seller",
-      "Center"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2219,
+      "width": 70,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "help",
@@ -7471,15 +7477,9 @@
       "ebay",
       "returns"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2219,
-      "width": 70,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Seller",
+      "Center"
     ],
     "widgetId": null
   },
@@ -7489,9 +7489,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[4]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "Contact",
-      "Us"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2243,
+      "width": 177,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "resolution",
@@ -7503,15 +7509,9 @@
       "returns",
       "community"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2243,
-      "width": 177,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Contact",
+      "Us"
     ],
     "widgetId": null
   },
@@ -7541,8 +7541,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[14]",
     "area": 5664,
     "shape": 553,
-    "visibleText": [
-      "0"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2547,
+      "width": 177,
+      "height": 32
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "ebay",
@@ -7556,15 +7563,8 @@
       "by",
       "verisign"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2547,
-      "width": 177,
-      "height": 32
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -7575,9 +7575,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[4]/a[1]",
     "area": 708,
     "shape": 491,
-    "visibleText": [
-      "Contact",
-      "Us"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2243,
+      "width": 59,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "resolution",
@@ -7589,15 +7595,9 @@
       "returns",
       "community"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2243,
-      "width": 59,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Contact",
+      "Us"
     ],
     "widgetId": null
   },
@@ -7635,14 +7635,6 @@
     "idxpath": "//*[@id='gf-t-box']/table[1]/tbody[1]/tr[2]/td[1]/a[1]",
     "area": 649,
     "shape": 536,
-    "visibleText": [
-      "Accessibility"
-    ],
-    "neighborText": [
-      "accessibility",
-      "user",
-      "agreement"
-    ],
     "isButton": false,
     "location": {
       "x": 309,
@@ -7651,6 +7643,14 @@
       "height": 11
     },
     "classList": [],
+    "neighborText": [
+      "accessibility",
+      "user",
+      "agreement"
+    ],
+    "visibleText": [
+      "Accessibility"
+    ],
     "widgetId": null
   },
   {
@@ -7660,19 +7660,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[5]/a[1]",
     "area": 864,
     "shape": 600,
-    "visibleText": [
-      "eBay",
-      "Returns"
-    ],
-    "neighborText": [
-      "seller",
-      "center",
-      "contact",
-      "us",
-      "ebay",
-      "returns",
-      "community"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -7683,6 +7670,19 @@
     "classList": [
       "thrd"
     ],
+    "neighborText": [
+      "seller",
+      "center",
+      "contact",
+      "us",
+      "ebay",
+      "returns",
+      "community"
+    ],
+    "visibleText": [
+      "eBay",
+      "Returns"
+    ],
     "widgetId": null
   },
   {
@@ -7692,17 +7692,6 @@
     "idxpath": "//*[@id='gf-t-box']/table[1]/tbody[1]/tr[2]/td[1]/a[2]",
     "area": 869,
     "shape": 718,
-    "visibleText": [
-      "User",
-      "Agreement"
-    ],
-    "neighborText": [
-      "accessibility",
-      "user",
-      "agreement",
-      "privacy",
-      "cookies"
-    ],
     "isButton": false,
     "location": {
       "x": 376,
@@ -7711,6 +7700,17 @@
       "height": 11
     },
     "classList": [],
+    "neighborText": [
+      "accessibility",
+      "user",
+      "agreement",
+      "privacy",
+      "cookies"
+    ],
+    "visibleText": [
+      "User",
+      "Agreement"
+    ],
     "widgetId": null
   },
   {
@@ -7720,15 +7720,6 @@
     "idxpath": "//*[@id='gf-t-box']/table[1]/tbody[1]/tr[2]/td[1]/a[3]",
     "area": 396,
     "shape": 327,
-    "visibleText": [
-      "Privacy"
-    ],
-    "neighborText": [
-      "user",
-      "agreement",
-      "privacy",
-      "cookies"
-    ],
     "isButton": false,
     "location": {
       "x": 461,
@@ -7737,6 +7728,15 @@
       "height": 11
     },
     "classList": [],
+    "neighborText": [
+      "user",
+      "agreement",
+      "privacy",
+      "cookies"
+    ],
+    "visibleText": [
+      "Privacy"
+    ],
     "widgetId": null
   },
   {
@@ -7746,9 +7746,14 @@
     "idxpath": "//*[@id='gf-t-box']/table[1]/tbody[1]/tr[2]/td[1]/a[4]",
     "area": 429,
     "shape": 354,
-    "visibleText": [
-      "Cookies"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 503,
+      "y": 2615,
+      "width": 39,
+      "height": 11
+    },
+    "classList": [],
     "neighborText": [
       "user",
       "agreement",
@@ -7761,14 +7766,9 @@
       "personal",
       "information"
     ],
-    "isButton": false,
-    "location": {
-      "x": 503,
-      "y": 2615,
-      "width": 39,
-      "height": 11
-    },
-    "classList": [],
+    "visibleText": [
+      "Cookies"
+    ],
     "widgetId": null
   },
   {
@@ -7778,19 +7778,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[2]/a[1]",
     "area": 1152,
     "shape": 800,
-    "visibleText": [
-      "Resolution",
-      "Center"
-    ],
-    "neighborText": [
-      "help",
-      "&",
-      "contact",
-      "resolution",
-      "center",
-      "seller",
-      "us"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -7801,6 +7788,19 @@
     "classList": [
       "thrd"
     ],
+    "neighborText": [
+      "help",
+      "&",
+      "contact",
+      "resolution",
+      "center",
+      "seller",
+      "us"
+    ],
+    "visibleText": [
+      "Resolution",
+      "Center"
+    ],
     "widgetId": null
   },
   {
@@ -7810,17 +7810,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[6]/h3[1]/a[1]",
     "area": 1408,
     "shape": 550,
-    "visibleText": [
-      "Community"
-    ],
-    "neighborText": [
-      "ebay",
-      "returns",
-      "community",
-      "announcements",
-      "knowledge",
-      "base"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -7832,6 +7821,17 @@
       "gf-bttl",
       "thrd"
     ],
+    "neighborText": [
+      "ebay",
+      "returns",
+      "community",
+      "announcements",
+      "knowledge",
+      "base"
+    ],
+    "visibleText": [
+      "Community"
+    ],
     "widgetId": null
   },
   {
@@ -7841,14 +7841,14 @@
     "idxpath": "//*[@id='gf-t-box']/table[1]/tbody[1]/tr[2]/td[1]/a[5]",
     "area": 1892,
     "shape": 1563,
-    "visibleText": [
-      "Do",
-      "not",
-      "sell",
-      "my",
-      "personal",
-      "information"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 549,
+      "y": 2615,
+      "width": 172,
+      "height": 11
+    },
+    "classList": [],
     "neighborText": [
       "cookies",
       "do",
@@ -7859,14 +7859,14 @@
       "information",
       "adchoice"
     ],
-    "isButton": false,
-    "location": {
-      "x": 549,
-      "y": 2615,
-      "width": 172,
-      "height": 11
-    },
-    "classList": [],
+    "visibleText": [
+      "Do",
+      "not",
+      "sell",
+      "my",
+      "personal",
+      "information"
+    ],
     "widgetId": null
   },
   {
@@ -7877,9 +7877,14 @@
     "idxpath": "//*[@id='gf-AdChoice']",
     "area": 806,
     "shape": 476,
-    "visibleText": [
-      "AdChoice"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 746,
+      "y": 2614,
+      "width": 62,
+      "height": 13
+    },
+    "classList": [],
     "neighborText": [
       "do",
       "not",
@@ -7889,14 +7894,9 @@
       "information",
       "adchoice"
     ],
-    "isButton": false,
-    "location": {
-      "x": 746,
-      "y": 2614,
-      "width": 62,
-      "height": 13
-    },
-    "classList": [],
+    "visibleText": [
+      "AdChoice"
+    ],
     "widgetId": null
   },
   {
@@ -7906,17 +7906,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[7]/a[1]",
     "area": 1032,
     "shape": 716,
-    "visibleText": [
-      "Announcements"
-    ],
-    "neighborText": [
-      "community",
-      "announcements",
-      "knowledge",
-      "base",
-      "discussion",
-      "boards"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -7927,6 +7916,17 @@
     "classList": [
       "thrd"
     ],
+    "neighborText": [
+      "community",
+      "announcements",
+      "knowledge",
+      "base",
+      "discussion",
+      "boards"
+    ],
+    "visibleText": [
+      "Announcements"
+    ],
     "widgetId": null
   },
   {
@@ -7935,14 +7935,14 @@
     "idxpath": "//*[@id='gf-t-box']/table[1]/tbody[1]/tr[2]/td[2]",
     "area": 4796,
     "shape": 247,
-    "visibleText": [
-      "Norton",
-      "Secured",
-      "-",
-      "powered",
-      "by",
-      "Verisign"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 1095,
+      "y": 2614,
+      "width": 109,
+      "height": 44
+    },
+    "classList": [],
     "neighborText": [
       "0",
       "united",
@@ -7954,14 +7954,14 @@
       "by",
       "verisign"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1095,
-      "y": 2614,
-      "width": 109,
-      "height": 44
-    },
-    "classList": [],
+    "visibleText": [
+      "Norton",
+      "Secured",
+      "-",
+      "powered",
+      "by",
+      "Verisign"
+    ],
     "widgetId": null
   },
   {
@@ -7971,14 +7971,14 @@
     "idxpath": "//*[@id='gf-t-box']/table[1]/tbody[1]/tr[2]/td[2]/a[1]",
     "area": 3200,
     "shape": 200,
-    "visibleText": [
-      "Norton",
-      "Secured",
-      "-",
-      "powered",
-      "by",
-      "Verisign"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 1110,
+      "y": 2615,
+      "width": 80,
+      "height": 40
+    },
+    "classList": [],
     "neighborText": [
       "0",
       "united",
@@ -7990,14 +7990,14 @@
       "by",
       "verisign"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1110,
-      "y": 2615,
-      "width": 80,
-      "height": 40
-    },
-    "classList": [],
+    "visibleText": [
+      "Norton",
+      "Secured",
+      "-",
+      "powered",
+      "by",
+      "Verisign"
+    ],
     "widgetId": null
   },
   {
@@ -8007,9 +8007,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[8]/a[1]",
     "area": 1080,
     "shape": 750,
-    "visibleText": [
-      "Knowledge",
-      "Base"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2371,
+      "width": 90,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "community",
@@ -8022,15 +8028,9 @@
       "for",
       "charity"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2371,
-      "width": 90,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Knowledge",
+      "Base"
     ],
     "widgetId": null
   },
@@ -8040,9 +8040,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[9]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "Discussion",
-      "boards"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2395,
+      "width": 177,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "announcements",
@@ -8055,15 +8061,9 @@
       "charity",
       "shop"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2395,
-      "width": 177,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Discussion",
+      "boards"
     ],
     "widgetId": null
   },
@@ -8074,9 +8074,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[9]/a[1]",
     "area": 1176,
     "shape": 816,
-    "visibleText": [
-      "Discussion",
-      "boards"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2395,
+      "width": 98,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "announcements",
@@ -8089,15 +8095,9 @@
       "charity",
       "shop"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2395,
-      "width": 98,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Discussion",
+      "boards"
     ],
     "widgetId": null
   },
@@ -8107,22 +8107,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[10]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "eBay",
-      "for",
-      "Charity"
-    ],
-    "neighborText": [
-      "knowledge",
-      "base",
-      "discussion",
-      "boards",
-      "ebay",
-      "for",
-      "charity",
-      "shop",
-      "community"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -8133,6 +8117,22 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "knowledge",
+      "base",
+      "discussion",
+      "boards",
+      "ebay",
+      "for",
+      "charity",
+      "shop",
+      "community"
+    ],
+    "visibleText": [
+      "eBay",
+      "for",
+      "Charity"
+    ],
     "widgetId": null
   },
   {
@@ -8142,10 +8142,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[10]/a[1]",
     "area": 1032,
     "shape": 716,
-    "visibleText": [
-      "eBay",
-      "for",
-      "Charity"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2419,
+      "width": 86,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "knowledge",
@@ -8158,15 +8163,10 @@
       "shop",
       "community"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2419,
-      "width": 86,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "eBay",
+      "for",
+      "Charity"
     ],
     "widgetId": null
   },
@@ -8176,9 +8176,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[11]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "Charity",
-      "Shop"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2443,
+      "width": 177,
+      "height": 12
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "discussion",
@@ -8190,15 +8196,9 @@
       "community",
       "sites"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2443,
-      "width": 177,
-      "height": 12
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "Charity",
+      "Shop"
     ],
     "widgetId": null
   },
@@ -8210,9 +8210,15 @@
     "idxpath": "//*[@id='gf-fbtn']",
     "area": 5184,
     "shape": 506,
-    "visibleText": [
-      "United",
-      "States"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2547,
+      "width": 162,
+      "height": 32
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "ebay",
@@ -8227,15 +8233,9 @@
       "by",
       "verisign"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2547,
-      "width": 162,
-      "height": 32
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "United",
+      "States"
     ],
     "widgetId": null
   },
@@ -8246,9 +8246,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[11]/a[1]",
     "area": 828,
     "shape": 575,
-    "visibleText": [
-      "Charity",
-      "Shop"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2443,
+      "width": 69,
+      "height": 12
+    },
+    "classList": [
+      "thrd"
     ],
     "neighborText": [
       "discussion",
@@ -8260,15 +8266,9 @@
       "community",
       "sites"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2443,
-      "width": 69,
-      "height": 12
-    },
-    "classList": [
-      "thrd"
+    "visibleText": [
+      "Charity",
+      "Shop"
     ],
     "widgetId": null
   },
@@ -8278,18 +8278,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[12]",
     "area": 2124,
     "shape": 1475,
-    "visibleText": [
-      "eBay",
-      "Community"
-    ],
-    "neighborText": [
-      "ebay",
-      "for",
-      "charity",
-      "shop",
-      "community",
-      "sites"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -8300,6 +8288,18 @@
     "classList": [
       "gf-li"
     ],
+    "neighborText": [
+      "ebay",
+      "for",
+      "charity",
+      "shop",
+      "community",
+      "sites"
+    ],
+    "visibleText": [
+      "eBay",
+      "Community"
+    ],
     "widgetId": null
   },
   {
@@ -8309,18 +8309,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[12]/a[1]",
     "area": 1092,
     "shape": 758,
-    "visibleText": [
-      "eBay",
-      "Community"
-    ],
-    "neighborText": [
-      "ebay",
-      "for",
-      "charity",
-      "shop",
-      "community",
-      "sites"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -8331,6 +8319,18 @@
     "classList": [
       "thrd"
     ],
+    "neighborText": [
+      "ebay",
+      "for",
+      "charity",
+      "shop",
+      "community",
+      "sites"
+    ],
+    "visibleText": [
+      "eBay",
+      "Community"
+    ],
     "widgetId": null
   },
   {
@@ -8339,9 +8339,15 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[13]",
     "area": 7080,
     "shape": 442,
-    "visibleText": [
-      "eBay",
-      "Sites"
+    "isButton": false,
+    "location": {
+      "x": 981,
+      "y": 2491,
+      "width": 177,
+      "height": 40
+    },
+    "classList": [
+      "gf-li"
     ],
     "neighborText": [
       "charity",
@@ -8353,15 +8359,9 @@
       "united",
       "states"
     ],
-    "isButton": false,
-    "location": {
-      "x": 981,
-      "y": 2491,
-      "width": 177,
-      "height": 40
-    },
-    "classList": [
-      "gf-li"
+    "visibleText": [
+      "eBay",
+      "Sites"
     ],
     "widgetId": null
   },
@@ -8372,19 +8372,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[1]/h3[1]/a[1]",
     "area": 1824,
     "shape": 712,
-    "visibleText": [
-      "Help",
-      "&",
-      "Contact"
-    ],
-    "neighborText": [
-      "help",
-      "&",
-      "contact",
-      "resolution",
-      "center",
-      "seller"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -8396,6 +8383,19 @@
       "gf-bttl",
       "thrd"
     ],
+    "neighborText": [
+      "help",
+      "&",
+      "contact",
+      "resolution",
+      "center",
+      "seller"
+    ],
+    "visibleText": [
+      "Help",
+      "&",
+      "Contact"
+    ],
     "widgetId": null
   },
   {
@@ -8404,18 +8404,6 @@
     "idxpath": "//*[@id='gf-BIG']/table[1]/tbody[1]/tr[1]/td[5]/ul[1]/li[13]/h3[1]",
     "area": 2832,
     "shape": 1106,
-    "visibleText": [
-      "eBay",
-      "Sites"
-    ],
-    "neighborText": [
-      "ebay",
-      "community",
-      "sites",
-      "0",
-      "united",
-      "states"
-    ],
     "isButton": false,
     "location": {
       "x": 981,
@@ -8425,6 +8413,18 @@
     },
     "classList": [
       "gf-bttl"
+    ],
+    "neighborText": [
+      "ebay",
+      "community",
+      "sites",
+      "0",
+      "united",
+      "states"
+    ],
+    "visibleText": [
+      "eBay",
+      "Sites"
     ],
     "widgetId": null
   }

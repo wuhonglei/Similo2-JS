@@ -7,15 +7,6 @@
     "area": 4752,
     "shape": 366,
     "widgetId": 1,
-    "visibleText": [
-      "Shopify",
-      "Ecommerce",
-      "-",
-      "Shopping",
-      "Cart",
-      "&",
-      "Software"
-    ],
     "isButton": false,
     "location": {
       "x": 137,
@@ -24,7 +15,16 @@
       "height": 36
     },
     "classList": [],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Shopify",
+      "Ecommerce",
+      "-",
+      "Shopping",
+      "Cart",
+      "&",
+      "Software"
+    ]
   },
   {
     "tag": "SPAN",
@@ -33,11 +33,15 @@
     "area": 6264,
     "shape": 483,
     "widgetId": 2,
-    "visibleText": [
-      "Sign",
-      "up",
-      "for",
-      "Shopify"
+    "isButton": false,
+    "location": {
+      "x": 782,
+      "y": 18,
+      "width": 174,
+      "height": 36
+    },
+    "classList": [
+      "btn-green"
     ],
     "neighborText": [
       "want",
@@ -54,15 +58,11 @@
       "a",
       "store"
     ],
-    "isButton": false,
-    "location": {
-      "x": 782,
-      "y": 18,
-      "width": 174,
-      "height": 36
-    },
-    "classList": [
-      "btn-green"
+    "visibleText": [
+      "Sign",
+      "up",
+      "for",
+      "Shopify"
     ]
   }
 ]

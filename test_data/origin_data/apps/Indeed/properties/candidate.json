@@ -17,7 +17,9 @@
       "icl-TextInput-label--whatWhere"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "What"
+    ],
     "area": null,
     "shape": null
   },
@@ -39,7 +41,9 @@
       "icl-TextInput-label--whatWhere"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Where"
+    ],
     "area": null,
     "shape": null
   },
@@ -108,7 +112,10 @@
       "icl-WhatWhere-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "jobs"
+    ],
     "area": null,
     "shape": null
   },
@@ -128,7 +135,11 @@
       "icl-TextPromo-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Post",
+      "your",
+      "resume"
+    ],
     "area": null,
     "shape": null
   },
@@ -149,7 +160,11 @@
       "with-border"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Upload",
+      "your",
+      "resume"
+    ],
     "area": null,
     "shape": null
   },
@@ -170,7 +185,10 @@
       "gnav-PageLink"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -191,7 +209,12 @@
       "with-border"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Employers",
+      "/",
+      "Post",
+      "Job"
+    ],
     "area": null,
     "shape": null
   },
@@ -211,7 +234,9 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Salaries"
+    ],
     "area": null,
     "shape": null
   },
@@ -231,7 +256,10 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Browse",
+      "Jobs"
+    ],
     "area": null,
     "shape": null
   },
@@ -251,7 +279,9 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null
   },
@@ -271,7 +301,10 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null
   },
@@ -290,7 +323,10 @@
       "jobsearch-PopularSearchesPillBoxes-pillBoxText"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Store",
+      "associate"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -334,7 +370,13 @@
       "jobsearch-TextLink-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Over",
+      "14",
+      "million",
+      "stories",
+      "shared"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -356,7 +398,14 @@
       "icl-u-xs-my--sm"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indeed",
+      "también",
+      "está",
+      "disponible",
+      "en",
+      "español"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -376,7 +425,11 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "2020",
+      "Indeed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -396,7 +449,13 @@
       "jobsearch-TextLink-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indeed",
+      "también",
+      "está",
+      "disponible",
+      "en"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -416,7 +475,14 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -436,7 +502,9 @@
       "jobsearch-TextLink-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "español"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -456,7 +524,14 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -476,7 +551,9 @@
       "jobsearch-PopularSearchesPillBoxes-pillBox"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FedEx"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -496,7 +573,9 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -516,7 +595,10 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -556,7 +638,10 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -576,7 +661,9 @@
       "jobsearch-PopularSearchesPillBoxes-pillBoxText"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FedEx"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -596,7 +683,9 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookies"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -616,7 +705,10 @@
       "jobsearch-PopularSearchesPillBoxes-pillBox"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Immediately",
+      "hiring"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -636,7 +728,11 @@
       "icl-TextPromo-linkText"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Post",
+      "your",
+      "resume"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -656,7 +752,9 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookies"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -696,7 +794,9 @@
       "icl-TextPromo-divider"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "–"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -716,7 +816,9 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -736,7 +838,10 @@
       "jobsearch-PopularSearchesPillBoxes-pillBoxText"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Immediately",
+      "hiring"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -758,7 +863,18 @@
       "icl-u-xs-my--sm"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indeed",
+      "helps",
+      "people",
+      "get",
+      "jobs:",
+      "Over",
+      "14",
+      "million",
+      "stories",
+      "shared"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -778,7 +894,14 @@
       "icl-TextPromo-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "It",
+      "only",
+      "takes",
+      "a",
+      "few",
+      "seconds"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -798,7 +921,9 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -818,7 +943,10 @@
       "jobsearch-PopularSearchesPillBoxes-pillBox"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Store",
+      "shopper"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -838,7 +966,9 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -878,7 +1008,9 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -919,7 +1051,10 @@
       "jobsearch-PopularSearchesPillBoxes-pillBoxText"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Store",
+      "shopper"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -939,7 +1074,9 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Salaries"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -961,7 +1098,12 @@
       "icl-u-lg-my--none"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Let",
+      "employers",
+      "find",
+      "you"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -981,7 +1123,9 @@
       "icl-TextPromo-divider"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "–"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1001,7 +1145,11 @@
       "icl-u-lg-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Upload",
+      "your",
+      "resume"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1021,7 +1169,10 @@
       "gnav-sr-only"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indeed",
+      "logo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1041,7 +1192,10 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "Certifications"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1063,7 +1217,11 @@
       "icl-Button--md"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Upload",
+      "your",
+      "resume"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1083,7 +1241,10 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "Certifications"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1103,7 +1264,10 @@
       "jobsearch-PopularSearchesPillBoxes-header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Popular",
+      "searches"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1123,7 +1287,10 @@
       "jobsearch-PopularSearchesPillBoxes-pillBox"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Essential",
+      "businesses"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1143,7 +1310,10 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indeed",
+      "Events"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1202,7 +1372,10 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indeed",
+      "Events"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1222,7 +1395,10 @@
       "jobsearch-PopularSearchesPillBoxes-pillBoxText"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Essential",
+      "businesses"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1242,7 +1418,11 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Work",
+      "at",
+      "Indeed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1262,7 +1442,9 @@
       "jobsearch-PopularSearchesPillBoxes-pillBox"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Amazon"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1282,7 +1464,13 @@
       "jobsearch-TextLink-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indeed",
+      "helps",
+      "people",
+      "get",
+      "jobs:"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1302,7 +1490,11 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Work",
+      "at",
+      "Indeed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1342,7 +1534,12 @@
       "gnav-SkipNavLink"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1362,7 +1559,9 @@
       "icl-GlobalFooter-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Countries"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1382,7 +1581,9 @@
       "jobsearch-PopularSearchesPillBoxes-pillBoxText"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Amazon"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1402,7 +1603,12 @@
       "gnav-SkipNavLink-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1422,7 +1628,9 @@
       "icl-GlobalFooter-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Countries"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

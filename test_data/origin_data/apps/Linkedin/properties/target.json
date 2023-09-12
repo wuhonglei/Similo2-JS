@@ -59,7 +59,10 @@
       "link-forgot-password"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
     "area": null,
     "shape": null
   },

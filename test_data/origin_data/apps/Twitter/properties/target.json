@@ -61,7 +61,10 @@
       "flex-table-secondary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -81,7 +84,10 @@
       "forgot"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
     "area": null,
     "shape": null
   },
@@ -99,7 +105,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -117,7 +126,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -135,7 +148,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Blog",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -153,7 +169,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Status",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -171,7 +190,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -189,7 +211,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "policy",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -207,7 +233,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -225,7 +254,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookies",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -243,7 +275,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ads",
+      "info",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -261,7 +297,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Brand",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -279,7 +318,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advertise",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -297,7 +339,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Businesses",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -315,7 +360,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -333,7 +381,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Directory",
+      "·"
+    ],
     "area": null,
     "shape": null
   },
@@ -351,7 +402,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Settings"
+    ],
     "area": null,
     "shape": null
   },
@@ -369,7 +422,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "2017",
+      "Twitter"
+    ],
     "area": null,
     "shape": null
   }

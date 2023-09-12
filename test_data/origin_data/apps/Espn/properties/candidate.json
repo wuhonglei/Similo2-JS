@@ -14,7 +14,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null
   },
@@ -38,7 +40,10 @@
       "current-league-name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Top",
+      "Events"
+    ],
     "area": null,
     "shape": null
   },
@@ -62,7 +67,10 @@
       "espn-plus-paywall-article"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SUBSCRIBE",
+      "NOW"
+    ],
     "area": null,
     "shape": null
   },
@@ -102,7 +110,10 @@
       "module__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Top",
+      "Headlines"
+    ],
     "area": null,
     "shape": null
   },
@@ -122,7 +133,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Quick",
+      "Links"
+    ],
     "area": null,
     "shape": null
   },
@@ -142,7 +156,9 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Favorites"
+    ],
     "area": null,
     "shape": null
   },
@@ -162,7 +178,10 @@
       "open-favs"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Manage",
+      "Favorites"
+    ],
     "area": null,
     "shape": null
   },
@@ -182,7 +201,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Sites"
+    ],
     "area": null,
     "shape": null
   },
@@ -203,7 +225,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Deportes"
+    ],
     "area": null,
     "shape": null
   },
@@ -225,7 +250,10 @@
       "external"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "Undefeated"
+    ],
     "area": null,
     "shape": null
   },
@@ -246,7 +274,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "espnW"
+    ],
     "area": null,
     "shape": null
   },
@@ -267,7 +297,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPNFC"
+    ],
     "area": null,
     "shape": null
   },
@@ -289,7 +321,10 @@
       "external"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "X",
+      "Games"
+    ],
     "area": null,
     "shape": null
   },
@@ -311,7 +346,10 @@
       "external"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SEC",
+      "Network"
+    ],
     "area": null,
     "shape": null
   },
@@ -331,7 +369,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Apps"
+    ],
     "area": null,
     "shape": null
   },
@@ -352,7 +393,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null
   },
@@ -373,7 +416,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Fantasy"
+    ],
     "area": null,
     "shape": null
   },
@@ -394,7 +440,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null
   },
@@ -415,7 +463,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null
   },
@@ -436,7 +486,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null
   },
@@ -457,7 +509,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Snapchat"
+    ],
     "area": null,
     "shape": null
   },
@@ -477,7 +531,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Follow",
+      "ESPN"
+    ],
     "area": null,
     "shape": null
   },
@@ -496,7 +553,11 @@
       "scoreboard-hidden-skipnav"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "navigation"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -517,7 +578,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "DUKE"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -538,7 +601,13 @@
       "cscore_item--away"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Omaha",
+      "Mavericks",
+      "Omaha",
+      "OMA",
+      "67"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -558,7 +627,9 @@
       "scoreLabel_title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NCAAM"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -578,7 +649,9 @@
       "cscore_date"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -599,7 +672,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "STAN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -620,7 +695,11 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3:30",
+      "AM",
+      "UTC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -641,7 +720,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "CREI"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -659,7 +740,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -680,7 +763,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -701,7 +786,14 @@
       "cscore_item--away"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "7",
+      "Kansas",
+      "Jayhawks",
+      "Kansas",
+      "KU",
+      "1-1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -722,7 +814,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -743,7 +837,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UNC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -764,7 +860,18 @@
       "cscore_item--away"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "St.",
+      "Francis",
+      "(PA)",
+      "Red",
+      "Flash",
+      "St.",
+      "Fran.",
+      "(PA)",
+      "SFPA",
+      "51"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -784,7 +891,20 @@
       "cscore_details"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "12",
+      "Villanova",
+      "Wildcats",
+      "Villanova",
+      "VILL",
+      "87",
+      "Hartford",
+      "Hawks",
+      "Hartford",
+      "HART",
+      "53",
+      "Bubbleville"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -805,7 +925,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "OKST"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -826,7 +948,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "KU"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -847,7 +971,14 @@
       "cscore_item--away"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "12",
+      "Villanova",
+      "Wildcats",
+      "Villanova",
+      "VILL",
+      "87"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -868,7 +999,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SFPA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -890,7 +1023,14 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marquette",
+      "Golden",
+      "Eagles",
+      "Marquette",
+      "MARQ",
+      "2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -912,7 +1052,14 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "20",
+      "Kentucky",
+      "Wildcats",
+      "Kentucky",
+      "UK",
+      "1-1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -955,7 +1102,14 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "15",
+      "Virginia",
+      "Cavaliers",
+      "Virginia",
+      "UVA",
+      "76"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -976,7 +1130,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "VILL"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -997,7 +1153,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MARQ"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1019,7 +1177,13 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Hartford",
+      "Hawks",
+      "Hartford",
+      "HART",
+      "53"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1040,7 +1204,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UVA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1061,7 +1227,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1082,7 +1250,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "HART"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1102,7 +1272,22 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final",
+      "Green",
+      "Bay",
+      "Phoenix",
+      "Green",
+      "Bay",
+      "GB",
+      "42",
+      "4",
+      "Wisconsin",
+      "Badgers",
+      "Wisconsin",
+      "WISC",
+      "82"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1122,7 +1307,23 @@
       "cscore_details"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "17",
+      "Texas",
+      "Longhorns",
+      "Texas",
+      "TEX",
+      "66",
+      "Indiana",
+      "Hoosiers",
+      "Indiana",
+      "IU",
+      "44",
+      "Camping",
+      "World",
+      "Maui",
+      "Invitational"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1183,7 +1384,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1203,7 +1406,9 @@
       "cscore_date"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1224,7 +1429,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TEX"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1245,7 +1452,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "OMA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1266,7 +1475,11 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1:30",
+      "AM",
+      "UTC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1287,7 +1500,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "GB"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1309,7 +1524,13 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Indiana",
+      "Hoosiers",
+      "Indiana",
+      "IU",
+      "44"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1327,7 +1548,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1349,7 +1572,14 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4",
+      "Wisconsin",
+      "Badgers",
+      "Wisconsin",
+      "WISC",
+      "82"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1370,7 +1600,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "IU"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1392,7 +1624,13 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Stanford",
+      "Cardinal",
+      "Stanford",
+      "STAN",
+      "63"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1413,7 +1651,16 @@
       "cscore_item--away"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "8",
+      "Michigan",
+      "State",
+      "Spartans",
+      "Michigan",
+      "State",
+      "MSU",
+      "2-0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1434,7 +1681,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "WISC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1475,7 +1724,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MSU"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1495,7 +1746,20 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final",
+      "Omaha",
+      "Mavericks",
+      "Omaha",
+      "OMA",
+      "67",
+      "9",
+      "Creighton",
+      "Bluejays",
+      "Creighton",
+      "CREI",
+      "94"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1516,7 +1780,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1538,7 +1804,15 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "6",
+      "Duke",
+      "Blue",
+      "Devils",
+      "Duke",
+      "DUKE",
+      "1-0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1559,7 +1833,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Final"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1580,7 +1856,13 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lokomotiv",
+      "Moscow",
+      "Lokomotiv",
+      "LMO",
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1601,7 +1883,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1623,7 +1907,14 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FC",
+      "Salzburg",
+      "FC",
+      "Salzburg",
+      "SALZ",
+      "3"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1641,7 +1932,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN+"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1662,7 +1955,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ATA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1683,7 +1978,12 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marseille",
+      "Marseille",
+      "MAR",
+      "2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1703,7 +2003,21 @@
       "cscore_details"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4",
+      "Baylor",
+      "Bears",
+      "Baylor",
+      "BAY",
+      "3",
+      "South",
+      "Florida",
+      "Bulls",
+      "South",
+      "Florida",
+      "USF",
+      "8"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1724,7 +2038,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SALZ"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1746,7 +2062,13 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FC",
+      "Midtjylland",
+      "Midtjylland",
+      "MIDT",
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1767,7 +2089,14 @@
       "cscore_item--away"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4",
+      "Baylor",
+      "Bears",
+      "Baylor",
+      "BAY",
+      "3"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1788,7 +2117,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MAR"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1808,7 +2139,22 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT",
+      "Liverpool",
+      "Liverpool",
+      "LIV",
+      "1",
+      "Ajax",
+      "Amsterdam",
+      "Ajax",
+      "AJAX",
+      "0",
+      "2020-21",
+      "UEFA",
+      "Champions",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1829,7 +2175,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MIDT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1851,7 +2199,12 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Olympiakos",
+      "Olympiakos",
+      "OLY",
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1872,7 +2225,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "BAY"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1893,7 +2248,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1913,7 +2270,21 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT",
+      "Marseille",
+      "Marseille",
+      "MAR",
+      "2",
+      "Olympiakos",
+      "Olympiakos",
+      "OLY",
+      "1",
+      "2020-21",
+      "UEFA",
+      "Champions",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1955,7 +2326,15 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "South",
+      "Florida",
+      "Bulls",
+      "South",
+      "Florida",
+      "USF",
+      "8"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1976,7 +2355,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "OLY"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1997,7 +2378,12 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Liverpool",
+      "Liverpool",
+      "LIV",
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2018,7 +2404,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2060,7 +2448,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LIV"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2081,7 +2471,13 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Borussia",
+      "Monchengladbach",
+      "Gladbach",
+      "MON",
+      "2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2124,7 +2520,13 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ajax",
+      "Amsterdam",
+      "Ajax",
+      "AJAX",
+      "0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2145,7 +2547,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MON"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2165,7 +2569,9 @@
       "scoreLabel_title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UCL"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2207,7 +2613,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "AJAX"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2229,7 +2637,13 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Internazionale",
+      "Inter",
+      "Milan",
+      "INT",
+      "3"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2249,7 +2663,24 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT",
+      "Shakhtar",
+      "Donetsk",
+      "Shakhtar",
+      "SHK",
+      "2",
+      "Real",
+      "Madrid",
+      "Real",
+      "Madrid",
+      "MAD",
+      "0",
+      "2020-21",
+      "UEFA",
+      "Champions",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2269,7 +2700,9 @@
       "scoreLabel_title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NCAAW"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2289,7 +2722,23 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT",
+      "Atletico",
+      "Madrid",
+      "Atletico",
+      "ATL",
+      "1",
+      "Bayern",
+      "Munich",
+      "Bayern",
+      "MUN",
+      "1",
+      "2020-21",
+      "UEFA",
+      "Champions",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2310,7 +2759,12 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Atalanta",
+      "Atalanta",
+      "ATA",
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2331,7 +2785,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "INT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2352,7 +2808,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2373,7 +2831,13 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Shakhtar",
+      "Donetsk",
+      "Shakhtar",
+      "SHK",
+      "2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2393,7 +2857,25 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT",
+      "FC",
+      "Porto",
+      "FC",
+      "Porto",
+      "POR",
+      "0",
+      "Manchester",
+      "City",
+      "Man",
+      "City",
+      "MNC",
+      "0",
+      "2020-21",
+      "UEFA",
+      "Champions",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2414,7 +2896,13 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Atletico",
+      "Madrid",
+      "Atletico",
+      "ATL",
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2435,7 +2923,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SHK"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2456,7 +2946,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2476,7 +2968,20 @@
       "cscore_details"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Florida",
+      "Gators",
+      "Florida",
+      "FLA",
+      "43",
+      "Florida",
+      "State",
+      "Seminoles",
+      "Florida",
+      "State",
+      "FSU",
+      "49"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2497,7 +3002,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ATL"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2518,7 +3025,14 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FC",
+      "Porto",
+      "FC",
+      "Porto",
+      "POR",
+      "0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2539,7 +3053,13 @@
       "cscore_item--away"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Florida",
+      "Gators",
+      "Florida",
+      "FLA",
+      "43"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2561,7 +3081,13 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Bayern",
+      "Munich",
+      "Bayern",
+      "MUN",
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2582,7 +3108,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MAD"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2603,7 +3131,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "POR"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2624,7 +3154,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FLA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2645,7 +3177,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MUN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2666,7 +3200,9 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2688,7 +3224,14 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Manchester",
+      "City",
+      "Man",
+      "City",
+      "MNC",
+      "0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2710,7 +3253,15 @@
       "last"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Florida",
+      "State",
+      "Seminoles",
+      "Florida",
+      "State",
+      "FSU",
+      "49"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2730,7 +3281,22 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FT",
+      "Atalanta",
+      "Atalanta",
+      "ATA",
+      "1",
+      "FC",
+      "Midtjylland",
+      "Midtjylland",
+      "MIDT",
+      "1",
+      "2020-21",
+      "UEFA",
+      "Champions",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2751,7 +3317,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MNC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2772,7 +3340,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NHL",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2792,7 +3364,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "Playoff",
+      "Machine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2813,7 +3389,14 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fantasy",
+      "Football:",
+      "Week",
+      "13",
+      "Waiver",
+      "Wire"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2834,7 +3417,11 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3:30",
+      "AM",
+      "UTC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2855,7 +3442,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "Playoff",
+      "Machine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2875,7 +3466,14 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fantasy",
+      "Football:",
+      "Week",
+      "13",
+      "Waiver",
+      "Wire"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2895,7 +3493,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "Undefeated"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2915,7 +3516,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "Playoff",
+      "Machine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2935,7 +3540,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Peyton's",
+      "Places:",
+      "Beast",
+      "Quake"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2953,7 +3563,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2973,7 +3585,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Euro",
+      "Soccer",
+      "Saturday"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2994,7 +3610,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Peyton's",
+      "Places:",
+      "Beast",
+      "Quake"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3014,7 +3635,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3035,7 +3658,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Euro",
+      "Soccer",
+      "Saturday"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3055,7 +3682,25 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wed",
+      "3:30",
+      "AM",
+      "UTC",
+      "Seattle",
+      "Sounders",
+      "FC",
+      "Seattle",
+      "SEA",
+      "FC",
+      "Dallas",
+      "Dallas",
+      "DAL",
+      "2020",
+      "Major",
+      "League",
+      "Soccer"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3095,7 +3740,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Peyton's",
+      "Places:",
+      "Beast",
+      "Quake"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3115,7 +3765,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "espnW"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3135,7 +3787,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Euro",
+      "Soccer",
+      "Saturday"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3155,7 +3811,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Radio",
+      "Streams"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3175,7 +3835,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Monday",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3195,7 +3859,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "PrimeTime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3216,7 +3883,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Radio",
+      "Streams"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3236,7 +3907,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3257,7 +3930,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Monday",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3277,7 +3954,9 @@
       "scoreLabel_title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3297,7 +3976,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Radio",
+      "Streams"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3317,7 +4000,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPNFC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3337,7 +4022,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Monday",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3357,7 +4046,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Deportes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3377,7 +4069,24 @@
       "cscore_link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "9:40",
+      "PM",
+      "UTC",
+      "NBC",
+      "PIT",
+      "-10.0",
+      "Baltimore",
+      "Ravens",
+      "Ravens",
+      "BAL",
+      "6-4",
+      "Pittsburgh",
+      "Steelers",
+      "Steelers",
+      "PIT",
+      "10-0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3417,7 +4126,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "Fight",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3437,7 +4151,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3458,7 +4174,11 @@
       "time"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "9:40",
+      "PM",
+      "UTC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3479,7 +4199,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "Fight",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3500,7 +4225,10 @@
       "quicklinks_list__item--eplus-paywall"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SUBSCRIBE",
+      "NOW"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3521,7 +4249,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBA",
+      "Free",
+      "Agency",
+      "Buzz"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3542,7 +4275,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ROT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3562,7 +4297,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "X",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3580,7 +4318,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3600,7 +4340,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "Fight",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3620,7 +4365,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBA",
+      "Free",
+      "Agency",
+      "Buzz"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3640,7 +4390,13 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "256:",
+      "Figueiredo",
+      "vs.",
+      "Moreno"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3660,7 +4416,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Capital",
+      "One",
+      "Bowl",
+      "Mania"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3680,7 +4441,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Snapchat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3700,7 +4463,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NHL",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3721,7 +4488,13 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "256:",
+      "Figueiredo",
+      "vs.",
+      "Moreno"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3742,7 +4515,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Capital",
+      "One",
+      "Bowl",
+      "Mania"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3762,7 +4540,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3783,7 +4563,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "BAL"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3803,7 +4585,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SEC",
+      "Network"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3823,7 +4608,13 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "256:",
+      "Figueiredo",
+      "vs.",
+      "Moreno"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3844,7 +4635,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3864,7 +4657,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fantasy",
+      "Basketball:",
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3884,7 +4682,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Fantasy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3904,7 +4705,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "College",
+      "Basketball:",
+      "Select",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3925,7 +4731,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "HUD"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3945,7 +4753,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3966,7 +4776,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "College",
+      "Basketball:",
+      "Select",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3987,7 +4802,9 @@
       "cscore_name--abbrev"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "PIT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4007,7 +4824,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "ESPN",
+      "Daily",
+      "Podcast"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4027,7 +4849,9 @@
       "cscore_date"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4047,7 +4871,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "College",
+      "Basketball:",
+      "Select",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4068,7 +4897,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "ESPN",
+      "Daily",
+      "Podcast"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4088,7 +4922,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MLB",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4108,7 +4946,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4128,7 +4968,21 @@
       "cscore_details"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Rotherham",
+      "United",
+      "Rotherham",
+      "ROT",
+      "0",
+      "Brentford",
+      "Brentford",
+      "BRN",
+      "2",
+      "2020-21",
+      "English",
+      "League",
+      "Championship"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4148,7 +5002,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NHL",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4169,7 +5027,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "PrimeTime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4190,7 +5051,13 @@
       "cscore_item--home"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Rotherham",
+      "United",
+      "Rotherham",
+      "ROT",
+      "0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4211,7 +5078,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "PrimeTime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4231,7 +5101,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Fantasy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4251,7 +5124,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4291,7 +5166,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "Undefeated"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4311,7 +5189,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "Playoff",
+      "Machine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4332,7 +5214,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4350,7 +5234,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Stream",
+      "the",
+      "best",
+      "of",
+      "the",
+      "UFC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4370,7 +5261,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "espnW"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4391,7 +5284,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "Playoff",
+      "Machine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4433,7 +5330,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Stream",
+      "the",
+      "best",
+      "of",
+      "the",
+      "UFC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4453,7 +5357,10 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "Undefeated"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4473,7 +5380,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4494,7 +5403,17 @@
       "contentItem__title--story"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "'I",
+      "won't",
+      "resign':",
+      "Zidane",
+      "defiant",
+      "after",
+      "loss",
+      "to",
+      "Shakhtar"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4514,7 +5433,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "Playoff",
+      "Machine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4534,7 +5457,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4555,7 +5480,24 @@
       "contentItem__title--story"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Week",
+      "13",
+      "NFL",
+      "Power",
+      "Rankings:",
+      "1-32",
+      "poll,",
+      "plus",
+      "the",
+      "most",
+      "important",
+      "game",
+      "left",
+      "for",
+      "each",
+      "team"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4575,7 +5517,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "espnW"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4595,7 +5539,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Euro",
+      "Soccer",
+      "Saturday"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4616,7 +5564,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4659,7 +5609,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NHL",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4679,7 +5633,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPNFC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4700,7 +5656,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Euro",
+      "Soccer",
+      "Saturday"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4720,7 +5680,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4738,7 +5700,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "What",
+      "if",
+      "I",
+      "told",
+      "you",
+      "..."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4760,7 +5729,20 @@
       "contentItem__title--story"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Biggest",
+      "questions",
+      "for",
+      "Kentucky,",
+      "Jalen",
+      "Suggs'",
+      "stardom",
+      "and",
+      "a",
+      "Champions",
+      "Classic",
+      "preview"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4780,7 +5762,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Euro",
+      "Soccer",
+      "Saturday"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4800,7 +5786,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4819,7 +5807,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "What",
+      "if",
+      "I",
+      "told",
+      "you",
+      "..."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4839,7 +5834,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPNFC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4859,7 +5856,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Monday",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4880,7 +5881,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4918,7 +5921,10 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "X",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4939,7 +5945,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Monday",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4957,7 +5967,16 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "teams",
+      "can",
+      "qualify",
+      "for",
+      "round",
+      "of",
+      "16"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4975,7 +5994,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "On",
+      "this",
+      "date"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4995,7 +6018,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5015,7 +6040,10 @@
       "contentMeta__author"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Myron",
+      "Medcalf"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5033,7 +6061,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2020-21",
+      "NBA",
+      "SEASON"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5053,7 +6085,9 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN+"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5073,7 +6107,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Monday",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5093,7 +6131,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Snapchat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5113,7 +6153,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Quick",
+      "Links"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5133,7 +6176,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "X",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5153,7 +6199,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "Fight",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5174,7 +6225,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Snapchat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5194,7 +6247,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBA",
+      "Free",
+      "Agency",
+      "Buzz"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5214,7 +6272,10 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SEC",
+      "Network"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5235,7 +6296,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "Fight",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5255,7 +6321,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Follow",
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5276,7 +6345,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBA",
+      "Free",
+      "Agency",
+      "Buzz"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5296,7 +6370,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Snapchat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5334,7 +6410,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Watch",
+      "Now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5354,7 +6433,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "Fight",
+      "Night",
+      "Pick'em"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5374,7 +6458,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5394,7 +6480,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBA",
+      "Free",
+      "Agency",
+      "Buzz"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5414,7 +6505,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SEC",
+      "Network"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5434,7 +6528,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Capital",
+      "One",
+      "Bowl",
+      "Mania"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5452,7 +6551,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "on",
+      "ESPN+"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5473,7 +6576,11 @@
       "med"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "A",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5493,7 +6600,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fantasy",
+      "Basketball:",
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5514,7 +6626,13 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "256:",
+      "Figueiredo",
+      "vs.",
+      "Moreno"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5534,7 +6652,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Apps"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5555,7 +6676,12 @@
       "med"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Join",
+      "a",
+      "Public",
+      "League"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5576,7 +6702,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fantasy",
+      "Basketball:",
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5596,7 +6727,9 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5616,7 +6749,13 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "UFC",
+      "256:",
+      "Figueiredo",
+      "vs.",
+      "Moreno"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5636,7 +6775,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Capital",
+      "One",
+      "Bowl",
+      "Mania"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5657,7 +6801,18 @@
       "contentItem__title--story"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lowe:",
+      "Why",
+      "the",
+      "Heat",
+      "changed",
+      "up",
+      "their",
+      "popular",
+      "‘Vice’",
+      "jerseys"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5678,7 +6833,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5698,7 +6855,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "College",
+      "Basketball:",
+      "Select",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5716,7 +6878,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Practice",
+      "With",
+      "a",
+      "Mock",
+      "Draft"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5736,7 +6904,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Sites"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5756,7 +6927,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MLB",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5777,7 +6952,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "College",
+      "Basketball:",
+      "Select",
+      "Games"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5797,7 +6977,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5817,7 +6999,10 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Deportes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5838,7 +7023,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MLB",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5858,7 +7047,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NHL",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5876,7 +7069,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "THROWDOWN",
+      "IN",
+      "TRANSITION"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5896,7 +7093,10 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Fantasy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5917,7 +7117,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Deportes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5935,7 +7138,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MEN'S",
+      "COLLEGE",
+      "HOOPS"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5956,7 +7163,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Fantasy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5976,7 +7186,10 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NFL",
+      "PrimeTime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -5997,7 +7210,17 @@
       "contentItem__title--video"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Watch",
+      "live:",
+      "College",
+      "Football",
+      "Playoff",
+      "--",
+      "Top",
+      "25",
+      "reveal"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6017,7 +7240,10 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Deportes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6037,7 +7263,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NHL",
+      "Free",
+      "Agency"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6058,7 +7288,11 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Daily",
+      "Calendar"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6078,7 +7312,11 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Daily",
+      "Calendar"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6096,7 +7334,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6114,7 +7356,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6132,7 +7378,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6150,7 +7399,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6170,7 +7422,12 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "ESPN",
+      "Daily",
+      "Newsletter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6188,7 +7445,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Your",
+      "California",
+      "Privacy",
+      "Rights"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6206,7 +7468,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Your",
+      "California",
+      "Privacy",
+      "Rights"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6224,7 +7491,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Children's",
+      "Online",
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6242,7 +7514,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Children's",
+      "Online",
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6260,7 +7537,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Interest-Based",
+      "Ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6278,7 +7558,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Interest-Based",
+      "Ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6296,7 +7579,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Nielsen",
+      "Measurement"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6314,7 +7601,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Nielsen",
+      "Measurement"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6332,7 +7623,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Info"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6352,7 +7649,9 @@
       "quicklinks_list__name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6370,7 +7669,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Info"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6390,7 +7695,11 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Daily",
+      "Calendar"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6410,7 +7719,12 @@
       "quicklinks_list__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "ESPN",
+      "Daily",
+      "Podcast"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6428,7 +7742,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6449,7 +7766,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "ESPN",
+      "Daily",
+      "Podcast"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6467,7 +7789,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6485,7 +7810,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Disney",
+      "Ad",
+      "Sales",
+      "Site"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6503,7 +7833,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Disney",
+      "Ad",
+      "Sales",
+      "Site"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -6524,7 +7859,12 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "ESPN",
+      "Daily",
+      "Newsletter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

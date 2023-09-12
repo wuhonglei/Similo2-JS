@@ -6,9 +6,6 @@
     "area": 6640,
     "shape": 415,
     "widgetId": 1,
-    "visibleText": [
-      "AliExpress"
-    ],
     "isButton": false,
     "location": {
       "x": 60,
@@ -24,6 +21,9 @@
       "Shopping,",
       "Better",
       "Living!"
+    ],
+    "visibleText": [
+      "AliExpress"
     ]
   },
   {
@@ -35,11 +35,6 @@
     "area": 16568,
     "shape": 1147,
     "widgetId": 2,
-    "visibleText": [
-      "I'm",
-      "shopping",
-      "for..."
-    ],
     "isButton": false,
     "location": {
       "x": 279,
@@ -59,6 +54,11 @@
       "Shopping,",
       "Better",
       "Living!"
+    ],
+    "visibleText": [
+      "I'm",
+      "shopping",
+      "for..."
     ]
   },
   {
@@ -69,10 +69,6 @@
     "area": 2340,
     "shape": 346,
     "widgetId": 3,
-    "visibleText": [
-      "All",
-      "Categories"
-    ],
     "isButton": false,
     "location": {
       "x": 732,
@@ -90,6 +86,10 @@
       "Help",
       "Trending",
       "Styles"
+    ],
+    "visibleText": [
+      "All",
+      "Categories"
     ]
   },
   {
@@ -129,9 +129,6 @@
     "area": 2108,
     "shape": 182,
     "widgetId": 5,
-    "visibleText": [
-      "Cart"
-    ],
     "isButton": false,
     "location": {
       "x": 925,
@@ -143,6 +140,9 @@
     "neighborText": [
       "Wish",
       "List"
+    ],
+    "visibleText": [
+      "Cart"
     ]
   },
   {
@@ -152,9 +152,6 @@
     "area": 1275,
     "shape": 566,
     "widgetId": 6,
-    "visibleText": [
-      "CATEGORIES"
-    ],
     "isButton": false,
     "location": {
       "x": 34,
@@ -173,6 +170,9 @@
       ">",
       "Women’s",
       "Clothing"
+    ],
+    "visibleText": [
+      "CATEGORIES"
     ]
   },
   {
@@ -183,10 +183,6 @@
     "area": 1575,
     "shape": 700,
     "widgetId": 7,
-    "visibleText": [
-      "Women’s",
-      "Clothing"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -199,6 +195,10 @@
       "CATEGORIES",
       "Men’s",
       "Clothing"
+    ],
+    "visibleText": [
+      "Women’s",
+      "Clothing"
     ]
   },
   {
@@ -209,10 +209,6 @@
     "area": 1275,
     "shape": 566,
     "widgetId": 8,
-    "visibleText": [
-      "Men’s",
-      "Clothing"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -227,6 +223,10 @@
       "Phones",
       "&",
       "Accessories"
+    ],
+    "visibleText": [
+      "Men’s",
+      "Clothing"
     ]
   },
   {
@@ -237,11 +237,6 @@
     "area": 1935,
     "shape": 860,
     "widgetId": 9,
-    "visibleText": [
-      "Phones",
-      "&",
-      "Accessories"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -256,6 +251,11 @@
       "Computer",
       "&",
       "Office"
+    ],
+    "visibleText": [
+      "Phones",
+      "&",
+      "Accessories"
     ]
   },
   {
@@ -265,11 +265,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 10,
-    "visibleText": [
-      "Computer",
-      "&",
-      "Office"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -284,6 +279,11 @@
       "Accessories",
       "Consumer",
       "Electronics"
+    ],
+    "visibleText": [
+      "Computer",
+      "&",
+      "Office"
     ]
   },
   {
@@ -294,10 +294,6 @@
     "area": 1905,
     "shape": 846,
     "widgetId": 11,
-    "visibleText": [
-      "Consumer",
-      "Electronics"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -313,6 +309,10 @@
       "Jewelry",
       "&",
       "Watches"
+    ],
+    "visibleText": [
+      "Consumer",
+      "Electronics"
     ]
   },
   {
@@ -323,9 +323,6 @@
     "area": 660,
     "shape": 293,
     "widgetId": 12,
-    "visibleText": [
-      "Jewelry"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -342,6 +339,9 @@
       "&",
       "Garden,",
       "Furniture"
+    ],
+    "visibleText": [
+      "Jewelry"
     ]
   },
   {
@@ -352,9 +352,6 @@
     "area": 750,
     "shape": 333,
     "widgetId": 13,
-    "visibleText": [
-      "Watches"
-    ],
     "isButton": false,
     "location": {
       "x": 125,
@@ -369,6 +366,9 @@
       "Garden,",
       "Furniture",
       "Furniture"
+    ],
+    "visibleText": [
+      "Watches"
     ]
   },
   {
@@ -379,9 +379,6 @@
     "area": 435,
     "shape": 193,
     "widgetId": 14,
-    "visibleText": [
-      "Bags"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -400,6 +397,9 @@
       "Garden",
       "Shoes",
       "Toys"
+    ],
+    "visibleText": [
+      "Bags"
     ]
   },
   {
@@ -410,9 +410,6 @@
     "area": 540,
     "shape": 240,
     "widgetId": 15,
-    "visibleText": [
-      "Shoes"
-    ],
     "isButton": false,
     "location": {
       "x": 111,
@@ -430,6 +427,9 @@
       "Kids",
       "&",
       "Baby"
+    ],
+    "visibleText": [
+      "Shoes"
     ]
   },
   {
@@ -440,9 +440,6 @@
     "area": 390,
     "shape": 173,
     "widgetId": 16,
-    "visibleText": [
-      "Toys"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -462,6 +459,9 @@
       "Sports",
       "&",
       "Outdoors"
+    ],
+    "visibleText": [
+      "Toys"
     ]
   },
   {
@@ -472,11 +472,6 @@
     "area": 1050,
     "shape": 466,
     "widgetId": 17,
-    "visibleText": [
-      "Kids",
-      "&",
-      "Baby"
-    ],
     "isButton": false,
     "location": {
       "x": 99,
@@ -491,6 +486,11 @@
       "Outdoors",
       "Shoes",
       "Toys"
+    ],
+    "visibleText": [
+      "Kids",
+      "&",
+      "Baby"
     ]
   },
   {
@@ -501,11 +501,6 @@
     "area": 1590,
     "shape": 706,
     "widgetId": 18,
-    "visibleText": [
-      "Sports",
-      "&",
-      "Outdoors"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -522,6 +517,11 @@
       "Health",
       "&",
       "Beauty"
+    ],
+    "visibleText": [
+      "Sports",
+      "&",
+      "Outdoors"
     ]
   },
   {
@@ -532,11 +532,6 @@
     "area": 1395,
     "shape": 620,
     "widgetId": 19,
-    "visibleText": [
-      "Health",
-      "&",
-      "Beauty"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -552,6 +547,11 @@
       "Automobiles",
       "&",
       "Motorcycles"
+    ],
+    "visibleText": [
+      "Health",
+      "&",
+      "Beauty"
     ]
   },
   {
@@ -562,11 +562,6 @@
     "area": 2340,
     "shape": 1040,
     "widgetId": 20,
-    "visibleText": [
-      "Automobiles",
-      "&",
-      "Motorcycles"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -581,6 +576,11 @@
       "Beauty",
       "Home",
       "Improvement"
+    ],
+    "visibleText": [
+      "Automobiles",
+      "&",
+      "Motorcycles"
     ]
   },
   {
@@ -591,10 +591,6 @@
     "area": 1710,
     "shape": 760,
     "widgetId": 21,
-    "visibleText": [
-      "Home",
-      "Improvement"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -607,6 +603,10 @@
       "Automobiles",
       "&",
       "Motorcycles"
+    ],
+    "visibleText": [
+      "Home",
+      "Improvement"
     ]
   },
   {
@@ -617,10 +617,6 @@
     "area": 3003,
     "shape": 197,
     "widgetId": 22,
-    "visibleText": [
-      "Flash",
-      "Deals"
-    ],
     "isButton": false,
     "location": {
       "x": 283,
@@ -639,6 +635,10 @@
       "I'm",
       "shopping",
       "for..."
+    ],
+    "visibleText": [
+      "Flash",
+      "Deals"
     ]
   },
   {
@@ -649,10 +649,6 @@
     "area": 645,
     "shape": 286,
     "widgetId": 23,
-    "visibleText": [
-      "Sign",
-      "in"
-    ],
     "isButton": false,
     "location": {
       "x": 1130,
@@ -665,6 +661,10 @@
       "Language",
       "My",
       "AliExpress"
+    ],
+    "visibleText": [
+      "Sign",
+      "in"
     ]
   },
   {
@@ -675,9 +675,6 @@
     "area": 345,
     "shape": 153,
     "widgetId": 24,
-    "visibleText": [
-      "Join"
-    ],
     "isButton": false,
     "location": {
       "x": 1187,
@@ -689,6 +686,9 @@
     "neighborText": [
       "Sign",
       "in"
+    ],
+    "visibleText": [
+      "Join"
     ]
   },
   {
@@ -698,10 +698,6 @@
     "area": 8330,
     "shape": 680,
     "widgetId": 25,
-    "visibleText": [
-      "Women’s",
-      "Clothing"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -714,6 +710,10 @@
       "CATEGORIES",
       "Men’s",
       "Clothing"
+    ],
+    "visibleText": [
+      "Women’s",
+      "Clothing"
     ]
   },
   {
@@ -723,10 +723,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 26,
-    "visibleText": [
-      "Men’s",
-      "Clothing"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -741,6 +737,10 @@
       "Phones",
       "&",
       "Accessories"
+    ],
+    "visibleText": [
+      "Men’s",
+      "Clothing"
     ]
   },
   {
@@ -750,11 +750,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 27,
-    "visibleText": [
-      "Phones",
-      "&",
-      "Accessories"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -769,6 +764,11 @@
       "Computer",
       "&",
       "Office"
+    ],
+    "visibleText": [
+      "Phones",
+      "&",
+      "Accessories"
     ]
   },
   {
@@ -778,10 +778,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 28,
-    "visibleText": [
-      "Consumer",
-      "Electronics"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -797,6 +793,10 @@
       "Jewelry",
       "&",
       "Watches"
+    ],
+    "visibleText": [
+      "Consumer",
+      "Electronics"
     ]
   },
   {
@@ -806,11 +806,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 29,
-    "visibleText": [
-      "Jewelry",
-      "&",
-      "Watches"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -826,6 +821,11 @@
       "&",
       "Garden,",
       "Furniture"
+    ],
+    "visibleText": [
+      "Jewelry",
+      "&",
+      "Watches"
     ]
   },
   {
@@ -836,11 +836,6 @@
     "area": 1395,
     "shape": 620,
     "widgetId": 30,
-    "visibleText": [
-      "Home",
-      "&",
-      "Garden"
-    ],
     "isButton": false,
     "location": {
       "x": 65,
@@ -857,6 +852,11 @@
       "Bags",
       "&",
       "Shoes"
+    ],
+    "visibleText": [
+      "Home",
+      "&",
+      "Garden"
     ]
   },
   {
@@ -866,12 +866,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 31,
-    "visibleText": [
-      "Home",
-      "&",
-      "Garden,",
-      "Furniture"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -885,6 +879,12 @@
       "Bags",
       "&",
       "Shoes"
+    ],
+    "visibleText": [
+      "Home",
+      "&",
+      "Garden,",
+      "Furniture"
     ]
   },
   {
@@ -894,11 +894,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 32,
-    "visibleText": [
-      "Bags",
-      "&",
-      "Shoes"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -915,6 +910,11 @@
       "Kids",
       "&",
       "Baby"
+    ],
+    "visibleText": [
+      "Bags",
+      "&",
+      "Shoes"
     ]
   },
   {
@@ -924,12 +924,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 33,
-    "visibleText": [
-      "Toys,",
-      "Kids",
-      "&",
-      "Baby"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -943,6 +937,12 @@
       "Sports",
       "&",
       "Outdoors"
+    ],
+    "visibleText": [
+      "Toys,",
+      "Kids",
+      "&",
+      "Baby"
     ]
   },
   {
@@ -952,11 +952,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 34,
-    "visibleText": [
-      "Sports",
-      "&",
-      "Outdoors"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -970,6 +965,11 @@
       "Health",
       "&",
       "Beauty"
+    ],
+    "visibleText": [
+      "Sports",
+      "&",
+      "Outdoors"
     ]
   },
   {
@@ -979,11 +979,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 35,
-    "visibleText": [
-      "Health",
-      "&",
-      "Beauty"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -999,6 +994,11 @@
       "Automobiles",
       "&",
       "Motorcycles"
+    ],
+    "visibleText": [
+      "Health",
+      "&",
+      "Beauty"
     ]
   },
   {
@@ -1008,11 +1008,6 @@
     "area": 7140,
     "shape": 793,
     "widgetId": 36,
-    "visibleText": [
-      "Automobiles",
-      "&",
-      "Motorcycles"
-    ],
     "isButton": false,
     "location": {
       "x": 24,
@@ -1027,6 +1022,11 @@
       "Beauty",
       "Home",
       "Improvement"
+    ],
+    "visibleText": [
+      "Automobiles",
+      "&",
+      "Motorcycles"
     ]
   },
   {
@@ -1036,9 +1036,6 @@
     "area": 2170,
     "shape": 177,
     "widgetId": 37,
-    "visibleText": [
-      "Help"
-    ],
     "isButton": false,
     "location": {
       "x": 766,
@@ -1059,6 +1056,9 @@
       "app!",
       "All",
       "Categories"
+    ],
+    "visibleText": [
+      "Help"
     ]
   },
   {
@@ -1069,10 +1069,6 @@
     "area": 5220,
     "shape": 145,
     "widgetId": 38,
-    "visibleText": [
-      "Wish",
-      "List"
-    ],
     "isButton": false,
     "location": {
       "x": 997,
@@ -1092,6 +1088,10 @@
       "/",
       "USD",
       "Language"
+    ],
+    "visibleText": [
+      "Wish",
+      "List"
     ]
   },
   {
@@ -1102,10 +1102,6 @@
     "area": 1232,
     "shape": 628,
     "widgetId": 39,
-    "visibleText": [
-      "Buyer",
-      "Protection"
-    ],
     "isButton": false,
     "location": {
       "x": 661,
@@ -1118,6 +1114,10 @@
       "Help",
       "All",
       "Categories"
+    ],
+    "visibleText": [
+      "Buyer",
+      "Protection"
     ]
   }
 ]

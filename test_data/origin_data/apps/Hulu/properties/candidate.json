@@ -13,7 +13,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Select",
+      "Your",
+      "Plan"
+    ],
     "area": null,
     "shape": null
   },
@@ -35,7 +39,12 @@
       "Masthead__input-cta"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "START",
+      "YOUR",
+      "FREE",
+      "TRIAL"
+    ],
     "area": null,
     "shape": null
   },
@@ -54,7 +63,9 @@
       "plan-feature__bullet_text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$54.99/mo***"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -171,7 +182,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -191,7 +204,15 @@
       "Ribbon--showdt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "Hulu,",
+      "Disney+,",
+      "and",
+      "ESPN+",
+      "for",
+      "$12.99/month."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -211,7 +232,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -230,7 +253,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "More",
+      "Details"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -268,7 +294,9 @@
       "plan-feature__bullet_text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$11.99/mo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -309,7 +337,10 @@
       "Ribbon__legal_modal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "Apply"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -329,7 +360,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -365,7 +398,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "MOST",
+      "POPULAR"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -408,7 +444,11 @@
       "button--black"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TRY",
+      "FOR",
+      "$0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -431,7 +471,11 @@
       "button--black"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TRY",
+      "FOR",
+      "$0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -472,7 +516,11 @@
       "button--black"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TRY",
+      "FOR",
+      "$0"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -512,7 +560,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -532,7 +582,9 @@
       "plan-feature__bullet_text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "$5.99/mo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -550,7 +602,19 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "***Hulu",
+      "+",
+      "Live",
+      "TV’s",
+      "price",
+      "will",
+      "increase",
+      "to",
+      "$64.99/month",
+      "on",
+      "12/18/20"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -568,7 +632,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "HBO",
+      "Max™"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -588,7 +655,11 @@
       "footer--legal-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -606,7 +677,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cinemax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -626,7 +699,10 @@
       "plan-addon__head-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Available",
+      "Add-ons"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -646,7 +722,10 @@
       "footer--legal-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -664,7 +743,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Showtime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -684,7 +765,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -704,7 +787,14 @@
       "footer--legal-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -724,7 +814,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -744,7 +836,12 @@
       "footer--legal-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Your",
+      "California",
+      "Privacy",
+      "Rights"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -762,7 +859,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Kids"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -780,7 +879,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Disney",
+      "bundle",
+      "with",
+      "Hulu",
+      "(No",
+      "Ads)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -800,7 +906,11 @@
       "footer--legal-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TV",
+      "Parental",
+      "Guidelines"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -818,7 +928,15 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Disney",
+      "bundle",
+      "with",
+      "Hulu",
+      "+",
+      "Live",
+      "TV"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -838,7 +956,9 @@
       "footer--legal-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sitemap"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -858,7 +978,12 @@
       "footer__copyright"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "2020",
+      "Hulu,",
+      "LLC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -898,7 +1023,9 @@
       "footer--section-expand"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "HELP"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -918,7 +1045,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -936,7 +1065,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Account",
+      "&",
+      "Billing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -954,7 +1087,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Plans",
+      "&",
+      "Pricing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -974,7 +1111,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -992,7 +1131,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Supported",
+      "Devices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1010,7 +1152,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1048,7 +1192,9 @@
       "footer--section-expand"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "BROWSE"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1068,7 +1214,10 @@
       "footer--section-expand"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ABOUT",
+      "US"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1106,7 +1255,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FX",
+      "on",
+      "Hulu"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1124,7 +1277,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Streaming",
+      "Library"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1142,7 +1298,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Press"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1162,7 +1320,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1180,7 +1340,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Live",
+      "TV"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1198,7 +1361,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1216,7 +1381,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Live",
+      "News"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1234,7 +1402,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1254,7 +1424,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1272,7 +1444,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Live",
+      "Sports"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1308,7 +1483,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TV",
+      "Shows"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1328,7 +1506,10 @@
       "footer--legal-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Ads"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1364,7 +1545,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Movies"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1400,7 +1583,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Originals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1420,7 +1605,9 @@
       "plan-feature__bullet_default"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "—"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1456,7 +1643,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Networks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

@@ -28,7 +28,9 @@
       "ua-ie9_Bgi($logoImageIe)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yahoo"
+    ],
     "area": null,
     "shape": null
   },
@@ -113,7 +115,10 @@
       "C(#fff):h"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -141,7 +146,12 @@
       "Mend(6px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Please",
+      "check",
+      "back",
+      "later."
+    ],
     "area": null,
     "shape": null
   },
@@ -166,7 +176,9 @@
       "Lh(37px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mail"
+    ],
     "area": null,
     "shape": null
   },
@@ -186,7 +198,9 @@
       "Mstart(2px)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mail"
+    ],
     "area": null,
     "shape": null
   },
@@ -208,7 +222,9 @@
       "C(#4d00ae)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News"
+    ],
     "area": null,
     "shape": null
   },
@@ -230,7 +246,9 @@
       "C(#4d00ae)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Finance"
+    ],
     "area": null,
     "shape": null
   },
@@ -252,7 +270,9 @@
       "C(#4d00ae)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sports"
+    ],
     "area": null,
     "shape": null
   },
@@ -274,7 +294,9 @@
       "C(#4d00ae)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Entertainment"
+    ],
     "area": null,
     "shape": null
   },
@@ -298,7 +320,10 @@
       "selected"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trending",
+      "Now"
+    ],
     "area": null,
     "shape": null
   },
@@ -321,7 +346,9 @@
       "App-Title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Scoreboard"
+    ],
     "area": null,
     "shape": null
   },
@@ -349,7 +376,9 @@
       "rapidnofollow"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yesterday"
+    ],
     "area": null,
     "shape": null
   },
@@ -377,7 +406,9 @@
       "rapidnofollow"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Today"
+    ],
     "area": null,
     "shape": null
   },
@@ -405,7 +436,9 @@
       "rapidnofollow"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tomorrow"
+    ],
     "area": null,
     "shape": null
   },
@@ -433,7 +466,11 @@
       "Td(n)"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "More",
+      "scores",
+      "»"
+    ],
     "area": null,
     "shape": null
   }

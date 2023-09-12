@@ -59,7 +59,10 @@
       "tw-relative"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "IN"
+    ],
     "area": null,
     "shape": null
   },
@@ -91,7 +94,10 @@
       "tw-relative"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null
   },
@@ -112,7 +118,9 @@
       "tw-interactive"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Browse"
+    ],
     "area": null,
     "shape": null
   },
@@ -151,7 +159,9 @@
       "tw-strong"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitch"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -243,7 +253,12 @@
       "tw-font-size-4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Något",
+      "gick",
+      "fel",
+      "..."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -264,7 +279,14 @@
       "tw-font-size-5"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Vi",
+      "kunde",
+      "inte",
+      "hitta",
+      "dina",
+      "rekommendationer"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -284,7 +306,14 @@
       "tw-font-size-5"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Upptäck",
+      "de",
+      "bästa",
+      "livesändningarna",
+      "som",
+      "finns!"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -316,7 +345,11 @@
       "tw-relative"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Bläddra",
+      "bland",
+      "kanaler"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -491,7 +524,10 @@
       "tw-relative"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Registrera",
+      "dig"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -602,7 +638,12 @@
       "tw-strong"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Gå",
+      "med",
+      "i",
+      "Twitch-communityn!"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

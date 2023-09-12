@@ -33,7 +33,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Solutions"
+    ],
     "area": null,
     "shape": null
   },
@@ -51,7 +53,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Products"
+    ],
     "area": null,
     "shape": null
   },
@@ -69,7 +73,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Services"
+    ],
     "area": null,
     "shape": null
   },
@@ -87,7 +93,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Resources"
+    ],
     "area": null,
     "shape": null
   },
@@ -105,7 +113,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company"
+    ],
     "area": null,
     "shape": null
   },
@@ -123,7 +133,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Sales"
+    ],
     "area": null,
     "shape": null
   },
@@ -145,7 +158,10 @@
       "okta-free-trial__cta"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Try",
+      "Okta"
+    ],
     "area": null,
     "shape": null
   },
@@ -167,7 +183,10 @@
       "is-ods-button-secondary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -209,7 +228,12 @@
       "skip-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -231,7 +255,10 @@
       "main__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Main",
+      "navigation"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -339,7 +366,9 @@
       "menu-item--font-size-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -357,7 +386,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -441,7 +472,15 @@
       "menu-item--expanded"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Sales",
+      "+1",
+      "(800)",
+      "425-1267",
+      "Email",
+      "Chat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -459,7 +498,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -479,7 +520,20 @@
       "text-align-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "More",
+      "than",
+      "8,950",
+      "global",
+      "organizations",
+      "trust",
+      "Okta",
+      "to",
+      "manage",
+      "access",
+      "and",
+      "authentication."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -497,7 +551,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Workforce",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -515,7 +572,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authorization"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -533,7 +592,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Workforce",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -551,7 +613,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authorization"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -569,7 +633,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Adaptive",
+      "MFA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -587,7 +654,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Adaptive",
+      "MFA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -605,7 +675,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Adaptive",
+      "MFA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -623,7 +696,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Adaptive",
+      "MFA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -641,7 +717,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -659,7 +738,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -677,7 +759,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -695,7 +780,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -713,7 +800,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -731,7 +821,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lifecycle",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -749,7 +842,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lifecycle",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -767,7 +863,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lifecycle",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -787,7 +886,19 @@
       "title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Connect",
+      "your",
+      "workforce",
+      "to",
+      "every",
+      "app.",
+      "Build",
+      "auth",
+      "into",
+      "any",
+      "app."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -805,7 +916,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lifecycle",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -823,7 +937,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -841,7 +957,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "B2B",
+      "Integration"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -879,7 +998,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "B2B",
+      "Integration"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -897,7 +1019,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "B2B",
+      "Integration"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -915,7 +1040,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "B2B",
+      "Integration"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -933,7 +1061,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Access",
+      "Gateway"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -951,7 +1082,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Access",
+      "Gateway"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -969,7 +1103,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Access",
+      "Gateway"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -987,7 +1124,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Access",
+      "Gateway"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1005,7 +1145,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lifecycle",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1027,7 +1170,11 @@
       "is-ods-button-secondary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Explore",
+      "Customer",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1045,7 +1192,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lifecycle",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1063,7 +1213,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advanced",
+      "Server",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1085,7 +1239,11 @@
       "is-ods-button-secondary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Explore",
+      "Customer",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1103,7 +1261,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advanced",
+      "Server",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1121,7 +1283,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advanced",
+      "Server",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1139,7 +1305,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advanced",
+      "Server",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1157,7 +1327,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Access",
+      "Gateway"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1193,7 +1366,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1213,7 +1388,19 @@
       "title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Connect",
+      "your",
+      "workforce",
+      "to",
+      "every",
+      "app.",
+      "Build",
+      "auth",
+      "into",
+      "any",
+      "app."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1231,7 +1418,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Access",
+      "Gateway"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1273,7 +1463,11 @@
       "is-ods-button-secondary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Explore",
+      "Workforce",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1291,7 +1485,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authorization"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1331,7 +1527,11 @@
       "is-ods-button-secondary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Explore",
+      "Workforce",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1349,7 +1549,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "–",
+      "Trey",
+      "Ray,",
+      "Manager",
+      "Cybersecurity,",
+      "FedEx"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1370,7 +1577,14 @@
       "ods-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "how",
+      "okta",
+      "enables",
+      "remote",
+      "work"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1388,7 +1602,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1406,7 +1623,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "organizations",
+      "use",
+      "Okta"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1424,7 +1646,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1442,7 +1667,16 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Build",
+      "secure,",
+      "delightful",
+      "digital",
+      "experiences",
+      "for",
+      "your",
+      "customers."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1462,7 +1696,20 @@
       "text-align-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "More",
+      "than",
+      "8,950",
+      "global",
+      "organizations",
+      "trust",
+      "Okta",
+      "to",
+      "manage",
+      "access",
+      "and",
+      "authentication."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1480,7 +1727,16 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Build",
+      "secure,",
+      "delightful",
+      "digital",
+      "experiences",
+      "for",
+      "your",
+      "customers."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1518,7 +1774,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1536,7 +1794,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Businesses",
+      "@",
+      "Work",
+      "(From",
+      "Home)",
+      "Report"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1554,7 +1819,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Press",
+      "Room"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1590,7 +1858,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Press",
+      "Room"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1608,7 +1879,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trust"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1649,7 +1922,13 @@
       "ods-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "See",
+      "why",
+      "companies",
+      "choose",
+      "Okta"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1667,7 +1946,17 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Programmable",
+      "identity",
+      "for",
+      "developers.",
+      "See",
+      "the",
+      "APIs",
+      "+",
+      "SDKs."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1685,7 +1974,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Product",
+      "demos"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1703,7 +1995,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "What’s",
+      "new",
+      "at",
+      "Okta"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1724,7 +2021,10 @@
       "ods-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Explore",
+      "developer.okta.com"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1742,7 +2042,25 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wondering",
+      "what",
+      "Okta",
+      "can",
+      "do",
+      "for",
+      "your",
+      "business?",
+      "Visit",
+      "our",
+      "library",
+      "of",
+      "demo",
+      "videos",
+      "to",
+      "find",
+      "out."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1762,7 +2080,10 @@
       "Cta__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Watch",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1800,7 +2121,21 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Scale",
+      "and",
+      "flexibility",
+      "for",
+      "the",
+      "world’s",
+      "largest",
+      "organizations",
+      "and",
+      "the",
+      "world’s",
+      "biggest",
+      "ideas"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1818,7 +2153,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1856,7 +2193,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Go",
+      "from",
+      "zero",
+      "to",
+      "Zero",
+      "Trust"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1874,7 +2218,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Okta's",
+      "COVID-19",
+      "preparedness"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1933,7 +2281,13 @@
       "ods-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "your",
+      "Zero",
+      "Trust",
+      "assessment"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1953,7 +2307,16 @@
       "CustomerFeatured"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Enabling",
+      "global",
+      "collaboration",
+      "and",
+      "rapid",
+      "growth",
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1973,7 +2336,12 @@
       "Cta__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "about",
+      "our",
+      "plan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2015,7 +2383,9 @@
       "footer__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Footer"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2051,7 +2421,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Identity+"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2069,7 +2441,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Quick",
+      "Links"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2090,7 +2465,18 @@
       "h2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Securing",
+      "access",
+      "to",
+      "APIs",
+      "in",
+      "the",
+      "Pitney",
+      "Bowes",
+      "Commerce",
+      "Cloud"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2108,7 +2494,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pricing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2126,7 +2514,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2144,7 +2534,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pricing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2164,7 +2556,15 @@
       "CustomerFeatured"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Building",
+      "an",
+      "intelligent,",
+      "connected",
+      "world",
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2184,7 +2584,10 @@
       "Cta__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Register",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2202,7 +2605,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2220,7 +2625,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lifecycle",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2240,7 +2648,9 @@
       "SocialIcons__linkedin"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2258,7 +2668,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "API",
+      "Access",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2276,7 +2690,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2294,7 +2710,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "API",
+      "Access",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2314,7 +2734,9 @@
       "SocialIcons__youtube"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2334,7 +2756,9 @@
       "SocialIcons__facebook"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2352,7 +2776,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advanced",
+      "Server",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2370,7 +2798,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2388,7 +2818,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Advanced",
+      "Server",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2406,7 +2840,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FAQ"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2442,7 +2878,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FAQ"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2460,7 +2898,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Identity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2478,7 +2919,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sitemap"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2496,7 +2939,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Multi-factor",
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2514,7 +2960,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sitemap"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2532,7 +2980,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Multi-factor",
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2550,7 +3001,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Visit",
+      "our",
+      "Developer",
+      "Site"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2568,7 +3024,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2586,7 +3044,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Visit",
+      "our",
+      "Developer",
+      "Site"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2604,7 +3067,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authentication"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2626,7 +3091,10 @@
       "utility__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Footer",
+      "utility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2648,7 +3116,10 @@
       "visually-hidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Select",
+      "language"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2666,7 +3137,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Authorization"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2686,7 +3159,10 @@
       "uk"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "United",
+      "Kingdom"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2704,7 +3180,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2724,7 +3202,10 @@
       "language-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "United",
+      "Kingdom"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2744,7 +3225,9 @@
       "fr"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "France"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2764,7 +3247,9 @@
       "language-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "France"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2784,7 +3269,9 @@
       "de"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Germany"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2804,7 +3291,9 @@
       "language-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Germany"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2824,7 +3313,9 @@
       "jp"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Japan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2844,7 +3335,9 @@
       "language-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Japan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2862,7 +3355,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Okta",
+      "Integration",
+      "Network"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2880,7 +3377,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Universal",
+      "Directory"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2898,7 +3398,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2916,7 +3418,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Platform",
+      "Services"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2936,7 +3441,9 @@
       "SocialIcons__twitter"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2954,7 +3461,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Platform",
+      "Services"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2972,7 +3482,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

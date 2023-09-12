@@ -8,9 +8,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 1,
-    "visibleText": [
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 123,
@@ -22,7 +19,10 @@
       "ac-gn-link",
       "ac-gn-link-apple"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Apple"
+    ]
   },
   {
     "tag": "A",
@@ -32,9 +32,6 @@
     "area": 1980,
     "shape": 102,
     "widgetId": 2,
-    "visibleText": [
-      "Mac"
-    ],
     "isButton": false,
     "location": {
       "x": 215,
@@ -46,7 +43,10 @@
       "ac-gn-link",
       "ac-gn-link-mac"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Mac"
+    ]
   },
   {
     "tag": "A",
@@ -56,9 +56,6 @@
     "area": 2024,
     "shape": 104,
     "widgetId": 3,
-    "visibleText": [
-      "iPad"
-    ],
     "isButton": false,
     "location": {
       "x": 317,
@@ -70,7 +67,10 @@
       "ac-gn-link",
       "ac-gn-link-ipad"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "iPad"
+    ]
   },
   {
     "tag": "A",
@@ -80,9 +80,6 @@
     "area": 2816,
     "shape": 145,
     "widgetId": 4,
-    "visibleText": [
-      "iPhone"
-    ],
     "isButton": false,
     "location": {
       "x": 420,
@@ -94,7 +91,10 @@
       "ac-gn-link",
       "ac-gn-link-iphone"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "iPhone"
+    ]
   },
   {
     "tag": "A",
@@ -104,9 +104,6 @@
     "area": 2596,
     "shape": 134,
     "widgetId": 5,
-    "visibleText": [
-      "Watch"
-    ],
     "isButton": false,
     "location": {
       "x": 540,
@@ -118,7 +115,10 @@
       "ac-gn-link",
       "ac-gn-link-watch"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Watch"
+    ]
   },
   {
     "tag": "A",
@@ -128,9 +128,6 @@
     "area": 1628,
     "shape": 84,
     "widgetId": 6,
-    "visibleText": [
-      "TV"
-    ],
     "isButton": false,
     "location": {
       "x": 657,
@@ -142,7 +139,10 @@
       "ac-gn-link",
       "ac-gn-link-tv"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "TV"
+    ]
   },
   {
     "tag": "A",
@@ -152,9 +152,6 @@
     "area": 2508,
     "shape": 129,
     "widgetId": 7,
-    "visibleText": [
-      "Music"
-    ],
     "isButton": false,
     "location": {
       "x": 751,
@@ -166,7 +163,10 @@
       "ac-gn-link",
       "ac-gn-link-music"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Music"
+    ]
   },
   {
     "tag": "A",
@@ -176,9 +176,6 @@
     "area": 3168,
     "shape": 163,
     "widgetId": 8,
-    "visibleText": [
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 864,
@@ -190,7 +187,10 @@
       "ac-gn-link",
       "ac-gn-link-support"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Support"
+    ]
   },
   {
     "tag": "LI",
@@ -199,9 +199,6 @@
     "area": 1672,
     "shape": 86,
     "widgetId": 9,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 992,
@@ -217,6 +214,9 @@
     "neighborText": [
       "Learn",
       "more"
+    ],
+    "visibleText": [
+      "0"
     ]
   },
   {
@@ -227,10 +227,6 @@
     "area": 1628,
     "shape": 84,
     "widgetId": 10,
-    "visibleText": [
-      "Shopping",
-      "Bag"
-    ],
     "isButton": false,
     "location": {
       "x": 1086,
@@ -242,7 +238,11 @@
       "ac-gn-link",
       "ac-gn-link-bag"
     ],
-    "neighborText": []
+    "neighborText": [],
+    "visibleText": [
+      "Shopping",
+      "Bag"
+    ]
   },
   {
     "tag": "SPAN",
@@ -250,9 +250,6 @@
     "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[2]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Mac"
-    ],
     "isButton": false,
     "location": {
       "x": 225,
@@ -264,6 +261,9 @@
       "ac-gn-link-text"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Mac"
+    ],
     "widgetId": null
   },
   {
@@ -272,9 +272,6 @@
     "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[3]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "iPad"
-    ],
     "isButton": false,
     "location": {
       "x": 327,
@@ -286,6 +283,9 @@
       "ac-gn-link-text"
     ],
     "neighborText": [],
+    "visibleText": [
+      "iPad"
+    ],
     "widgetId": null
   },
   {
@@ -294,9 +294,6 @@
     "idxpath": "//*[@id='ac-gn-firstfocus']/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -308,6 +305,9 @@
       "ac-gn-link-text"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Apple"
+    ],
     "widgetId": null
   },
   {
@@ -316,9 +316,6 @@
     "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[4]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "iPhone"
-    ],
     "isButton": false,
     "location": {
       "x": 430,
@@ -330,6 +327,9 @@
       "ac-gn-link-text"
     ],
     "neighborText": [],
+    "visibleText": [
+      "iPhone"
+    ],
     "widgetId": null
   },
   {
@@ -338,9 +338,6 @@
     "idxpath": "/html[1]/body[1]/h1[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -352,6 +349,9 @@
       "visuallyhidden"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Apple"
+    ],
     "widgetId": null
   },
   {
@@ -360,9 +360,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "TV"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -379,6 +376,9 @@
       "Arcade",
       "Music"
     ],
+    "visibleText": [
+      "TV"
+    ],
     "widgetId": null
   },
   {
@@ -388,9 +388,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
     "area": 462,
     "shape": 235,
-    "visibleText": [
-      "Music"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -405,6 +402,9 @@
       "TV",
       "AirPods"
     ],
+    "visibleText": [
+      "Music"
+    ],
     "widgetId": null
   },
   {
@@ -413,15 +413,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[3]",
     "area": 24500,
     "shape": 3920,
-    "visibleText": [
-      "3.",
-      "Apple",
-      "Fitness+",
-      "is",
-      "coming",
-      "late",
-      "2020."
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -431,6 +422,15 @@
     },
     "classList": [],
     "neighborText": [],
+    "visibleText": [
+      "3.",
+      "Apple",
+      "Fitness+",
+      "is",
+      "coming",
+      "late",
+      "2020."
+    ],
     "widgetId": null
   },
   {
@@ -439,10 +439,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/h4[1]",
     "area": 15050,
     "shape": 1228,
-    "visibleText": [
-      "Apple",
-      "Card"
-    ],
     "isButton": false,
     "location": {
       "x": 99,
@@ -471,6 +467,10 @@
       "Apple",
       "Card."
     ],
+    "visibleText": [
+      "Apple",
+      "Card"
+    ],
     "widgetId": null
   },
   {
@@ -479,9 +479,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "AirPods"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -498,6 +495,9 @@
       "One",
       "HomePod"
     ],
+    "visibleText": [
+      "AirPods"
+    ],
     "widgetId": null
   },
   {
@@ -507,9 +507,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
     "area": 602,
     "shape": 307,
-    "visibleText": [
-      "AirPods"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -524,6 +521,9 @@
       "Music",
       "HomePod"
     ],
+    "visibleText": [
+      "AirPods"
+    ],
     "widgetId": null
   },
   {
@@ -533,9 +533,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
     "area": 210,
     "shape": 107,
-    "visibleText": [
-      "TV"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -550,6 +547,9 @@
       "Watch",
       "Music"
     ],
+    "visibleText": [
+      "TV"
+    ],
     "widgetId": null
   },
   {
@@ -558,9 +558,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[4]",
     "area": 40180,
     "shape": 2390,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -578,6 +575,9 @@
       "late",
       "2020."
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -586,22 +586,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/h5[1]",
     "area": 22620,
     "shape": 371,
-    "visibleText": [
-      "Get",
-      "3%",
-      "Daily",
-      "Cash",
-      "back",
-      "on",
-      "purchases",
-      "from",
-      "Apple",
-      "when",
-      "you",
-      "use",
-      "Apple",
-      "Card."
-    ],
     "isButton": false,
     "location": {
       "x": 169,
@@ -618,6 +602,22 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "Get",
+      "3%",
+      "Daily",
+      "Cash",
+      "back",
+      "on",
+      "purchases",
+      "from",
+      "Apple",
+      "when",
+      "you",
+      "use",
+      "Apple",
+      "Card."
+    ],
     "widgetId": null
   },
   {
@@ -626,9 +626,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "HomePod"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -646,6 +643,9 @@
       "iPod",
       "touch"
     ],
+    "visibleText": [
+      "HomePod"
+    ],
     "widgetId": null
   },
   {
@@ -655,9 +655,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
     "area": 770,
     "shape": 392,
-    "visibleText": [
-      "HomePod"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -673,6 +670,9 @@
       "iPod",
       "touch"
     ],
+    "visibleText": [
+      "HomePod"
+    ],
     "widgetId": null
   },
   {
@@ -682,10 +682,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[5]/div[1]/div[1]/div[1]/div[1]/a[1]",
     "area": 1960,
     "shape": 490,
-    "visibleText": [
-      "Learn",
-      "more"
-    ],
     "isButton": false,
     "location": {
       "x": 265,
@@ -714,6 +710,10 @@
       "Apple",
       "Card."
     ],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -723,11 +723,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[3]/div[1]/div[1]/div[1]/div[1]/a[2]",
     "area": 1440,
     "shape": 360,
-    "visibleText": [
-      "Try",
-      "it",
-      "free"
-    ],
     "isButton": false,
     "location": {
       "x": 330,
@@ -740,6 +735,11 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "Try",
+      "it",
+      "free"
+    ],
     "widgetId": null
   },
   {
@@ -748,10 +748,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[9]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "iPod",
-      "touch"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -768,6 +764,10 @@
       "Books",
       "Accessories"
     ],
+    "visibleText": [
+      "iPod",
+      "touch"
+    ],
     "widgetId": null
   },
   {
@@ -777,10 +777,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[9]/a[1]",
     "area": 840,
     "shape": 428,
-    "visibleText": [
-      "iPod",
-      "touch"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -795,6 +791,10 @@
       "HomePod",
       "Accessories"
     ],
+    "visibleText": [
+      "iPod",
+      "touch"
+    ],
     "widgetId": null
   },
   {
@@ -804,7 +804,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/a[1]",
     "area": 917792,
     "shape": 169,
-    "visibleText": [],
     "isButton": false,
     "location": {
       "x": 0,
@@ -816,6 +815,7 @@
       "unit-link"
     ],
     "neighborText": [],
+    "visibleText": [],
     "widgetId": null
   },
   {
@@ -824,16 +824,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[6]",
     "area": 24500,
     "shape": 3920,
-    "visibleText": [
-      "Available",
-      "for",
-      "qualifying",
-      "applicants",
-      "in",
-      "the",
-      "United",
-      "States."
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -857,6 +847,16 @@
       "City",
       "Branch."
     ],
+    "visibleText": [
+      "Available",
+      "for",
+      "qualifying",
+      "applicants",
+      "in",
+      "the",
+      "United",
+      "States."
+    ],
     "widgetId": null
   },
   {
@@ -866,10 +866,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]/a[1]",
     "area": 1280,
     "shape": 500,
-    "visibleText": [
-      "Learn",
-      "more"
-    ],
     "isButton": false,
     "location": {
       "x": 959,
@@ -884,6 +880,10 @@
       "icon-chevronright"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -892,9 +892,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[2]",
     "area": 55860,
     "shape": 1719,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -912,6 +909,9 @@
       "late",
       "2020."
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -920,9 +920,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[10]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Accessories"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -941,6 +938,9 @@
       "Gift",
       "Cards"
     ],
+    "visibleText": [
+      "Accessories"
+    ],
     "widgetId": null
   },
   {
@@ -950,9 +950,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[10]/a[1]",
     "area": 952,
     "shape": 485,
-    "visibleText": [
-      "Accessories"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -969,6 +966,9 @@
       "Gift",
       "Cards"
     ],
+    "visibleText": [
+      "Accessories"
+    ],
     "widgetId": null
   },
   {
@@ -977,9 +977,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[8]",
     "area": 40180,
     "shape": 2390,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1001,6 +998,9 @@
       "and",
       "Learn"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -1010,7 +1010,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/a[1]",
     "area": 377520,
     "shape": 96,
-    "visibleText": [],
     "isButton": false,
     "location": {
       "x": 629,
@@ -1022,6 +1021,7 @@
       "unit-link"
     ],
     "neighborText": [],
+    "visibleText": [],
     "widgetId": null
   },
   {
@@ -1031,9 +1031,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[8]/a[1]",
     "area": 448,
     "shape": 228,
-    "visibleText": [
-      "terms"
-    ],
     "isButton": false,
     "location": {
       "x": 318,
@@ -1045,6 +1042,9 @@
     "neighborText": [
       "Services"
     ],
+    "visibleText": [
+      "terms"
+    ],
     "widgetId": null
   },
   {
@@ -1053,10 +1053,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[11]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Gift",
-      "Cards"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1071,6 +1067,10 @@
       "Accessories",
       "Account"
     ],
+    "visibleText": [
+      "Gift",
+      "Cards"
+    ],
     "widgetId": null
   },
   {
@@ -1079,12 +1079,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/h3[1]",
     "area": 38657,
     "shape": 4022,
-    "visibleText": [
-      "It’s",
-      "a",
-      "leap",
-      "year."
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -1106,6 +1100,12 @@
       "before",
       "trade‑in.1"
     ],
+    "visibleText": [
+      "It’s",
+      "a",
+      "leap",
+      "year."
+    ],
     "widgetId": null
   },
   {
@@ -1115,10 +1115,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[11]/a[1]",
     "area": 798,
     "shape": 407,
-    "visibleText": [
-      "Gift",
-      "Cards"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1132,6 +1128,10 @@
     "neighborText": [
       "Accessories"
     ],
+    "visibleText": [
+      "Gift",
+      "Cards"
+    ],
     "widgetId": null
   },
   {
@@ -1140,9 +1140,6 @@
     "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[5]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Watch"
-    ],
     "isButton": false,
     "location": {
       "x": 550,
@@ -1154,6 +1151,9 @@
       "ac-gn-link-text"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Watch"
+    ],
     "widgetId": null
   },
   {
@@ -1163,7 +1163,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/a[1]",
     "area": 917792,
     "shape": 169,
-    "visibleText": [],
     "isButton": false,
     "location": {
       "x": 0,
@@ -1175,6 +1174,7 @@
       "unit-link"
     ],
     "neighborText": [],
+    "visibleText": [],
     "widgetId": null
   },
   {
@@ -1184,7 +1184,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/a[1]",
     "area": 377520,
     "shape": 96,
-    "visibleText": [],
     "isButton": false,
     "location": {
       "x": 629,
@@ -1196,6 +1195,7 @@
       "unit-link"
     ],
     "neighborText": [],
+    "visibleText": [],
     "widgetId": null
   },
   {
@@ -1205,7 +1205,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[2]/div[1]/div[1]/a[1]",
     "area": 377520,
     "shape": 96,
-    "visibleText": [],
     "isButton": false,
     "location": {
       "x": 629,
@@ -1217,6 +1216,7 @@
       "unit-link"
     ],
     "neighborText": [],
+    "visibleText": [],
     "widgetId": null
   },
   {
@@ -1225,11 +1225,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h4[1]",
     "area": 13330,
     "shape": 1387,
-    "visibleText": [
-      "Apple",
-      "TV",
-      "plus"
-    ],
     "isButton": false,
     "location": {
       "x": 717,
@@ -1243,6 +1238,11 @@
       "headline"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Apple",
+      "TV",
+      "plus"
+    ],
     "widgetId": null
   },
   {
@@ -1251,10 +1251,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/h4[1]",
     "area": 18920,
     "shape": 977,
-    "visibleText": [
-      "iPhone",
-      "12"
-    ],
     "isButton": false,
     "location": {
       "x": 99,
@@ -1270,6 +1266,10 @@
       "past",
       "fast."
     ],
+    "visibleText": [
+      "iPhone",
+      "12"
+    ],
     "widgetId": null
   },
   {
@@ -1278,11 +1278,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/label[1]",
     "area": 3136,
     "shape": 1225,
-    "visibleText": [
-      "Shop",
-      "and",
-      "Learn"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1296,6 +1291,11 @@
     "neighborText": [
       "Mac"
     ],
+    "visibleText": [
+      "Shop",
+      "and",
+      "Learn"
+    ],
     "widgetId": null
   },
   {
@@ -1304,14 +1304,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
     "area": 6420,
     "shape": 1605,
-    "visibleText": [
-      "From",
-      "$41.62/mo.",
-      "or",
-      "$999",
-      "before",
-      "trade‑in."
-    ],
     "isButton": false,
     "location": {
       "x": 460,
@@ -1332,6 +1324,14 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "From",
+      "$41.62/mo.",
+      "or",
+      "$999",
+      "before",
+      "trade‑in."
+    ],
     "widgetId": null
   },
   {
@@ -1340,11 +1340,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h4[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Apple",
-      "TV",
-      "plus"
-    ],
     "isButton": false,
     "location": {
       "x": 932,
@@ -1356,6 +1351,11 @@
       "visuallyhidden"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Apple",
+      "TV",
+      "plus"
+    ],
     "widgetId": null
   },
   {
@@ -1364,9 +1364,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/label[1]",
     "area": 3136,
     "shape": 1225,
-    "visibleText": [
-      "Services"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -1382,6 +1379,9 @@
       "Apple",
       "Music"
     ],
+    "visibleText": [
+      "Services"
+    ],
     "widgetId": null
   },
   {
@@ -1390,11 +1390,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/span[1]",
     "area": 9680,
     "shape": 3781,
-    "visibleText": [
-      "Coming",
-      "late",
-      "2020"
-    ],
     "isButton": false,
     "location": {
       "x": 629,
@@ -1410,6 +1405,11 @@
       "Fitness",
       "plus"
     ],
+    "visibleText": [
+      "Coming",
+      "late",
+      "2020"
+    ],
     "widgetId": null
   },
   {
@@ -1418,13 +1418,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h5[1]",
     "area": 40420,
     "shape": 457,
-    "visibleText": [
-      "Fireball",
-      "Visitors",
-      "from",
-      "Darker",
-      "Worlds"
-    ],
     "isButton": false,
     "location": {
       "x": 717,
@@ -1438,6 +1431,13 @@
       "subhead"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Fireball",
+      "Visitors",
+      "from",
+      "Darker",
+      "Worlds"
+    ],
     "widgetId": null
   },
   {
@@ -1446,9 +1446,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/label[1]/h3[1]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Services"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -1469,6 +1466,9 @@
       "Apple",
       "Music"
     ],
+    "visibleText": [
+      "Services"
+    ],
     "widgetId": null
   },
   {
@@ -1477,11 +1477,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h4[1]",
     "area": 14190,
     "shape": 1303,
-    "visibleText": [
-      "Apple",
-      "Fitness",
-      "plus"
-    ],
     "isButton": false,
     "location": {
       "x": 717,
@@ -1507,6 +1502,11 @@
       "Apple",
       "Watch."
     ],
+    "visibleText": [
+      "Apple",
+      "Fitness",
+      "plus"
+    ],
     "widgetId": null
   },
   {
@@ -1516,9 +1516,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
     "area": 322,
     "shape": 164,
-    "visibleText": [
-      "Mac"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1535,6 +1532,9 @@
       "Learn",
       "iPad"
     ],
+    "visibleText": [
+      "Mac"
+    ],
     "widgetId": null
   },
   {
@@ -1543,13 +1543,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[1]/h5[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Fireball",
-      "Visitors",
-      "from",
-      "Darker",
-      "Worlds"
-    ],
     "isButton": false,
     "location": {
       "x": 932,
@@ -1561,6 +1554,13 @@
       "visuallyhidden"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Fireball",
+      "Visitors",
+      "from",
+      "Darker",
+      "Worlds"
+    ],
     "widgetId": null
   },
   {
@@ -1569,10 +1569,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Apple",
-      "Music"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -1592,6 +1588,10 @@
       "Apple",
       "TV+"
     ],
+    "visibleText": [
+      "Apple",
+      "Music"
+    ],
     "widgetId": null
   },
   {
@@ -1600,11 +1600,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h4[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Apple",
-      "Fitness",
-      "plus"
-    ],
     "isButton": false,
     "location": {
       "x": 932,
@@ -1625,6 +1620,11 @@
       "Apple",
       "Watch."
     ],
+    "visibleText": [
+      "Apple",
+      "Fitness",
+      "plus"
+    ],
     "widgetId": null
   },
   {
@@ -1634,10 +1634,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
     "area": 966,
     "shape": 492,
-    "visibleText": [
-      "Apple",
-      "Music"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -1654,6 +1650,10 @@
       "Apple",
       "TV+"
     ],
+    "visibleText": [
+      "Apple",
+      "Music"
+    ],
     "widgetId": null
   },
   {
@@ -1663,10 +1663,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[1]",
     "area": 2900,
     "shape": 464,
-    "visibleText": [
-      "Learn",
-      "more"
-    ],
     "isButton": false,
     "location": {
       "x": 518,
@@ -1688,6 +1684,10 @@
       "trade‑in.",
       "Buy"
     ],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -1696,9 +1696,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "iPad"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1715,6 +1712,9 @@
       "TV+",
       "iPhone"
     ],
+    "visibleText": [
+      "iPad"
+    ],
     "widgetId": null
   },
   {
@@ -1723,16 +1723,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/h5[1]",
     "area": 15600,
     "shape": 576,
-    "visibleText": [
-      "A",
-      "new",
-      "fitness",
-      "experience",
-      "powered",
-      "by",
-      "Apple",
-      "Watch."
-    ],
     "isButton": false,
     "location": {
       "x": 782,
@@ -1750,6 +1740,16 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "A",
+      "new",
+      "fitness",
+      "experience",
+      "powered",
+      "by",
+      "Apple",
+      "Watch."
+    ],
     "widgetId": null
   },
   {
@@ -1759,9 +1759,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
     "area": 336,
     "shape": 171,
-    "visibleText": [
-      "iPad"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1776,6 +1773,9 @@
       "Mac",
       "iPhone"
     ],
+    "visibleText": [
+      "iPad"
+    ],
     "widgetId": null
   },
   {
@@ -1785,9 +1785,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[3]/div[1]/div[1]/div[1]/div[2]/a[2]",
     "area": 1250,
     "shape": 200,
-    "visibleText": [
-      "Buy"
-    ],
     "isButton": false,
     "location": {
       "x": 674,
@@ -1804,6 +1801,9 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "Buy"
+    ],
     "widgetId": null
   },
   {
@@ -1812,9 +1812,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[6]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Music"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1830,6 +1827,9 @@
       "iCloud",
       "AirPods"
     ],
+    "visibleText": [
+      "Music"
+    ],
     "widgetId": null
   },
   {
@@ -1838,10 +1838,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Apple",
-      "TV+"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -1861,6 +1857,10 @@
       "Apple",
       "Fitness+"
     ],
+    "visibleText": [
+      "Apple",
+      "TV+"
+    ],
     "widgetId": null
   },
   {
@@ -1870,10 +1870,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
     "area": 2180,
     "shape": 545,
-    "visibleText": [
-      "Watch",
-      "now"
-    ],
     "isButton": false,
     "location": {
       "x": 877,
@@ -1887,6 +1883,10 @@
       "icon-playsolid"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Watch",
+      "now"
+    ],
     "widgetId": null
   },
   {
@@ -1896,10 +1896,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
     "area": 812,
     "shape": 414,
-    "visibleText": [
-      "Apple",
-      "TV+"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -1917,6 +1913,10 @@
       "Apple",
       "Fitness+"
     ],
+    "visibleText": [
+      "Apple",
+      "TV+"
+    ],
     "widgetId": null
   },
   {
@@ -1926,10 +1926,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/div[1]/a[1]",
     "area": 1960,
     "shape": 490,
-    "visibleText": [
-      "Learn",
-      "more"
-    ],
     "isButton": false,
     "location": {
       "x": 821,
@@ -1954,6 +1950,10 @@
       "Notify",
       "me"
     ],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -1962,9 +1962,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "iPhone"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -1981,6 +1978,9 @@
       "Fitness+",
       "Watch"
     ],
+    "visibleText": [
+      "iPhone"
+    ],
     "widgetId": null
   },
   {
@@ -1990,9 +1990,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
     "area": 532,
     "shape": 271,
-    "visibleText": [
-      "iPhone"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -2007,6 +2004,9 @@
       "iPad",
       "Watch"
     ],
+    "visibleText": [
+      "iPhone"
+    ],
     "widgetId": null
   },
   {
@@ -2016,10 +2016,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[4]/div[1]/div[1]/div[1]/div[1]/a[2]",
     "area": 1720,
     "shape": 430,
-    "visibleText": [
-      "Notify",
-      "me"
-    ],
     "isButton": false,
     "location": {
       "x": 953,
@@ -2037,6 +2033,10 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "Notify",
+      "me"
+    ],
     "widgetId": null
   },
   {
@@ -2045,9 +2045,6 @@
     "idxpath": "//*[@id='ac-globalnav']/div[1]/ul[2]/li[8]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 874,
@@ -2059,6 +2056,9 @@
       "ac-gn-link-text"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Support"
+    ],
     "widgetId": null
   },
   {
@@ -2068,7 +2068,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[1]/a[1]",
     "area": 917792,
     "shape": 169,
-    "visibleText": [],
     "isButton": false,
     "location": {
       "x": 0,
@@ -2080,6 +2079,7 @@
       "unit-link"
     ],
     "neighborText": [],
+    "visibleText": [],
     "widgetId": null
   },
   {
@@ -2088,9 +2088,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Watch"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -2107,6 +2104,9 @@
       "News+",
       "TV"
     ],
+    "visibleText": [
+      "Watch"
+    ],
     "widgetId": null
   },
   {
@@ -2116,9 +2116,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
     "area": 490,
     "shape": 250,
-    "visibleText": [
-      "Watch"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -2133,6 +2130,9 @@
       "iPhone",
       "TV"
     ],
+    "visibleText": [
+      "Watch"
+    ],
     "widgetId": null
   },
   {
@@ -2141,9 +2141,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[1]/ul[1]/li[1]",
     "area": 55860,
     "shape": 1719,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -2156,6 +2153,9 @@
       "Apple",
       "Footer"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -2165,7 +2165,6 @@
     "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[3]/div[1]/div[1]/a[1]",
     "area": 377520,
     "shape": 96,
-    "visibleText": [],
     "isButton": false,
     "location": {
       "x": 12,
@@ -2177,6 +2176,7 @@
       "unit-link"
     ],
     "neighborText": [],
+    "visibleText": [],
     "widgetId": null
   },
   {
@@ -2185,9 +2185,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[1]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Newsroom"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2206,6 +2203,9 @@
       "Apple",
       "Leadership"
     ],
+    "visibleText": [
+      "Newsroom"
+    ],
     "widgetId": null
   },
   {
@@ -2215,10 +2215,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[2]/a[1]",
     "area": 1372,
     "shape": 700,
-    "visibleText": [
-      "Apple",
-      "Leadership"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2237,6 +2233,10 @@
       "Job",
       "Opportunities"
     ],
+    "visibleText": [
+      "Apple",
+      "Leadership"
+    ],
     "widgetId": null
   },
   {
@@ -2245,10 +2245,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[2]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Shop",
-      "Online"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -2271,6 +2267,10 @@
       "Genius",
       "Bar"
     ],
+    "visibleText": [
+      "Shop",
+      "Online"
+    ],
     "widgetId": null
   },
   {
@@ -2280,10 +2280,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
     "area": 952,
     "shape": 485,
-    "visibleText": [
-      "Shop",
-      "Online"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -2303,6 +2299,10 @@
       "Genius",
       "Bar"
     ],
+    "visibleText": [
+      "Shop",
+      "Online"
+    ],
     "widgetId": null
   },
   {
@@ -2311,10 +2311,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[3]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Job",
-      "Opportunities"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2334,6 +2330,10 @@
       "Leadership",
       "Investors"
     ],
+    "visibleText": [
+      "Job",
+      "Opportunities"
+    ],
     "widgetId": null
   },
   {
@@ -2343,10 +2343,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[3]/a[1]",
     "area": 1414,
     "shape": 721,
-    "visibleText": [
-      "Job",
-      "Opportunities"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2366,6 +2362,10 @@
       "Leadership",
       "Investors"
     ],
+    "visibleText": [
+      "Job",
+      "Opportunities"
+    ],
     "widgetId": null
   },
   {
@@ -2375,9 +2375,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[1]/a[1]",
     "area": 840,
     "shape": 428,
-    "visibleText": [
-      "Newsroom"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2396,6 +2393,9 @@
       "Apple",
       "Leadership"
     ],
+    "visibleText": [
+      "Newsroom"
+    ],
     "widgetId": null
   },
   {
@@ -2404,10 +2404,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[3]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Genius",
-      "Bar"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -2429,6 +2425,10 @@
       "at",
       "Apple"
     ],
+    "visibleText": [
+      "Genius",
+      "Bar"
+    ],
     "widgetId": null
   },
   {
@@ -2438,10 +2438,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[3]/a[1]",
     "area": 854,
     "shape": 435,
-    "visibleText": [
-      "Genius",
-      "Bar"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -2461,6 +2457,10 @@
       "at",
       "Apple"
     ],
+    "visibleText": [
+      "Genius",
+      "Bar"
+    ],
     "widgetId": null
   },
   {
@@ -2469,9 +2469,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[4]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Investors"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2491,6 +2488,9 @@
       "Opportunities",
       "Events"
     ],
+    "visibleText": [
+      "Investors"
+    ],
     "widgetId": null
   },
   {
@@ -2500,9 +2500,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[4]/a[1]",
     "area": 714,
     "shape": 364,
-    "visibleText": [
-      "Investors"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2522,6 +2519,9 @@
       "Opportunities",
       "Events"
     ],
+    "visibleText": [
+      "Investors"
+    ],
     "widgetId": null
   },
   {
@@ -2530,10 +2530,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/label[1]",
     "area": 3136,
     "shape": 1225,
-    "visibleText": [
-      "For",
-      "Education"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -2552,6 +2548,10 @@
       "and",
       "Education"
     ],
+    "visibleText": [
+      "For",
+      "Education"
+    ],
     "widgetId": null
   },
   {
@@ -2561,11 +2561,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[4]/a[1]",
     "area": 1176,
     "shape": 600,
-    "visibleText": [
-      "Today",
-      "at",
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -2584,6 +2579,11 @@
       "Apple",
       "Camp"
     ],
+    "visibleText": [
+      "Today",
+      "at",
+      "Apple"
+    ],
     "widgetId": null
   },
   {
@@ -2592,9 +2592,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[5]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Events"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2612,6 +2609,9 @@
       "Contact",
       "Apple"
     ],
+    "visibleText": [
+      "Events"
+    ],
     "widgetId": null
   },
   {
@@ -2621,9 +2621,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[5]/a[1]",
     "area": 518,
     "shape": 264,
-    "visibleText": [
-      "Events"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2641,6 +2638,9 @@
       "Contact",
       "Apple"
     ],
+    "visibleText": [
+      "Events"
+    ],
     "widgetId": null
   },
   {
@@ -2649,10 +2649,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/label[1]/h3[1]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Apple",
-      "Values"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2668,6 +2664,10 @@
       "Business",
       "Accessibility"
     ],
+    "visibleText": [
+      "Apple",
+      "Values"
+    ],
     "widgetId": null
   },
   {
@@ -2677,11 +2677,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[1]/a[1]",
     "area": 1624,
     "shape": 828,
-    "visibleText": [
-      "Apple",
-      "and",
-      "Education"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -2701,6 +2696,11 @@
       "for",
       "K-12"
     ],
+    "visibleText": [
+      "Apple",
+      "and",
+      "Education"
+    ],
     "widgetId": null
   },
   {
@@ -2709,10 +2709,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[4]/label[1]/h3[1]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "For",
-      "Government"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -2733,6 +2729,10 @@
       "for",
       "Government"
     ],
+    "visibleText": [
+      "For",
+      "Government"
+    ],
     "widgetId": null
   },
   {
@@ -2741,10 +2741,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[6]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Contact",
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2761,6 +2757,10 @@
       "Government",
       "Events"
     ],
+    "visibleText": [
+      "Contact",
+      "Apple"
+    ],
     "widgetId": null
   },
   {
@@ -2770,10 +2770,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[6]/a[1]",
     "area": 1120,
     "shape": 571,
-    "visibleText": [
-      "Contact",
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2790,6 +2786,10 @@
       "Government",
       "Events"
     ],
+    "visibleText": [
+      "Contact",
+      "Apple"
+    ],
     "widgetId": null
   },
   {
@@ -2798,11 +2798,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[2]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Shop",
-      "for",
-      "K-12"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -2824,6 +2819,11 @@
       "for",
       "College"
     ],
+    "visibleText": [
+      "Shop",
+      "for",
+      "K-12"
+    ],
     "widgetId": null
   },
   {
@@ -2833,11 +2833,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[2]/a[1]",
     "area": 1064,
     "shape": 542,
-    "visibleText": [
-      "Shop",
-      "for",
-      "K-12"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -2859,6 +2854,11 @@
       "for",
       "College"
     ],
+    "visibleText": [
+      "Shop",
+      "for",
+      "K-12"
+    ],
     "widgetId": null
   },
   {
@@ -2867,9 +2867,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[2]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Education"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -2887,6 +2884,9 @@
       "Accessibility",
       "Environment"
     ],
+    "visibleText": [
+      "Education"
+    ],
     "widgetId": null
   },
   {
@@ -2896,12 +2896,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[1]/a[1]",
     "area": 1540,
     "shape": 785,
-    "visibleText": [
-      "Find",
-      "an",
-      "Apple",
-      "Store"
-    ],
     "isButton": false,
     "location": {
       "x": 246,
@@ -2915,6 +2909,12 @@
       "other",
       "retailer"
     ],
+    "visibleText": [
+      "Find",
+      "an",
+      "Apple",
+      "Store"
+    ],
     "widgetId": null
   },
   {
@@ -2923,11 +2923,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[2]/ul[1]/li[3]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Shop",
-      "for",
-      "College"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -2950,6 +2945,11 @@
       "For",
       "Healthcare"
     ],
+    "visibleText": [
+      "Shop",
+      "for",
+      "College"
+    ],
     "widgetId": null
   },
   {
@@ -2959,10 +2959,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[1]/a[2]",
     "area": 1022,
     "shape": 521,
-    "visibleText": [
-      "other",
-      "retailer"
-    ],
     "isButton": false,
     "location": {
       "x": 376,
@@ -2980,6 +2976,10 @@
       "Privacy",
       "Policy"
     ],
+    "visibleText": [
+      "other",
+      "retailer"
+    ],
     "widgetId": null
   },
   {
@@ -2988,9 +2988,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[3]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Environment"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3009,6 +3006,9 @@
       "and",
       "Diversity"
     ],
+    "visibleText": [
+      "Environment"
+    ],
     "widgetId": null
   },
   {
@@ -3018,9 +3018,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[3]/a[1]",
     "area": 980,
     "shape": 500,
-    "visibleText": [
-      "Environment"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3039,6 +3036,9 @@
       "and",
       "Diversity"
     ],
+    "visibleText": [
+      "Environment"
+    ],
     "widgetId": null
   },
   {
@@ -3048,11 +3048,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
     "area": 938,
     "shape": 478,
-    "visibleText": [
-      "Find",
-      "a",
-      "Store"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -3071,6 +3066,11 @@
       "Shop",
       "Online"
     ],
+    "visibleText": [
+      "Find",
+      "a",
+      "Store"
+    ],
     "widgetId": null
   },
   {
@@ -3079,11 +3079,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[1]/span[1]",
     "area": 2288,
     "shape": 893,
-    "visibleText": [
-      "Or",
-      "call",
-      "1-800-MY-APPLE."
-    ],
     "isButton": false,
     "location": {
       "x": 508,
@@ -3098,6 +3093,11 @@
       "Privacy",
       "Policy"
     ],
+    "visibleText": [
+      "Or",
+      "call",
+      "1-800-MY-APPLE."
+    ],
     "widgetId": null
   },
   {
@@ -3107,9 +3107,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[8]/a[1]",
     "area": 756,
     "shape": 385,
-    "visibleText": [
-      "Financing"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -3130,6 +3127,9 @@
       "Trade",
       "In"
     ],
+    "visibleText": [
+      "Financing"
+    ],
     "widgetId": null
   },
   {
@@ -3138,11 +3138,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[4]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Inclusion",
-      "and",
-      "Diversity"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3159,6 +3154,11 @@
       "Environment",
       "Privacy"
     ],
+    "visibleText": [
+      "Inclusion",
+      "and",
+      "Diversity"
+    ],
     "widgetId": null
   },
   {
@@ -3168,10 +3168,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[2]/a[1]",
     "area": 1064,
     "shape": 542,
-    "visibleText": [
-      "United",
-      "States"
-    ],
     "isButton": false,
     "location": {
       "x": 1036,
@@ -3183,6 +3179,10 @@
       "ac-gf-footer-locale-link"
     ],
     "neighborText": [],
+    "visibleText": [
+      "United",
+      "States"
+    ],
     "widgetId": null
   },
   {
@@ -3191,10 +3191,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[3]/label[1]/h3[1]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "For",
-      "Healthcare"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -3216,6 +3212,10 @@
       "in",
       "Healthcare"
     ],
+    "visibleText": [
+      "For",
+      "Healthcare"
+    ],
     "widgetId": null
   },
   {
@@ -3225,11 +3225,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[9]/a[1]",
     "area": 1134,
     "shape": 578,
-    "visibleText": [
-      "Apple",
-      "Trade",
-      "In"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -3247,6 +3242,11 @@
       "Order",
       "Status"
     ],
+    "visibleText": [
+      "Apple",
+      "Trade",
+      "In"
+    ],
     "widgetId": null
   },
   {
@@ -3255,9 +3255,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[5]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Privacy"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3278,6 +3275,9 @@
       "Supplier",
       "Responsibility"
     ],
+    "visibleText": [
+      "Privacy"
+    ],
     "widgetId": null
   },
   {
@@ -3287,9 +3287,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[5]/a[1]",
     "area": 574,
     "shape": 292,
-    "visibleText": [
-      "Privacy"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3310,6 +3307,9 @@
       "Supplier",
       "Responsibility"
     ],
+    "visibleText": [
+      "Privacy"
+    ],
     "widgetId": null
   },
   {
@@ -3318,16 +3318,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[1]",
     "area": 4336,
     "shape": 1693,
-    "visibleText": [
-      "Copyright",
-      "©",
-      "2020",
-      "Apple",
-      "Inc.",
-      "All",
-      "rights",
-      "reserved."
-    ],
     "isButton": false,
     "location": {
       "x": 133,
@@ -3346,6 +3336,16 @@
       "Privacy",
       "Policy"
     ],
+    "visibleText": [
+      "Copyright",
+      "©",
+      "2020",
+      "Apple",
+      "Inc.",
+      "All",
+      "rights",
+      "reserved."
+    ],
     "widgetId": null
   },
   {
@@ -3355,10 +3355,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[10]/a[1]",
     "area": 1008,
     "shape": 514,
-    "visibleText": [
-      "Order",
-      "Status"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -3378,6 +3374,10 @@
       "Shopping",
       "Help"
     ],
+    "visibleText": [
+      "Order",
+      "Status"
+    ],
     "widgetId": null
   },
   {
@@ -3386,10 +3386,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/ul[1]/li[2]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Apple",
-      "Leadership"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3408,6 +3404,10 @@
       "Job",
       "Opportunities"
     ],
+    "visibleText": [
+      "Apple",
+      "Leadership"
+    ],
     "widgetId": null
   },
   {
@@ -3416,10 +3416,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[1]/ul[1]/li[6]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Supplier",
-      "Responsibility"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3438,6 +3434,10 @@
       "About",
       "Apple"
     ],
+    "visibleText": [
+      "Supplier",
+      "Responsibility"
+    ],
     "widgetId": null
   },
   {
@@ -3447,10 +3447,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[1]",
     "area": 1424,
     "shape": 556,
-    "visibleText": [
-      "Privacy",
-      "Policy"
-    ],
     "isButton": false,
     "location": {
       "x": 435,
@@ -3477,6 +3473,10 @@
       "of",
       "Use"
     ],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "widgetId": null
   },
   {
@@ -3485,10 +3485,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[3]/div[1]/ul[1]/li[11]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Shopping",
-      "Help"
-    ],
     "isButton": false,
     "location": {
       "x": 525,
@@ -3508,6 +3504,10 @@
       "on",
       "iPhone"
     ],
+    "visibleText": [
+      "Shopping",
+      "Help"
+    ],
     "widgetId": null
   },
   {
@@ -3517,11 +3517,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[2]",
     "area": 1360,
     "shape": 531,
-    "visibleText": [
-      "Terms",
-      "of",
-      "Use"
-    ],
     "isButton": false,
     "location": {
       "x": 535,
@@ -3542,6 +3537,11 @@
       "and",
       "Refunds"
     ],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "widgetId": null
   },
   {
@@ -3550,12 +3550,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[4]/div[3]/ul[1]/li[3]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "Health",
-      "Records",
-      "on",
-      "iPhone"
-    ],
     "isButton": false,
     "location": {
       "x": 721,
@@ -3578,6 +3572,12 @@
       "For",
       "Government"
     ],
+    "visibleText": [
+      "Health",
+      "Records",
+      "on",
+      "iPhone"
+    ],
     "widgetId": null
   },
   {
@@ -3587,11 +3587,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[3]",
     "area": 1840,
     "shape": 718,
-    "visibleText": [
-      "Sales",
-      "and",
-      "Refunds"
-    ],
     "isButton": false,
     "location": {
       "x": 631,
@@ -3608,6 +3603,11 @@
       "of",
       "Use"
     ],
+    "visibleText": [
+      "Sales",
+      "and",
+      "Refunds"
+    ],
     "widgetId": null
   },
   {
@@ -3616,10 +3616,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/label[1]",
     "area": 3136,
     "shape": 1225,
-    "visibleText": [
-      "About",
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3635,6 +3631,10 @@
       "Responsibility",
       "Newsroom"
     ],
+    "visibleText": [
+      "About",
+      "Apple"
+    ],
     "widgetId": null
   },
   {
@@ -3644,9 +3644,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[4]",
     "area": 656,
     "shape": 256,
-    "visibleText": [
-      "Legal"
-    ],
     "isButton": false,
     "location": {
       "x": 757,
@@ -3664,6 +3661,9 @@
       "Site",
       "Map"
     ],
+    "visibleText": [
+      "Legal"
+    ],
     "widgetId": null
   },
   {
@@ -3672,10 +3672,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/nav[1]/div[5]/div[2]/label[1]/h3[1]",
     "area": 2816,
     "shape": 1100,
-    "visibleText": [
-      "About",
-      "Apple"
-    ],
     "isButton": false,
     "location": {
       "x": 917,
@@ -3693,6 +3689,10 @@
       "Responsibility",
       "Newsroom"
     ],
+    "visibleText": [
+      "About",
+      "Apple"
+    ],
     "widgetId": null
   },
   {
@@ -3702,10 +3702,6 @@
     "idxpath": "//*[@id='ac-globalfooter']/div[1]/section[2]/div[3]/div[2]/a[5]",
     "area": 784,
     "shape": 306,
-    "visibleText": [
-      "Site",
-      "Map"
-    ],
     "isButton": false,
     "location": {
       "x": 809,
@@ -3718,6 +3714,10 @@
     ],
     "neighborText": [
       "Legal"
+    ],
+    "visibleText": [
+      "Site",
+      "Map"
     ],
     "widgetId": null
   }

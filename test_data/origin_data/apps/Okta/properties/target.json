@@ -13,7 +13,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Okta"
+    ],
     "area": null,
     "shape": null
   },
@@ -31,7 +33,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Solutions"
+    ],
     "area": null,
     "shape": null
   },
@@ -49,7 +53,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Products"
+    ],
     "area": null,
     "shape": null
   },
@@ -67,7 +73,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Services"
+    ],
     "area": null,
     "shape": null
   },
@@ -85,7 +93,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Resources"
+    ],
     "area": null,
     "shape": null
   },
@@ -103,7 +113,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company"
+    ],
     "area": null,
     "shape": null
   },
@@ -121,7 +133,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Sales"
+    ],
     "area": null,
     "shape": null
   },
@@ -141,7 +156,10 @@
       "Button--green"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Try",
+      "Okta"
+    ],
     "area": null,
     "shape": null
   },
@@ -162,7 +180,10 @@
       "Button--blueOutline"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "In"
+    ],
     "area": null,
     "shape": null
   },

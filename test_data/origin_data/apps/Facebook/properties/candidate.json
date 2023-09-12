@@ -71,7 +71,10 @@
       "_51sy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -89,7 +92,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Forgot",
+      "Password?"
+    ],
     "area": null,
     "shape": null
   },
@@ -109,7 +115,11 @@
       "_8esh"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "a",
+      "Page"
+    ],
     "area": null,
     "shape": null
   },
@@ -127,7 +137,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null
   },
@@ -145,7 +158,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -163,7 +179,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Messenger"
+    ],
     "area": null,
     "shape": null
   },
@@ -181,7 +199,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook",
+      "Lite"
+    ],
     "area": null,
     "shape": null
   },
@@ -199,7 +220,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "People"
+    ],
     "area": null,
     "shape": null
   },
@@ -217,7 +240,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pages"
+    ],
     "area": null,
     "shape": null
   },
@@ -235,7 +260,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Places"
+    ],
     "area": null,
     "shape": null
   },
@@ -253,7 +280,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Games"
+    ],
     "area": null,
     "shape": null
   },
@@ -271,7 +300,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Locations"
+    ],
     "area": null,
     "shape": null
   },
@@ -289,7 +320,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Groups"
+    ],
     "area": null,
     "shape": null
   },
@@ -307,7 +340,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null
   },
@@ -325,7 +360,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "Ad"
+    ],
     "area": null,
     "shape": null
   },
@@ -343,7 +381,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "Page"
+    ],
     "area": null,
     "shape": null
   },
@@ -361,7 +402,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null
   },
@@ -379,7 +422,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null
   },
@@ -397,7 +442,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null
   },
@@ -415,7 +462,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookies"
+    ],
     "area": null,
     "shape": null
   },
@@ -435,7 +484,10 @@
       "_41ug"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ad",
+      "Choices"
+    ],
     "area": null,
     "shape": null
   },
@@ -453,7 +505,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null
   },
@@ -471,7 +525,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help"
+    ],
     "area": null,
     "shape": null
   },
@@ -488,7 +544,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Français",
+      "(France)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -506,7 +565,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Portal"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -547,7 +608,9 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "中文(简体)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -565,7 +628,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ad",
+      "Choices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -583,7 +649,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "العربية"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -615,7 +683,10 @@
       "_51sy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility",
+      "Help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -633,7 +704,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -653,7 +726,9 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "العربية"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -673,7 +748,10 @@
       "_55pe"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility",
+      "Help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -691,7 +769,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -709,7 +789,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Português",
+      "(Brasil)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -748,7 +831,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Local"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -768,7 +853,10 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Português",
+      "(Brasil)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -786,7 +874,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Oculus"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -804,7 +894,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -824,7 +916,9 @@
       "_3bcz"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "alt"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -842,7 +936,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "한국어"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -860,7 +956,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fundraisers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -880,7 +978,9 @@
       "_3bcz"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "/"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -900,7 +1000,9 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "한국어"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -920,7 +1022,9 @@
       "accessible_elem"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Settings"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -950,7 +1054,12 @@
       "_51sy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sections",
+      "of",
+      "this",
+      "page"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -968,7 +1077,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Italiano"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -988,7 +1099,10 @@
       "accessible_elem"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Activity",
+      "Log"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1008,7 +1122,9 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Italiano"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1026,7 +1142,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Services"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1044,7 +1162,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook",
+      "©",
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1064,7 +1186,10 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Français",
+      "(France)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1082,7 +1207,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Voting",
+      "Information",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1118,7 +1247,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Voting",
+      "Information",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1136,7 +1269,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "हिन्दी"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1154,7 +1289,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1174,7 +1311,9 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "हिन्दी"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1192,7 +1331,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Locations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1210,7 +1351,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "日本語"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1228,7 +1371,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "Ad"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1248,7 +1394,9 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "日本語"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1266,7 +1414,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookies"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1284,7 +1434,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marketplace"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1320,7 +1472,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Create",
+      "Page"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1362,7 +1517,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook",
+      "Pay"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1382,7 +1540,12 @@
       "_55pe"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sections",
+      "of",
+      "this",
+      "page"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1400,7 +1563,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1418,7 +1583,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Groups"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1436,7 +1603,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "English",
+      "(US)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1454,7 +1624,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "中文(简体)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1472,7 +1644,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1490,7 +1664,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Español"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1508,7 +1684,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1528,7 +1706,9 @@
       "_sv4"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Español"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1546,7 +1726,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

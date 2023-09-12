@@ -6,14 +6,6 @@
     "area": 1365,
     "shape": 309,
     "widgetId": 1,
-    "visibleText": [
-      "Products"
-    ],
-    "neighborText": [
-      "0",
-      "products",
-      "solutions"
-    ],
     "isButton": false,
     "location": {
       "x": 224,
@@ -21,7 +13,15 @@
       "width": 65,
       "height": 21
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "0",
+      "products",
+      "solutions"
+    ],
+    "visibleText": [
+      "Products"
+    ]
   },
   {
     "tag": "SPAN",
@@ -30,9 +30,14 @@
     "area": 1449,
     "shape": 328,
     "widgetId": 2,
-    "visibleText": [
-      "Solutions"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 312,
+      "y": 77,
+      "width": 69,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "0",
       "products",
@@ -41,14 +46,9 @@
       "&",
       "services"
     ],
-    "isButton": false,
-    "location": {
-      "x": 312,
-      "y": 77,
-      "width": 69,
-      "height": 21
-    },
-    "classList": []
+    "visibleText": [
+      "Solutions"
+    ]
   },
   {
     "tag": "SPAN",
@@ -57,11 +57,14 @@
     "area": 2898,
     "shape": 657,
     "widgetId": 3,
-    "visibleText": [
-      "Support",
-      "&",
-      "Services"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 403,
+      "y": 77,
+      "width": 138,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "0",
       "solutions",
@@ -70,14 +73,11 @@
       "services",
       "events"
     ],
-    "isButton": false,
-    "location": {
-      "x": 403,
-      "y": 77,
-      "width": 138,
-      "height": 21
-    },
-    "classList": []
+    "visibleText": [
+      "Support",
+      "&",
+      "Services"
+    ]
   },
   {
     "tag": "SPAN",
@@ -86,9 +86,14 @@
     "area": 1008,
     "shape": 228,
     "widgetId": 4,
-    "visibleText": [
-      "Events"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 564,
+      "y": 77,
+      "width": 48,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "0",
       "support",
@@ -108,14 +113,9 @@
       "videos",
       "webinars"
     ],
-    "isButton": false,
-    "location": {
-      "x": 564,
-      "y": 77,
-      "width": 48,
-      "height": 21
-    },
-    "classList": []
+    "visibleText": [
+      "Events"
+    ]
   },
   {
     "tag": "SPAN",
@@ -124,10 +124,14 @@
     "area": 1428,
     "shape": 323,
     "widgetId": 5,
-    "visibleText": [
-      "About",
-      "Us"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 731,
+      "y": 77,
+      "width": 68,
+      "height": 21
+    },
+    "classList": [],
     "neighborText": [
       "resources",
       "resource",
@@ -149,14 +153,10 @@
       "call",
       "1-800-667-6389"
     ],
-    "isButton": false,
-    "location": {
-      "x": 731,
-      "y": 77,
-      "width": 68,
-      "height": 21
-    },
-    "classList": []
+    "visibleText": [
+      "About",
+      "Us"
+    ]
   },
   {
     "tag": "A",
@@ -166,10 +166,14 @@
     "area": 1444,
     "shape": 400,
     "widgetId": 6,
-    "visibleText": [
-      "Contact",
-      "Us"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 946,
+      "y": 15,
+      "width": 76,
+      "height": 19
+    },
+    "classList": [],
     "neighborText": [
       "0",
       "covid-19",
@@ -182,14 +186,10 @@
       "for",
       "free"
     ],
-    "isButton": false,
-    "location": {
-      "x": 946,
-      "y": 15,
-      "width": 76,
-      "height": 19
-    },
-    "classList": []
+    "visibleText": [
+      "Contact",
+      "Us"
+    ]
   },
   {
     "tag": "A",
@@ -199,17 +199,6 @@
     "area": 2130,
     "shape": 236,
     "widgetId": 7,
-    "visibleText": [
-      "Login"
-    ],
-    "neighborText": [
-      "contact",
-      "us",
-      "login",
-      "try",
-      "for",
-      "free"
-    ],
     "isButton": false,
     "location": {
       "x": 1061,
@@ -220,6 +209,17 @@
     "classList": [
       "dropdown-toggle",
       "disabled"
+    ],
+    "neighborText": [
+      "contact",
+      "us",
+      "login",
+      "try",
+      "for",
+      "free"
+    ],
+    "visibleText": [
+      "Login"
     ]
   },
   {
@@ -230,19 +230,6 @@
     "area": 5880,
     "shape": 333,
     "widgetId": 8,
-    "visibleText": [
-      "Try",
-      "for",
-      "free"
-    ],
-    "neighborText": [
-      "contact",
-      "us",
-      "login",
-      "try",
-      "for",
-      "free"
-    ],
     "isButton": true,
     "location": {
       "x": 992,
@@ -255,6 +242,19 @@
       "btn-lg",
       "btn-nav",
       "salesforce-sans-regular"
+    ],
+    "neighborText": [
+      "contact",
+      "us",
+      "login",
+      "try",
+      "for",
+      "free"
+    ],
+    "visibleText": [
+      "Try",
+      "for",
+      "free"
     ]
   },
   {
@@ -264,16 +264,6 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 9,
-    "visibleText": [
-      "Overview"
-    ],
-    "neighborText": [
-      "salesforce",
-      "platform",
-      "overview",
-      "solutions",
-      "architecture"
-    ],
     "isButton": false,
     "location": {
       "x": 183,
@@ -281,7 +271,17 @@
       "width": 148,
       "height": 45
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "salesforce",
+      "platform",
+      "overview",
+      "solutions",
+      "architecture"
+    ],
+    "visibleText": [
+      "Overview"
+    ]
   },
   {
     "tag": "LI",
@@ -290,15 +290,6 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 10,
-    "visibleText": [
-      "Solutions"
-    ],
-    "neighborText": [
-      "overview",
-      "solutions",
-      "architecture",
-      "features"
-    ],
     "isButton": false,
     "location": {
       "x": 183,
@@ -306,7 +297,16 @@
       "width": 148,
       "height": 45
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "overview",
+      "solutions",
+      "architecture",
+      "features"
+    ],
+    "visibleText": [
+      "Solutions"
+    ]
   },
   {
     "tag": "LI",
@@ -315,9 +315,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 11,
-    "visibleText": [
-      "Architecture"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 444,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "overview",
       "solutions",
@@ -326,14 +331,9 @@
       "related",
       "products"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 444,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Architecture"
+    ]
   },
   {
     "tag": "LI",
@@ -342,9 +342,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 12,
-    "visibleText": [
-      "Features"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 489,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "solutions",
       "architecture",
@@ -353,14 +358,9 @@
       "products",
       "pricing"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 489,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Features"
+    ]
   },
   {
     "tag": "LI",
@@ -369,10 +369,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 13,
-    "visibleText": [
-      "Related",
-      "Products"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 534,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "architecture",
       "features",
@@ -382,14 +386,10 @@
       "app",
       "gallery"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 534,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Related",
+      "Products"
+    ]
   },
   {
     "tag": "LI",
@@ -398,9 +398,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 14,
-    "visibleText": [
-      "Pricing"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 579,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "features",
       "related",
@@ -410,14 +415,9 @@
       "gallery",
       "resources"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 579,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Pricing"
+    ]
   },
   {
     "tag": "LI",
@@ -426,10 +426,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 15,
-    "visibleText": [
-      "App",
-      "Gallery"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 624,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "related",
       "products",
@@ -441,14 +445,10 @@
       "us",
       "1-844-463-0828"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 624,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "App",
+      "Gallery"
+    ]
   },
   {
     "tag": "LI",
@@ -457,9 +457,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 16,
-    "visibleText": [
-      "Resources"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 669,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "pricing",
       "app",
@@ -469,14 +474,9 @@
       "us",
       "1-844-463-0828"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 669,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Resources"
+    ]
   },
   {
     "tag": "A",
@@ -486,18 +486,6 @@
     "area": 6426,
     "shape": 364,
     "widgetId": 17,
-    "visibleText": [
-      "Take",
-      "the",
-      "tour"
-    ],
-    "neighborText": [
-      "take",
-      "the",
-      "tour",
-      "try",
-      "now"
-    ],
     "isButton": true,
     "location": {
       "x": 396,
@@ -510,6 +498,18 @@
       "btn-lg",
       "btn-light",
       "salesforce-sans-regular"
+    ],
+    "neighborText": [
+      "take",
+      "the",
+      "tour",
+      "try",
+      "now"
+    ],
+    "visibleText": [
+      "Take",
+      "the",
+      "tour"
     ]
   }
 ]

@@ -17,7 +17,9 @@
       "coreSpriteLoggedOutWordmark"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null
   },
@@ -37,7 +39,13 @@
       "_9nyy2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Phone",
+      "number,",
+      "username,",
+      "or",
+      "email"
+    ],
     "area": null,
     "shape": null
   },
@@ -57,7 +65,9 @@
       "_9nyy2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Password"
+    ],
     "area": null,
     "shape": null
   },
@@ -75,7 +85,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
     "area": null,
     "shape": null
   },
@@ -97,7 +110,10 @@
       "y3zKF"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -157,7 +173,11 @@
       "b_nGN"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "the",
+      "app."
+    ],
     "area": null,
     "shape": null
   },
@@ -175,7 +195,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null
   },
@@ -193,7 +215,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Blog"
+    ],
     "area": null,
     "shape": null
   },
@@ -211,7 +235,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null
   },
@@ -229,7 +255,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "API"
+    ],
     "area": null,
     "shape": null
   },
@@ -247,7 +275,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null
   },
@@ -265,7 +295,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms"
+    ],
     "area": null,
     "shape": null
   },
@@ -283,7 +315,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Hashtags"
+    ],
     "area": null,
     "shape": null
   },
@@ -300,7 +334,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Food",
+      "&",
+      "Drink"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -318,7 +356,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Music"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -336,7 +376,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Visual",
+      "Arts"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -376,7 +419,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "English"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -396,7 +441,13 @@
       "f0n8F"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Phone",
+      "number,",
+      "username,",
+      "or",
+      "email"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -495,7 +546,9 @@
       "f0n8F"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Password"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -536,7 +589,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Top",
+      "Accounts"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -554,7 +610,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Home",
+      "&",
+      "Garden"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -576,7 +636,12 @@
       "y3zKF"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "in",
+      "with",
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -594,7 +659,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Locations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -635,7 +702,12 @@
       "KPnG0"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "in",
+      "with",
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -653,7 +725,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Beauty"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -673,7 +747,10 @@
       "_2Lks6"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -691,7 +768,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Dance",
+      "&",
+      "Performance"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -711,7 +792,14 @@
       "izU2O"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Don't",
+      "have",
+      "an",
+      "account?",
+      "Sign",
+      "up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -729,7 +817,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fitness"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

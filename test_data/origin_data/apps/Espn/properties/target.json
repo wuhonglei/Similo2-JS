@@ -14,7 +14,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null
   },
@@ -38,7 +40,10 @@
       "current-league-name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Top",
+      "Events"
+    ],
     "area": null,
     "shape": null
   },
@@ -62,7 +67,10 @@
       "espn-plus-paywall-article"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SUBSCRIBE",
+      "NOW"
+    ],
     "area": null,
     "shape": null
   },
@@ -102,7 +110,10 @@
       "module__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Top",
+      "Headlines"
+    ],
     "area": null,
     "shape": null
   },
@@ -122,7 +133,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Quick",
+      "Links"
+    ],
     "area": null,
     "shape": null
   },
@@ -142,7 +156,9 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Favorites"
+    ],
     "area": null,
     "shape": null
   },
@@ -162,7 +178,10 @@
       "open-favs"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Manage",
+      "Favorites"
+    ],
     "area": null,
     "shape": null
   },
@@ -182,7 +201,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Sites"
+    ],
     "area": null,
     "shape": null
   },
@@ -203,7 +225,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Deportes"
+    ],
     "area": null,
     "shape": null
   },
@@ -225,7 +250,10 @@
       "external"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "The",
+      "Undefeated"
+    ],
     "area": null,
     "shape": null
   },
@@ -246,7 +274,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "espnW"
+    ],
     "area": null,
     "shape": null
   },
@@ -267,7 +297,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPNFC"
+    ],
     "area": null,
     "shape": null
   },
@@ -289,7 +321,10 @@
       "external"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "X",
+      "Games"
+    ],
     "area": null,
     "shape": null
   },
@@ -311,7 +346,10 @@
       "external"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SEC",
+      "Network"
+    ],
     "area": null,
     "shape": null
   },
@@ -331,7 +369,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Apps"
+    ],
     "area": null,
     "shape": null
   },
@@ -352,7 +393,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN"
+    ],
     "area": null,
     "shape": null
   },
@@ -373,7 +416,10 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ESPN",
+      "Fantasy"
+    ],
     "area": null,
     "shape": null
   },
@@ -394,7 +440,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null
   },
@@ -415,7 +463,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null
   },
@@ -436,7 +486,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null
   },
@@ -457,7 +509,9 @@
       "quicklinks_list__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Snapchat"
+    ],
     "area": null,
     "shape": null
   },
@@ -477,7 +531,10 @@
       "quicklinks__heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Follow",
+      "ESPN"
+    ],
     "area": null,
     "shape": null
   }

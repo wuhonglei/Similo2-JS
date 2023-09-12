@@ -6,15 +6,6 @@
     "area": 2050,
     "shape": 328,
     "widgetId": 1,
-    "visibleText": [
-      "Follow",
-      "us:"
-    ],
-    "neighborText": [
-      "facebook",
-      "(opens",
-      "overlay)"
-    ],
     "isButton": false,
     "location": {
       "x": 459,
@@ -24,6 +15,15 @@
     },
     "classList": [
       "footer__module-footer__section__followus--text"
+    ],
+    "neighborText": [
+      "facebook",
+      "(opens",
+      "overlay)"
+    ],
+    "visibleText": [
+      "Follow",
+      "us:"
     ]
   },
   {
@@ -34,20 +34,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 2,
-    "visibleText": [
-      "Facebook",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "follow",
-      "us:",
-      "facebook",
-      "(opens",
-      "overlay)",
-      "instagram",
-      "twitter"
-    ],
     "isButton": false,
     "location": {
       "x": 559,
@@ -60,6 +46,20 @@
       "chaseanalytics-opt-exlnk",
       "icon",
       "icon-facebook"
+    ],
+    "neighborText": [
+      "follow",
+      "us:",
+      "facebook",
+      "(opens",
+      "overlay)",
+      "instagram",
+      "twitter"
+    ],
+    "visibleText": [
+      "Facebook",
+      "(Opens",
+      "Overlay)"
     ]
   },
   {
@@ -70,19 +70,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 3,
-    "visibleText": [
-      "Instagram",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "facebook",
-      "(opens",
-      "overlay)",
-      "instagram",
-      "twitter",
-      "youtube"
-    ],
     "isButton": false,
     "location": {
       "x": 595,
@@ -95,6 +82,19 @@
       "chaseanalytics-opt-exlnk",
       "icon",
       "icon-instagram"
+    ],
+    "neighborText": [
+      "facebook",
+      "(opens",
+      "overlay)",
+      "instagram",
+      "twitter",
+      "youtube"
+    ],
+    "visibleText": [
+      "Instagram",
+      "(Opens",
+      "Overlay)"
     ]
   },
   {
@@ -105,20 +105,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 4,
-    "visibleText": [
-      "Twitter",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "facebook",
-      "(opens",
-      "overlay)",
-      "instagram",
-      "twitter",
-      "youtube",
-      "linkedin"
-    ],
     "isButton": false,
     "location": {
       "x": 631,
@@ -131,6 +117,20 @@
       "chaseanalytics-opt-exlnk",
       "icon",
       "icon-twitter"
+    ],
+    "neighborText": [
+      "facebook",
+      "(opens",
+      "overlay)",
+      "instagram",
+      "twitter",
+      "youtube",
+      "linkedin"
+    ],
+    "visibleText": [
+      "Twitter",
+      "(Opens",
+      "Overlay)"
     ]
   },
   {
@@ -141,20 +141,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 5,
-    "visibleText": [
-      "YouTube",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "instagram",
-      "(opens",
-      "overlay)",
-      "twitter",
-      "youtube",
-      "linkedin",
-      "pinterest"
-    ],
     "isButton": false,
     "location": {
       "x": 667,
@@ -167,6 +153,20 @@
       "chaseanalytics-opt-exlnk",
       "icon",
       "icon-youtube"
+    ],
+    "neighborText": [
+      "instagram",
+      "(opens",
+      "overlay)",
+      "twitter",
+      "youtube",
+      "linkedin",
+      "pinterest"
+    ],
+    "visibleText": [
+      "YouTube",
+      "(Opens",
+      "Overlay)"
     ]
   },
   {
@@ -177,19 +177,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 6,
-    "visibleText": [
-      "LinkedIn",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "twitter",
-      "(opens",
-      "overlay)",
-      "youtube",
-      "linkedin",
-      "pinterest"
-    ],
     "isButton": false,
     "location": {
       "x": 703,
@@ -202,6 +189,19 @@
       "chaseanalytics-opt-exlnk",
       "icon",
       "icon-linkedin"
+    ],
+    "neighborText": [
+      "twitter",
+      "(opens",
+      "overlay)",
+      "youtube",
+      "linkedin",
+      "pinterest"
+    ],
+    "visibleText": [
+      "LinkedIn",
+      "(Opens",
+      "Overlay)"
     ]
   },
   {
@@ -212,18 +212,6 @@
     "area": 1584,
     "shape": 81,
     "widgetId": 7,
-    "visibleText": [
-      "Pinterest",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "youtube",
-      "(opens",
-      "overlay)",
-      "linkedin",
-      "pinterest"
-    ],
     "isButton": false,
     "location": {
       "x": 739,
@@ -236,6 +224,18 @@
       "chaseanalytics-opt-exlnk",
       "icon",
       "icon-pinterest"
+    ],
+    "neighborText": [
+      "youtube",
+      "(opens",
+      "overlay)",
+      "linkedin",
+      "pinterest"
+    ],
+    "visibleText": [
+      "Pinterest",
+      "(Opens",
+      "Overlay)"
     ]
   },
   {
@@ -246,18 +246,6 @@
     "area": 4255,
     "shape": 310,
     "widgetId": 8,
-    "visibleText": [
-      "checking",
-      "account"
-    ],
-    "neighborText": [
-      "checking",
-      "accounts",
-      "account",
-      "chase",
-      "total",
-      "checking®"
-    ],
     "isButton": false,
     "location": {
       "x": 40,
@@ -268,6 +256,18 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "checking",
+      "accounts",
+      "account",
+      "chase",
+      "total",
+      "checking®"
+    ],
+    "visibleText": [
+      "checking",
+      "account"
     ]
   },
   {
@@ -278,9 +278,16 @@
     "area": 1024,
     "shape": 400,
     "widgetId": 9,
-    "visibleText": [
-      "credit",
-      "cards"
+    "isButton": false,
+    "location": {
+      "x": 648,
+      "y": 877,
+      "width": 64,
+      "height": 16
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "prepaid",
@@ -292,16 +299,9 @@
       "cash",
       "back"
     ],
-    "isButton": false,
-    "location": {
-      "x": 648,
-      "y": 877,
-      "width": 64,
-      "height": 16
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "credit",
+      "cards"
     ]
   },
   {
@@ -312,18 +312,6 @@
     "area": 864,
     "shape": 337,
     "widgetId": 10,
-    "visibleText": [
-      "cash",
-      "back"
-    ],
-    "neighborText": [
-      "credit",
-      "cards",
-      "offer",
-      "rewards",
-      "cash",
-      "back"
-    ],
     "isButton": false,
     "location": {
       "x": 728,
@@ -334,6 +322,18 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "credit",
+      "cards",
+      "offer",
+      "rewards",
+      "cash",
+      "back"
+    ],
+    "visibleText": [
+      "cash",
+      "back"
     ]
   },
   {
@@ -344,16 +344,6 @@
     "area": 944,
     "shape": 368,
     "widgetId": 11,
-    "visibleText": [
-      "credit",
-      "card"
-    ],
-    "neighborText": [
-      "credit",
-      "card",
-      "free",
-      "score"
-    ],
     "isButton": false,
     "location": {
       "x": 648,
@@ -364,6 +354,16 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "credit",
+      "card",
+      "free",
+      "score"
+    ],
+    "visibleText": [
+      "credit",
+      "card"
     ]
   },
   {
@@ -374,17 +374,6 @@
     "area": 1440,
     "shape": 562,
     "widgetId": 12,
-    "visibleText": [
-      "free",
-      "credit",
-      "score"
-    ],
-    "neighborText": [
-      "credit",
-      "card",
-      "free",
-      "score"
-    ],
     "isButton": false,
     "location": {
       "x": 648,
@@ -395,6 +384,17 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "credit",
+      "card",
+      "free",
+      "score"
+    ],
+    "visibleText": [
+      "free",
+      "credit",
+      "score"
     ]
   },
   {
@@ -405,8 +405,16 @@
     "area": 864,
     "shape": 337,
     "widgetId": 13,
-    "visibleText": [
-      "mortgage"
+    "isButton": false,
+    "location": {
+      "x": 883,
+      "y": 856,
+      "width": 54,
+      "height": 16
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "mortgages",
@@ -419,16 +427,8 @@
       "your",
       "home"
     ],
-    "isButton": false,
-    "location": {
-      "x": 883,
-      "y": 856,
-      "width": 54,
-      "height": 16
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "mortgage"
     ]
   },
   {
@@ -439,10 +439,16 @@
     "area": 5661,
     "shape": 413,
     "widgetId": 14,
-    "visibleText": [
-      "refinance",
-      "your",
-      "home"
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 898,
+      "width": 153,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "credit",
@@ -463,16 +469,10 @@
       "line",
       "of"
     ],
-    "isButton": false,
-    "location": {
-      "x": 851,
-      "y": 898,
-      "width": 153,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "refinance",
+      "your",
+      "home"
     ]
   },
   {
@@ -483,9 +483,16 @@
     "area": 1360,
     "shape": 531,
     "widgetId": 15,
-    "visibleText": [
-      "mortgage",
-      "rates"
+    "isButton": false,
+    "location": {
+      "x": 894,
+      "y": 962,
+      "width": 85,
+      "height": 16
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "jumbo",
@@ -501,16 +508,9 @@
       "for",
       "a"
     ],
-    "isButton": false,
-    "location": {
-      "x": 894,
-      "y": 962,
-      "width": 85,
-      "height": 16
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "mortgage",
+      "rates"
     ]
   },
   {
@@ -521,9 +521,16 @@
     "area": 5217,
     "shape": 381,
     "widgetId": 16,
-    "visibleText": [
-      "mortgage",
-      "calculator"
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 1005,
+      "width": 141,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "learning",
@@ -535,16 +542,9 @@
       "for",
       "a"
     ],
-    "isButton": false,
-    "location": {
-      "x": 851,
-      "y": 1005,
-      "width": 141,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "mortgage",
+      "calculator"
     ]
   },
   {
@@ -555,20 +555,6 @@
     "area": 5365,
     "shape": 391,
     "widgetId": 17,
-    "visibleText": [
-      "applying",
-      "for",
-      "a",
-      "mortgage"
-    ],
-    "neighborText": [
-      "mortgage",
-      "rates",
-      "calculator",
-      "applying",
-      "for",
-      "a"
-    ],
     "isButton": false,
     "location": {
       "x": 851,
@@ -579,6 +565,20 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "mortgage",
+      "rates",
+      "calculator",
+      "applying",
+      "for",
+      "a"
+    ],
+    "visibleText": [
+      "applying",
+      "for",
+      "a",
+      "mortgage"
     ]
   },
   {
@@ -589,12 +589,16 @@
     "area": 5920,
     "shape": 432,
     "widgetId": 18,
-    "visibleText": [
-      "Home",
-      "Equity",
-      "Line",
-      "of",
-      "Credit"
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 935,
+      "width": 160,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "refinance",
@@ -607,16 +611,12 @@
       "heloc",
       "calculator"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1053,
-      "y": 935,
-      "width": 160,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "Home",
+      "Equity",
+      "Line",
+      "of",
+      "Credit"
     ]
   },
   {
@@ -627,9 +627,16 @@
     "area": 3108,
     "shape": 227,
     "widgetId": 19,
-    "visibleText": [
-      "HELOC",
-      "calculator"
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 999,
+      "width": 84,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "home",
@@ -642,16 +649,9 @@
       "for",
       "a"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1053,
-      "y": 999,
-      "width": 84,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "HELOC",
+      "calculator"
     ]
   },
   {
@@ -662,17 +662,6 @@
     "area": 1072,
     "shape": 418,
     "widgetId": 20,
-    "visibleText": [
-      "for",
-      "a",
-      "HELOC"
-    ],
-    "neighborText": [
-      "heloc",
-      "calculator",
-      "for",
-      "a"
-    ],
     "isButton": false,
     "location": {
       "x": 1111,
@@ -683,6 +672,17 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "heloc",
+      "calculator",
+      "for",
+      "a"
+    ],
+    "visibleText": [
+      "for",
+      "a",
+      "HELOC"
     ]
   },
   {
@@ -693,19 +693,6 @@
     "area": 1456,
     "shape": 568,
     "widgetId": 21,
-    "visibleText": [
-      "financial",
-      "advisor"
-    ],
-    "neighborText": [
-      "planning",
-      "&",
-      "investments",
-      "financial",
-      "advisor",
-      "invest",
-      "online"
-    ],
     "isButton": false,
     "location": {
       "x": 280,
@@ -716,6 +703,19 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "planning",
+      "&",
+      "investments",
+      "financial",
+      "advisor",
+      "invest",
+      "online"
+    ],
+    "visibleText": [
+      "financial",
+      "advisor"
     ]
   },
   {
@@ -726,9 +726,16 @@
     "area": 832,
     "shape": 325,
     "widgetId": 22,
-    "visibleText": [
-      "auto",
-      "loan"
+    "isButton": false,
+    "location": {
+      "x": 77,
+      "y": 1242,
+      "width": 52,
+      "height": 16
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "car",
@@ -741,16 +748,9 @@
       "payment",
       "calculator"
     ],
-    "isButton": false,
-    "location": {
-      "x": 77,
-      "y": 1242,
-      "width": 52,
-      "height": 16
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "auto",
+      "loan"
     ]
   },
   {
@@ -760,6 +760,17 @@
     "area": 27600,
     "shape": 5217,
     "widgetId": 23,
+    "isButton": false,
+    "location": {
+      "x": 28,
+      "y": 729,
+      "width": 1200,
+      "height": 23
+    },
+    "classList": [
+      "footer__module-footer__section--header--text"
+    ],
+    "neighborText": [],
     "visibleText": [
       "We're",
       "here",
@@ -772,18 +783,7 @@
       "today",
       "and",
       "tomorrow"
-    ],
-    "isButton": false,
-    "location": {
-      "x": 28,
-      "y": 729,
-      "width": 1200,
-      "height": 23
-    },
-    "classList": [
-      "footer__module-footer__section--header--text"
-    ],
-    "neighborText": []
+    ]
   },
   {
     "tag": "H2",
@@ -792,9 +792,15 @@
     "area": 3564,
     "shape": 736,
     "widgetId": 24,
-    "visibleText": [
-      "Checking",
-      "Accounts"
+    "isButton": false,
+    "location": {
+      "x": 40,
+      "y": 831,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
     ],
     "neighborText": [
       "checking",
@@ -809,15 +815,9 @@
       "open",
       "a"
     ],
-    "isButton": false,
-    "location": {
-      "x": 40,
-      "y": 831,
-      "width": 162,
-      "height": 22
-    },
-    "classList": [
-      "heading"
+    "visibleText": [
+      "Checking",
+      "Accounts"
     ]
   },
   {
@@ -827,11 +827,15 @@
     "area": 3564,
     "shape": 736,
     "widgetId": 25,
-    "visibleText": [
-      "Savings",
-      "Accounts",
-      "&",
-      "CDs"
+    "isButton": false,
+    "location": {
+      "x": 243,
+      "y": 831,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
     ],
     "neighborText": [
       "checking",
@@ -846,15 +850,11 @@
       "rewards",
       "visa®"
     ],
-    "isButton": false,
-    "location": {
-      "x": 243,
-      "y": 831,
-      "width": 162,
-      "height": 22
-    },
-    "classList": [
-      "heading"
+    "visibleText": [
+      "Savings",
+      "Accounts",
+      "&",
+      "CDs"
     ]
   },
   {
@@ -864,9 +864,15 @@
     "area": 3564,
     "shape": 736,
     "widgetId": 26,
-    "visibleText": [
-      "Prepaid",
-      "Card"
+    "isButton": false,
+    "location": {
+      "x": 445,
+      "y": 831,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
     ],
     "neighborText": [
       "savings",
@@ -882,15 +888,9 @@
       "cards",
       "offer"
     ],
-    "isButton": false,
-    "location": {
-      "x": 445,
-      "y": 831,
-      "width": 162,
-      "height": 22
-    },
-    "classList": [
-      "heading"
+    "visibleText": [
+      "Prepaid",
+      "Card"
     ]
   },
   {
@@ -900,9 +900,15 @@
     "area": 3564,
     "shape": 736,
     "widgetId": 27,
-    "visibleText": [
-      "Credit",
-      "Cards"
+    "isButton": false,
+    "location": {
+      "x": 648,
+      "y": 831,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
     ],
     "neighborText": [
       "prepaid",
@@ -921,15 +927,9 @@
       "your",
       "home"
     ],
-    "isButton": false,
-    "location": {
-      "x": 648,
-      "y": 831,
-      "width": 162,
-      "height": 22
-    },
-    "classList": [
-      "heading"
+    "visibleText": [
+      "Credit",
+      "Cards"
     ]
   },
   {
@@ -939,8 +939,15 @@
     "area": 3564,
     "shape": 736,
     "widgetId": 28,
-    "visibleText": [
-      "Mortgages"
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 831,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
     ],
     "neighborText": [
       "credit",
@@ -957,15 +964,8 @@
       "line",
       "of"
     ],
-    "isButton": false,
-    "location": {
-      "x": 851,
-      "y": 831,
-      "width": 162,
-      "height": 22
-    },
-    "classList": [
-      "heading"
+    "visibleText": [
+      "Mortgages"
     ]
   },
   {
@@ -975,19 +975,6 @@
     "area": 5994,
     "shape": 437,
     "widgetId": 29,
-    "visibleText": [
-      "Home",
-      "Equity",
-      "Line",
-      "of",
-      "Credit"
-    ],
-    "neighborText": [
-      "mortgages",
-      "refinance",
-      "your",
-      "home"
-    ],
     "isButton": false,
     "location": {
       "x": 1053,
@@ -997,6 +984,19 @@
     },
     "classList": [
       "heading"
+    ],
+    "neighborText": [
+      "mortgages",
+      "refinance",
+      "your",
+      "home"
+    ],
+    "visibleText": [
+      "Home",
+      "Equity",
+      "Line",
+      "of",
+      "Credit"
     ]
   },
   {
@@ -1006,20 +1006,6 @@
     "area": 3564,
     "shape": 736,
     "widgetId": 30,
-    "visibleText": [
-      "Car",
-      "Buying",
-      "&",
-      "Loans"
-    ],
-    "neighborText": [
-      "chase",
-      "auto",
-      "loan",
-      "planning",
-      "&",
-      "investments"
-    ],
     "isButton": false,
     "location": {
       "x": 40,
@@ -1029,6 +1015,20 @@
     },
     "classList": [
       "heading"
+    ],
+    "neighborText": [
+      "chase",
+      "auto",
+      "loan",
+      "planning",
+      "&",
+      "investments"
+    ],
+    "visibleText": [
+      "Car",
+      "Buying",
+      "&",
+      "Loans"
     ]
   },
   {
@@ -1038,10 +1038,15 @@
     "area": 3564,
     "shape": 736,
     "widgetId": 31,
-    "visibleText": [
-      "Planning",
-      "&",
-      "Investments"
+    "isButton": false,
+    "location": {
+      "x": 243,
+      "y": 1175,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
     ],
     "neighborText": [
       "car",
@@ -1054,15 +1059,10 @@
       "private",
       "client"
     ],
-    "isButton": false,
-    "location": {
-      "x": 243,
-      "y": 1175,
-      "width": 162,
-      "height": 22
-    },
-    "classList": [
-      "heading"
+    "visibleText": [
+      "Planning",
+      "&",
+      "Investments"
     ]
   },
   {
@@ -1073,18 +1073,6 @@
     "idxpath": "//*[@id='skipToMainContent']",
     "area": 2754,
     "shape": 850,
-    "visibleText": [
-      "Skip",
-      "to",
-      "main",
-      "content"
-    ],
-    "neighborText": [
-      "skip",
-      "to",
-      "main",
-      "content"
-    ],
     "isButton": false,
     "location": {
       "x": -9999,
@@ -1095,6 +1083,18 @@
     "classList": [
       "skiplink"
     ],
+    "neighborText": [
+      "skip",
+      "to",
+      "main",
+      "content"
+    ],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
     "widgetId": null
   },
   {
@@ -1103,12 +1103,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]",
     "area": 600,
     "shape": 96,
-    "neighborText": [
-      "important",
-      "informationcovid-19",
-      "update:",
-      "information"
-    ],
     "isButton": false,
     "location": {
       "x": 278,
@@ -1120,6 +1114,12 @@
       "info-banner__icon",
       "icon-info-outlined-small"
     ],
+    "neighborText": [
+      "important",
+      "informationcovid-19",
+      "update:",
+      "information"
+    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1130,11 +1130,14 @@
     "idxpath": "//*[@id='infoBannerHeading']",
     "area": 3014,
     "shape": 622,
-    "visibleText": [
-      "Important",
-      "informationCOVID-19",
-      "Update:"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 314,
+      "y": 17,
+      "width": 137,
+      "height": 22
+    },
+    "classList": [],
     "neighborText": [
       "important",
       "information",
@@ -1151,14 +1154,11 @@
       "covid-19",
       "update"
     ],
-    "isButton": false,
-    "location": {
-      "x": 314,
-      "y": 17,
-      "width": 137,
-      "height": 22
-    },
-    "classList": [],
+    "visibleText": [
+      "Important",
+      "informationCOVID-19",
+      "Update:"
+    ],
     "widgetId": null
   },
   {
@@ -1167,15 +1167,6 @@
     "idxpath": "//*[@id='infoBannerHeading']/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Important",
-      "information"
-    ],
-    "neighborText": [
-      "important",
-      "informationcovid-19",
-      "update:"
-    ],
     "isButton": false,
     "location": {
       "x": 314,
@@ -1186,6 +1177,15 @@
     "classList": [
       "accessible-text"
     ],
+    "neighborText": [
+      "important",
+      "informationcovid-19",
+      "update:"
+    ],
+    "visibleText": [
+      "Important",
+      "information"
+    ],
     "widgetId": null
   },
   {
@@ -1194,6 +1194,24 @@
     "idxpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]",
     "area": 11264,
     "shape": 2327,
+    "isButton": false,
+    "location": {
+      "x": 455,
+      "y": 17,
+      "width": 512,
+      "height": 22
+    },
+    "classList": [],
+    "neighborText": [
+      "important",
+      "informationcovid-19",
+      "update:",
+      "learn",
+      "more,",
+      "covid-19",
+      "update",
+      ","
+    ],
     "visibleText": [
       "Find",
       "up-to-date",
@@ -1209,24 +1227,6 @@
       "COVID-19",
       "Update"
     ],
-    "neighborText": [
-      "important",
-      "informationcovid-19",
-      "update:",
-      "learn",
-      "more,",
-      "covid-19",
-      "update",
-      ","
-    ],
-    "isButton": false,
-    "location": {
-      "x": 455,
-      "y": 17,
-      "width": 512,
-      "height": 22
-    },
-    "classList": [],
     "widgetId": null
   },
   {
@@ -1236,11 +1236,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]",
     "area": 2200,
     "shape": 454,
-    "visibleText": [
-      "Learn",
-      "more,",
-      "COVID-19",
-      "Update"
+    "isButton": false,
+    "location": {
+      "x": 868,
+      "y": 17,
+      "width": 100,
+      "height": 22
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "caret-link-rte"
     ],
     "neighborText": [
       "find",
@@ -1258,16 +1263,11 @@
       "update",
       ","
     ],
-    "isButton": false,
-    "location": {
-      "x": 868,
-      "y": 17,
-      "width": 100,
-      "height": 22
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "caret-link-rte"
+    "visibleText": [
+      "Learn",
+      "more,",
+      "COVID-19",
+      "Update"
     ],
     "widgetId": null
   },
@@ -1277,10 +1277,15 @@
     "idxpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      ",",
-      "COVID-19",
-      "Update"
+    "isButton": false,
+    "location": {
+      "x": 954,
+      "y": 16,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "accessible-text"
     ],
     "neighborText": [
       "find",
@@ -1297,15 +1302,10 @@
       "covid-19",
       "update"
     ],
-    "isButton": false,
-    "location": {
-      "x": 954,
-      "y": 16,
-      "width": 1,
-      "height": 1
-    },
-    "classList": [
-      "accessible-text"
+    "visibleText": [
+      ",",
+      "COVID-19",
+      "Update"
     ],
     "widgetId": null
   },
@@ -1315,6 +1315,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/a[1]/span[2]",
     "area": 165,
     "shape": 73,
+    "isButton": false,
+    "location": {
+      "x": 957,
+      "y": 22,
+      "width": 11,
+      "height": 15
+    },
+    "classList": [
+      "icon-right-progress"
+    ],
     "neighborText": [
       "find",
       "up-to-date",
@@ -1331,16 +1341,6 @@
       "update",
       ","
     ],
-    "isButton": false,
-    "location": {
-      "x": 957,
-      "y": 22,
-      "width": 11,
-      "height": 15
-    },
-    "classList": [
-      "icon-right-progress"
-    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1350,20 +1350,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]",
     "area": 900,
     "shape": 144,
-    "visibleText": [
-      "Facebook",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "follow",
-      "us:",
-      "facebook",
-      "(opens",
-      "overlay)",
-      "instagram",
-      "twitter"
-    ],
     "isButton": false,
     "location": {
       "x": 559,
@@ -1374,6 +1360,20 @@
     "classList": [
       "footer__module-footer__section__followus--link"
     ],
+    "neighborText": [
+      "follow",
+      "us:",
+      "facebook",
+      "(opens",
+      "overlay)",
+      "instagram",
+      "twitter"
+    ],
+    "visibleText": [
+      "Facebook",
+      "(Opens",
+      "Overlay)"
+    ],
     "widgetId": null
   },
   {
@@ -1382,32 +1382,6 @@
     "idxpath": "//*[@id='signin-module']/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]",
     "area": 8149,
     "shape": 968,
-    "visibleText": [
-      "Welcome",
-      "Welcome",
-      "back",
-      "For",
-      "information",
-      "on",
-      "accessibility",
-      "at",
-      "Chase,",
-      "visit",
-      "chase.com/accessibility."
-    ],
-    "neighborText": [
-      "welcome",
-      "for",
-      "information",
-      "on",
-      "accessibility",
-      "at",
-      "chase,",
-      "visit",
-      "chase.com/accessibility.",
-      "sign",
-      "in"
-    ],
     "isButton": false,
     "location": {
       "x": 904,
@@ -1418,20 +1392,8 @@
     "classList": [
       "signin--welcome"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "SPAN",
-    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
-    "idxpath": "//*[@id='signin-module']/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
-    "area": 3264,
-    "shape": 318,
-    "visibleText": [
-      "Welcome"
-    ],
     "neighborText": [
       "welcome",
-      "back",
       "for",
       "information",
       "on",
@@ -1443,6 +1405,27 @@
       "sign",
       "in"
     ],
+    "visibleText": [
+      "Welcome",
+      "Welcome",
+      "back",
+      "For",
+      "information",
+      "on",
+      "accessibility",
+      "at",
+      "Chase,",
+      "visit",
+      "chase.com/accessibility."
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
+    "idxpath": "//*[@id='signin-module']/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
+    "area": 3264,
+    "shape": 318,
     "isButton": false,
     "location": {
       "x": 904,
@@ -1453,6 +1436,23 @@
     "classList": [
       "signin--welcome-prospect"
     ],
+    "neighborText": [
+      "welcome",
+      "back",
+      "for",
+      "information",
+      "on",
+      "accessibility",
+      "at",
+      "chase,",
+      "visit",
+      "chase.com/accessibility.",
+      "sign",
+      "in"
+    ],
+    "visibleText": [
+      "Welcome"
+    ],
     "widgetId": null
   },
   {
@@ -1461,18 +1461,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Facebook"
-    ],
-    "neighborText": [
-      "follow",
-      "us:",
-      "facebook",
-      "(opens",
-      "overlay)",
-      "instagram",
-      "twitter"
-    ],
     "isButton": false,
     "location": {
       "x": 589,
@@ -1483,6 +1471,18 @@
     "classList": [
       "accessible-text"
     ],
+    "neighborText": [
+      "follow",
+      "us:",
+      "facebook",
+      "(opens",
+      "overlay)",
+      "instagram",
+      "twitter"
+    ],
+    "visibleText": [
+      "Facebook"
+    ],
     "widgetId": null
   },
   {
@@ -1491,15 +1491,15 @@
     "idxpath": "//*[@id='signin-module']/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[3]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "For",
-      "information",
-      "on",
-      "accessibility",
-      "at",
-      "Chase,",
-      "visit",
-      "chase.com/accessibility."
+    "isButton": false,
+    "location": {
+      "x": 1007,
+      "y": 173,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "accessible-text"
     ],
     "neighborText": [
       "welcome",
@@ -1515,15 +1515,15 @@
       "sign",
       "in"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1007,
-      "y": 173,
-      "width": 1,
-      "height": 1
-    },
-    "classList": [
-      "accessible-text"
+    "visibleText": [
+      "For",
+      "information",
+      "on",
+      "accessibility",
+      "at",
+      "Chase,",
+      "visit",
+      "chase.com/accessibility."
     ],
     "widgetId": null
   },
@@ -1533,19 +1533,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]",
     "area": 900,
     "shape": 144,
-    "visibleText": [
-      "Instagram",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "facebook",
-      "(opens",
-      "overlay)",
-      "instagram",
-      "twitter",
-      "youtube"
-    ],
     "isButton": false,
     "location": {
       "x": 595,
@@ -1556,17 +1543,6 @@
     "classList": [
       "footer__module-footer__section__followus--link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "SPAN",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
-    "area": 1,
-    "shape": 100,
-    "visibleText": [
-      "Instagram"
-    ],
     "neighborText": [
       "facebook",
       "(opens",
@@ -1575,6 +1551,19 @@
       "twitter",
       "youtube"
     ],
+    "visibleText": [
+      "Instagram",
+      "(Opens",
+      "Overlay)"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
+    "area": 1,
+    "shape": 100,
     "isButton": false,
     "location": {
       "x": 625,
@@ -1585,6 +1574,17 @@
     "classList": [
       "accessible-text"
     ],
+    "neighborText": [
+      "facebook",
+      "(opens",
+      "overlay)",
+      "instagram",
+      "twitter",
+      "youtube"
+    ],
+    "visibleText": [
+      "Instagram"
+    ],
     "widgetId": null
   },
   {
@@ -1593,14 +1593,6 @@
     "idxpath": "//*[@id='signin-module']/div[2]/div[1]/div[1]/div[1]/div[3]/a[1]/span[1]",
     "area": 210,
     "shape": 107,
-    "neighborText": [
-      "sign",
-      "in",
-      "not",
-      "enrolled?",
-      "up",
-      "now."
-    ],
     "isButton": false,
     "location": {
       "x": 1081,
@@ -1612,6 +1604,14 @@
       "signin--primary-link--icon",
       "icon-right-progress"
     ],
+    "neighborText": [
+      "sign",
+      "in",
+      "not",
+      "enrolled?",
+      "up",
+      "now."
+    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -1621,20 +1621,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]",
     "area": 900,
     "shape": 144,
-    "visibleText": [
-      "Twitter",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "facebook",
-      "(opens",
-      "overlay)",
-      "instagram",
-      "twitter",
-      "youtube",
-      "linkedin"
-    ],
     "isButton": false,
     "location": {
       "x": 631,
@@ -1645,6 +1631,20 @@
     "classList": [
       "footer__module-footer__section__followus--link"
     ],
+    "neighborText": [
+      "facebook",
+      "(opens",
+      "overlay)",
+      "instagram",
+      "twitter",
+      "youtube",
+      "linkedin"
+    ],
+    "visibleText": [
+      "Twitter",
+      "(Opens",
+      "Overlay)"
+    ],
     "widgetId": null
   },
   {
@@ -1653,10 +1653,6 @@
     "idxpath": "//*[@id='main']/h1[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Chase.com",
-      "home"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -1668,6 +1664,10 @@
       "accessible-text"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Chase.com",
+      "home"
+    ],
     "widgetId": null
   },
   {
@@ -1676,17 +1676,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "Twitter"
-    ],
-    "neighborText": [
-      "instagram",
-      "(opens",
-      "overlay)",
-      "twitter",
-      "youtube",
-      "linkedin"
-    ],
     "isButton": false,
     "location": {
       "x": 661,
@@ -1696,6 +1685,17 @@
     },
     "classList": [
       "accessible-text"
+    ],
+    "neighborText": [
+      "instagram",
+      "(opens",
+      "overlay)",
+      "twitter",
+      "youtube",
+      "linkedin"
+    ],
+    "visibleText": [
+      "Twitter"
     ],
     "widgetId": null
   },
@@ -1802,11 +1802,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[2]/p[1]/a[3]",
     "area": 5180,
     "shape": 378,
-    "visibleText": [
-      "Madison",
-      "Square",
-      "Garden(Opens",
-      "Overlay)"
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 1327,
+      "width": 140,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "chase",
@@ -1820,16 +1825,11 @@
       "(opens",
       "center(opens"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1053,
-      "y": 1327,
-      "width": 140,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "Madison",
+      "Square",
+      "Garden(Opens",
+      "Overlay)"
     ],
     "widgetId": null
   },
@@ -1839,9 +1839,15 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[2]/p[1]/a[3]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "(Opens",
-      "Overlay)"
+    "isButton": false,
+    "location": {
+      "x": 1137,
+      "y": 1347,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "accessible-text"
     ],
     "neighborText": [
       "chase",
@@ -1855,15 +1861,9 @@
       "center(opens",
       "(opens"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1137,
-      "y": 1347,
-      "width": 1,
-      "height": 1
-    },
-    "classList": [
-      "accessible-text"
+    "visibleText": [
+      "(Opens",
+      "Overlay)"
     ],
     "widgetId": null
   },
@@ -1901,23 +1901,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[2]/p[1]/a[4]",
     "area": 5365,
     "shape": 391,
-    "visibleText": [
-      "Chase",
-      "Center(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "chase",
-      "experiences",
-      "us",
-      "open",
-      "madison",
-      "square",
-      "garden(opens",
-      "overlay)",
-      "(opens",
-      "center(opens"
-    ],
     "isButton": false,
     "location": {
       "x": 1053,
@@ -1929,6 +1912,23 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "chase",
+      "experiences",
+      "us",
+      "open",
+      "madison",
+      "square",
+      "garden(opens",
+      "overlay)",
+      "(opens",
+      "center(opens"
+    ],
+    "visibleText": [
+      "Chase",
+      "Center(Opens",
+      "Overlay)"
+    ],
     "widgetId": null
   },
   {
@@ -1938,21 +1938,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[2]/p[1]/a[1]",
     "area": 5550,
     "shape": 405,
-    "visibleText": [
-      "Chase",
-      "Private",
-      "Client"
-    ],
-    "neighborText": [
-      "planning",
-      "&",
-      "investments",
-      "chase",
-      "private",
-      "client",
-      "concierge",
-      "banking"
-    ],
     "isButton": false,
     "location": {
       "x": 445,
@@ -1964,6 +1949,21 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "planning",
+      "&",
+      "investments",
+      "chase",
+      "private",
+      "client",
+      "concierge",
+      "banking"
+    ],
+    "visibleText": [
+      "Chase",
+      "Private",
+      "Client"
+    ],
     "widgetId": null
   },
   {
@@ -1973,9 +1973,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[2]/p[1]/a[1]",
     "area": 4477,
     "shape": 327,
-    "visibleText": [
-      "Chase",
-      "Experiences"
+    "isButton": false,
+    "location": {
+      "x": 1053,
+      "y": 1263,
+      "width": 121,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "chase",
@@ -1989,16 +1996,9 @@
       "(opens",
       "center(opens"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1053,
-      "y": 1263,
-      "width": 121,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "Chase",
+      "Experiences"
     ],
     "widgetId": null
   },
@@ -2009,12 +2009,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/p[1]/a[1]",
     "area": 5069,
     "shape": 370,
-    "visibleText": [
-      "Starbucks®",
-      "Rewards",
-      "Visa®",
-      "Prepaid",
-      "Card"
+    "isButton": false,
+    "location": {
+      "x": 445,
+      "y": 856,
+      "width": 137,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "savings",
@@ -2027,16 +2031,12 @@
       "rewards",
       "visa®"
     ],
-    "isButton": false,
-    "location": {
-      "x": 445,
-      "y": 856,
-      "width": 137,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "Starbucks®",
+      "Rewards",
+      "Visa®",
+      "Prepaid",
+      "Card"
     ],
     "widgetId": null
   },
@@ -2047,17 +2047,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/div[2]/p[1]/a[2]",
     "area": 1616,
     "shape": 631,
-    "visibleText": [
-      "concierge",
-      "banking"
-    ],
-    "neighborText": [
-      "chase",
-      "private",
-      "client",
-      "concierge",
-      "banking"
-    ],
     "isButton": false,
     "location": {
       "x": 445,
@@ -2069,6 +2058,17 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "chase",
+      "private",
+      "client",
+      "concierge",
+      "banking"
+    ],
+    "visibleText": [
+      "concierge",
+      "banking"
+    ],
     "widgetId": null
   },
   {
@@ -2077,9 +2077,15 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[2]/p[1]/a[4]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "(Opens",
-      "Overlay)"
+    "isButton": false,
+    "location": {
+      "x": 1091,
+      "y": 1368,
+      "width": 1,
+      "height": 1
+    },
+    "classList": [
+      "accessible-text"
     ],
     "neighborText": [
       "us",
@@ -2092,15 +2098,9 @@
       "chase",
       "center(opens"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1091,
-      "y": 1368,
-      "width": 1,
-      "height": 1
-    },
-    "classList": [
-      "accessible-text"
+    "visibleText": [
+      "(Opens",
+      "Overlay)"
     ],
     "widgetId": null
   },
@@ -2157,16 +2157,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/h2[1]",
     "area": 2685,
     "shape": 1193,
-    "visibleText": [
-      "Other",
-      "Products",
-      "&",
-      "Services:"
-    ],
-    "neighborText": [
-      "online",
-      "banking"
-    ],
     "isButton": false,
     "location": {
       "x": 251,
@@ -2177,6 +2167,16 @@
     "classList": [
       "heading"
     ],
+    "neighborText": [
+      "online",
+      "banking"
+    ],
+    "visibleText": [
+      "Other",
+      "Products",
+      "&",
+      "Services:"
+    ],
     "widgetId": null
   },
   {
@@ -2185,19 +2185,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]",
     "area": 2090,
     "shape": 431,
-    "visibleText": [
-      "Online",
-      "Banking"
-    ],
-    "neighborText": [
-      "other",
-      "products",
-      "&",
-      "services:",
-      "online",
-      "banking",
-      "mobile"
-    ],
     "isButton": false,
     "location": {
       "x": 452,
@@ -2208,19 +2195,6 @@
     "classList": [
       "footer__module-footer__section--tile-footer--link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "A",
-    "href": "https://www.chase.com/digital/online-banking",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
-    "area": 2470,
-    "shape": 365,
-    "visibleText": [
-      "Online",
-      "Banking"
-    ],
     "neighborText": [
       "other",
       "products",
@@ -2230,6 +2204,19 @@
       "banking",
       "mobile"
     ],
+    "visibleText": [
+      "Online",
+      "Banking"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/digital/online-banking",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
+    "area": 2470,
+    "shape": 365,
     "isButton": false,
     "location": {
       "x": 452,
@@ -2240,6 +2227,19 @@
     "classList": [
       "regular-link",
       "chaseanalytics-track-link"
+    ],
+    "neighborText": [
+      "other",
+      "products",
+      "&",
+      "services:",
+      "online",
+      "banking",
+      "mobile"
+    ],
+    "visibleText": [
+      "Online",
+      "Banking"
     ],
     "widgetId": null
   },
@@ -2276,17 +2276,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]",
     "area": 2112,
     "shape": 436,
-    "visibleText": [
-      "Mobile",
-      "Banking"
-    ],
-    "neighborText": [
-      "online",
-      "banking",
-      "mobile",
-      "student",
-      "center"
-    ],
     "isButton": false,
     "location": {
       "x": 551,
@@ -2296,6 +2285,17 @@
     },
     "classList": [
       "footer__module-footer__section--tile-footer--link"
+    ],
+    "neighborText": [
+      "online",
+      "banking",
+      "mobile",
+      "student",
+      "center"
+    ],
+    "visibleText": [
+      "Mobile",
+      "Banking"
     ],
     "widgetId": null
   },
@@ -2306,17 +2306,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
     "area": 2496,
     "shape": 369,
-    "visibleText": [
-      "Mobile",
-      "Banking"
-    ],
-    "neighborText": [
-      "online",
-      "banking",
-      "mobile",
-      "student",
-      "center"
-    ],
     "isButton": false,
     "location": {
       "x": 551,
@@ -2328,6 +2317,17 @@
       "regular-link",
       "chaseanalytics-track-link"
     ],
+    "neighborText": [
+      "online",
+      "banking",
+      "mobile",
+      "student",
+      "center"
+    ],
+    "visibleText": [
+      "Mobile",
+      "Banking"
+    ],
     "widgetId": null
   },
   {
@@ -2337,14 +2337,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[2]/p[1]/a[1]",
     "area": 1552,
     "shape": 606,
-    "visibleText": [
-      "Business",
-      "Banking"
-    ],
-    "neighborText": [
-      "business",
-      "banking"
-    ],
     "isButton": false,
     "location": {
       "x": 677,
@@ -2355,6 +2347,14 @@
     "classList": [
       "chaseanalytics-track-link"
     ],
+    "neighborText": [
+      "business",
+      "banking"
+    ],
+    "visibleText": [
+      "Business",
+      "Banking"
+    ],
     "widgetId": null
   },
   {
@@ -2363,21 +2363,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]",
     "area": 2068,
     "shape": 427,
-    "visibleText": [
-      "Student",
-      "Center"
-    ],
-    "neighborText": [
-      "mobile",
-      "banking",
-      "student",
-      "center",
-      "deposit",
-      "and",
-      "prepaid",
-      "account",
-      "agreements"
-    ],
     "isButton": false,
     "location": {
       "x": 652,
@@ -2388,6 +2373,21 @@
     "classList": [
       "footer__module-footer__section--tile-footer--link"
     ],
+    "neighborText": [
+      "mobile",
+      "banking",
+      "student",
+      "center",
+      "deposit",
+      "and",
+      "prepaid",
+      "account",
+      "agreements"
+    ],
+    "visibleText": [
+      "Student",
+      "Center"
+    ],
     "widgetId": null
   },
   {
@@ -2397,9 +2397,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
     "area": 2444,
     "shape": 361,
-    "visibleText": [
-      "Student",
-      "Center"
+    "isButton": false,
+    "location": {
+      "x": 652,
+      "y": 1750,
+      "width": 94,
+      "height": 26
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-track-link"
     ],
     "neighborText": [
       "mobile",
@@ -2412,16 +2419,9 @@
       "account",
       "agreements"
     ],
-    "isButton": false,
-    "location": {
-      "x": 652,
-      "y": 1750,
-      "width": 94,
-      "height": 26
-    },
-    "classList": [
-      "regular-link",
-      "chaseanalytics-track-link"
+    "visibleText": [
+      "Student",
+      "Center"
     ],
     "widgetId": null
   },
@@ -2458,19 +2458,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[1]",
     "area": 1008,
     "shape": 393,
-    "visibleText": [
-      "Chase",
-      "Auto"
-    ],
-    "neighborText": [
-      "car",
-      "buying",
-      "&",
-      "loans",
-      "chase",
-      "auto",
-      "loan"
-    ],
     "isButton": false,
     "location": {
       "x": 40,
@@ -2482,6 +2469,19 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "car",
+      "buying",
+      "&",
+      "loans",
+      "chase",
+      "auto",
+      "loan"
+    ],
+    "visibleText": [
+      "Chase",
+      "Auto"
+    ],
     "widgetId": null
   },
   {
@@ -2491,9 +2491,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[2]/p[1]/a[2]",
     "area": 784,
     "shape": 306,
-    "visibleText": [
-      "US",
-      "Open"
+    "isButton": false,
+    "location": {
+      "x": 1090,
+      "y": 1327,
+      "width": 49,
+      "height": 16
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "chase",
@@ -2507,16 +2514,9 @@
       "(opens",
       "center(opens"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1090,
-      "y": 1327,
-      "width": 49,
-      "height": 16
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "US",
+      "Open"
     ],
     "widgetId": null
   },
@@ -2526,22 +2526,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]",
     "area": 5324,
     "shape": 1100,
-    "visibleText": [
-      "Deposit",
-      "and",
-      "Prepaid",
-      "Account",
-      "Agreements"
-    ],
-    "neighborText": [
-      "student",
-      "center",
-      "deposit",
-      "and",
-      "prepaid",
-      "account",
-      "agreements"
-    ],
     "isButton": false,
     "location": {
       "x": 750,
@@ -2552,22 +2536,6 @@
     "classList": [
       "footer__module-footer__section--tile-footer--link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "A",
-    "href": "https://www.chase.com/personal/branch-disclosures",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
-    "area": 6292,
-    "shape": 930,
-    "visibleText": [
-      "Deposit",
-      "and",
-      "Prepaid",
-      "Account",
-      "Agreements"
-    ],
     "neighborText": [
       "student",
       "center",
@@ -2577,6 +2545,22 @@
       "account",
       "agreements"
     ],
+    "visibleText": [
+      "Deposit",
+      "and",
+      "Prepaid",
+      "Account",
+      "Agreements"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/personal/branch-disclosures",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
+    "area": 6292,
+    "shape": 930,
     "isButton": false,
     "location": {
       "x": 750,
@@ -2588,6 +2572,22 @@
       "regular-link",
       "chaseanalytics-track-link"
     ],
+    "neighborText": [
+      "student",
+      "center",
+      "deposit",
+      "and",
+      "prepaid",
+      "account",
+      "agreements"
+    ],
+    "visibleText": [
+      "Deposit",
+      "and",
+      "Prepaid",
+      "Account",
+      "Agreements"
+    ],
     "widgetId": null
   },
   {
@@ -2596,17 +2596,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/h2[1]",
     "area": 3564,
     "shape": 736,
-    "visibleText": [
-      "About",
-      "Chase"
-    ],
-    "neighborText": [
-      "business",
-      "banking",
-      "sports",
-      "&",
-      "entertainment"
-    ],
     "isButton": false,
     "location": {
       "x": 851,
@@ -2617,6 +2606,17 @@
     "classList": [
       "heading"
     ],
+    "neighborText": [
+      "business",
+      "banking",
+      "sports",
+      "&",
+      "entertainment"
+    ],
+    "visibleText": [
+      "About",
+      "Chase"
+    ],
     "widgetId": null
   },
   {
@@ -2626,16 +2626,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/div[2]/p[1]/a[3]",
     "area": 1712,
     "shape": 668,
-    "visibleText": [
-      "payment",
-      "calculator"
-    ],
-    "neighborText": [
-      "auto",
-      "loan",
-      "payment",
-      "calculator"
-    ],
     "isButton": false,
     "location": {
       "x": 40,
@@ -2646,6 +2636,16 @@
     "classList": [
       "chaseanalytics-track-link",
       "regular-link"
+    ],
+    "neighborText": [
+      "auto",
+      "loan",
+      "payment",
+      "calculator"
+    ],
+    "visibleText": [
+      "payment",
+      "calculator"
     ],
     "widgetId": null
   },
@@ -2682,14 +2682,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[1]",
     "area": 1136,
     "shape": 443,
-    "visibleText": [
-      "Chase",
-      "online"
-    ],
-    "neighborText": [
-      "chase",
-      "online"
-    ],
     "isButton": false,
     "location": {
       "x": 851,
@@ -2701,6 +2693,14 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "chase",
+      "online"
+    ],
+    "visibleText": [
+      "Chase",
+      "online"
+    ],
     "widgetId": null
   },
   {
@@ -2709,20 +2709,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]",
     "area": 900,
     "shape": 144,
-    "visibleText": [
-      "YouTube",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "instagram",
-      "(opens",
-      "overlay)",
-      "twitter",
-      "youtube",
-      "linkedin",
-      "pinterest"
-    ],
     "isButton": false,
     "location": {
       "x": 667,
@@ -2733,6 +2719,20 @@
     "classList": [
       "footer__module-footer__section__followus--link"
     ],
+    "neighborText": [
+      "instagram",
+      "(opens",
+      "overlay)",
+      "twitter",
+      "youtube",
+      "linkedin",
+      "pinterest"
+    ],
+    "visibleText": [
+      "YouTube",
+      "(Opens",
+      "Overlay)"
+    ],
     "widgetId": null
   },
   {
@@ -2742,19 +2742,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[2]",
     "area": 2112,
     "shape": 825,
-    "visibleText": [
-      "Chase",
-      "customer",
-      "service"
-    ],
-    "neighborText": [
-      "chase",
-      "customer",
-      "service",
-      "complaints",
-      "and",
-      "feedback"
-    ],
     "isButton": false,
     "location": {
       "x": 851,
@@ -2766,6 +2753,19 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "chase",
+      "customer",
+      "service",
+      "complaints",
+      "and",
+      "feedback"
+    ],
+    "visibleText": [
+      "Chase",
+      "customer",
+      "service"
+    ],
     "widgetId": null
   },
   {
@@ -2774,18 +2774,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[6]",
     "area": 900,
     "shape": 144,
-    "visibleText": [
-      "Pinterest",
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "youtube",
-      "(opens",
-      "overlay)",
-      "linkedin",
-      "pinterest"
-    ],
     "isButton": false,
     "location": {
       "x": 739,
@@ -2796,6 +2784,18 @@
     "classList": [
       "footer__module-footer__section__followus--link"
     ],
+    "neighborText": [
+      "youtube",
+      "(opens",
+      "overlay)",
+      "linkedin",
+      "pinterest"
+    ],
+    "visibleText": [
+      "Pinterest",
+      "(Opens",
+      "Overlay)"
+    ],
     "widgetId": null
   },
   {
@@ -2805,20 +2805,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]/a[3]",
     "area": 5180,
     "shape": 378,
-    "visibleText": [
-      "Chase",
-      "complaints",
-      "and",
-      "feedback"
-    ],
-    "neighborText": [
-      "chase",
-      "customer",
-      "service",
-      "complaints",
-      "and",
-      "feedback"
-    ],
     "isButton": false,
     "location": {
       "x": 851,
@@ -2830,6 +2816,20 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "chase",
+      "customer",
+      "service",
+      "complaints",
+      "and",
+      "feedback"
+    ],
+    "visibleText": [
+      "Chase",
+      "complaints",
+      "and",
+      "feedback"
+    ],
     "widgetId": null
   },
   {
@@ -2839,11 +2839,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[2]",
     "area": 5402,
     "shape": 394,
-    "visibleText": [
-      "low",
-      "down",
-      "payment",
-      "mortgage"
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 856,
+      "width": 146,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "credit",
@@ -2860,16 +2865,11 @@
       "learning",
       "center"
     ],
-    "isButton": false,
-    "location": {
-      "x": 851,
-      "y": 856,
-      "width": 146,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "low",
+      "down",
+      "payment",
+      "mortgage"
     ],
     "widgetId": null
   },
@@ -2909,9 +2909,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[3]",
     "area": 5513,
     "shape": 402,
-    "visibleText": [
-      "jumbo",
-      "mortgage"
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 877,
+      "width": 149,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "credit",
@@ -2929,16 +2936,9 @@
       "center",
       "rates"
     ],
-    "isButton": false,
-    "location": {
-      "x": 851,
-      "y": 877,
-      "width": 149,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "jumbo",
+      "mortgage"
     ],
     "widgetId": null
   },
@@ -2948,10 +2948,15 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/h2[1]",
     "area": 3564,
     "shape": 736,
-    "visibleText": [
-      "Chase",
-      "Private",
-      "Client"
+    "isButton": false,
+    "location": {
+      "x": 445,
+      "y": 1175,
+      "width": 162,
+      "height": 22
+    },
+    "classList": [
+      "heading"
     ],
     "neighborText": [
       "planning",
@@ -2963,15 +2968,10 @@
       "business",
       "banking"
     ],
-    "isButton": false,
-    "location": {
-      "x": 445,
-      "y": 1175,
-      "width": 162,
-      "height": 22
-    },
-    "classList": [
-      "heading"
+    "visibleText": [
+      "Chase",
+      "Private",
+      "Client"
     ],
     "widgetId": null
   },
@@ -2982,16 +2982,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[2]",
     "area": 1136,
     "shape": 443,
-    "visibleText": [
-      "invest",
-      "online"
-    ],
-    "neighborText": [
-      "financial",
-      "advisor",
-      "invest",
-      "online"
-    ],
     "isButton": false,
     "location": {
       "x": 258,
@@ -3003,6 +2993,16 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "financial",
+      "advisor",
+      "invest",
+      "online"
+    ],
+    "visibleText": [
+      "invest",
+      "online"
+    ],
     "widgetId": null
   },
   {
@@ -3011,15 +3011,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/h2[1]",
     "area": 3564,
     "shape": 736,
-    "visibleText": [
-      "Sports",
-      "&",
-      "Entertainment"
-    ],
-    "neighborText": [
-      "about",
-      "chase"
-    ],
     "isButton": false,
     "location": {
       "x": 1053,
@@ -3030,6 +3021,15 @@
     "classList": [
       "heading"
     ],
+    "neighborText": [
+      "about",
+      "chase"
+    ],
+    "visibleText": [
+      "Sports",
+      "&",
+      "Entertainment"
+    ],
     "widgetId": null
   },
   {
@@ -3039,18 +3039,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[3]",
     "area": 5291,
     "shape": 386,
-    "visibleText": [
-      "offers,",
-      "promotions,",
-      "and",
-      "coupons"
-    ],
-    "neighborText": [
-      "offers,",
-      "promotions,",
-      "and",
-      "coupons"
-    ],
     "isButton": false,
     "location": {
       "x": 243,
@@ -3062,6 +3050,18 @@
       "chaseanalytics-track-link",
       "regular-link"
     ],
+    "neighborText": [
+      "offers,",
+      "promotions,",
+      "and",
+      "coupons"
+    ],
+    "visibleText": [
+      "offers,",
+      "promotions,",
+      "and",
+      "coupons"
+    ],
     "widgetId": null
   },
   {
@@ -3071,9 +3071,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]/a[5]",
     "area": 1424,
     "shape": 556,
-    "visibleText": [
-      "Learning",
-      "Center"
+    "isButton": false,
+    "location": {
+      "x": 851,
+      "y": 941,
+      "width": 89,
+      "height": 16
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "low",
@@ -3089,16 +3096,9 @@
       "rates",
       "calculator"
     ],
-    "isButton": false,
-    "location": {
-      "x": 851,
-      "y": 941,
-      "width": 89,
-      "height": 16
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "Learning",
+      "Center"
     ],
     "widgetId": null
   },
@@ -3109,10 +3109,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/p[1]/a[2]",
     "area": 4773,
     "shape": 348,
-    "visibleText": [
-      "see",
-      "interest",
-      "rates"
+    "isButton": false,
+    "location": {
+      "x": 243,
+      "y": 919,
+      "width": 129,
+      "height": 37
+    },
+    "classList": [
+      "chaseanalytics-track-link",
+      "regular-link"
     ],
     "neighborText": [
       "open",
@@ -3125,16 +3131,10 @@
       "chase",
       "offer"
     ],
-    "isButton": false,
-    "location": {
-      "x": 243,
-      "y": 919,
-      "width": 129,
-      "height": 37
-    },
-    "classList": [
-      "chaseanalytics-track-link",
-      "regular-link"
+    "visibleText": [
+      "see",
+      "interest",
+      "rates"
     ],
     "widgetId": null
   },
@@ -3144,16 +3144,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/p[4]/a[2]/span[1]",
     "area": 1,
     "shape": 100,
-    "visibleText": [
-      "(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "finra(opens",
-      "overlay)",
-      "(opens",
-      "sipc(opens"
-    ],
     "isButton": false,
     "location": {
       "x": 868,
@@ -3164,6 +3154,16 @@
     "classList": [
       "accessible-text"
     ],
+    "neighborText": [
+      "finra(opens",
+      "overlay)",
+      "(opens",
+      "sipc(opens"
+    ],
+    "visibleText": [
+      "(Opens",
+      "Overlay)"
+    ],
     "widgetId": null
   },
   {
@@ -3172,6 +3172,17 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/p[5]",
     "area": 24780,
     "shape": 5619,
+    "isButton": false,
+    "location": {
+      "x": 33,
+      "y": 1937,
+      "width": 1180,
+      "height": 21
+    },
+    "classList": [],
+    "neighborText": [
+      "Privacy"
+    ],
     "visibleText": [
       "\"Chase",
       "Private",
@@ -3190,17 +3201,6 @@
       "service",
       "offering."
     ],
-    "isButton": false,
-    "location": {
-      "x": 33,
-      "y": 1937,
-      "width": 1180,
-      "height": 21
-    },
-    "classList": [],
-    "neighborText": [
-      "Privacy"
-    ],
     "widgetId": null
   },
   {
@@ -3209,8 +3209,15 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]",
     "area": 1170,
     "shape": 173,
-    "visibleText": [
-      "Privacy"
+    "isButton": false,
+    "location": {
+      "x": 270,
+      "y": 1971,
+      "width": 45,
+      "height": 26
+    },
+    "classList": [
+      "footer__module-footer__section--footer-link"
     ],
     "neighborText": [
       "\"chase",
@@ -3237,15 +3244,8 @@
       "&",
       "co."
     ],
-    "isButton": false,
-    "location": {
-      "x": 270,
-      "y": 1971,
-      "width": 45,
-      "height": 26
-    },
-    "classList": [
-      "footer__module-footer__section--footer-link"
+    "visibleText": [
+      "Privacy"
     ],
     "widgetId": null
   },
@@ -3256,34 +3256,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
     "area": 630,
     "shape": 321,
-    "visibleText": [
-      "Privacy"
-    ],
-    "neighborText": [
-      "\"chase",
-      "private",
-      "client\"",
-      "is",
-      "the",
-      "brand",
-      "name",
-      "for",
-      "a",
-      "banking",
-      "and",
-      "investment",
-      "product",
-      "service",
-      "offering.",
-      "privacy",
-      "security",
-      "©",
-      "2020",
-      "jpmorgan",
-      "chase",
-      "&",
-      "co."
-    ],
     "isButton": false,
     "location": {
       "x": 270,
@@ -3295,6 +3267,34 @@
       "regular-link",
       "chaseanalytics-track-link"
     ],
+    "neighborText": [
+      "\"chase",
+      "private",
+      "client\"",
+      "is",
+      "the",
+      "brand",
+      "name",
+      "for",
+      "a",
+      "banking",
+      "and",
+      "investment",
+      "product",
+      "service",
+      "offering.",
+      "privacy",
+      "security",
+      "©",
+      "2020",
+      "jpmorgan",
+      "chase",
+      "&",
+      "co."
+    ],
+    "visibleText": [
+      "Privacy"
+    ],
     "widgetId": null
   },
   {
@@ -3303,8 +3303,15 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]",
     "area": 1274,
     "shape": 188,
-    "visibleText": [
-      "Security"
+    "isButton": false,
+    "location": {
+      "x": 318,
+      "y": 1971,
+      "width": 49,
+      "height": 26
+    },
+    "classList": [
+      "footer__module-footer__section--footer-link"
     ],
     "neighborText": [
       "\"chase",
@@ -3334,15 +3341,8 @@
       "&",
       "co."
     ],
-    "isButton": false,
-    "location": {
-      "x": 318,
-      "y": 1971,
-      "width": 49,
-      "height": 26
-    },
-    "classList": [
-      "footer__module-footer__section--footer-link"
+    "visibleText": [
+      "Security"
     ],
     "widgetId": null
   },
@@ -3353,8 +3353,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
     "area": 686,
     "shape": 350,
-    "visibleText": [
-      "Security"
+    "isButton": false,
+    "location": {
+      "x": 318,
+      "y": 1974,
+      "width": 49,
+      "height": 14
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-track-link"
     ],
     "neighborText": [
       "\"chase",
@@ -3384,16 +3392,8 @@
       "&",
       "co."
     ],
-    "isButton": false,
-    "location": {
-      "x": 318,
-      "y": 1974,
-      "width": 49,
-      "height": 14
-    },
-    "classList": [
-      "regular-link",
-      "chaseanalytics-track-link"
+    "visibleText": [
+      "Security"
     ],
     "widgetId": null
   },
@@ -3403,39 +3403,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]",
     "area": 1898,
     "shape": 280,
-    "visibleText": [
-      "Terms",
-      "of",
-      "use"
-    ],
-    "neighborText": [
-      "\"chase",
-      "private",
-      "client\"",
-      "is",
-      "the",
-      "brand",
-      "name",
-      "for",
-      "a",
-      "banking",
-      "and",
-      "investment",
-      "product",
-      "service",
-      "offering.",
-      "security",
-      "terms",
-      "of",
-      "use",
-      "accessibility",
-      "©",
-      "2020",
-      "jpmorgan",
-      "chase",
-      "&",
-      "co."
-    ],
     "isButton": false,
     "location": {
       "x": 371,
@@ -3446,6 +3413,39 @@
     "classList": [
       "footer__module-footer__section--footer-link"
     ],
+    "neighborText": [
+      "\"chase",
+      "private",
+      "client\"",
+      "is",
+      "the",
+      "brand",
+      "name",
+      "for",
+      "a",
+      "banking",
+      "and",
+      "investment",
+      "product",
+      "service",
+      "offering.",
+      "security",
+      "terms",
+      "of",
+      "use",
+      "accessibility",
+      "©",
+      "2020",
+      "jpmorgan",
+      "chase",
+      "&",
+      "co."
+    ],
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
     "widgetId": null
   },
   {
@@ -3455,10 +3455,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
     "area": 1022,
     "shape": 521,
-    "visibleText": [
-      "Terms",
-      "of",
-      "use"
+    "isButton": false,
+    "location": {
+      "x": 371,
+      "y": 1974,
+      "width": 73,
+      "height": 14
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-track-link"
     ],
     "neighborText": [
       "\"chase",
@@ -3488,16 +3494,10 @@
       "&",
       "co."
     ],
-    "isButton": false,
-    "location": {
-      "x": 371,
-      "y": 1974,
-      "width": 73,
-      "height": 14
-    },
-    "classList": [
-      "regular-link",
-      "chaseanalytics-track-link"
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
     ],
     "widgetId": null
   },
@@ -3507,14 +3507,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/p[2]",
     "area": 24780,
     "shape": 5619,
-    "visibleText": [
-      "©",
-      "2020",
-      "JPMorgan",
-      "Chase",
-      "&",
-      "Co."
-    ],
     "isButton": false,
     "location": {
       "x": 33,
@@ -3528,6 +3520,14 @@
       "Housing",
       "Lender"
     ],
+    "visibleText": [
+      "©",
+      "2020",
+      "JPMorgan",
+      "Chase",
+      "&",
+      "Co."
+    ],
     "widgetId": null
   },
   {
@@ -3536,8 +3536,15 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]",
     "area": 1794,
     "shape": 265,
-    "visibleText": [
-      "Accessibility"
+    "isButton": false,
+    "location": {
+      "x": 447,
+      "y": 1971,
+      "width": 69,
+      "height": 26
+    },
+    "classList": [
+      "footer__module-footer__section--footer-link"
     ],
     "neighborText": [
       "\"chase",
@@ -3568,15 +3575,8 @@
       "&",
       "co."
     ],
-    "isButton": false,
-    "location": {
-      "x": 447,
-      "y": 1971,
-      "width": 69,
-      "height": 26
-    },
-    "classList": [
-      "footer__module-footer__section--footer-link"
+    "visibleText": [
+      "Accessibility"
     ],
     "widgetId": null
   },
@@ -3587,8 +3587,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
     "area": 966,
     "shape": 492,
-    "visibleText": [
-      "Accessibility"
+    "isButton": false,
+    "location": {
+      "x": 447,
+      "y": 1974,
+      "width": 69,
+      "height": 14
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-track-link"
     ],
     "neighborText": [
       "\"chase",
@@ -3619,16 +3627,8 @@
       "&",
       "co."
     ],
-    "isButton": false,
-    "location": {
-      "x": 447,
-      "y": 1974,
-      "width": 69,
-      "height": 14
-    },
-    "classList": [
-      "regular-link",
-      "chaseanalytics-track-link"
+    "visibleText": [
+      "Accessibility"
     ],
     "widgetId": null
   },
@@ -3638,39 +3638,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]",
     "area": 3042,
     "shape": 450,
-    "visibleText": [
-      "Help",
-      "for",
-      "homeowners"
-    ],
-    "neighborText": [
-      "\"chase",
-      "private",
-      "client\"",
-      "is",
-      "the",
-      "brand",
-      "name",
-      "for",
-      "a",
-      "banking",
-      "and",
-      "investment",
-      "product",
-      "service",
-      "offering.",
-      "accessibility",
-      "help",
-      "homeowners",
-      "site",
-      "map",
-      "©",
-      "2020",
-      "jpmorgan",
-      "chase",
-      "&",
-      "co."
-    ],
     "isButton": false,
     "location": {
       "x": 520,
@@ -3681,6 +3648,39 @@
     "classList": [
       "footer__module-footer__section--footer-link"
     ],
+    "neighborText": [
+      "\"chase",
+      "private",
+      "client\"",
+      "is",
+      "the",
+      "brand",
+      "name",
+      "for",
+      "a",
+      "banking",
+      "and",
+      "investment",
+      "product",
+      "service",
+      "offering.",
+      "accessibility",
+      "help",
+      "homeowners",
+      "site",
+      "map",
+      "©",
+      "2020",
+      "jpmorgan",
+      "chase",
+      "&",
+      "co."
+    ],
+    "visibleText": [
+      "Help",
+      "for",
+      "homeowners"
+    ],
     "widgetId": null
   },
   {
@@ -3690,10 +3690,16 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
     "area": 1638,
     "shape": 835,
-    "visibleText": [
-      "Help",
-      "for",
-      "homeowners"
+    "isButton": false,
+    "location": {
+      "x": 520,
+      "y": 1974,
+      "width": 117,
+      "height": 14
+    },
+    "classList": [
+      "regular-link",
+      "chaseanalytics-track-link"
     ],
     "neighborText": [
       "\"chase",
@@ -3723,16 +3729,10 @@
       "&",
       "co."
     ],
-    "isButton": false,
-    "location": {
-      "x": 520,
-      "y": 1974,
-      "width": 117,
-      "height": 14
-    },
-    "classList": [
-      "regular-link",
-      "chaseanalytics-track-link"
+    "visibleText": [
+      "Help",
+      "for",
+      "homeowners"
     ],
     "widgetId": null
   },
@@ -3743,16 +3743,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/p[4]/a[2]",
     "area": 294,
     "shape": 150,
-    "visibleText": [
-      "SIPC(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "finra(opens",
-      "overlay)",
-      "(opens",
-      "sipc(opens"
-    ],
     "isButton": false,
     "location": {
       "x": 846,
@@ -3764,6 +3754,16 @@
       "chaseanalytics-opt-exlnk",
       "regular-link"
     ],
+    "neighborText": [
+      "finra(opens",
+      "overlay)",
+      "(opens",
+      "sipc(opens"
+    ],
+    "visibleText": [
+      "SIPC(Opens",
+      "Overlay)"
+    ],
     "widgetId": null
   },
   {
@@ -3772,39 +3772,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]",
     "area": 1378,
     "shape": 203,
-    "visibleText": [
-      "Site",
-      "map"
-    ],
-    "neighborText": [
-      "\"chase",
-      "private",
-      "client\"",
-      "is",
-      "the",
-      "brand",
-      "name",
-      "for",
-      "a",
-      "banking",
-      "and",
-      "investment",
-      "product",
-      "service",
-      "offering.",
-      "help",
-      "homeowners",
-      "site",
-      "map",
-      "adchoices(opens",
-      "overlay)",
-      "©",
-      "2020",
-      "jpmorgan",
-      "chase",
-      "&",
-      "co."
-    ],
     "isButton": false,
     "location": {
       "x": 640,
@@ -3815,19 +3782,6 @@
     "classList": [
       "footer__module-footer__section--footer-link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "A",
-    "href": "https://www.chase.com/digital/resources/sitemap",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
-    "area": 742,
-    "shape": 378,
-    "visibleText": [
-      "Site",
-      "map"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -3857,6 +3811,19 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "Site",
+      "map"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "https://www.chase.com/digital/resources/sitemap",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "area": 742,
+    "shape": 378,
     "isButton": false,
     "location": {
       "x": 640,
@@ -3868,18 +3835,6 @@
       "regular-link",
       "chaseanalytics-track-link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "LI",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]",
-    "area": 1586,
-    "shape": 234,
-    "visibleText": [
-      "AdChoices(Opens",
-      "Overlay)"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -3896,13 +3851,12 @@
       "product",
       "service",
       "offering.",
+      "help",
+      "homeowners",
       "site",
       "map",
       "adchoices(opens",
       "overlay)",
-      "(opens",
-      "member",
-      "fdic",
       "©",
       "2020",
       "jpmorgan",
@@ -3910,6 +3864,18 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "Site",
+      "map"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]",
+    "area": 1586,
+    "shape": 234,
     "isButton": false,
     "location": {
       "x": 696,
@@ -3920,19 +3886,6 @@
     "classList": [
       "footer__module-footer__section--footer-link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "A",
-    "href": "http://www.aboutads.info/choices/",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
-    "area": 854,
-    "shape": 435,
-    "visibleText": [
-      "AdChoices(Opens",
-      "Overlay)"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -3963,6 +3916,19 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "AdChoices(Opens",
+      "Overlay)"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "A",
+    "href": "http://www.aboutads.info/choices/",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "area": 854,
+    "shape": 435,
     "isButton": false,
     "location": {
       "x": 696,
@@ -3976,18 +3942,6 @@
       "icon",
       "icon-choices-logo"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "SPAN",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]",
-    "area": 1,
-    "shape": 100,
-    "visibleText": [
-      "(Opens",
-      "Overlay)"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -4004,8 +3958,11 @@
       "product",
       "service",
       "offering.",
+      "site",
+      "map",
       "adchoices(opens",
       "overlay)",
+      "(opens",
       "member",
       "fdic",
       "©",
@@ -4015,6 +3972,18 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "AdChoices(Opens",
+      "Overlay)"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]",
+    "area": 1,
+    "shape": 100,
     "isButton": false,
     "location": {
       "x": 753,
@@ -4025,18 +3994,6 @@
     "classList": [
       "accessible-text"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "LI",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]",
-    "area": 2002,
-    "shape": 296,
-    "visibleText": [
-      "Member",
-      "FDIC"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -4055,12 +4012,8 @@
       "offering.",
       "adchoices(opens",
       "overlay)",
-      "(opens",
       "member",
       "fdic",
-      "equal",
-      "housing",
-      "lender",
       "©",
       "2020",
       "jpmorgan",
@@ -4068,6 +4021,18 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "(Opens",
+      "Overlay)"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]",
+    "area": 2002,
+    "shape": 296,
     "isButton": false,
     "location": {
       "x": 761,
@@ -4078,18 +4043,6 @@
     "classList": [
       "footer__module-footer__section--footer-link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "SPAN",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]/span[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]/span[1]",
-    "area": 1078,
-    "shape": 550,
-    "visibleText": [
-      "Member",
-      "FDIC"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -4121,6 +4074,18 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "Member",
+      "FDIC"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]/span[1]",
+    "area": 1078,
+    "shape": 550,
     "isButton": false,
     "location": {
       "x": 761,
@@ -4129,19 +4094,6 @@
       "height": 14
     },
     "classList": [],
-    "widgetId": null
-  },
-  {
-    "tag": "LI",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]",
-    "area": 3726,
-    "shape": 511,
-    "visibleText": [
-      "Equal",
-      "Housing",
-      "Lender"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -4158,6 +4110,9 @@
       "product",
       "service",
       "offering.",
+      "adchoices(opens",
+      "overlay)",
+      "(opens",
       "member",
       "fdic",
       "equal",
@@ -4170,6 +4125,18 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "Member",
+      "FDIC"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "LI",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]",
+    "area": 3726,
+    "shape": 511,
     "isButton": false,
     "location": {
       "x": 842,
@@ -4180,19 +4147,6 @@
     "classList": [
       "footer__module-footer__section--footer-link"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "SPAN",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]",
-    "area": 1932,
-    "shape": 985,
-    "visibleText": [
-      "Equal",
-      "Housing",
-      "Lender"
-    ],
     "neighborText": [
       "\"chase",
       "private",
@@ -4221,6 +4175,19 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "Equal",
+      "Housing",
+      "Lender"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]",
+    "area": 1932,
+    "shape": 985,
     "isButton": false,
     "location": {
       "x": 842,
@@ -4231,14 +4198,6 @@
     "classList": [
       "footer__module-footer__section--footer-link__text"
     ],
-    "widgetId": null
-  },
-  {
-    "tag": "SPAN",
-    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]/span[1]",
-    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]/span[1]",
-    "area": 273,
-    "shape": 161,
     "neighborText": [
       "\"chase",
       "private",
@@ -4267,6 +4226,19 @@
       "&",
       "co."
     ],
+    "visibleText": [
+      "Equal",
+      "Housing",
+      "Lender"
+    ],
+    "widgetId": null
+  },
+  {
+    "tag": "SPAN",
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]/span[1]",
+    "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[9]/span[1]/span[1]",
+    "area": 273,
+    "shape": 161,
     "isButton": false,
     "location": {
       "x": 847,
@@ -4278,6 +4250,34 @@
       "footer__module-footer__section--footer-link__icon",
       "equal-housing-img"
     ],
+    "neighborText": [
+      "\"chase",
+      "private",
+      "client\"",
+      "is",
+      "the",
+      "brand",
+      "name",
+      "for",
+      "a",
+      "banking",
+      "and",
+      "investment",
+      "product",
+      "service",
+      "offering.",
+      "member",
+      "fdic",
+      "equal",
+      "housing",
+      "lender",
+      "©",
+      "2020",
+      "jpmorgan",
+      "chase",
+      "&",
+      "co."
+    ],
     "visibleText": [],
     "widgetId": null
   },
@@ -4288,16 +4288,6 @@
     "idxpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/p[4]/a[1]",
     "area": 406,
     "shape": 207,
-    "visibleText": [
-      "FINRA(Opens",
-      "Overlay)"
-    ],
-    "neighborText": [
-      "finra(opens",
-      "overlay)",
-      "(opens",
-      "sipc(opens"
-    ],
     "isButton": false,
     "location": {
       "x": 793,
@@ -4308,6 +4298,16 @@
     "classList": [
       "chaseanalytics-opt-exlnk",
       "regular-link"
+    ],
+    "neighborText": [
+      "finra(opens",
+      "overlay)",
+      "(opens",
+      "sipc(opens"
+    ],
+    "visibleText": [
+      "FINRA(Opens",
+      "Overlay)"
     ],
     "widgetId": null
   }

@@ -37,7 +37,9 @@
       "input__label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Password"
+    ],
     "area": null,
     "shape": null
   },
@@ -57,7 +59,10 @@
       "sign-in-form__forgot-password-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
     "area": null,
     "shape": null
   },
@@ -77,7 +82,10 @@
       "sign-in-form__submit-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -96,7 +104,10 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Information",
+      "Technology"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -117,7 +128,10 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Human",
+      "Resources"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -137,7 +151,9 @@
       "sign-in-form__password-visibility-toggle-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Show"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -157,7 +173,10 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Human",
+      "Resources"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -178,7 +197,16 @@
       "show-more-less-state__label-more"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Show",
+      "more",
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -198,7 +226,10 @@
       "etta-see-more-less-list__show-more"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Show",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -218,7 +249,14 @@
       "etta-see-more-less-list__sr-only"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -238,7 +276,13 @@
       "job-finder-cta__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "open",
+      "jobs",
+      "and",
+      "internships"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -258,7 +302,17 @@
       "talent-finder-cta__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Post",
+      "your",
+      "job",
+      "and",
+      "find",
+      "the",
+      "people",
+      "you",
+      "need"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -278,7 +332,10 @@
       "etta-see-more-less-list__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Suggested",
+      "Searches"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -299,7 +356,11 @@
       "pill--transparent"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Post",
+      "a",
+      "job"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -320,7 +381,9 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Engineering"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -340,7 +403,9 @@
       "slide-list__nav-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Previous"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -360,7 +425,9 @@
       "slide-list__nav-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Previous"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -381,7 +448,9 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marketing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -401,7 +470,10 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Business",
+      "Development"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -421,7 +493,9 @@
       "slide-list__nav-button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Next"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -442,7 +516,9 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Finance"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -462,7 +538,9 @@
       "slide-list__nav-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Next"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -482,7 +560,9 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Finance"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -523,7 +603,10 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Administrative",
+      "Assistant"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -543,7 +626,10 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Administrative",
+      "Assistant"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -564,7 +650,10 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Retail",
+      "Associate"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -584,7 +673,9 @@
       "nav__logo-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -604,7 +695,10 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Retail",
+      "Associate"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -624,7 +718,9 @@
       "sr-only"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -645,7 +741,10 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -665,7 +764,10 @@
       "nav__button-tertiary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Join",
+      "now"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -685,7 +787,10 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -705,7 +810,10 @@
       "nav__button-secondary"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -726,7 +834,9 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Operations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -746,7 +856,9 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marketing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -767,7 +879,13 @@
       "hero__headline--basic"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Welcome",
+      "to",
+      "your",
+      "professional",
+      "community"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -787,7 +905,9 @@
       "pill"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Operations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -808,7 +928,10 @@
       "see-more-less-list__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Information",
+      "Technology"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -828,7 +951,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learning"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -848,7 +973,11 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn",
+      "©",
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -868,7 +997,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -888,7 +1019,9 @@
       "sr-only"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -908,7 +1041,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -928,7 +1063,14 @@
       "people-cta__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Connect",
+      "with",
+      "people",
+      "who",
+      "can",
+      "help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -948,7 +1090,10 @@
       "li-footer__copy-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "©",
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -968,7 +1113,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -988,7 +1135,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Services"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1009,7 +1158,12 @@
       "pill--transparent"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "people",
+      "you",
+      "know"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1029,7 +1183,9 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1049,7 +1205,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Developers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1069,7 +1227,9 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1090,7 +1250,10 @@
       "directory__list-item--heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Browse",
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1110,7 +1273,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Blog"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1130,7 +1295,9 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1150,7 +1317,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learning"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1170,7 +1339,9 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1190,7 +1361,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learning"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1210,7 +1383,10 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Agreement"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1230,7 +1406,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1250,7 +1428,10 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Agreement"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1270,7 +1451,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1290,7 +1473,10 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1310,7 +1496,11 @@
       "marketing__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Let's",
+      "step",
+      "forward"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1330,7 +1520,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Salary"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1350,7 +1542,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learning"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1370,7 +1564,10 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1390,7 +1587,24 @@
       "marketing__subtitle"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "With",
+      "our",
+      "communities",
+      "by",
+      "our",
+      "side,",
+      "there's",
+      "no",
+      "telling",
+      "where",
+      "our",
+      "next",
+      "small",
+      "steps",
+      "could",
+      "lead"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1410,7 +1624,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Salary"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1430,7 +1646,10 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookie",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1450,7 +1669,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mobile"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1470,7 +1691,10 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookie",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1490,7 +1714,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Services"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1510,7 +1736,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mobile"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1530,7 +1758,10 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Copyright",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1550,7 +1781,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ProFinder"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1570,7 +1803,10 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Copyright",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1591,7 +1827,9 @@
       "directory__list-item--heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "General"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1611,7 +1849,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ProFinder"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1631,7 +1871,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Blog"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1651,7 +1893,10 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Brand",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1671,7 +1916,10 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1692,7 +1940,10 @@
       "directory__list-item--heading"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Business",
+      "Solutions"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1712,7 +1963,10 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Brand",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1732,7 +1986,10 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1752,7 +2009,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Talent"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1772,7 +2031,10 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Guest",
+      "Controls"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1792,7 +2054,10 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1812,7 +2077,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Talent"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1832,7 +2099,10 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Guest",
+      "Controls"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1852,7 +2122,10 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1872,7 +2145,15 @@
       "testimonials__header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Conversations",
+      "today",
+      "could",
+      "lead",
+      "to",
+      "opportunity",
+      "tomorrow"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1892,7 +2173,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marketing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1912,7 +2195,10 @@
       "li-footer__item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Community",
+      "Guidelines"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1932,7 +2218,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1972,7 +2260,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Marketing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2010,7 +2300,10 @@
       "li-footer__item-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Community",
+      "Guidelines"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2030,7 +2323,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2068,7 +2363,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sales"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2108,7 +2405,9 @@
       "directory__list-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Press"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2148,7 +2447,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sales"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2168,7 +2469,10 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News",
+      "Letters"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2188,7 +2492,9 @@
       "directory__link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Press"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2208,7 +2514,9 @@
       "language-selector__label-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Language"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2228,7 +2536,9 @@
       "language-selector__button"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Language"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

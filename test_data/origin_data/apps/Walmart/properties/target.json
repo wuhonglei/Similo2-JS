@@ -17,7 +17,13 @@
       "display-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Walmart.",
+      "Save",
+      "Money.",
+      "Live",
+      "Better."
+    ],
     "area": null,
     "shape": null
   },
@@ -41,7 +47,9 @@
       "dropdown"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "All"
+    ],
     "area": null,
     "shape": null
   },
@@ -84,7 +92,9 @@
       "btn"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search"
+    ],
     "area": null,
     "shape": null
   },
@@ -109,7 +119,10 @@
       "btn-fake-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "My",
+      "Account"
+    ],
     "area": null,
     "shape": null
   },
@@ -132,7 +145,11 @@
       "text-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Items",
+      "in",
+      "cart"
+    ],
     "area": null,
     "shape": null
   },
@@ -153,7 +170,10 @@
       "header-GlobalEyebrowNav-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Reorder",
+      "Items"
+    ],
     "area": null,
     "shape": null
   }

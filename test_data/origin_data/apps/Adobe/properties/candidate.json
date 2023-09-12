@@ -7,9 +7,6 @@
     "area": 1380,
     "shape": 345,
     "widgetId": 1,
-    "visibleText": [
-      "Individuals"
-    ],
     "isButton": false,
     "location": {
       "x": 545,
@@ -30,6 +27,9 @@
       "CMO.com",
       "View",
       "all"
+    ],
+    "visibleText": [
+      "Individuals"
     ]
   },
   {
@@ -40,9 +40,6 @@
     "area": 1120,
     "shape": 280,
     "widgetId": 2,
-    "visibleText": [
-      "Business"
-    ],
     "isButton": false,
     "location": {
       "x": 795,
@@ -58,6 +55,9 @@
       "0",
       "Adobe",
       "AIR"
+    ],
+    "visibleText": [
+      "Business"
     ]
   },
   {
@@ -67,9 +67,6 @@
     "idxpath": "//*[@id='gnav_2_0']",
     "area": 74820,
     "shape": 2078,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -81,6 +78,9 @@
       "feds-navList-item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -89,10 +89,6 @@
     "idxpath": "//*[@id='gnav_547']/span[1]",
     "area": 7320,
     "shape": 203,
-    "visibleText": [
-      "Business",
-      "Solutions"
-    ],
     "isButton": false,
     "location": {
       "x": 789,
@@ -104,6 +100,10 @@
       "feds-navLink-contentWrapper"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Business",
+      "Solutions"
+    ],
     "widgetId": null
   },
   {
@@ -113,9 +113,6 @@
     "idxpath": "//*[@id='Globalnav.Creativity_Design']",
     "area": 9960,
     "shape": 276,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 243,
@@ -127,6 +124,9 @@
       "feds-navList-item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -135,11 +135,6 @@
     "idxpath": "//*[@id='gnav_20']/span[1]",
     "area": 7560,
     "shape": 210,
-    "visibleText": [
-      "Creativity",
-      "&",
-      "Design"
-    ],
     "isButton": false,
     "location": {
       "x": 263,
@@ -151,6 +146,11 @@
       "feds-navLink-contentWrapper"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Creativity",
+      "&",
+      "Design"
+    ],
     "widgetId": null
   },
   {
@@ -159,11 +159,6 @@
     "idxpath": "//*[@id='gnav_20']/span[1]/span[1]",
     "area": 2394,
     "shape": 663,
-    "visibleText": [
-      "Creativity",
-      "&",
-      "Design"
-    ],
     "isButton": false,
     "location": {
       "x": 263,
@@ -179,6 +174,11 @@
       "&",
       "Commerce"
     ],
+    "visibleText": [
+      "Creativity",
+      "&",
+      "Design"
+    ],
     "widgetId": null
   },
   {
@@ -187,10 +187,6 @@
     "idxpath": "//*[@id='gnav_547']/span[1]/span[1]",
     "area": 2318,
     "shape": 642,
-    "visibleText": [
-      "Business",
-      "Solutions"
-    ],
     "isButton": false,
     "location": {
       "x": 789,
@@ -207,6 +203,10 @@
       "E-signatures",
       "Support"
     ],
+    "visibleText": [
+      "Business",
+      "Solutions"
+    ],
     "widgetId": null
   },
   {
@@ -216,9 +216,6 @@
     "idxpath": "//*[@id='Globalnav.Marketing_Commerce']",
     "area": 11580,
     "shape": 321,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 410,
@@ -234,6 +231,9 @@
       "&",
       "E-signatures"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -242,11 +242,6 @@
     "idxpath": "//*[@id='gnav_223']/span[1]",
     "area": 9180,
     "shape": 255,
-    "visibleText": [
-      "Marketing",
-      "&",
-      "Commerce"
-    ],
     "isButton": false,
     "location": {
       "x": 430,
@@ -258,6 +253,11 @@
       "feds-navLink-contentWrapper"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Marketing",
+      "&",
+      "Commerce"
+    ],
     "widgetId": null
   },
   {
@@ -266,11 +266,6 @@
     "idxpath": "//*[@id='gnav_223']/span[1]/span[1]",
     "area": 2907,
     "shape": 805,
-    "visibleText": [
-      "Marketing",
-      "&",
-      "Commerce"
-    ],
     "isButton": false,
     "location": {
       "x": 430,
@@ -289,6 +284,11 @@
       "&",
       "E-signatures"
     ],
+    "visibleText": [
+      "Marketing",
+      "&",
+      "Commerce"
+    ],
     "widgetId": null
   },
   {
@@ -298,9 +298,6 @@
     "idxpath": "//*[@id='Globalnav.PDF_E_signatures']",
     "area": 9960,
     "shape": 276,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 603,
@@ -315,6 +312,9 @@
       "Business",
       "Solutions"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -323,11 +323,6 @@
     "idxpath": "//*[@id='gnav_374']/span[1]",
     "area": 7560,
     "shape": 210,
-    "visibleText": [
-      "PDF",
-      "&",
-      "E-signatures"
-    ],
     "isButton": false,
     "location": {
       "x": 623,
@@ -339,6 +334,11 @@
       "feds-navLink-contentWrapper"
     ],
     "neighborText": [],
+    "visibleText": [
+      "PDF",
+      "&",
+      "E-signatures"
+    ],
     "widgetId": null
   },
   {
@@ -348,9 +348,6 @@
     "idxpath": "//*[@id='gnav_6_1']",
     "area": 47340,
     "shape": 1315,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 243,
@@ -363,6 +360,9 @@
       "feds-navList-item--main"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -371,11 +371,6 @@
     "idxpath": "//*[@id='gnav_374']/span[1]/span[1]",
     "area": 2394,
     "shape": 663,
-    "visibleText": [
-      "PDF",
-      "&",
-      "E-signatures"
-    ],
     "isButton": false,
     "location": {
       "x": 623,
@@ -393,6 +388,11 @@
       "Business",
       "Solutions"
     ],
+    "visibleText": [
+      "PDF",
+      "&",
+      "E-signatures"
+    ],
     "widgetId": null
   },
   {
@@ -402,9 +402,6 @@
     "idxpath": "//*[@id='Globalnav.Business_Solutions']",
     "area": 9720,
     "shape": 270,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 769,
@@ -420,6 +417,9 @@
       "&",
       "E-signatures"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -429,9 +429,6 @@
     "idxpath": "//*[@id='gnav_6_0']",
     "area": 7200,
     "shape": 200,
-    "visibleText": [
-      "Adobe"
-    ],
     "isButton": false,
     "location": {
       "x": 0,
@@ -443,6 +440,9 @@
       "feds-navList-item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Adobe"
+    ],
     "widgetId": null
   },
   {
@@ -452,9 +452,6 @@
     "idxpath": "//*[@id='Globalnav.Support']",
     "area": 6000,
     "shape": 166,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 932,
@@ -466,6 +463,9 @@
       "feds-navList-item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -474,9 +474,6 @@
     "idxpath": "//*[@id='gnav_644']/span[1]",
     "area": 3600,
     "shape": 100,
-    "visibleText": [
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 952,
@@ -488,6 +485,9 @@
       "feds-navLink-contentWrapper"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Support"
+    ],
     "widgetId": null
   },
   {
@@ -496,9 +496,6 @@
     "idxpath": "//*[@id='gnav_644']/span[1]/span[1]",
     "area": 1140,
     "shape": 315,
-    "visibleText": [
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 952,
@@ -513,6 +510,9 @@
       "Business",
       "Solutions"
     ],
+    "visibleText": [
+      "Support"
+    ],
     "widgetId": null
   },
   {
@@ -522,10 +522,6 @@
     "idxpath": "//*[@id='gnav_6_2']",
     "area": 5400,
     "shape": 150,
-    "visibleText": [
-      "Sign",
-      "In"
-    ],
     "isButton": false,
     "location": {
       "x": 1156,
@@ -537,6 +533,10 @@
       "feds-navList-item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Sign",
+      "In"
+    ],
     "widgetId": null
   },
   {
@@ -546,9 +546,6 @@
     "idxpath": "//*[@id='gnav_693_0']",
     "area": 1200,
     "shape": 33,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1156,
@@ -562,6 +559,9 @@
     "neighborText": [
       "Sign",
       "In"
+    ],
+    "visibleText": [
+      "0"
     ],
     "widgetId": null
   },
@@ -590,10 +590,6 @@
     "idxpath": "//*[@id='gnav_693_1']",
     "area": 4200,
     "shape": 116,
-    "visibleText": [
-      "Sign",
-      "In"
-    ],
     "isButton": false,
     "location": {
       "x": 1176,
@@ -605,6 +601,10 @@
       "feds-navList-item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Sign",
+      "In"
+    ],
     "widgetId": null
   },
   {
@@ -614,10 +614,6 @@
     "idxpath": "//*[@id='gnav_701']/a[1]",
     "area": 2280,
     "shape": 63,
-    "visibleText": [
-      "Sign",
-      "In"
-    ],
     "isButton": false,
     "location": {
       "x": 1192,
@@ -629,6 +625,10 @@
       "feds-login"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Sign",
+      "In"
+    ],
     "widgetId": null
   },
   {
@@ -637,11 +637,6 @@
     "idxpath": "//*[@id='id-b7e6aa3d72c67eb0a0533abd6c36dfa6']/div[1]/div[1]/div[1]",
     "area": 19492,
     "shape": 1006,
-    "visibleText": [
-      "All",
-      "together",
-      "now."
-    ],
     "isButton": false,
     "location": {
       "x": 200,
@@ -656,6 +651,11 @@
       "desktop-margin-top-0"
     ],
     "neighborText": [],
+    "visibleText": [
+      "All",
+      "together",
+      "now."
+    ],
     "widgetId": null
   },
   {
@@ -693,11 +693,6 @@
     "idxpath": "//*[@id='id-35cd201f818f843a1c4ddd14e596469e']/div[1]/div[1]/div[1]/a[1]",
     "area": 3616,
     "shape": 353,
-    "visibleText": [
-      "Start",
-      "free",
-      "trial"
-    ],
     "isButton": false,
     "location": {
       "x": 200,
@@ -713,6 +708,11 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "Start",
+      "free",
+      "trial"
+    ],
     "widgetId": null
   },
   {
@@ -721,11 +721,6 @@
     "idxpath": "//*[@id='id-35cd201f818f843a1c4ddd14e596469e']/div[1]/div[1]/div[1]/a[1]/span[1]",
     "area": 1458,
     "shape": 450,
-    "visibleText": [
-      "Start",
-      "free",
-      "trial"
-    ],
     "isButton": false,
     "location": {
       "x": 216,
@@ -740,6 +735,11 @@
       "Learn",
       "more"
     ],
+    "visibleText": [
+      "Start",
+      "free",
+      "trial"
+    ],
     "widgetId": null
   },
   {
@@ -749,10 +749,6 @@
     "idxpath": "//*[@id='id-6bebdca261a5bc48f621236e6ed4a3c8']/div[1]/div[1]/div[1]/a[1]",
     "area": 1428,
     "shape": 323,
-    "visibleText": [
-      "Learn",
-      "more"
-    ],
     "isButton": false,
     "location": {
       "x": 329,
@@ -769,6 +765,10 @@
       "free",
       "trial"
     ],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -778,11 +778,6 @@
     "idxpath": "//*[@id='id-795b8a5271c652ba835dc158fd11d93f']/div[1]/div[1]/div[1]/p[1]/a[1]",
     "area": 2620,
     "shape": 655,
-    "visibleText": [
-      "Students",
-      "&",
-      "Teachers"
-    ],
     "isButton": false,
     "location": {
       "x": 639,
@@ -795,6 +790,11 @@
       "Business",
       "Individuals"
     ],
+    "visibleText": [
+      "Students",
+      "&",
+      "Teachers"
+    ],
     "widgetId": null
   },
   {
@@ -803,11 +803,6 @@
     "idxpath": "//*[@id='id-8d5c3e28ad575e0e9a0c32b97a08a639']/div[1]/div[1]/div[1]",
     "area": 2500,
     "shape": 625,
-    "visibleText": [
-      "Creative",
-      "Cloud",
-      "for:"
-    ],
     "isButton": false,
     "location": {
       "x": 395,
@@ -823,6 +818,11 @@
     "neighborText": [
       "Individuals"
     ],
+    "visibleText": [
+      "Creative",
+      "Cloud",
+      "for:"
+    ],
     "widgetId": null
   },
   {
@@ -832,15 +832,6 @@
     "idxpath": "//*[@id='id-3bbd1989ef9f433a872fa1e5db44c27b']/div[1]/a[1]",
     "area": 178500,
     "shape": 71,
-    "visibleText": [
-      "Say",
-      "hello",
-      "to",
-      "Illustrator",
-      "on",
-      "the",
-      "iPad."
-    ],
     "isButton": false,
     "location": {
       "x": 48,
@@ -853,6 +844,15 @@
       "spectrum-Button--warning"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Say",
+      "hello",
+      "to",
+      "Illustrator",
+      "on",
+      "the",
+      "iPad."
+    ],
     "widgetId": null
   },
   {
@@ -862,14 +862,6 @@
     "idxpath": "//*[@id='id-5b96f944b79b4586900cce2da372687a']/div[1]/a[1]",
     "area": 178500,
     "shape": 71,
-    "visibleText": [
-      "Meet",
-      "the",
-      "faster,",
-      "smarter,",
-      "easier",
-      "Photoshop."
-    ],
     "isButton": false,
     "location": {
       "x": 445,
@@ -882,6 +874,14 @@
       "spectrum-Button--warning"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Meet",
+      "the",
+      "faster,",
+      "smarter,",
+      "easier",
+      "Photoshop."
+    ],
     "widgetId": null
   },
   {
@@ -891,10 +891,6 @@
     "idxpath": "//*[@id='id-f9bbedfb4532c3f82f3c6cc5f756373f']/div[1]/div[1]/div[1]/a[1]",
     "area": 1428,
     "shape": 323,
-    "visibleText": [
-      "Learn",
-      "more"
-    ],
     "isButton": false,
     "location": {
       "x": 72,
@@ -907,6 +903,10 @@
       "spectrum-Link--Black"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -916,10 +916,6 @@
     "idxpath": "//*[@id='id-fef4dac9c18e9774171a75caaf211c9c']/div[1]/div[3]/div[1]/a[1]",
     "area": 1827,
     "shape": 414,
-    "visibleText": [
-      "Graphic",
-      "design"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -935,6 +931,10 @@
       "Photography",
       "Video"
     ],
+    "visibleText": [
+      "Graphic",
+      "design"
+    ],
     "widgetId": null
   },
   {
@@ -943,11 +943,6 @@
     "idxpath": "//*[@id='id-b6ffb2777bc9c35bb0aa08a4465753a5']/div[1]/div[1]/div[1]/h2[1]",
     "area": 6798,
     "shape": 1404,
-    "visibleText": [
-      "Explore",
-      "Creative",
-      "Cloud"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -962,6 +957,11 @@
       "free",
       "trial"
     ],
+    "visibleText": [
+      "Explore",
+      "Creative",
+      "Cloud"
+    ],
     "widgetId": null
   },
   {
@@ -971,12 +971,6 @@
     "idxpath": "//*[@id='id-e1ad886b1d62fc68f839c11c4fc6f2ec']/div[1]/div[2]/div[1]/a[1]",
     "area": 1911,
     "shape": 433,
-    "visibleText": [
-      "Start",
-      "a",
-      "free",
-      "trial"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -997,6 +991,12 @@
       "&",
       "pricing"
     ],
+    "visibleText": [
+      "Start",
+      "a",
+      "free",
+      "trial"
+    ],
     "widgetId": null
   },
   {
@@ -1006,9 +1006,6 @@
     "idxpath": "//*[@id='id-fef4dac9c18e9774171a75caaf211c9c']/div[1]/div[4]/div[1]/a[1]",
     "area": 714,
     "shape": 161,
-    "visibleText": [
-      "Video"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1025,6 +1022,9 @@
       "design",
       "Illustration"
     ],
+    "visibleText": [
+      "Video"
+    ],
     "widgetId": null
   },
   {
@@ -1034,12 +1034,6 @@
     "idxpath": "//*[@id='id-e1ad886b1d62fc68f839c11c4fc6f2ec']/div[1]/div[3]/div[1]/a[1]",
     "area": 2352,
     "shape": 533,
-    "visibleText": [
-      "See",
-      "plans",
-      "&",
-      "pricing"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1062,6 +1056,12 @@
       "can",
       "do"
     ],
+    "visibleText": [
+      "See",
+      "plans",
+      "&",
+      "pricing"
+    ],
     "widgetId": null
   },
   {
@@ -1071,9 +1071,6 @@
     "idxpath": "//*[@id='id-fef4dac9c18e9774171a75caaf211c9c']/div[1]/div[5]/div[1]/a[1]",
     "area": 1323,
     "shape": 300,
-    "visibleText": [
-      "Illustration"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1091,6 +1088,9 @@
       "and",
       "UX"
     ],
+    "visibleText": [
+      "Illustration"
+    ],
     "widgetId": null
   },
   {
@@ -1100,11 +1100,6 @@
     "idxpath": "//*[@id='id-fef4dac9c18e9774171a75caaf211c9c']/div[1]/div[6]/div[1]/a[1]",
     "area": 1218,
     "shape": 276,
-    "visibleText": [
-      "UI",
-      "and",
-      "UX"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1122,6 +1117,11 @@
       "and",
       "AR"
     ],
+    "visibleText": [
+      "UI",
+      "and",
+      "UX"
+    ],
     "widgetId": null
   },
   {
@@ -1131,10 +1131,6 @@
     "idxpath": "//*[@id='id-a2367e889d720a181f155ab5a6acf8b9']/div[1]/div[1]/div[1]/a[1]",
     "area": 1428,
     "shape": 323,
-    "visibleText": [
-      "Learn",
-      "more"
-    ],
     "isButton": false,
     "location": {
       "x": 469,
@@ -1147,6 +1143,10 @@
       "spectrum-Link--Black"
     ],
     "neighborText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "widgetId": null
   },
   {
@@ -1155,13 +1155,6 @@
     "idxpath": "//*[@id='id-a4732bbd4196020c7f1635706b71034a']/div[1]/div[1]/div[1]/h2[1]",
     "area": 6798,
     "shape": 1404,
-    "visibleText": [
-      "See",
-      "what",
-      "you",
-      "can",
-      "do"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1177,6 +1170,13 @@
       "pricing",
       "Photography"
     ],
+    "visibleText": [
+      "See",
+      "what",
+      "you",
+      "can",
+      "do"
+    ],
     "widgetId": null
   },
   {
@@ -1186,9 +1186,6 @@
     "idxpath": "//*[@id='id-fef4dac9c18e9774171a75caaf211c9c']/div[1]/div[2]/div[1]/a[1]",
     "area": 1596,
     "shape": 361,
-    "visibleText": [
-      "Photography"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1208,6 +1205,9 @@
       "do",
       "Graphic",
       "design"
+    ],
+    "visibleText": [
+      "Photography"
     ],
     "widgetId": null
   },
@@ -1326,9 +1326,6 @@
     "idxpath": "//*[@id='gnav_707_0']",
     "area": 24140,
     "shape": 6035,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -1342,6 +1339,9 @@
     "neighborText": [
       "Products"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -1351,9 +1351,6 @@
     "idxpath": "//*[@id='gnav_707_1']",
     "area": 342788,
     "shape": 425,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -1375,6 +1372,9 @@
       "Adobe",
       "AIR"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -1384,11 +1384,6 @@
     "idxpath": "//*[@id='id-fef4dac9c18e9774171a75caaf211c9c']/div[1]/div[7]/div[1]/a[1]",
     "area": 1281,
     "shape": 290,
-    "visibleText": [
-      "3D",
-      "and",
-      "AR"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1407,6 +1402,11 @@
       "Social",
       "media"
     ],
+    "visibleText": [
+      "3D",
+      "and",
+      "AR"
+    ],
     "widgetId": null
   },
   {
@@ -1416,10 +1416,6 @@
     "idxpath": "//*[@id='id-fef4dac9c18e9774171a75caaf211c9c']/div[1]/div[8]/div[1]/a[1]",
     "area": 1575,
     "shape": 357,
-    "visibleText": [
-      "Social",
-      "media"
-    ],
     "isButton": false,
     "location": {
       "x": 866,
@@ -1436,6 +1432,10 @@
       "and",
       "AR"
     ],
+    "visibleText": [
+      "Social",
+      "media"
+    ],
     "widgetId": null
   },
   {
@@ -1444,10 +1444,6 @@
     "idxpath": "//*[@id='gnav_856']/span[1]",
     "area": 1504,
     "shape": 587,
-    "visibleText": [
-      "Community",
-      "forums"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -1464,6 +1460,10 @@
       "Enterprise",
       "Support"
     ],
+    "visibleText": [
+      "Community",
+      "forums"
+    ],
     "widgetId": null
   },
   {
@@ -1473,10 +1473,6 @@
     "idxpath": "//*[@id='Globalnav.Blogs_Community.View_all']",
     "area": 3720,
     "shape": 645,
-    "visibleText": [
-      "View",
-      "all"
-    ],
     "isButton": false,
     "location": {
       "x": 514,
@@ -1492,6 +1488,10 @@
       "Magazine",
       "CMO.com"
     ],
+    "visibleText": [
+      "View",
+      "all"
+    ],
     "widgetId": null
   },
   {
@@ -1501,10 +1501,6 @@
     "idxpath": "//*[@id='gnav_844']/ul[1]/li[3]",
     "area": 4848,
     "shape": 841,
-    "visibleText": [
-      "Enterprise",
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -1522,6 +1518,10 @@
       "&",
       "install"
     ],
+    "visibleText": [
+      "Enterprise",
+      "Support"
+    ],
     "widgetId": null
   },
   {
@@ -1531,11 +1531,6 @@
     "idxpath": "//*[@id='Globalnav.Products.Product.View_all_products']",
     "area": 5088,
     "shape": 883,
-    "visibleText": [
-      "View",
-      "all",
-      "products"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -1550,6 +1545,11 @@
       "Special",
       "offers"
     ],
+    "visibleText": [
+      "View",
+      "all",
+      "products"
+    ],
     "widgetId": null
   },
   {
@@ -1558,10 +1558,6 @@
     "idxpath": "//*[@id='gnav_815']/span[1]",
     "area": 608,
     "shape": 237,
-    "visibleText": [
-      "View",
-      "all"
-    ],
     "isButton": false,
     "location": {
       "x": 514,
@@ -1577,6 +1573,10 @@
       "Magazine",
       "CMO.com"
     ],
+    "visibleText": [
+      "View",
+      "all"
+    ],
     "widgetId": null
   },
   {
@@ -1585,10 +1585,6 @@
     "idxpath": "//*[@id='gnav_862']/span[1]",
     "area": 1440,
     "shape": 562,
-    "visibleText": [
-      "Enterprise",
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -1606,6 +1602,10 @@
       "&",
       "install"
     ],
+    "visibleText": [
+      "Enterprise",
+      "Support"
+    ],
     "widgetId": null
   },
   {
@@ -1615,10 +1615,6 @@
     "idxpath": "//*[@id='Globalnav.Blogs_Community.Create_Magazine']",
     "area": 4512,
     "shape": 783,
-    "visibleText": [
-      "Create",
-      "Magazine"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -1636,6 +1632,10 @@
       "all",
       "Behance"
     ],
+    "visibleText": [
+      "Create",
+      "Magazine"
+    ],
     "widgetId": null
   },
   {
@@ -1645,10 +1645,6 @@
     "idxpath": "//*[@id='Globalnav.Blogs_Community.Adobe_I_O']",
     "area": 4512,
     "shape": 783,
-    "visibleText": [
-      "Adobe",
-      "I/O"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -1666,6 +1662,10 @@
       "Create",
       "Magazine"
     ],
+    "visibleText": [
+      "Adobe",
+      "I/O"
+    ],
     "widgetId": null
   },
   {
@@ -1674,10 +1674,6 @@
     "idxpath": "//*[@id='gnav_795']/span[1]",
     "area": 1280,
     "shape": 500,
-    "visibleText": [
-      "Create",
-      "Magazine"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -1693,6 +1689,10 @@
       "I/O",
       "Behance"
     ],
+    "visibleText": [
+      "Create",
+      "Magazine"
+    ],
     "widgetId": null
   },
   {
@@ -1702,11 +1702,6 @@
     "idxpath": "//*[@id='Globalnav.Support.Download_install']",
     "area": 4848,
     "shape": 841,
-    "visibleText": [
-      "Download",
-      "&",
-      "install"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -1723,6 +1718,11 @@
       "Genuine",
       "Software"
     ],
+    "visibleText": [
+      "Download",
+      "&",
+      "install"
+    ],
     "widgetId": null
   },
   {
@@ -1732,22 +1732,6 @@
     "idxpath": "//*[@id='gnav_719_1']",
     "area": 124108,
     "shape": 153,
-    "visibleText": [
-      "Blogs",
-      "&",
-      "Community",
-      "Adobe",
-      "Blog",
-      "Adobe",
-      "I/O",
-      "Create",
-      "Magazine",
-      "Behance",
-      "99U",
-      "CMO.com",
-      "View",
-      "all"
-    ],
     "isButton": false,
     "location": {
       "x": 265,
@@ -1770,6 +1754,22 @@
       "Adobe",
       "AIR"
     ],
+    "visibleText": [
+      "Blogs",
+      "&",
+      "Community",
+      "Adobe",
+      "Blog",
+      "Adobe",
+      "I/O",
+      "Create",
+      "Magazine",
+      "Behance",
+      "99U",
+      "CMO.com",
+      "View",
+      "all"
+    ],
     "widgetId": null
   },
   {
@@ -1778,11 +1778,6 @@
     "idxpath": "//*[@id='gnav_868']/span[1]",
     "area": 1488,
     "shape": 581,
-    "visibleText": [
-      "Download",
-      "&",
-      "install"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -1799,6 +1794,11 @@
       "Genuine",
       "Software"
     ],
+    "visibleText": [
+      "Download",
+      "&",
+      "install"
+    ],
     "widgetId": null
   },
   {
@@ -1808,9 +1808,6 @@
     "idxpath": "//*[@id='Globalnav.Blogs_Community.Behance']",
     "area": 4512,
     "shape": 783,
-    "visibleText": [
-      "Behance"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -1827,6 +1824,9 @@
       "View",
       "all"
     ],
+    "visibleText": [
+      "Behance"
+    ],
     "widgetId": null
   },
   {
@@ -1837,9 +1837,6 @@
     "idxpath": "//*[@id='gnav_843']",
     "area": 7474,
     "shape": 545,
-    "visibleText": [
-      "Support"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -1855,6 +1852,9 @@
       "Help",
       "Center"
     ],
+    "visibleText": [
+      "Support"
+    ],
     "widgetId": null
   },
   {
@@ -1865,11 +1865,6 @@
     "idxpath": "//*[@id='gnav_776']",
     "area": 13764,
     "shape": 1005,
-    "visibleText": [
-      "Blogs",
-      "&",
-      "Community"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -1890,6 +1885,11 @@
       "Magazine",
       "Behance"
     ],
+    "visibleText": [
+      "Blogs",
+      "&",
+      "Community"
+    ],
     "widgetId": null
   },
   {
@@ -1898,9 +1898,6 @@
     "idxpath": "//*[@id='gnav_800']/span[1]",
     "area": 656,
     "shape": 256,
-    "visibleText": [
-      "Behance"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -1915,6 +1912,9 @@
       "Create",
       "Magazine"
     ],
+    "visibleText": [
+      "Behance"
+    ],
     "widgetId": null
   },
   {
@@ -1924,10 +1924,6 @@
     "idxpath": "//*[@id='Globalnav.Support.Genuine_Software']",
     "area": 4848,
     "shape": 841,
-    "visibleText": [
-      "Genuine",
-      "Software"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -1943,6 +1939,10 @@
       "&",
       "install"
     ],
+    "visibleText": [
+      "Genuine",
+      "Software"
+    ],
     "widgetId": null
   },
   {
@@ -1951,11 +1951,6 @@
     "idxpath": "//*[@id='gnav_776']/span[1]",
     "area": 2646,
     "shape": 600,
-    "visibleText": [
-      "Blogs",
-      "&",
-      "Community"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -1975,6 +1970,11 @@
       "Magazine",
       "Behance"
     ],
+    "visibleText": [
+      "Blogs",
+      "&",
+      "Community"
+    ],
     "widgetId": null
   },
   {
@@ -1983,10 +1983,6 @@
     "idxpath": "//*[@id='gnav_874']/span[1]",
     "area": 1376,
     "shape": 537,
-    "visibleText": [
-      "Genuine",
-      "Software"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -2002,6 +1998,10 @@
       "&",
       "install"
     ],
+    "visibleText": [
+      "Genuine",
+      "Software"
+    ],
     "widgetId": null
   },
   {
@@ -2011,12 +2011,6 @@
     "idxpath": "//*[@id='gnav_777_1']",
     "area": 15345,
     "shape": 156,
-    "visibleText": [
-      "99U",
-      "CMO.com",
-      "View",
-      "all"
-    ],
     "isButton": false,
     "location": {
       "x": 514,
@@ -2032,6 +2026,12 @@
       "&",
       "Community"
     ],
+    "visibleText": [
+      "99U",
+      "CMO.com",
+      "View",
+      "all"
+    ],
     "widgetId": null
   },
   {
@@ -2041,9 +2041,6 @@
     "idxpath": "//*[@id='Globalnav.Blogs_Community.99U']",
     "area": 3720,
     "shape": 645,
-    "visibleText": [
-      "99U"
-    ],
     "isButton": false,
     "location": {
       "x": 514,
@@ -2064,6 +2061,9 @@
       "Behance",
       "CMO.com"
     ],
+    "visibleText": [
+      "99U"
+    ],
     "widgetId": null
   },
   {
@@ -2073,9 +2073,6 @@
     "idxpath": "//*[@id='gnav_719_3']",
     "area": 72420,
     "shape": 89,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 971,
@@ -2089,6 +2086,9 @@
     "neighborText": [
       "Support"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -2098,15 +2098,6 @@
     "idxpath": "//*[@id='gnav_777_0']",
     "area": 21384,
     "shape": 218,
-    "visibleText": [
-      "Adobe",
-      "Blog",
-      "Adobe",
-      "I/O",
-      "Create",
-      "Magazine",
-      "Behance"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -2126,6 +2117,15 @@
       "View",
       "all"
     ],
+    "visibleText": [
+      "Adobe",
+      "Blog",
+      "Adobe",
+      "I/O",
+      "Create",
+      "Magazine",
+      "Behance"
+    ],
     "widgetId": null
   },
   {
@@ -2134,9 +2134,6 @@
     "idxpath": "//*[@id='gnav_807']/span[1]",
     "area": 320,
     "shape": 125,
-    "visibleText": [
-      "99U"
-    ],
     "isButton": false,
     "location": {
       "x": 514,
@@ -2157,6 +2154,9 @@
       "Behance",
       "CMO.com"
     ],
+    "visibleText": [
+      "99U"
+    ],
     "widgetId": null
   },
   {
@@ -2166,9 +2166,6 @@
     "idxpath": "//*[@id='Globalnav.Adobe']",
     "area": 63332,
     "shape": 78,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 1003,
@@ -2180,6 +2177,9 @@
       "feds-navList-item"
     ],
     "neighborText": [],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -2189,10 +2189,6 @@
     "idxpath": "//*[@id='Globalnav.Blogs_Community.Adobe_Blog']",
     "area": 4512,
     "shape": 783,
-    "visibleText": [
-      "Adobe",
-      "Blog"
-    ],
     "isButton": false,
     "location": {
       "x": 297,
@@ -2214,6 +2210,10 @@
       "Adobe",
       "I/O"
     ],
+    "visibleText": [
+      "Adobe",
+      "Blog"
+    ],
     "widgetId": null
   },
   {
@@ -2224,9 +2224,6 @@
     "idxpath": "//*[@id='gnav_881']",
     "area": 8251,
     "shape": 602,
-    "visibleText": [
-      "Adobe"
-    ],
     "isButton": false,
     "location": {
       "x": 1003,
@@ -2241,6 +2238,9 @@
     "neighborText": [
       "About"
     ],
+    "visibleText": [
+      "Adobe"
+    ],
     "widgetId": null
   },
   {
@@ -2251,9 +2251,6 @@
     "idxpath": "//*[@id='gnav_726']",
     "area": 7844,
     "shape": 572,
-    "visibleText": [
-      "Products"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -2269,6 +2266,9 @@
       "Creative",
       "Cloud"
     ],
+    "visibleText": [
+      "Products"
+    ],
     "widgetId": null
   },
   {
@@ -2278,9 +2278,6 @@
     "idxpath": "//*[@id='Globalnav.Blogs_Community.CMO_com']",
     "area": 3720,
     "shape": 645,
-    "visibleText": [
-      "CMO.com"
-    ],
     "isButton": false,
     "location": {
       "x": 514,
@@ -2298,6 +2295,9 @@
       "View",
       "all"
     ],
+    "visibleText": [
+      "CMO.com"
+    ],
     "widgetId": null
   },
   {
@@ -2306,9 +2306,6 @@
     "idxpath": "//*[@id='gnav_881']/span[1]",
     "area": 861,
     "shape": 195,
-    "visibleText": [
-      "Adobe"
-    ],
     "isButton": false,
     "location": {
       "x": 1003,
@@ -2322,6 +2319,9 @@
     "neighborText": [
       "About"
     ],
+    "visibleText": [
+      "Adobe"
+    ],
     "widgetId": null
   },
   {
@@ -2331,10 +2331,6 @@
     "idxpath": "//*[@id='Globalnav.Products.Product.Special_offers']",
     "area": 5088,
     "shape": 883,
-    "visibleText": [
-      "Special",
-      "offers"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -2353,6 +2349,10 @@
       "all",
       "products"
     ],
+    "visibleText": [
+      "Special",
+      "offers"
+    ],
     "widgetId": null
   },
   {
@@ -2361,9 +2361,6 @@
     "idxpath": "//*[@id='gnav_811']/span[1]",
     "area": 752,
     "shape": 293,
-    "visibleText": [
-      "CMO.com"
-    ],
     "isButton": false,
     "location": {
       "x": 514,
@@ -2381,6 +2378,9 @@
       "View",
       "all"
     ],
+    "visibleText": [
+      "CMO.com"
+    ],
     "widgetId": null
   },
   {
@@ -2389,9 +2389,6 @@
     "idxpath": "//*[@id='gnav_992']/span[1]",
     "area": 640,
     "shape": 250,
-    "visibleText": [
-      "Integrity"
-    ],
     "isButton": false,
     "location": {
       "x": 1003,
@@ -2416,6 +2413,9 @@
       "&",
       "inclusion"
     ],
+    "visibleText": [
+      "Integrity"
+    ],
     "widgetId": null
   },
   {
@@ -2424,9 +2424,6 @@
     "idxpath": "//*[@id='gnav_1052']/span[2]",
     "area": 750,
     "shape": 333,
-    "visibleText": [
-      "AdChoices"
-    ],
     "isButton": false,
     "location": {
       "x": 1176,
@@ -2445,6 +2442,9 @@
       "personal",
       "information"
     ],
+    "visibleText": [
+      "AdChoices"
+    ],
     "widgetId": null
   },
   {
@@ -2454,17 +2454,6 @@
     "idxpath": "//*[@id='gnav_707_2']",
     "area": 118286,
     "shape": 1231,
-    "visibleText": [
-      "Adobe",
-      "Acrobat",
-      "Reader",
-      "DC",
-      "Adobe",
-      "Flash",
-      "Player",
-      "Adobe",
-      "AIR"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -2478,6 +2467,17 @@
     "neighborText": [
       "Integrity"
     ],
+    "visibleText": [
+      "Adobe",
+      "Acrobat",
+      "Reader",
+      "DC",
+      "Adobe",
+      "Flash",
+      "Player",
+      "Adobe",
+      "AIR"
+    ],
     "widgetId": null
   },
   {
@@ -2486,9 +2486,6 @@
     "idxpath": "//*[@id='gnav_1052']/span[2]/span[1]",
     "area": 690,
     "shape": 306,
-    "visibleText": [
-      "AdChoices"
-    ],
     "isButton": false,
     "location": {
       "x": 1180,
@@ -2507,6 +2504,9 @@
       "personal",
       "information"
     ],
+    "visibleText": [
+      "AdChoices"
+    ],
     "widgetId": null
   },
   {
@@ -2515,15 +2515,6 @@
     "idxpath": "//*[@id='gnav_1022']/h5[1]",
     "area": 2299,
     "shape": 1900,
-    "visibleText": [
-      "Copyright",
-      "©",
-      "2020",
-      "Adobe.",
-      "All",
-      "rights",
-      "reserved."
-    ],
     "isButton": false,
     "location": {
       "x": 527,
@@ -2540,6 +2531,15 @@
       "Reader",
       "DC"
     ],
+    "visibleText": [
+      "Copyright",
+      "©",
+      "2020",
+      "Adobe.",
+      "All",
+      "rights",
+      "reserved."
+    ],
     "widgetId": null
   },
   {
@@ -2549,9 +2549,6 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.AdChoices']",
     "area": 1125,
     "shape": 500,
-    "visibleText": [
-      "AdChoices"
-    ],
     "isButton": false,
     "location": {
       "x": 1151,
@@ -2570,6 +2567,9 @@
       "personal",
       "information"
     ],
+    "visibleText": [
+      "AdChoices"
+    ],
     "widgetId": null
   },
   {
@@ -2579,12 +2579,6 @@
     "idxpath": "//*[@id='Globalnav.Adobe_Acrobat_Reader_DC']",
     "area": 5824,
     "shape": 568,
-    "visibleText": [
-      "Adobe",
-      "Acrobat",
-      "Reader",
-      "DC"
-    ],
     "isButton": false,
     "location": {
       "x": 404,
@@ -2600,6 +2594,12 @@
       "Flash",
       "Player"
     ],
+    "visibleText": [
+      "Adobe",
+      "Acrobat",
+      "Reader",
+      "DC"
+    ],
     "widgetId": null
   },
   {
@@ -2609,9 +2609,6 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Privacy_UPDATED_']",
     "area": 765,
     "shape": 340,
-    "visibleText": [
-      "Privacy"
-    ],
     "isButton": false,
     "location": {
       "x": 736,
@@ -2636,6 +2633,9 @@
       "of",
       "Use"
     ],
+    "visibleText": [
+      "Privacy"
+    ],
     "widgetId": null
   },
   {
@@ -2646,9 +2646,6 @@
     "idxpath": "//*[@id='gnav_1028']",
     "area": 480,
     "shape": 213,
-    "visibleText": [
-      "Privacy"
-    ],
     "isButton": false,
     "location": {
       "x": 736,
@@ -2673,6 +2670,9 @@
       "of",
       "Use"
     ],
+    "visibleText": [
+      "Privacy"
+    ],
     "widgetId": null
   },
   {
@@ -2681,12 +2681,6 @@
     "idxpath": "//*[@id='gnav_1001']/span[2]",
     "area": 2256,
     "shape": 881,
-    "visibleText": [
-      "Adobe",
-      "Acrobat",
-      "Reader",
-      "DC"
-    ],
     "isButton": false,
     "location": {
       "x": 437,
@@ -2701,6 +2695,12 @@
       "Adobe",
       "Flash",
       "Player"
+    ],
+    "visibleText": [
+      "Adobe",
+      "Acrobat",
+      "Reader",
+      "DC"
     ],
     "widgetId": null
   },
@@ -2738,12 +2738,6 @@
     "idxpath": "//*[@id='gnav_1001']/span[2]/span[1]",
     "area": 2016,
     "shape": 787,
-    "visibleText": [
-      "Adobe",
-      "Acrobat",
-      "Reader",
-      "DC"
-    ],
     "isButton": false,
     "location": {
       "x": 452,
@@ -2759,6 +2753,12 @@
       "Flash",
       "Player"
     ],
+    "visibleText": [
+      "Adobe",
+      "Acrobat",
+      "Reader",
+      "DC"
+    ],
     "widgetId": null
   },
   {
@@ -2768,11 +2768,6 @@
     "idxpath": "//*[@id='Globalnav.Adobe_Flash_Player']",
     "area": 4736,
     "shape": 462,
-    "visibleText": [
-      "Adobe",
-      "Flash",
-      "Player"
-    ],
     "isButton": false,
     "location": {
       "x": 586,
@@ -2795,6 +2790,11 @@
       "Reader",
       "DC"
     ],
+    "visibleText": [
+      "Adobe",
+      "Flash",
+      "Player"
+    ],
     "widgetId": null
   },
   {
@@ -2804,11 +2804,6 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Terms_of_Use']",
     "area": 1140,
     "shape": 506,
-    "visibleText": [
-      "Terms",
-      "of",
-      "Use"
-    ],
     "isButton": false,
     "location": {
       "x": 788,
@@ -2826,6 +2821,11 @@
       "preferences",
       "Privacy"
     ],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "widgetId": null
   },
   {
@@ -2836,11 +2836,6 @@
     "idxpath": "//*[@id='gnav_1034']",
     "area": 855,
     "shape": 380,
-    "visibleText": [
-      "Terms",
-      "of",
-      "Use"
-    ],
     "isButton": false,
     "location": {
       "x": 788,
@@ -2858,6 +2853,11 @@
       "preferences",
       "Privacy"
     ],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "widgetId": null
   },
   {
@@ -2866,11 +2866,6 @@
     "idxpath": "//*[@id='gnav_1005']/span[2]",
     "area": 1712,
     "shape": 668,
-    "visibleText": [
-      "Adobe",
-      "Flash",
-      "Player"
-    ],
     "isButton": false,
     "location": {
       "x": 619,
@@ -2889,6 +2884,11 @@
       "Adobe",
       "AIR"
     ],
+    "visibleText": [
+      "Adobe",
+      "Flash",
+      "Player"
+    ],
     "widgetId": null
   },
   {
@@ -2897,11 +2897,6 @@
     "idxpath": "//*[@id='gnav_1005']/span[2]/span[1]",
     "area": 1472,
     "shape": 575,
-    "visibleText": [
-      "Adobe",
-      "Flash",
-      "Player"
-    ],
     "isButton": false,
     "location": {
       "x": 634,
@@ -2920,6 +2915,11 @@
       "Adobe",
       "AIR"
     ],
+    "visibleText": [
+      "Adobe",
+      "Flash",
+      "Player"
+    ],
     "widgetId": null
   },
   {
@@ -2929,10 +2929,6 @@
     "idxpath": "//*[@id='Globalnav.Adobe_AIR']",
     "area": 3424,
     "shape": 334,
-    "visibleText": [
-      "Adobe",
-      "AIR"
-    ],
     "isButton": false,
     "location": {
       "x": 735,
@@ -2951,6 +2947,10 @@
       "Flash",
       "Player"
     ],
+    "visibleText": [
+      "Adobe",
+      "AIR"
+    ],
     "widgetId": null
   },
   {
@@ -2960,10 +2960,6 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Cookies']",
     "area": 1575,
     "shape": 700,
-    "visibleText": [
-      "Cookie",
-      "preferences"
-    ],
     "isButton": false,
     "location": {
       "x": 865,
@@ -2979,6 +2975,10 @@
       "of",
       "Use"
     ],
+    "visibleText": [
+      "Cookie",
+      "preferences"
+    ],
     "widgetId": null
   },
   {
@@ -2989,10 +2989,6 @@
     "idxpath": "//*[@id='gnav_1040']",
     "area": 1275,
     "shape": 566,
-    "visibleText": [
-      "Cookie",
-      "preferences"
-    ],
     "isButton": false,
     "location": {
       "x": 865,
@@ -3014,6 +3010,10 @@
       "of",
       "Use"
     ],
+    "visibleText": [
+      "Cookie",
+      "preferences"
+    ],
     "widgetId": null
   },
   {
@@ -3022,10 +3022,6 @@
     "idxpath": "//*[@id='gnav_1009']/span[2]",
     "area": 1056,
     "shape": 412,
-    "visibleText": [
-      "Adobe",
-      "AIR"
-    ],
     "isButton": false,
     "location": {
       "x": 768,
@@ -3042,6 +3038,10 @@
       "Player",
       "Privacy"
     ],
+    "visibleText": [
+      "Adobe",
+      "AIR"
+    ],
     "widgetId": null
   },
   {
@@ -3050,10 +3050,6 @@
     "idxpath": "//*[@id='gnav_1009']/span[2]/span[1]",
     "area": 816,
     "shape": 318,
-    "visibleText": [
-      "Adobe",
-      "AIR"
-    ],
     "isButton": false,
     "location": {
       "x": 783,
@@ -3070,6 +3066,10 @@
       "Player",
       "Privacy"
     ],
+    "visibleText": [
+      "Adobe",
+      "AIR"
+    ],
     "widgetId": null
   },
   {
@@ -3079,9 +3079,6 @@
     "idxpath": "//*[@id='gnav_707_3']",
     "area": 24140,
     "shape": 6035,
-    "visibleText": [
-      "0"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -3103,6 +3100,9 @@
       "Adobe",
       "AIR"
     ],
+    "visibleText": [
+      "0"
+    ],
     "widgetId": null
   },
   {
@@ -3112,14 +3112,6 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Do_not_sell_my_personal_information']",
     "area": 2700,
     "shape": 1200,
-    "visibleText": [
-      "Do",
-      "not",
-      "sell",
-      "my",
-      "personal",
-      "information"
-    ],
     "isButton": false,
     "location": {
       "x": 970,
@@ -3135,6 +3127,14 @@
       "Cookie",
       "preferences"
     ],
+    "visibleText": [
+      "Do",
+      "not",
+      "sell",
+      "my",
+      "personal",
+      "information"
+    ],
     "widgetId": null
   },
   {
@@ -3145,14 +3145,6 @@
     "idxpath": "//*[@id='gnav_1046']",
     "area": 2400,
     "shape": 1066,
-    "visibleText": [
-      "Do",
-      "not",
-      "sell",
-      "my",
-      "personal",
-      "information"
-    ],
     "isButton": false,
     "location": {
       "x": 970,
@@ -3168,6 +3160,14 @@
       "Cookie",
       "preferences"
     ],
+    "visibleText": [
+      "Do",
+      "not",
+      "sell",
+      "my",
+      "personal",
+      "information"
+    ],
     "widgetId": null
   },
   {
@@ -3177,10 +3177,6 @@
     "idxpath": "//*[@id='gnav_1014_0']",
     "area": 2140,
     "shape": 535,
-    "visibleText": [
-      "Change",
-      "region"
-    ],
     "isButton": false,
     "location": {
       "x": 20,
@@ -3202,6 +3198,10 @@
       "Adobe",
       "AIR"
     ],
+    "visibleText": [
+      "Change",
+      "region"
+    ],
     "widgetId": null
   },
   {
@@ -3211,9 +3211,6 @@
     "idxpath": "//*[@id='Globalnav.Adobe.Integrity']",
     "area": 5352,
     "shape": 929,
-    "visibleText": [
-      "Integrity"
-    ],
     "isButton": false,
     "location": {
       "x": 1003,
@@ -3237,6 +3234,9 @@
       "Diversity",
       "&",
       "inclusion"
+    ],
+    "visibleText": [
+      "Integrity"
     ],
     "widgetId": null
   }

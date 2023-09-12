@@ -78,7 +78,9 @@
       "ytd-searchbox"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search"
+    ],
     "area": null,
     "shape": null
   },
@@ -100,7 +102,10 @@
       "ytd-button-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -122,7 +127,9 @@
       "ytd-mini-guide-entry-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Home"
+    ],
     "area": null,
     "shape": null
   },
@@ -144,7 +151,9 @@
       "ytd-mini-guide-entry-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trending"
+    ],
     "area": null,
     "shape": null
   },
@@ -166,7 +175,9 @@
       "ytd-mini-guide-entry-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "History"
+    ],
     "area": null,
     "shape": null
   },
@@ -256,7 +267,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2",
+      "months",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -301,7 +316,11 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Flash",
+      "in",
+      "Rahul"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -322,7 +341,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "10:33"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -365,7 +386,11 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "baby",
+      "no",
+      "no"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -386,7 +411,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -407,7 +435,13 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Among",
+      "Us:",
+      "The",
+      "MedBay",
+      "Scan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -448,7 +482,11 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "baby",
+      "no",
+      "no"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -516,7 +554,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3",
+      "weeks",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -537,7 +579,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "I",
+      "Met",
+      "Your",
+      "Mother",
+      "|",
+      "Bloopers",
+      "vs",
+      "Actual",
+      "scenes.",
+      "(Season",
+      "2)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -577,7 +632,9 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "JoshDub"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -622,7 +679,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "I",
+      "Met",
+      "Your",
+      "Mother",
+      "|",
+      "Bloopers",
+      "vs",
+      "Actual",
+      "scenes.",
+      "(Season",
+      "2)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -643,7 +713,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -723,7 +796,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "12:18"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -744,7 +819,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "26M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -766,7 +844,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "I",
+      "won"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -811,7 +892,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "6",
+      "months",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -850,7 +935,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "299K",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -911,7 +999,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2",
+      "weeks",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1019,7 +1111,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "NBC",
+      "News"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1078,7 +1173,13 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Among",
+      "Us:",
+      "The",
+      "MedBay",
+      "Scan"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1099,7 +1200,15 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Dog",
+      "Gets",
+      "Adopted",
+      "and",
+      "Totally",
+      "Loses",
+      "It"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1138,7 +1247,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "0:30"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1206,7 +1317,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1227,7 +1341,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3:07"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1288,7 +1404,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "29",
+      "minutes",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1332,7 +1452,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1354,7 +1477,9 @@
       "ytd-mini-guide-entry-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Subscriptions"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1397,7 +1522,24 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Dad",
+      "Outsmarts",
+      "Daughter",
+      "When",
+      "She",
+      "Asks",
+      "Him",
+      "to",
+      "Pull",
+      "Dollar",
+      "Bill",
+      "Kept",
+      "Under",
+      "Bottle",
+      "-",
+      "1112116-2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1459,7 +1601,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1482,7 +1627,24 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Dad",
+      "Outsmarts",
+      "Daughter",
+      "When",
+      "She",
+      "Asks",
+      "Him",
+      "to",
+      "Pull",
+      "Dollar",
+      "Bill",
+      "Kept",
+      "Under",
+      "Bottle",
+      "-",
+      "1112116-2"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1526,7 +1688,17 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lindsey",
+      "Stirling",
+      "-",
+      "Carol",
+      "of",
+      "the",
+      "Bells",
+      "(Official",
+      "Video)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1572,7 +1744,9 @@
       "ytd-mini-guide-entry-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Library"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1595,7 +1769,17 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lindsey",
+      "Stirling",
+      "-",
+      "Carol",
+      "of",
+      "the",
+      "Bells",
+      "(Official",
+      "Video)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1617,7 +1801,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "RM",
+      "Videos"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1683,7 +1870,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1704,7 +1894,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "8.8M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1743,7 +1936,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "8",
+      "months",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1765,7 +1962,11 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Relax",
+      "Cafe",
+      "Music"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1788,7 +1989,15 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lion",
+      "Cub",
+      "Gives",
+      "Us",
+      "His",
+      "Best",
+      "Roar"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1809,7 +2018,16 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "WE",
+      "CAN’T",
+      "BELIEVE",
+      "DABABY",
+      "DID",
+      "THIS",
+      "AT",
+      "COOLKICKS"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1830,7 +2048,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1851,7 +2072,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4.8M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1896,7 +2120,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Rachel",
+      "Kane"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1940,7 +2167,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1",
+      "month",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1961,7 +2192,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "What",
+      "If",
+      "Earth",
+      "got",
+      "Kicked",
+      "Out",
+      "of",
+      "the",
+      "Solar",
+      "System?",
+      "Rogue",
+      "Earth"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2006,7 +2250,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "What",
+      "If",
+      "Earth",
+      "got",
+      "Kicked",
+      "Out",
+      "of",
+      "the",
+      "Solar",
+      "System?",
+      "Rogue",
+      "Earth"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2045,7 +2302,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "425K",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2067,7 +2327,9 @@
       "ytd-rich-shelf-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Trending"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2088,7 +2350,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "22",
+      "hours",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2112,7 +2378,10 @@
       "ytd-thumbnail"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2134,7 +2403,13 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Kurzgesagt",
+      "–",
+      "In",
+      "a",
+      "Nutshell"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2177,7 +2452,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2198,7 +2476,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "45M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2278,7 +2559,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1.1M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2323,7 +2607,17 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lofi",
+      "hip",
+      "hop",
+      "radio",
+      "-",
+      "beats",
+      "to",
+      "relax/study",
+      "to"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2344,7 +2638,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "8",
+      "hours",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2389,7 +2687,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "5:16"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2412,7 +2712,17 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "lofi",
+      "hip",
+      "hop",
+      "radio",
+      "-",
+      "beats",
+      "to",
+      "relax/study",
+      "to"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2478,7 +2788,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2517,7 +2830,23 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Evolution",
+      "of",
+      "how",
+      "GALACTUS",
+      "arrived",
+      "in",
+      "Fortnite",
+      "Island",
+      "Pt.2",
+      "(Full",
+      "Time",
+      "lapse)",
+      "|",
+      "Galactus",
+      "Rising"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2539,7 +2868,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Score",
+      "90"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2561,7 +2893,9 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ChilledCow"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2606,7 +2940,23 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Evolution",
+      "of",
+      "how",
+      "GALACTUS",
+      "arrived",
+      "in",
+      "Fortnite",
+      "Island",
+      "Pt.2",
+      "(Full",
+      "Time",
+      "lapse)",
+      "|",
+      "Galactus",
+      "Rising"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2669,7 +3019,18 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Justin",
+      "Bieber",
+      "Is",
+      "Following",
+      "Hailey’s",
+      "Lead",
+      "with",
+      "Plans",
+      "for",
+      "Kids"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2690,7 +3051,15 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lion",
+      "Cub",
+      "Gives",
+      "Us",
+      "His",
+      "Best",
+      "Roar"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2711,7 +3080,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "41K",
+      "watching"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2733,7 +3105,9 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "HELLOO"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2754,7 +3128,10 @@
       "ytd-badge-supported-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LIVE",
+      "NOW"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2800,7 +3177,9 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TheEllenShow"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2843,7 +3222,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3",
+      "years",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2864,7 +3247,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "7:15"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2921,7 +3306,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2942,7 +3330,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "482K",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3005,7 +3396,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "9:46"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3026,7 +3419,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "9",
+      "hours",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3047,7 +3444,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "0:53"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3068,7 +3467,13 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Penalty",
+      "Saves",
+      "that",
+      "wont",
+      "repeat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3111,7 +3516,10 @@
       "ytd-thumbnail-overlay-now-playing-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Now",
+      "playing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3134,7 +3542,13 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Penalty",
+      "Saves",
+      "that",
+      "wont",
+      "repeat"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3173,7 +3587,14 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tik",
+      "Toks",
+      "That",
+      "Are",
+      "Actually",
+      "Relatable"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3194,7 +3615,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "15M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3216,7 +3640,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ABC",
+      "News"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3295,7 +3722,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "12M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3334,7 +3764,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "506K",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3355,7 +3788,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "9",
+      "years",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3376,7 +3813,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "22",
+      "hours",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3397,7 +3838,10 @@
       "ytd-rich-shelf-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "COVID-19",
+      "news"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3481,7 +3925,10 @@
       "ytd-rich-shelf-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "COVID-19",
+      "news"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3520,7 +3967,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1st",
+      "shipments",
+      "of",
+      "Pfizer",
+      "COVID-19",
+      "vaccine",
+      "in",
+      "transit",
+      "to",
+      "US",
+      "|",
+      "WNT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3658,7 +4118,9 @@
       "ytd-thumbnail-overlay-time-status-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2:49"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3724,7 +4186,13 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Stewie",
+      "says",
+      "his",
+      "first",
+      "word"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3763,7 +4231,16 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "The",
+      "U.S.",
+      "Plans",
+      "To",
+      "Distribute",
+      "Covid-19",
+      "Vaccines"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3833,7 +4310,16 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "The",
+      "U.S.",
+      "Plans",
+      "To",
+      "Distribute",
+      "Covid-19",
+      "Vaccines"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3854,7 +4340,10 @@
       "ytd-compact-promoted-item-renderer"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "U.S.",
+      "elections"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3875,7 +4364,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "THE",
+      "BOSS",
+      "BABY",
+      "2",
+      "FAMILY",
+      "BUSINESS",
+      "Trailer",
+      "(4K",
+      "ULTRA",
+      "HD)",
+      "NEW",
+      "2021"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3897,7 +4399,9 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "II.Super_Legendary.II"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3920,7 +4424,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "THE",
+      "BOSS",
+      "BABY",
+      "2",
+      "FAMILY",
+      "BUSINESS",
+      "Trailer",
+      "(4K",
+      "ULTRA",
+      "HD)",
+      "NEW",
+      "2021"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3942,7 +4459,9 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "CNBC"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3963,7 +4482,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3.6M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3985,7 +4507,11 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Key",
+      "&",
+      "Peele"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4024,7 +4550,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4.2M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4067,7 +4596,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "940K",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4126,7 +4658,20 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1st",
+      "shipments",
+      "of",
+      "Pfizer",
+      "COVID-19",
+      "vaccine",
+      "in",
+      "transit",
+      "to",
+      "US",
+      "|",
+      "WNT"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4147,7 +4692,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2",
+      "days",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4168,7 +4717,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4235,7 +4787,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "5",
+      "days",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4321,7 +4877,18 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "If",
+      "Hogwarts",
+      "Were",
+      "an",
+      "Inner-City",
+      "School",
+      "-",
+      "Key",
+      "&",
+      "Peele"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4406,7 +4973,15 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sheep",
+      "Discovers",
+      "How",
+      "To",
+      "Use",
+      "A",
+      "Trampoline"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4429,7 +5004,15 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sheep",
+      "Discovers",
+      "How",
+      "To",
+      "Use",
+      "A",
+      "Trampoline"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4451,7 +5034,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Aww",
+      "Network"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4472,7 +5058,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "23M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4493,7 +5082,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "7",
+      "months",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4514,7 +5107,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "113M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4557,7 +5153,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4",
+      "years",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4683,7 +5283,16 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TMC",
+      "DUMONT",
+      "-",
+      "Motorcycle",
+      "with",
+      "an",
+      "Airplane",
+      "Engine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4730,7 +5339,16 @@
       "ytd-rich-grid-media"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TMC",
+      "DUMONT",
+      "-",
+      "Motorcycle",
+      "with",
+      "an",
+      "Airplane",
+      "Engine"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4776,7 +5394,10 @@
       "yt-formatted-string"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wonder",
+      "World"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4815,7 +5436,10 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "7.1M",
+      "views"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -4836,7 +5460,11 @@
       "ytd-video-meta-block"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1",
+      "year",
+      "ago"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

@@ -13,7 +13,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fidelity.com",
+      "Home"
+    ],
     "area": null,
     "shape": null
   },
@@ -31,7 +34,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
     "area": null,
     "shape": null
   },
@@ -49,7 +55,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "an",
+      "Account"
+    ],
     "area": null,
     "shape": null
   },
@@ -67,7 +77,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Refer",
+      "a",
+      "Friend"
+    ],
     "area": null,
     "shape": null
   },
@@ -85,7 +99,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -148,7 +165,11 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accounts",
+      "&",
+      "Trade"
+    ],
     "area": null,
     "shape": null
   },
@@ -168,7 +189,11 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Planning",
+      "&",
+      "Advice"
+    ],
     "area": null,
     "shape": null
   },
@@ -188,7 +213,11 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News",
+      "&",
+      "Research"
+    ],
     "area": null,
     "shape": null
   },
@@ -208,7 +237,10 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Investment",
+      "Products"
+    ],
     "area": null,
     "shape": null
   },
@@ -248,7 +280,14 @@
       "scl-hero--msg-text-header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Achieve",
+      "more",
+      "when",
+      "you",
+      "pay",
+      "less"
+    ],
     "area": null,
     "shape": null
   },
@@ -268,7 +307,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "out",
+      "more"
+    ],
     "area": null,
     "shape": null
   },
@@ -288,7 +331,12 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Why",
+      "invest",
+      "with",
+      "Fidelity"
+    ],
     "area": null,
     "shape": null
   },
@@ -308,7 +356,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "your",
+      "score",
+      "now"
+    ],
     "area": null,
     "shape": null
   },
@@ -328,7 +381,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Need",
+      "Help?"
+    ],
     "area": null,
     "shape": null
   },
@@ -348,7 +404,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "an",
+      "Account"
+    ],
     "area": null,
     "shape": null
   },
@@ -366,7 +426,15 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "your",
+      "retirement",
+      "score",
+      "in",
+      "60",
+      "seconds"
+    ],
     "area": null,
     "shape": null
   },
@@ -385,7 +453,14 @@
       "screen-reader-only"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search",
+      "fidelity.com",
+      "or",
+      "get",
+      "a",
+      "quote"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -426,7 +501,12 @@
       "pnsl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "Main",
+      "Content."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -446,7 +526,10 @@
       "screen-reader-only"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fidelity.com",
+      "Home"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -466,7 +549,10 @@
       "static"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -486,7 +572,9 @@
       "static"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Profile"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -504,7 +592,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Profile"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -524,7 +614,11 @@
       "static"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "an",
+      "Account"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -544,7 +638,10 @@
       "pi-nav-nowrap"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "an"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -564,7 +661,11 @@
       "static"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Refer",
+      "a",
+      "Friend"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -584,7 +685,10 @@
       "pi-nav-nowrap"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Refer",
+      "a"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -605,7 +709,10 @@
       "last-child"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "In"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -707,7 +814,10 @@
       "off-screen"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Informational",
+      "Messaging"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -727,7 +837,24 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "View",
+      "the",
+      "Fidelity",
+      "mutual",
+      "fund",
+      "distribution",
+      "information",
+      "for",
+      "the",
+      "funds",
+      "you",
+      "may",
+      "have",
+      "held",
+      "in",
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -764,7 +891,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -803,7 +932,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "No"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -841,7 +972,16 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lowest",
+      "published",
+      "margin",
+      "rates‡",
+      "4.00%",
+      "7.50%",
+      "6.575%",
+      "4.75%"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -862,7 +1002,9 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -882,7 +1024,12 @@
       "stacked-row"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lowest",
+      "published",
+      "margin",
+      "rates‡"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -900,7 +1047,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wealth",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -921,7 +1071,11 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Best",
+      "Online",
+      "Broker"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -941,7 +1095,12 @@
       "smallbold"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lowest",
+      "published",
+      "margin",
+      "rates‡"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -961,7 +1120,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Wealth",
+      "Management"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -999,7 +1161,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lowest",
+      "published",
+      "margin",
+      "rates‡"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1020,7 +1187,9 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1040,7 +1209,12 @@
       "footnotes"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Through",
+      "Fidelity®",
+      "Wealth",
+      "Services"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1061,7 +1235,9 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1080,7 +1256,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4.00%"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1117,7 +1295,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "7.50%"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1138,7 +1318,15 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Rated",
+      "#1",
+      "for",
+      "Order",
+      "Execution",
+      "•",
+      "Research"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1177,7 +1365,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "6.575%"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1216,7 +1406,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "4.75%"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1237,7 +1429,9 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1257,7 +1451,10 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Straightforward",
+      "pricing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1279,7 +1476,9 @@
       "active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Value"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1297,7 +1496,22 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "In-depth",
+      "research",
+      "from",
+      "20+",
+      "independent",
+      "providersOpens",
+      "in",
+      "a",
+      "new",
+      "window",
+      "Yes",
+      "No",
+      "No",
+      "No"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1317,7 +1531,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Straightforward",
+      "pricing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1338,7 +1555,11 @@
       "hp-tablinks"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tools",
+      "&",
+      "Guidance"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1356,7 +1577,19 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Review",
+      "Fidelity",
+      "Brokerage",
+      "Services",
+      "with",
+      "FINRA's",
+      "BrokerCheckOpens",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1398,7 +1631,9 @@
       "hp-tablinks"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Service"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1420,7 +1655,14 @@
       "popup"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FINRA's",
+      "BrokerCheckOpens",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1438,7 +1680,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Regulatory",
+      "summary",
+      "of",
+      "Fidelity",
+      "services",
+      "(PDF)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1458,7 +1707,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Regulatory",
+      "summary",
+      "of",
+      "Fidelity",
+      "services",
+      "(PDF)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1477,7 +1733,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Yes"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1497,7 +1755,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Digital",
+      "investing",
+      "&",
+      "advice"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1516,7 +1779,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "No"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1536,7 +1801,15 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Whatever",
+      "you're",
+      "investing",
+      "for,",
+      "we",
+      "can",
+      "help"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1555,7 +1828,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "No"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1594,7 +1869,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "No"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1613,7 +1890,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "No"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1633,7 +1912,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "an",
+      "Account"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1653,7 +1936,13 @@
       "stacked-row"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ZERO",
+      "expense",
+      "ratio",
+      "index",
+      "funds#"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1674,7 +1963,14 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Rated",
+      "#1",
+      "Overall",
+      "Best",
+      "Online",
+      "Broker"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1694,7 +1990,13 @@
       "smallbold"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ZERO",
+      "expense",
+      "ratio",
+      "index",
+      "funds#"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1735,7 +2037,14 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Rated",
+      "#1",
+      "Overall",
+      "Best",
+      "Online",
+      "Broker"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1753,7 +2062,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ZERO",
+      "expense",
+      "ratio",
+      "index",
+      "funds#"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1812,7 +2127,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Subscribe"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1832,7 +2149,17 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "We're",
+      "here",
+      "to",
+      "help—however",
+      "and",
+      "whenever",
+      "you",
+      "need",
+      "it"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1852,7 +2179,13 @@
       "scl-left"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "insights",
+      "from",
+      "our",
+      "experts"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1872,7 +2205,24 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "No",
+      "matter",
+      "what",
+      "financial",
+      "questions",
+      "you",
+      "have,",
+      "we're",
+      "here",
+      "to",
+      "work",
+      "with",
+      "you",
+      "on",
+      "your",
+      "terms."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1894,7 +2244,9 @@
       "margin-notitle"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Email"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1952,7 +2304,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Election",
+      "insights",
+      "from",
+      "Fidelity",
+      "pros"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1973,7 +2331,10 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Questions?",
+      "800-343-3548"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2052,7 +2413,12 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Chat",
+      "with",
+      "a",
+      "representative"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2072,7 +2438,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Chat",
+      "with",
+      "a",
+      "representative"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2092,7 +2463,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "See",
+      "all",
+      "Fidelity",
+      "Viewpoints®",
+      "articles"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2128,7 +2505,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "up",
+      "for",
+      "Fidelity",
+      "Viewpoints®"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2169,7 +2552,12 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "an",
+      "Investor",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2187,7 +2575,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "an",
+      "Investor",
+      "Center"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2209,7 +2602,10 @@
       "margin-notitle"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "First",
+      "Name"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2229,7 +2625,9 @@
       "dropped"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      ":"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2269,7 +2667,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Individuals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2311,7 +2712,10 @@
       "margin-notitle"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Last",
+      "Name"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2331,7 +2735,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Employers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2351,7 +2758,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Investment",
+      "Professionals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2371,7 +2782,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Charitable",
+      "Giving"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2391,7 +2805,9 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FidSafe"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2447,7 +2863,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FidSafe"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2467,7 +2885,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fidelity.com/commissions"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2487,7 +2907,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Retirement",
+      "Planning"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2507,7 +2930,10 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FINRA's",
+      "BrokerCheck"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2525,7 +2951,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "electronic",
+      "delivery"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2545,7 +2974,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FINRA's",
+      "BrokerCheck"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2583,7 +3015,12 @@
       "secure-lock-icon"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "documents",
+      "onlineLog",
+      "In",
+      "Required"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2603,7 +3040,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fidelity",
+      "Mobile®"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2623,7 +3063,10 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Guest",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2661,7 +3104,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Guest",
+      "Access"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2699,7 +3145,11 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Health",
+      "Savings",
+      "Account"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2721,7 +3171,13 @@
       "popup"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "hereOpens",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2741,7 +3197,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Health",
+      "Savings",
+      "Account"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2761,7 +3221,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Annuities"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2781,7 +3243,10 @@
       "seo-footer--stay-connected"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Stay",
+      "Connected"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2799,7 +3264,21 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fidelity",
+      "Brokerage",
+      "Services",
+      "LLC,",
+      "Member",
+      "NYSE,",
+      "SIPC,",
+      "900",
+      "Salem",
+      "Street,",
+      "Smithfield,",
+      "RI",
+      "02917"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2819,7 +3298,14 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Life",
+      "Insurance",
+      "&",
+      "Long",
+      "Term",
+      "Care"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2839,7 +3325,15 @@
       "seo-footer--zipcode"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Locate",
+      "an",
+      "Investor",
+      "Center",
+      "by",
+      "ZIP",
+      "Code"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2859,7 +3353,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Life",
+      "Insurance",
+      "&",
+      "Long",
+      "Term",
+      "Care"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2921,7 +3422,18 @@
       "popup"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Characteristics",
+      "and",
+      "Risks",
+      "of",
+      "Standardized",
+      "OptionsOpens",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2941,7 +3453,10 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Charitable",
+      "Giving"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2999,7 +3514,10 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "529",
+      "Plans"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3019,7 +3537,9 @@
       "seo-footer--social-media-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3057,7 +3577,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "529",
+      "Plans"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3077,7 +3600,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3097,7 +3622,9 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FAQs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3117,7 +3644,9 @@
       "seo-footer--social-media-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3137,7 +3666,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "FAQs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3157,7 +3688,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3177,7 +3710,9 @@
       "seo-footer--internal-list-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3197,7 +3732,9 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "IRAs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3217,7 +3754,9 @@
       "seo-footer--social-media-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3255,7 +3794,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "IRAs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3275,7 +3816,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "LinkedIn"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3313,7 +3856,10 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Retirement",
+      "Products"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3333,7 +3879,9 @@
       "seo-footer--social-media-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3353,7 +3901,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "https://www.fidelity.com/commissions"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3373,7 +3923,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Retirement",
+      "Products"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3393,7 +3946,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "YouTube"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3413,7 +3968,10 @@
       "seo-footer--products-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Retirement",
+      "Planning"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3433,7 +3991,10 @@
       "seo-footer--social-media-list"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fidelity",
+      "Mobile®"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3454,7 +4015,9 @@
       "seo-footer--last-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Disclosures"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3474,7 +4037,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3494,7 +4059,10 @@
       "seo-footer--internal-list-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News",
+      "Releases"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3514,7 +4082,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News",
+      "Releases"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3534,7 +4105,10 @@
       "seo-footer--internal-list-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Fidelity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3554,7 +4128,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Fidelity"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3575,7 +4152,9 @@
       "seo-footer--last-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "International"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3595,7 +4174,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "International"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3615,7 +4196,15 @@
       "seo-footer-copyright"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Copyright",
+      "1998-2020",
+      "FMR",
+      "LLC.",
+      "All",
+      "Rights",
+      "Reserved."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3635,7 +4224,11 @@
       "seo-footer--reserved-link-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3655,7 +4248,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3675,7 +4272,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Disclosures"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3695,7 +4294,9 @@
       "seo-footer--reserved-link-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3715,7 +4316,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3735,7 +4338,9 @@
       "seo-footer--reserved-link-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3755,7 +4360,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3775,7 +4382,10 @@
       "seo-footer--reserved-link-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Site",
+      "Map"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3795,7 +4405,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Site",
+      "Map"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3815,7 +4428,9 @@
       "seo-footer--reserved-link-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3833,7 +4448,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3853,7 +4470,10 @@
       "seo-footer--reserved-link-items"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3873,7 +4493,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3893,7 +4516,16 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "This",
+      "is",
+      "for",
+      "persons",
+      "in",
+      "the",
+      "U.S.",
+      "only."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3933,7 +4565,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Share",
+      "Your",
+      "Screen"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

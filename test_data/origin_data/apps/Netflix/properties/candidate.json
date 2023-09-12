@@ -34,7 +34,10 @@
       "redButton"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -59,7 +62,10 @@
       "btn-custom"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "GET",
+      "STARTEDchevron"
+    ],
     "area": null,
     "shape": null
   },
@@ -79,7 +85,10 @@
       "field-email"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Email",
+      "address"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -99,7 +108,9 @@
       "screen-reader-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Netflix"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -119,7 +130,9 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -139,7 +152,11 @@
       "our-story-card-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Frequently",
+      "Asked",
+      "Questions"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -157,7 +174,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Jobs"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -197,7 +216,11 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Redeem",
+      "Gift",
+      "Cards"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -222,7 +245,10 @@
       "btn-custom"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "GET",
+      "STARTEDchevron"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -242,7 +268,10 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -262,7 +291,11 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Redeem",
+      "Gift",
+      "Cards"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -282,7 +315,10 @@
       "cta-btn-txt"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "GET",
+      "STARTED"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -300,7 +336,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Redeem",
+      "Gift",
+      "Cards"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -320,7 +360,9 @@
       "chevron-right-arrow"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "chevron"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -341,7 +383,10 @@
       "field-email"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Email",
+      "address"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -361,7 +406,11 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Buy",
+      "Gift",
+      "Cards"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -379,7 +428,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "chevron"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -399,7 +450,11 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Buy",
+      "Gift",
+      "Cards"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -419,7 +474,13 @@
       "faq-question"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "much",
+      "does",
+      "Netflix",
+      "cost?"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -437,7 +498,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Buy",
+      "Gift",
+      "Cards"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -476,7 +541,11 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ways",
+      "to",
+      "Watch"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -514,7 +583,11 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ways",
+      "to",
+      "Watch"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -552,7 +625,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ways",
+      "to",
+      "Watch"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -572,7 +649,12 @@
       "faq-question"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Where",
+      "can",
+      "I",
+      "watch?"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -592,7 +674,11 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -631,7 +717,11 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -669,7 +759,10 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -687,7 +780,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -727,7 +824,9 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -747,7 +846,12 @@
       "faq-question"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "How",
+      "do",
+      "I",
+      "cancel?"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -767,7 +871,9 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -804,7 +910,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -842,7 +950,10 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookie",
+      "Preferences"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -882,7 +993,14 @@
       "our-story-card-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Download",
+      "your",
+      "shows",
+      "to",
+      "watch",
+      "offline."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -902,7 +1020,10 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookie",
+      "Preferences"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -922,7 +1043,14 @@
       "faq-question"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "What",
+      "can",
+      "I",
+      "watch",
+      "on",
+      "Netflix?"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -942,7 +1070,18 @@
       "our-story-card-subtitle"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "your",
+      "favorites",
+      "easily",
+      "and",
+      "always",
+      "have",
+      "something",
+      "to",
+      "watch."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -960,7 +1099,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cookie",
+      "Preferences"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -999,7 +1141,10 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Corporate",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1039,7 +1184,9 @@
       "nfLogo"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Netflix"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1059,7 +1206,10 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Corporate",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1079,7 +1229,20 @@
       "email-form-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Ready",
+      "to",
+      "watch?",
+      "Enter",
+      "your",
+      "email",
+      "to",
+      "create",
+      "or",
+      "restart",
+      "your",
+      "membership."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1097,7 +1260,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Corporate",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1115,7 +1281,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1135,7 +1304,10 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Speed",
+      "Test"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1155,7 +1327,10 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Speed",
+      "Test"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1173,7 +1348,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Speed",
+      "Test"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1193,7 +1371,10 @@
       "footer-link-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Legal",
+      "Notices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1213,7 +1394,10 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Legal",
+      "Notices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1231,7 +1415,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Legal",
+      "Notices"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1252,7 +1439,10 @@
       "originals-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Netflix",
+      "Originals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1272,7 +1462,10 @@
       "footer-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Netflix",
+      "Originals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1290,7 +1483,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Netflix",
+      "Originals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1312,7 +1508,9 @@
       "medium"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "EnglishEspañol"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

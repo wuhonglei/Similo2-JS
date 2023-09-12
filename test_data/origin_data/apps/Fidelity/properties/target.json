@@ -13,7 +13,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Fidelity.com",
+      "Home"
+    ],
     "area": null,
     "shape": null
   },
@@ -31,7 +34,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
     "area": null,
     "shape": null
   },
@@ -49,7 +55,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "An",
+      "Account"
+    ],
     "area": null,
     "shape": null
   },
@@ -67,7 +77,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Refer",
+      "A",
+      "Friend"
+    ],
     "area": null,
     "shape": null
   },
@@ -85,7 +99,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Log",
+      "In"
+    ],
     "area": null,
     "shape": null
   },
@@ -148,7 +165,11 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accounts",
+      "&",
+      "Trade"
+    ],
     "area": null,
     "shape": null
   },
@@ -168,7 +189,11 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Planning",
+      "&",
+      "Advice"
+    ],
     "area": null,
     "shape": null
   },
@@ -188,7 +213,11 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News",
+      "&",
+      "Research"
+    ],
     "area": null,
     "shape": null
   },
@@ -208,7 +237,10 @@
       "pnshl"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Investment",
+      "Products"
+    ],
     "area": null,
     "shape": null
   },
@@ -248,7 +280,14 @@
       "scl-hero--msg-text-header"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Achieve",
+      "more",
+      "when",
+      "you",
+      "pay",
+      "less"
+    ],
     "area": null,
     "shape": null
   },
@@ -268,7 +307,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Find",
+      "out",
+      "more"
+    ],
     "area": null,
     "shape": null
   },
@@ -288,7 +331,12 @@
       "scl-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Why",
+      "invest",
+      "with",
+      "Fidelity"
+    ],
     "area": null,
     "shape": null
   },
@@ -308,7 +356,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "your",
+      "score",
+      "now"
+    ],
     "area": null,
     "shape": null
   },
@@ -328,7 +381,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Need",
+      "Help?"
+    ],
     "area": null,
     "shape": null
   },
@@ -348,7 +404,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "an",
+      "Account"
+    ],
     "area": null,
     "shape": null
   },
@@ -366,7 +426,15 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Get",
+      "your",
+      "retirement",
+      "score",
+      "in",
+      "60",
+      "seconds"
+    ],
     "area": null,
     "shape": null
   }

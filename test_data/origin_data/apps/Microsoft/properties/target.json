@@ -35,7 +35,9 @@
       "ctl_headerNavLink"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null
   },
@@ -53,7 +55,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Search"
+    ],
     "area": null,
     "shape": null
   },
@@ -72,7 +76,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Cart"
+    ],
     "area": null,
     "shape": null
   }

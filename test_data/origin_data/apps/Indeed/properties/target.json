@@ -13,7 +13,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "what"
+    ],
     "area": null,
     "shape": null
   },
@@ -31,7 +33,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "where"
+    ],
     "area": null,
     "shape": null
   },
@@ -114,7 +118,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Post",
+      "your",
+      "resume"
+    ],
     "area": null,
     "shape": null
   },
@@ -132,7 +140,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Upload",
+      "your",
+      "resume"
+    ],
     "area": null,
     "shape": null
   },
@@ -151,7 +163,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -170,7 +185,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Employers",
+      "/",
+      "Post",
+      "Job"
+    ],
     "area": null,
     "shape": null
   },
@@ -189,7 +209,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Salaries"
+    ],
     "area": null,
     "shape": null
   },
@@ -207,7 +229,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Browse",
+      "Jobs"
+    ],
     "area": null,
     "shape": null
   },
@@ -225,7 +250,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About"
+    ],
     "area": null,
     "shape": null
   },
@@ -243,7 +270,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
     "area": null,
     "shape": null
   }

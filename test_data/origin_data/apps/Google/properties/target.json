@@ -6,13 +6,6 @@
     "area": 825,
     "shape": 366,
     "widgetId": 1,
-    "visibleText": [
-      "Search"
-    ],
-    "neighborText": [
-      "search",
-      "images"
-    ],
     "isButton": false,
     "location": {
       "x": 4,
@@ -22,6 +15,13 @@
     },
     "classList": [
       "gbts"
+    ],
+    "neighborText": [
+      "search",
+      "images"
+    ],
+    "visibleText": [
+      "Search"
     ]
   },
   {
@@ -31,15 +31,6 @@
     "area": 810,
     "shape": 360,
     "widgetId": 2,
-    "visibleText": [
-      "Images"
-    ],
-    "neighborText": [
-      "search",
-      "images",
-      "maps",
-      "play"
-    ],
     "isButton": false,
     "location": {
       "x": 59,
@@ -49,6 +40,15 @@
     },
     "classList": [
       "gbts"
+    ],
+    "neighborText": [
+      "search",
+      "images",
+      "maps",
+      "play"
+    ],
+    "visibleText": [
+      "Images"
     ]
   },
   {
@@ -58,15 +58,6 @@
     "area": 645,
     "shape": 286,
     "widgetId": 3,
-    "visibleText": [
-      "Maps"
-    ],
-    "neighborText": [
-      "images",
-      "maps",
-      "play",
-      "youtube"
-    ],
     "isButton": false,
     "location": {
       "x": 114,
@@ -76,6 +67,15 @@
     },
     "classList": [
       "gbts"
+    ],
+    "neighborText": [
+      "images",
+      "maps",
+      "play",
+      "youtube"
+    ],
+    "visibleText": [
+      "Maps"
     ]
   },
   {
@@ -85,15 +85,6 @@
     "area": 555,
     "shape": 246,
     "widgetId": 4,
-    "visibleText": [
-      "Play"
-    ],
-    "neighborText": [
-      "images",
-      "maps",
-      "play",
-      "youtube"
-    ],
     "isButton": false,
     "location": {
       "x": 157,
@@ -103,6 +94,15 @@
     },
     "classList": [
       "gbts"
+    ],
+    "neighborText": [
+      "images",
+      "maps",
+      "play",
+      "youtube"
+    ],
+    "visibleText": [
+      "Play"
     ]
   },
   {
@@ -112,16 +112,6 @@
     "area": 945,
     "shape": 420,
     "widgetId": 5,
-    "visibleText": [
-      "YouTube"
-    ],
-    "neighborText": [
-      "maps",
-      "play",
-      "youtube",
-      "news",
-      "gmail"
-    ],
     "isButton": false,
     "location": {
       "x": 195,
@@ -131,6 +121,16 @@
     },
     "classList": [
       "gbts"
+    ],
+    "neighborText": [
+      "maps",
+      "play",
+      "youtube",
+      "news",
+      "gmail"
+    ],
+    "visibleText": [
+      "YouTube"
     ]
   },
   {
@@ -140,15 +140,6 @@
     "area": 660,
     "shape": 293,
     "widgetId": 6,
-    "visibleText": [
-      "News"
-    ],
-    "neighborText": [
-      "youtube",
-      "news",
-      "gmail",
-      "drive"
-    ],
     "isButton": false,
     "location": {
       "x": 258,
@@ -158,6 +149,15 @@
     },
     "classList": [
       "gbts"
+    ],
+    "neighborText": [
+      "youtube",
+      "news",
+      "gmail",
+      "drive"
+    ],
+    "visibleText": [
+      "News"
     ]
   },
   {
@@ -167,8 +167,15 @@
     "area": 675,
     "shape": 300,
     "widgetId": 7,
-    "visibleText": [
-      "Gmail"
+    "isButton": false,
+    "location": {
+      "x": 302,
+      "y": 8,
+      "width": 45,
+      "height": 15
+    },
+    "classList": [
+      "gbts"
     ],
     "neighborText": [
       "youtube",
@@ -179,15 +186,8 @@
       "more",
       "»"
     ],
-    "isButton": false,
-    "location": {
-      "x": 302,
-      "y": 8,
-      "width": 45,
-      "height": 15
-    },
-    "classList": [
-      "gbts"
+    "visibleText": [
+      "Gmail"
     ]
   },
   {
@@ -197,17 +197,6 @@
     "area": 630,
     "shape": 280,
     "widgetId": 8,
-    "visibleText": [
-      "Drive"
-    ],
-    "neighborText": [
-      "news",
-      "gmail",
-      "drive",
-      "morecalendartranslatemobilebooksshoppingbloggerfinancephotosvideosdocseven",
-      "more",
-      "»"
-    ],
     "isButton": false,
     "location": {
       "x": 348,
@@ -217,6 +206,17 @@
     },
     "classList": [
       "gbts"
+    ],
+    "neighborText": [
+      "news",
+      "gmail",
+      "drive",
+      "morecalendartranslatemobilebooksshoppingbloggerfinancephotosvideosdocseven",
+      "more",
+      "»"
+    ],
+    "visibleText": [
+      "Drive"
     ]
   },
   {
@@ -227,15 +227,6 @@
     "area": 435,
     "shape": 193,
     "widgetId": 9,
-    "visibleText": [
-      "More"
-    ],
-    "neighborText": [
-      "drive",
-      "morecalendartranslatemobilebooksshoppingbloggerfinancephotosvideosdocseven",
-      "more",
-      "»"
-    ],
     "isButton": false,
     "location": {
       "x": 397,
@@ -243,7 +234,16 @@
       "width": 29,
       "height": 15
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "drive",
+      "morecalendartranslatemobilebooksshoppingbloggerfinancephotosvideosdocseven",
+      "more",
+      "»"
+    ],
+    "visibleText": [
+      "More"
+    ]
   },
   {
     "tag": "SPAN",
@@ -253,10 +253,14 @@
     "area": 645,
     "shape": 286,
     "widgetId": 10,
-    "visibleText": [
-      "Sign",
-      "in"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 1163,
+      "y": 8,
+      "width": 43,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "sign",
       "in",
@@ -265,14 +269,10 @@
       "settingsweb",
       "history"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1163,
-      "y": 8,
-      "width": 43,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "Sign",
+      "in"
+    ]
   },
   {
     "tag": "SPAN",
@@ -282,14 +282,6 @@
     "area": 272,
     "shape": 94,
     "widgetId": 11,
-    "neighborText": [
-      "sign",
-      "in",
-      "0",
-      "search",
-      "settingsweb",
-      "history"
-    ],
     "isButton": false,
     "location": {
       "x": 1220,
@@ -298,6 +290,14 @@
       "height": 17
     },
     "classList": [],
+    "neighborText": [
+      "sign",
+      "in",
+      "0",
+      "search",
+      "settingsweb",
+      "history"
+    ],
     "visibleText": []
   },
   {
@@ -308,6 +308,16 @@
     "area": 17476,
     "shape": 1511,
     "widgetId": 12,
+    "isButton": false,
+    "location": {
+      "x": 366,
+      "y": 284,
+      "width": 514,
+      "height": 34
+    },
+    "classList": [
+      "lst"
+    ],
     "neighborText": [
       "google",
       "search",
@@ -319,16 +329,6 @@
       "tools",
       "language"
     ],
-    "isButton": false,
-    "location": {
-      "x": 366,
-      "y": 284,
-      "width": 514,
-      "height": 34
-    },
-    "classList": [
-      "lst"
-    ],
     "visibleText": []
   },
   {
@@ -339,17 +339,6 @@
     "area": 2928,
     "shape": 2033,
     "widgetId": 13,
-    "visibleText": [
-      "Advanced",
-      "search"
-    ],
-    "neighborText": [
-      "advanced",
-      "searchlanguage",
-      "tools",
-      "search",
-      "language"
-    ],
     "isButton": false,
     "location": {
       "x": 893,
@@ -357,7 +346,18 @@
       "width": 244,
       "height": 12
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "advanced",
+      "searchlanguage",
+      "tools",
+      "search",
+      "language"
+    ],
+    "visibleText": [
+      "Advanced",
+      "search"
+    ]
   },
   {
     "tag": "INPUT",
@@ -367,15 +367,6 @@
     "area": 3360,
     "shape": 373,
     "widgetId": 14,
-    "visibleText": [
-      "Google",
-      "Search"
-    ],
-    "neighborText": [
-      "i'm",
-      "feeling",
-      "lucky"
-    ],
     "isButton": true,
     "location": {
       "x": 502,
@@ -385,6 +376,15 @@
     },
     "classList": [
       "lsb"
+    ],
+    "neighborText": [
+      "i'm",
+      "feeling",
+      "lucky"
+    ],
+    "visibleText": [
+      "Google",
+      "Search"
     ]
   },
   {
@@ -395,15 +395,6 @@
     "area": 3840,
     "shape": 426,
     "widgetId": 15,
-    "visibleText": [
-      "I'm",
-      "Feeling",
-      "Lucky"
-    ],
-    "neighborText": [
-      "google",
-      "search"
-    ],
     "isButton": true,
     "location": {
       "x": 620,
@@ -413,6 +404,15 @@
     },
     "classList": [
       "lsb"
+    ],
+    "neighborText": [
+      "google",
+      "search"
+    ],
+    "visibleText": [
+      "I'm",
+      "Feeling",
+      "Lucky"
     ]
   },
   {
@@ -423,10 +423,14 @@
     "area": 1905,
     "shape": 846,
     "widgetId": 16,
-    "visibleText": [
-      "Advertising",
-      "Programs"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 401,
+      "y": 444,
+      "width": 127,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "advertising",
       "programsbusiness",
@@ -442,14 +446,10 @@
       "solutions",
       "©"
     ],
-    "isButton": false,
-    "location": {
-      "x": 401,
-      "y": 444,
-      "width": 127,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "Advertising",
+      "Programs"
+    ]
   },
   {
     "tag": "A",
@@ -459,10 +459,14 @@
     "area": 1680,
     "shape": 746,
     "widgetId": 17,
-    "visibleText": [
-      "Business",
-      "Solutions"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 552,
+      "y": 444,
+      "width": 112,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "advertising",
       "programsbusiness",
@@ -479,14 +483,10 @@
       "+google",
       "©"
     ],
-    "isButton": false,
-    "location": {
-      "x": 552,
-      "y": 444,
-      "width": 112,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "Business",
+      "Solutions"
+    ]
   },
   {
     "tag": "A",
@@ -496,10 +496,14 @@
     "area": 1215,
     "shape": 540,
     "widgetId": 18,
-    "visibleText": [
-      "About",
-      "Google"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 764,
+      "y": 444,
+      "width": 81,
+      "height": 15
+    },
+    "classList": [],
     "neighborText": [
       "advertising",
       "programsbusiness",
@@ -514,14 +518,10 @@
       "google",
       "©"
     ],
-    "isButton": false,
-    "location": {
-      "x": 764,
-      "y": 444,
-      "width": 81,
-      "height": 15
-    },
-    "classList": []
+    "visibleText": [
+      "About",
+      "Google"
+    ]
   },
   {
     "tag": "A",
@@ -531,9 +531,14 @@
     "area": 408,
     "shape": 283,
     "widgetId": 19,
-    "visibleText": [
-      "Privacy"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 608,
+      "y": 478,
+      "width": 34,
+      "height": 12
+    },
+    "classList": [],
     "neighborText": [
       "advertising",
       "programsbusiness",
@@ -548,14 +553,9 @@
       "+google",
       "©"
     ],
-    "isButton": false,
-    "location": {
-      "x": 608,
-      "y": 478,
-      "width": 34,
-      "height": 12
-    },
-    "classList": []
+    "visibleText": [
+      "Privacy"
+    ]
   },
   {
     "tag": "A",
@@ -565,9 +565,14 @@
     "area": 348,
     "shape": 241,
     "widgetId": 20,
-    "visibleText": [
-      "Terms"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 653,
+      "y": 478,
+      "width": 29,
+      "height": 12
+    },
+    "classList": [],
     "neighborText": [
       "advertising",
       "programsbusiness",
@@ -582,13 +587,8 @@
       "+google",
       "©"
     ],
-    "isButton": false,
-    "location": {
-      "x": 653,
-      "y": 478,
-      "width": 29,
-      "height": 12
-    },
-    "classList": []
+    "visibleText": [
+      "Terms"
+    ]
   }
 ]

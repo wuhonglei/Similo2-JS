@@ -8,6 +8,16 @@
     "area": 3600,
     "shape": 100,
     "widgetId": 1,
+    "isButton": false,
+    "location": {
+      "x": 73,
+      "y": 0,
+      "width": 60,
+      "height": 60
+    },
+    "classList": [
+      "nav__logo"
+    ],
     "neighborText": [
       "home+",
       "u.s.worldpoliticsmoneyopinionhealthentertainmenttechstyletravelsportsvideovr",
@@ -19,16 +29,6 @@
       "no.",
       "1",
       "leaker"
-    ],
-    "isButton": false,
-    "location": {
-      "x": 73,
-      "y": 0,
-      "width": 60,
-      "height": 60
-    },
-    "classList": [
-      "nav__logo"
     ],
     "visibleText": []
   },
@@ -40,8 +40,15 @@
     "area": 510,
     "shape": 226,
     "widgetId": 2,
-    "visibleText": [
-      "U.S."
+    "isButton": false,
+    "location": {
+      "x": 143,
+      "y": 18,
+      "width": 34,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -56,15 +63,8 @@
       "1",
       "leaker"
     ],
-    "isButton": false,
-    "location": {
-      "x": 143,
-      "y": 18,
-      "width": 34,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "U.S."
     ]
   },
   {
@@ -75,8 +75,15 @@
     "area": 705,
     "shape": 313,
     "widgetId": 3,
-    "visibleText": [
-      "World"
+    "isButton": false,
+    "location": {
+      "x": 184,
+      "y": 18,
+      "width": 47,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -92,15 +99,8 @@
       "1",
       "leaker"
     ],
-    "isButton": false,
-    "location": {
-      "x": 184,
-      "y": 18,
-      "width": 47,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "World"
     ]
   },
   {
@@ -111,8 +111,15 @@
     "area": 855,
     "shape": 380,
     "widgetId": 4,
-    "visibleText": [
-      "Politics"
+    "isButton": false,
+    "location": {
+      "x": 237,
+      "y": 18,
+      "width": 57,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -128,15 +135,8 @@
       "1",
       "leaker"
     ],
-    "isButton": false,
-    "location": {
-      "x": 237,
-      "y": 18,
-      "width": 57,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "Politics"
     ]
   },
   {
@@ -147,8 +147,15 @@
     "area": 795,
     "shape": 353,
     "widgetId": 5,
-    "visibleText": [
-      "Money"
+    "isButton": false,
+    "location": {
+      "x": 301,
+      "y": 18,
+      "width": 53,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -164,15 +171,8 @@
       "1",
       "leaker"
     ],
-    "isButton": false,
-    "location": {
-      "x": 301,
-      "y": 18,
-      "width": 53,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "Money"
     ]
   },
   {
@@ -183,8 +183,15 @@
     "area": 915,
     "shape": 406,
     "widgetId": 6,
-    "visibleText": [
-      "Opinion"
+    "isButton": false,
+    "location": {
+      "x": 360,
+      "y": 18,
+      "width": 61,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -200,15 +207,8 @@
       "1",
       "leaker"
     ],
-    "isButton": false,
-    "location": {
-      "x": 360,
-      "y": 18,
-      "width": 61,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "Opinion"
     ]
   },
   {
@@ -219,8 +219,15 @@
     "area": 780,
     "shape": 346,
     "widgetId": 7,
-    "visibleText": [
-      "Health"
+    "isButton": false,
+    "location": {
+      "x": 428,
+      "y": 18,
+      "width": 52,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -236,15 +243,8 @@
       "1",
       "leaker"
     ],
-    "isButton": false,
-    "location": {
-      "x": 428,
-      "y": 18,
-      "width": 52,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "Health"
     ]
   },
   {
@@ -255,8 +255,15 @@
     "area": 1620,
     "shape": 720,
     "widgetId": 8,
-    "visibleText": [
-      "Entertainment"
+    "isButton": false,
+    "location": {
+      "x": 487,
+      "y": 18,
+      "width": 108,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -272,15 +279,8 @@
       "1",
       "leaker"
     ],
-    "isButton": false,
-    "location": {
-      "x": 487,
-      "y": 18,
-      "width": 108,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "Entertainment"
     ]
   },
   {
@@ -291,16 +291,6 @@
     "area": 615,
     "shape": 273,
     "widgetId": 9,
-    "visibleText": [
-      "Style"
-    ],
-    "neighborText": [
-      "home+",
-      "u.s.worldpoliticsmoneyopinionhealthentertainmenttechstyletravelsportsvideovr",
-      "tech",
-      "style",
-      "travel"
-    ],
     "isButton": false,
     "location": {
       "x": 647,
@@ -310,6 +300,16 @@
     },
     "classList": [
       "nav-menu-links__link"
+    ],
+    "neighborText": [
+      "home+",
+      "u.s.worldpoliticsmoneyopinionhealthentertainmenttechstyletravelsportsvideovr",
+      "tech",
+      "style",
+      "travel"
+    ],
+    "visibleText": [
+      "Style"
     ]
   },
   {
@@ -320,16 +320,6 @@
     "area": 705,
     "shape": 313,
     "widgetId": 10,
-    "visibleText": [
-      "Travel"
-    ],
-    "neighborText": [
-      "home+",
-      "u.s.worldpoliticsmoneyopinionhealthentertainmenttechstyletravelsportsvideovr",
-      "style",
-      "travel",
-      "sports"
-    ],
     "isButton": false,
     "location": {
       "x": 695,
@@ -339,6 +329,16 @@
     },
     "classList": [
       "nav-menu-links__link"
+    ],
+    "neighborText": [
+      "home+",
+      "u.s.worldpoliticsmoneyopinionhealthentertainmenttechstyletravelsportsvideovr",
+      "style",
+      "travel",
+      "sports"
+    ],
+    "visibleText": [
+      "Travel"
     ]
   },
   {
@@ -349,16 +349,6 @@
     "area": 795,
     "shape": 353,
     "widgetId": 11,
-    "visibleText": [
-      "Sports"
-    ],
-    "neighborText": [
-      "home+",
-      "u.s.worldpoliticsmoneyopinionhealthentertainmenttechstyletravelsportsvideovr",
-      "travel",
-      "sports",
-      "video"
-    ],
     "isButton": false,
     "location": {
       "x": 749,
@@ -368,6 +358,16 @@
     },
     "classList": [
       "nav-menu-links__link"
+    ],
+    "neighborText": [
+      "home+",
+      "u.s.worldpoliticsmoneyopinionhealthentertainmenttechstyletravelsportsvideovr",
+      "travel",
+      "sports",
+      "video"
+    ],
+    "visibleText": [
+      "Sports"
     ]
   },
   {
@@ -378,9 +378,15 @@
     "area": 3000,
     "shape": 333,
     "widgetId": 12,
-    "visibleText": [
-      "Search",
-      "»"
+    "isButton": true,
+    "location": {
+      "x": 1004,
+      "y": 10,
+      "width": 100,
+      "height": 30
+    },
+    "classList": [
+      "search__submit-button"
     ],
     "neighborText": [
       "home+",
@@ -398,15 +404,9 @@
       "top",
       "stories"
     ],
-    "isButton": true,
-    "location": {
-      "x": 1004,
-      "y": 10,
-      "width": 100,
-      "height": 30
-    },
-    "classList": [
-      "search__submit-button"
+    "visibleText": [
+      "Search",
+      "»"
     ]
   },
   {
@@ -416,8 +416,15 @@
     "area": 400,
     "shape": 16,
     "widgetId": 13,
-    "visibleText": [
-      "+"
+    "isButton": false,
+    "location": {
+      "x": 1095,
+      "y": -1,
+      "width": 8,
+      "height": 50
+    },
+    "classList": [
+      "nav-section__expand-icon"
     ],
     "neighborText": [
       "home+",
@@ -434,15 +441,8 @@
       "top",
       "stories"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1095,
-      "y": -1,
-      "width": 8,
-      "height": 50
-    },
-    "classList": [
-      "nav-section__expand-icon"
+    "visibleText": [
+      "+"
     ]
   },
   {
@@ -453,6 +453,16 @@
     "area": 2500,
     "shape": 100,
     "widgetId": 14,
+    "isButton": false,
+    "location": {
+      "x": 1104,
+      "y": 0,
+      "width": 50,
+      "height": 50
+    },
+    "classList": [
+      "search__button"
+    ],
     "neighborText": [
       "home+",
       "search",
@@ -469,16 +479,6 @@
       "top",
       "stories"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1104,
-      "y": 0,
-      "width": 50,
-      "height": 50
-    },
-    "classList": [
-      "search__button"
-    ],
     "visibleText": []
   },
   {
@@ -489,6 +489,17 @@
     "area": 950,
     "shape": 38,
     "widgetId": 15,
+    "isButton": false,
+    "location": {
+      "x": 1153,
+      "y": 0,
+      "width": 19,
+      "height": 50
+    },
+    "classList": [
+      "nav-menu",
+      "js-navigation-hamburger"
+    ],
     "neighborText": [
       "home+",
       "search",
@@ -504,17 +515,6 @@
       "top",
       "stories"
     ],
-    "isButton": false,
-    "location": {
-      "x": 1153,
-      "y": 0,
-      "width": 19,
-      "height": 50
-    },
-    "classList": [
-      "nav-menu",
-      "js-navigation-hamburger"
-    ],
     "visibleText": []
   },
   {
@@ -525,8 +525,15 @@
     "area": 690,
     "shape": 306,
     "widgetId": 16,
-    "visibleText": [
-      "Video"
+    "isButton": false,
+    "location": {
+      "x": 808,
+      "y": 18,
+      "width": 46,
+      "height": 15
+    },
+    "classList": [
+      "nav-menu-links__link"
     ],
     "neighborText": [
       "home+",
@@ -537,15 +544,8 @@
       "top",
       "stories"
     ],
-    "isButton": false,
-    "location": {
-      "x": 808,
-      "y": 18,
-      "width": 46,
-      "height": 15
-    },
-    "classList": [
-      "nav-menu-links__link"
+    "visibleText": [
+      "Video"
     ]
   }
 ]

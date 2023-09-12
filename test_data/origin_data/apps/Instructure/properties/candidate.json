@@ -34,7 +34,10 @@
       "docked"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Us"
+    ],
     "area": null,
     "shape": null
   },
@@ -51,7 +54,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -92,7 +97,10 @@
       "docked"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -110,7 +118,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Higher",
+      "Education"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -152,7 +163,9 @@
       "docked"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -194,7 +207,10 @@
       "button-outline"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Request",
+      "Info"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -215,7 +231,12 @@
       "focusable"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Skip",
+      "to",
+      "main",
+      "content"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -235,7 +256,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -273,7 +296,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "800.203.6755"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -315,7 +340,9 @@
       "login"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Login"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -336,7 +363,10 @@
       "visually-hidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "*Main",
+      "Navigation"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -375,7 +405,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "K-12"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -414,7 +446,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Data",
+      "Processing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -434,7 +469,9 @@
       "instagram"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -452,7 +489,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Uptime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -473,7 +512,10 @@
       "visually-hidden"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Footer",
+      "menu"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -493,7 +535,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "800-203-6755"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -533,7 +577,10 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -553,7 +600,9 @@
       "phone"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "800-203-6755"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -573,7 +622,24 @@
       "text-align-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "This",
+      "site",
+      "is",
+      "protected",
+      "by",
+      "reCAPTCHA",
+      "and",
+      "the",
+      "Google",
+      "Privacy",
+      "Policy",
+      "and",
+      "Terms",
+      "of",
+      "Service",
+      "apply"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -591,7 +657,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -609,7 +678,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Guides"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -648,7 +720,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -668,7 +743,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -706,7 +783,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "of",
+      "Service"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -724,7 +805,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -742,7 +825,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -764,7 +849,10 @@
       "button-stroke"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "I",
+      "Accept"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -784,7 +872,10 @@
       "button-outline"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "View",
+      "Integrations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -824,7 +915,10 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Guides"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -842,7 +936,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Partners"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -860,7 +956,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Community"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -878,7 +976,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Guides"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -898,7 +999,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -916,7 +1019,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Data",
+      "Processing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -934,7 +1040,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -954,7 +1062,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -974,7 +1084,10 @@
       "button-outline"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "More"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -992,7 +1105,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "News"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1010,7 +1125,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1028,7 +1145,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1048,7 +1167,10 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Media",
+      "Resources"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1066,7 +1188,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1086,7 +1210,10 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "Source"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1106,7 +1233,20 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "6330",
+      "South",
+      "3000",
+      "East,",
+      "Suite",
+      "700,",
+      "Salt",
+      "Lake",
+      "City,",
+      "UT",
+      "84121,",
+      "USA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1126,7 +1266,14 @@
       "text-align-center"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "COVID-19",
+      "Resources",
+      "&",
+      "Updates",
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1144,7 +1291,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Media",
+      "Resources"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1162,7 +1312,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "California",
+      "Privacy",
+      "Notice"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1180,7 +1334,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Open",
+      "Source"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1198,7 +1355,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1218,7 +1378,10 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1236,7 +1399,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "California",
+      "Privacy",
+      "Notice"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1256,7 +1423,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1274,7 +1443,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1294,7 +1466,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Uptime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1312,7 +1486,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "California",
+      "Privacy",
+      "Notice"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1330,7 +1508,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1348,7 +1528,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1368,7 +1555,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Uptime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1388,7 +1577,18 @@
       "boxy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "We",
+      "Hate",
+      "to",
+      "Brag…",
+      "But",
+      "We’re",
+      "Proud",
+      "of",
+      "These",
+      "Awards"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1406,7 +1606,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1424,7 +1631,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Uptime"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1442,7 +1651,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "More"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1478,7 +1690,14 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1498,7 +1717,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1516,7 +1737,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Acceptable",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1536,7 +1760,9 @@
       "facebook"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Facebook"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1556,7 +1782,10 @@
       "button-stroke"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Explore",
+      "Canvas"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1574,7 +1803,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Data",
+      "Processing"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1592,7 +1824,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Acceptable",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1612,7 +1847,10 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Linked",
+      "In"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1632,7 +1870,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Bridge"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1668,7 +1908,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Acceptable",
+      "Use"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1688,7 +1931,10 @@
       "linkedin"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Linked",
+      "In"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1706,7 +1952,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Bridge"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1724,7 +1972,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Acceptable",
+      "Use",
+      "International"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1744,7 +1996,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1764,7 +2018,20 @@
       "address"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "6330",
+      "South",
+      "3000",
+      "East,",
+      "Suite",
+      "700,",
+      "Salt",
+      "Lake",
+      "City,",
+      "UT",
+      "84121,",
+      "USA"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1784,7 +2051,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1802,7 +2071,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Acceptable",
+      "Use",
+      "International"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1822,7 +2095,9 @@
       "twitter"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Twitter"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1840,7 +2115,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1858,7 +2135,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1876,7 +2156,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Acceptable",
+      "Use",
+      "International"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1896,7 +2180,9 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Instagram"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1916,7 +2202,10 @@
       "menu-item"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "User",
+      "Guides"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1934,7 +2223,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

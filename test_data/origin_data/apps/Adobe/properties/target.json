@@ -7,9 +7,6 @@
     "area": 3333,
     "shape": 306,
     "widgetId": 1,
-    "visibleText": [
-      "Individuals"
-    ],
     "isButton": false,
     "location": {
       "x": 211,
@@ -31,6 +28,9 @@
       "Business",
       "EXPERIENCE",
       "CLOUD"
+    ],
+    "visibleText": [
+      "Individuals"
     ]
   },
   {
@@ -41,9 +41,6 @@
     "area": 2838,
     "shape": 260,
     "widgetId": 2,
-    "visibleText": [
-      "Business"
-    ],
     "isButton": false,
     "location": {
       "x": 335,
@@ -60,6 +57,9 @@
       "Blogs",
       "&",
       "Community"
+    ],
+    "visibleText": [
+      "Business"
     ]
   }
 ]

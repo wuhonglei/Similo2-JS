@@ -97,7 +97,9 @@
       "product-nav"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Products"
+    ],
     "area": null,
     "shape": null
   },
@@ -118,7 +120,11 @@
       "menu-item-label-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Support",
+      "and",
+      "Blogs"
+    ],
     "area": null,
     "shape": null
   },
@@ -139,7 +145,9 @@
       "menu-item-label-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company"
+    ],
     "area": null,
     "shape": null
   },
@@ -160,7 +168,9 @@
       "menu-item-label-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Partners"
+    ],
     "area": null,
     "shape": null
   },
@@ -203,7 +213,10 @@
       "small"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null
   },
@@ -248,7 +261,13 @@
       "IntuitBrandClicktoTT"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "File",
+      "for",
+      "$0",
+      "with",
+      "TurboTax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -286,7 +305,12 @@
       "label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "70%",
+      "off",
+      "QuickBooks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -307,7 +331,16 @@
       "h2"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Your",
+      "financial",
+      "platform",
+      "for",
+      "both",
+      "personal",
+      "and",
+      "business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -413,7 +446,20 @@
       "hero-font-style-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Tips",
+      "to",
+      "navigate",
+      "the",
+      "complexity",
+      "of",
+      "personal",
+      "and",
+      "business",
+      "finances",
+      "during",
+      "COVID-19."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -473,7 +519,11 @@
       "is-active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "United",
+      "States",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -497,7 +547,10 @@
       "large"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "More"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -517,7 +570,11 @@
       "language-copy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "United",
+      "States",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -537,7 +594,10 @@
       "label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "More"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -557,7 +617,13 @@
       "label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "File",
+      "for",
+      "$0",
+      "with",
+      "TurboTax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -578,7 +644,9 @@
       "menu-item-label-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accountants"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -620,7 +688,12 @@
       "hero-font-style-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Corporate",
+      "Responsibility",
+      "Report",
+      "2020"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -640,7 +713,11 @@
       "name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "United",
+      "States",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -697,7 +774,10 @@
       "is-active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Canada",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -741,7 +821,10 @@
       "language-copy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Canada",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -761,7 +844,9 @@
       "pause"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Pause"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -785,7 +870,13 @@
       "large"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more",
+      "about",
+      "our",
+      "impact"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -805,7 +896,10 @@
       "label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -825,7 +919,13 @@
       "label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more",
+      "about",
+      "our",
+      "impact"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -985,7 +1085,12 @@
       "hero-font-style-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Have",
+      "complete",
+      "financial",
+      "confidence"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1028,7 +1133,12 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "70%",
+      "off",
+      "QuickBooks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1052,7 +1162,17 @@
       "hero-font-style-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Intuit's",
+      "leading",
+      "technology",
+      "and",
+      "live",
+      "expert",
+      "support",
+      "can",
+      "help."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1094,7 +1214,9 @@
       "language-copy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "India"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1138,7 +1260,12 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Check",
+      "and",
+      "Tax",
+      "Forms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1158,7 +1285,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1179,7 +1308,11 @@
       "category"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Diversity",
+      "&",
+      "Inclusion"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1197,7 +1330,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Payroll"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1215,7 +1350,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1236,7 +1373,17 @@
       "title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Three",
+      "Ways",
+      "You",
+      "Can",
+      "be",
+      "a",
+      "Better",
+      "LGBTQ+",
+      "Ally"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1256,7 +1403,11 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Partner",
+      "with",
+      "Intuit"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1297,7 +1448,10 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Corporate",
+      "Citizenship"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1321,7 +1475,16 @@
       "style-color-black"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Smarter",
+      "business",
+      "tools",
+      "for",
+      "the",
+      "world's",
+      "hardest",
+      "workers."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1339,7 +1502,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Partner",
+      "with",
+      "Intuit"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1377,7 +1544,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Read",
+      "our",
+      "privacy",
+      "statement",
+      ">"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1397,7 +1570,10 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1477,7 +1653,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1497,7 +1676,11 @@
       "global-cta-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "70%",
+      "off"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1535,7 +1718,10 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Research"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1555,7 +1741,11 @@
       "label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Save",
+      "70%",
+      "off"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1576,7 +1766,11 @@
       "font-x-small"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1",
+      "/",
+      "3"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1594,7 +1788,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Customer",
+      "Research"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1633,7 +1830,12 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Check",
+      "and",
+      "Tax",
+      "Forms"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1653,7 +1855,9 @@
       "pagination-current"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1674,7 +1878,11 @@
       "title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Intuit's",
+      "COVID-19",
+      "Response"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1695,7 +1903,10 @@
       "js-accordion-head"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Individuals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1715,7 +1926,9 @@
       "pagination-total"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "3"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1754,7 +1967,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Individuals"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1817,7 +2033,9 @@
       "IntuitBrandClicktoTT"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TurboTax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1837,7 +2055,12 @@
       "global-cta-link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Checkout",
+      "QuickBooks",
+      "latest",
+      "innovations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1891,7 +2114,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TurboTax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1911,7 +2136,12 @@
       "label"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Checkout",
+      "QuickBooks",
+      "latest",
+      "innovations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1934,7 +2164,14 @@
       "style-font-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Learn",
+      "more",
+      "about",
+      "QuickBooks",
+      "Live",
+      ">"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1955,7 +2192,9 @@
       "IntuitBrandClicktoMint"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mint"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -1973,7 +2212,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Corporate",
+      "Citizenship"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2012,7 +2254,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Mint"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2032,7 +2276,15 @@
       "content-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Refinance",
+      "your",
+      "mortgage",
+      "in",
+      "the",
+      "Mint",
+      "app"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2076,7 +2328,10 @@
       "category"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Corporate",
+      "Responsibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2097,7 +2352,10 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "QuickBooks",
+      "Self-Employed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2155,7 +2413,9 @@
       "style-font-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "24/7"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2176,7 +2436,14 @@
       "title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Bigger,",
+      "Bolder",
+      "Goals",
+      "for",
+      "Climate",
+      "Action"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2194,7 +2461,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "QuickBooks",
+      "Self-Employed"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2233,7 +2503,9 @@
       "IntuitBrandClicktoTurbo"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Turbo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2277,7 +2549,14 @@
       "style-color-black"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "All",
+      "your",
+      "money",
+      "in",
+      "one",
+      "place"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2298,7 +2577,9 @@
       "js-accordion-head"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2316,7 +2597,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Turbo"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2337,7 +2620,9 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Payroll"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2394,7 +2679,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Company"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2415,7 +2702,11 @@
       "js-accordion-head"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Small",
+      "Business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2437,7 +2728,9 @@
       "style-font-normal"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "#1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2457,7 +2750,10 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Intuit"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2475,7 +2771,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Small",
+      "Business"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2495,7 +2795,9 @@
       "subtitle-text"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "#1"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2513,7 +2815,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Intuit"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2534,7 +2839,9 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "QuickBooks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2554,7 +2861,10 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Investor",
+      "Relations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2572,7 +2882,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "QuickBooks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2590,7 +2902,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Investor",
+      "Relations"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2682,7 +2997,10 @@
       "country-title"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Select",
+      "Country"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2703,7 +3021,9 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Payments"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2723,7 +3043,10 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "About",
+      "Us"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2762,7 +3085,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Payments"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2782,7 +3107,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Careers"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2821,7 +3148,11 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TSheets",
+      "by",
+      "QuickBooks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2841,7 +3172,10 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Press",
+      "Room"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2895,7 +3229,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "TSheets",
+      "by",
+      "QuickBooks"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2915,7 +3253,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Accessibility"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2972,7 +3312,11 @@
       "is-active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "United",
+      "States",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -2993,7 +3337,10 @@
       "IntuitBrandClicktoQB"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "QuickBooks",
+      "Capital"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3031,7 +3378,11 @@
       "language-copy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "United",
+      "States",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3105,7 +3456,13 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Photographs",
+      "©2018",
+      "Jeremy",
+      "Bittermann",
+      "Photography"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3126,7 +3483,10 @@
       "js-accordion-head"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Accountants"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3164,7 +3524,21 @@
       "terms"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "By",
+      "accessing",
+      "and",
+      "using",
+      "this",
+      "page",
+      "you",
+      "agree",
+      "to",
+      "the",
+      "Terms",
+      "and",
+      "Conditions."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3182,7 +3556,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "For",
+      "Accountants"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3221,7 +3598,11 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Terms",
+      "and",
+      "Conditions."
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3242,7 +3623,10 @@
       "IntuitBrandClicktoProConnect"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Lacerte",
+      "Tax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3263,7 +3647,10 @@
       "is-active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Canada",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3301,7 +3688,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Legal"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3321,7 +3710,10 @@
       "language-copy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Canada",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3359,7 +3751,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Privacy"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3415,7 +3809,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Security"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3453,7 +3849,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "GDPR"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3491,7 +3889,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ProSeries",
+      "Tax"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3511,7 +3912,10 @@
       "name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "India",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3570,7 +3974,11 @@
       "IntuitBrandClicktoProConnect"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "QuickBooks",
+      "Online",
+      "Accountant"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3606,7 +4014,11 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "QuickBooks",
+      "Online",
+      "Accountant"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3683,7 +4095,10 @@
       "IntuitBrandClicktoProConnect"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ProAdvisor",
+      "Program"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3737,7 +4152,10 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "ProAdvisor",
+      "Program"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3757,7 +4175,10 @@
       "name"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Canada",
+      "(Français)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3796,7 +4217,10 @@
       "is-active"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "India",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3836,7 +4260,9 @@
       "link"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sitemap"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null
@@ -3856,7 +4282,10 @@
       "language-copy"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "India",
+      "(English)"
+    ],
     "area": null,
     "shape": null,
     "widgetId": null

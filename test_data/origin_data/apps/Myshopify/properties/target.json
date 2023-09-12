@@ -7,16 +7,6 @@
     "area": 3300,
     "shape": 366,
     "widgetId": 1,
-    "visibleText": [
-      "Home"
-    ],
-    "neighborText": [
-      "home",
-      "0",
-      "ways",
-      "to",
-      "sell"
-    ],
     "isButton": false,
     "location": {
       "x": 158,
@@ -27,6 +17,16 @@
     "classList": [
       "icon",
       "marketing-nav__logo--full-color"
+    ],
+    "neighborText": [
+      "home",
+      "0",
+      "ways",
+      "to",
+      "sell"
+    ],
+    "visibleText": [
+      "Home"
     ]
   },
   {
@@ -37,15 +37,6 @@
     "area": 5560,
     "shape": 347,
     "widgetId": 2,
-    "visibleText": [
-      "Get",
-      "started"
-    ],
-    "neighborText": [
-      "log",
-      "in",
-      "0"
-    ],
     "isButton": true,
     "location": {
       "x": 949,
@@ -56,6 +47,15 @@
     "classList": [
       "js-open-signup",
       "marketing-nav__button"
+    ],
+    "neighborText": [
+      "log",
+      "in",
+      "0"
+    ],
+    "visibleText": [
+      "Get",
+      "started"
     ]
   }
 ]

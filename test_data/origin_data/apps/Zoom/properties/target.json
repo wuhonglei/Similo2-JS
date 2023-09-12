@@ -33,7 +33,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SALES"
+    ],
     "area": null,
     "shape": null
   },
@@ -51,7 +53,9 @@
     },
     "classList": [],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "PLANS"
+    ],
     "area": null,
     "shape": null
   },
@@ -73,7 +77,11 @@
       "light"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "JOIN",
+      "A",
+      "MEETING"
+    ],
     "area": null,
     "shape": null
   },
@@ -111,7 +119,10 @@
       "signin"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "SIGN",
+      "IN"
+    ],
     "area": null,
     "shape": null
   },
@@ -157,7 +168,11 @@
       "submit"
     ],
     "neighborText": [],
-    "visibleText": [],
+    "visibleText": [
+      "Sign",
+      "Up",
+      "Free"
+    ],
     "area": null,
     "shape": null
   }

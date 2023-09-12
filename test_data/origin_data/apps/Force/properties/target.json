@@ -6,14 +6,6 @@
     "area": 4180,
     "shape": 215,
     "widgetId": 1,
-    "visibleText": [
-      "Products"
-    ],
-    "neighborText": [
-      "0",
-      "products",
-      "solutions"
-    ],
     "isButton": false,
     "location": {
       "x": 248,
@@ -23,6 +15,14 @@
     },
     "classList": [
       "root-nav-heading"
+    ],
+    "neighborText": [
+      "0",
+      "products",
+      "solutions"
+    ],
+    "visibleText": [
+      "Products"
     ]
   },
   {
@@ -32,17 +32,6 @@
     "area": 4356,
     "shape": 225,
     "widgetId": 2,
-    "visibleText": [
-      "Solutions"
-    ],
-    "neighborText": [
-      "0",
-      "products",
-      "solutions",
-      "support",
-      "&",
-      "services"
-    ],
     "isButton": false,
     "location": {
       "x": 344,
@@ -52,6 +41,17 @@
     },
     "classList": [
       "root-nav-heading"
+    ],
+    "neighborText": [
+      "0",
+      "products",
+      "solutions",
+      "support",
+      "&",
+      "services"
+    ],
+    "visibleText": [
+      "Solutions"
     ]
   },
   {
@@ -61,19 +61,6 @@
     "area": 7392,
     "shape": 381,
     "widgetId": 3,
-    "visibleText": [
-      "Support",
-      "&",
-      "Services"
-    ],
-    "neighborText": [
-      "0",
-      "solutions",
-      "support",
-      "&",
-      "services",
-      "events"
-    ],
     "isButton": false,
     "location": {
       "x": 443,
@@ -83,6 +70,19 @@
     },
     "classList": [
       "root-nav-heading"
+    ],
+    "neighborText": [
+      "0",
+      "solutions",
+      "support",
+      "&",
+      "services",
+      "events"
+    ],
+    "visibleText": [
+      "Support",
+      "&",
+      "Services"
     ]
   },
   {
@@ -93,8 +93,16 @@
     "area": 3432,
     "shape": 177,
     "widgetId": 4,
-    "visibleText": [
-      "Events"
+    "isButton": false,
+    "location": {
+      "x": 612,
+      "y": 65,
+      "width": 78,
+      "height": 44
+    },
+    "classList": [
+      "globalnavbar-expander",
+      "invocaTelLink"
     ],
     "neighborText": [
       "0",
@@ -107,16 +115,8 @@
       "search",
       "1-855-382-6558"
     ],
-    "isButton": false,
-    "location": {
-      "x": 612,
-      "y": 65,
-      "width": 78,
-      "height": 44
-    },
-    "classList": [
-      "globalnavbar-expander",
-      "invocaTelLink"
+    "visibleText": [
+      "Events"
     ]
   },
   {
@@ -126,9 +126,15 @@
     "area": 4312,
     "shape": 222,
     "widgetId": 5,
-    "visibleText": [
-      "About",
-      "Us"
+    "isButton": false,
+    "location": {
+      "x": 854,
+      "y": 65,
+      "width": 98,
+      "height": 44
+    },
+    "classList": [
+      "root-nav-heading"
     ],
     "neighborText": [
       "0",
@@ -142,15 +148,9 @@
       "for",
       "free"
     ],
-    "isButton": false,
-    "location": {
-      "x": 854,
-      "y": 65,
-      "width": 98,
-      "height": 44
-    },
-    "classList": [
-      "root-nav-heading"
+    "visibleText": [
+      "About",
+      "Us"
     ]
   },
   {
@@ -161,22 +161,6 @@
     "area": 1701,
     "shape": 385,
     "widgetId": 6,
-    "visibleText": [
-      "Contact",
-      "Us"
-    ],
-    "neighborText": [
-      "0",
-      "customer",
-      "success",
-      "about",
-      "us",
-      "1-855-382-6558",
-      "contact",
-      "try",
-      "for",
-      "free"
-    ],
     "isButton": false,
     "location": {
       "x": 870,
@@ -188,6 +172,22 @@
       "dropdown-toggle",
       "disabled",
       "invocaTelLink"
+    ],
+    "neighborText": [
+      "0",
+      "customer",
+      "success",
+      "about",
+      "us",
+      "1-855-382-6558",
+      "contact",
+      "try",
+      "for",
+      "free"
+    ],
+    "visibleText": [
+      "Contact",
+      "Us"
     ]
   },
   {
@@ -198,15 +198,6 @@
     "area": 2220,
     "shape": 246,
     "widgetId": 7,
-    "visibleText": [
-      "Login"
-    ],
-    "neighborText": [
-      "login",
-      "try",
-      "for",
-      "free"
-    ],
     "isButton": false,
     "location": {
       "x": 1034,
@@ -218,6 +209,15 @@
       "dropdown-toggle",
       "disabled",
       "invocaTelLink"
+    ],
+    "neighborText": [
+      "login",
+      "try",
+      "for",
+      "free"
+    ],
+    "visibleText": [
+      "Login"
     ]
   },
   {
@@ -228,21 +228,6 @@
     "area": 5460,
     "shape": 309,
     "widgetId": 8,
-    "visibleText": [
-      "Try",
-      "for",
-      "free"
-    ],
-    "neighborText": [
-      "0",
-      "about",
-      "us",
-      "contact",
-      "login",
-      "try",
-      "for",
-      "free"
-    ],
     "isButton": true,
     "location": {
       "x": 978,
@@ -256,6 +241,21 @@
       "btn-nav",
       "salesforce-sans-regular",
       "invocaTelLink"
+    ],
+    "neighborText": [
+      "0",
+      "about",
+      "us",
+      "contact",
+      "login",
+      "try",
+      "for",
+      "free"
+    ],
+    "visibleText": [
+      "Try",
+      "for",
+      "free"
     ]
   },
   {
@@ -265,16 +265,6 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 9,
-    "visibleText": [
-      "Overview"
-    ],
-    "neighborText": [
-      "watch",
-      "demo",
-      "overview",
-      "solutions",
-      "architecture"
-    ],
     "isButton": false,
     "location": {
       "x": 183,
@@ -282,7 +272,17 @@
       "width": 148,
       "height": 45
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "watch",
+      "demo",
+      "overview",
+      "solutions",
+      "architecture"
+    ],
+    "visibleText": [
+      "Overview"
+    ]
   },
   {
     "tag": "LI",
@@ -291,15 +291,6 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 10,
-    "visibleText": [
-      "Solutions"
-    ],
-    "neighborText": [
-      "overview",
-      "solutions",
-      "architecture",
-      "features"
-    ],
     "isButton": false,
     "location": {
       "x": 183,
@@ -307,7 +298,16 @@
       "width": 148,
       "height": 45
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "overview",
+      "solutions",
+      "architecture",
+      "features"
+    ],
+    "visibleText": [
+      "Solutions"
+    ]
   },
   {
     "tag": "LI",
@@ -316,9 +316,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 11,
-    "visibleText": [
-      "Architecture"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 506,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "overview",
       "solutions",
@@ -327,14 +332,9 @@
       "related",
       "products"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 506,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Architecture"
+    ]
   },
   {
     "tag": "LI",
@@ -343,9 +343,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 12,
-    "visibleText": [
-      "Features"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 551,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "solutions",
       "architecture",
@@ -354,14 +359,9 @@
       "products",
       "pricing"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 551,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Features"
+    ]
   },
   {
     "tag": "LI",
@@ -370,10 +370,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 13,
-    "visibleText": [
-      "Related",
-      "Products"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 596,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "architecture",
       "features",
@@ -383,14 +387,10 @@
       "app",
       "gallery"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 596,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Related",
+      "Products"
+    ]
   },
   {
     "tag": "LI",
@@ -399,9 +399,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 14,
-    "visibleText": [
-      "Pricing"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 641,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "features",
       "related",
@@ -411,14 +416,9 @@
       "gallery",
       "resources"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 641,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "Pricing"
+    ]
   },
   {
     "tag": "LI",
@@ -427,16 +427,6 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 16,
-    "visibleText": [
-      "Resources"
-    ],
-    "neighborText": [
-      "pricing",
-      "app",
-      "gallery",
-      "resources",
-      "questions?"
-    ],
     "isButton": false,
     "location": {
       "x": 183,
@@ -444,7 +434,17 @@
       "width": 148,
       "height": 45
     },
-    "classList": []
+    "classList": [],
+    "neighborText": [
+      "pricing",
+      "app",
+      "gallery",
+      "resources",
+      "questions?"
+    ],
+    "visibleText": [
+      "Resources"
+    ]
   },
   {
     "tag": "LI",
@@ -453,10 +453,14 @@
     "area": 6660,
     "shape": 328,
     "widgetId": 15,
-    "visibleText": [
-      "App",
-      "Gallery"
-    ],
+    "isButton": false,
+    "location": {
+      "x": 183,
+      "y": 686,
+      "width": 148,
+      "height": 45
+    },
+    "classList": [],
     "neighborText": [
       "related",
       "products",
@@ -465,14 +469,10 @@
       "gallery",
       "resources"
     ],
-    "isButton": false,
-    "location": {
-      "x": 183,
-      "y": 686,
-      "width": 148,
-      "height": 45
-    },
-    "classList": []
+    "visibleText": [
+      "App",
+      "Gallery"
+    ]
   },
   {
     "tag": "A",
@@ -482,16 +482,6 @@
     "area": 5628,
     "shape": 319,
     "widgetId": 17,
-    "visibleText": [
-      "TAKE",
-      "A",
-      "TOUR"
-    ],
-    "neighborText": [
-      "take",
-      "a",
-      "tour"
-    ],
     "isButton": true,
     "location": {
       "x": 396,
@@ -505,6 +495,16 @@
       "btn-dark",
       "salesforce-sans-regular",
       "invocaTelLink"
+    ],
+    "neighborText": [
+      "take",
+      "a",
+      "tour"
+    ],
+    "visibleText": [
+      "TAKE",
+      "A",
+      "TOUR"
     ]
   }
 ]

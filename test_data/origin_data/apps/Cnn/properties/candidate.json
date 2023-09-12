@@ -6,13 +6,6 @@
     "area": 1600,
     "shape": 100,
     "widgetId": 1,
-    "neighborText": [
-      "us",
-      "world",
-      "live",
-      "updates:",
-      "covid-19"
-    ],
     "isButton": false,
     "location": {
       "x": 141,
@@ -21,6 +14,13 @@
       "height": 40
     },
     "classList": [],
+    "neighborText": [
+      "us",
+      "world",
+      "live",
+      "updates:",
+      "covid-19"
+    ],
     "visibleText": []
   },
   {
@@ -32,19 +32,6 @@
     "area": 216,
     "shape": 150,
     "widgetId": 2,
-    "visibleText": [
-      "US"
-    ],
-    "neighborText": [
-      "us",
-      "world",
-      "politics",
-      "live",
-      "updates:",
-      "covid-19",
-      "biden",
-      "transition"
-    ],
     "isButton": false,
     "location": {
       "x": 197,
@@ -56,19 +43,6 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
-    ]
-  },
-  {
-    "tag": "A",
-    "name": "world",
-    "href": "https://www.cnn.com/world",
-    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
-    "idxpath": "//*[@id='header-nav-container']/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
-    "area": 444,
-    "shape": 308,
-    "widgetId": 3,
-    "visibleText": [
-      "World"
     ],
     "neighborText": [
       "us",
@@ -80,6 +54,19 @@
       "biden",
       "transition"
     ],
+    "visibleText": [
+      "US"
+    ]
+  },
+  {
+    "tag": "A",
+    "name": "world",
+    "href": "https://www.cnn.com/world",
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
+    "idxpath": "//*[@id='header-nav-container']/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
+    "area": 444,
+    "shape": 308,
+    "widgetId": 3,
     "isButton": false,
     "location": {
       "x": 223,
@@ -91,6 +78,19 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "us",
+      "world",
+      "politics",
+      "live",
+      "updates:",
+      "covid-19",
+      "biden",
+      "transition"
+    ],
+    "visibleText": [
+      "World"
     ]
   },
   {
@@ -102,19 +102,6 @@
     "area": 540,
     "shape": 375,
     "widgetId": 4,
-    "visibleText": [
-      "Politics"
-    ],
-    "neighborText": [
-      "world",
-      "politics",
-      "business",
-      "live",
-      "updates:",
-      "covid-19",
-      "biden",
-      "transition"
-    ],
     "isButton": false,
     "location": {
       "x": 269,
@@ -126,6 +113,19 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "world",
+      "politics",
+      "business",
+      "live",
+      "updates:",
+      "covid-19",
+      "biden",
+      "transition"
+    ],
+    "visibleText": [
+      "Politics"
     ]
   },
   {
@@ -137,19 +137,6 @@
     "area": 684,
     "shape": 475,
     "widgetId": 5,
-    "visibleText": [
-      "Business"
-    ],
-    "neighborText": [
-      "politics",
-      "business",
-      "opinion",
-      "biden",
-      "transition",
-      "trending:",
-      "giving",
-      "tuesday"
-    ],
     "isButton": false,
     "location": {
       "x": 323,
@@ -161,6 +148,19 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "politics",
+      "business",
+      "opinion",
+      "biden",
+      "transition",
+      "trending:",
+      "giving",
+      "tuesday"
+    ],
+    "visibleText": [
+      "Business"
     ]
   },
   {
@@ -172,19 +172,6 @@
     "area": 588,
     "shape": 408,
     "widgetId": 6,
-    "visibleText": [
-      "Opinion"
-    ],
-    "neighborText": [
-      "business",
-      "opinion",
-      "health",
-      "biden",
-      "transition",
-      "trending:",
-      "giving",
-      "tuesday"
-    ],
     "isButton": false,
     "location": {
       "x": 388,
@@ -196,6 +183,19 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "business",
+      "opinion",
+      "health",
+      "biden",
+      "transition",
+      "trending:",
+      "giving",
+      "tuesday"
+    ],
+    "visibleText": [
+      "Opinion"
     ]
   },
   {
@@ -207,17 +207,6 @@
     "area": 492,
     "shape": 341,
     "widgetId": 7,
-    "visibleText": [
-      "Health"
-    ],
-    "neighborText": [
-      "opinion",
-      "health",
-      "entertainment",
-      "trending:",
-      "giving",
-      "tuesday"
-    ],
     "isButton": false,
     "location": {
       "x": 446,
@@ -229,6 +218,17 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "opinion",
+      "health",
+      "entertainment",
+      "trending:",
+      "giving",
+      "tuesday"
+    ],
+    "visibleText": [
+      "Health"
     ]
   },
   {
@@ -240,8 +240,17 @@
     "area": 1104,
     "shape": 766,
     "widgetId": 8,
-    "visibleText": [
-      "Entertainment"
+    "isButton": false,
+    "location": {
+      "x": 496,
+      "y": 14,
+      "width": 92,
+      "height": 12
+    },
+    "classList": [
+      "sc-fjdhpX",
+      "sc-chPdSV",
+      "lcJwCV"
     ],
     "neighborText": [
       "health",
@@ -254,17 +263,8 @@
       "vaccine",
       "vote"
     ],
-    "isButton": false,
-    "location": {
-      "x": 496,
-      "y": 14,
-      "width": 92,
-      "height": 12
-    },
-    "classList": [
-      "sc-fjdhpX",
-      "sc-chPdSV",
-      "lcJwCV"
+    "visibleText": [
+      "Entertainment"
     ]
   },
   {
@@ -276,8 +276,17 @@
     "area": 372,
     "shape": 258,
     "widgetId": 9,
-    "visibleText": [
-      "Style"
+    "isButton": false,
+    "location": {
+      "x": 596,
+      "y": 14,
+      "width": 31,
+      "height": 12
+    },
+    "classList": [
+      "sc-fjdhpX",
+      "sc-chPdSV",
+      "lcJwCV"
     ],
     "neighborText": [
       "entertainment",
@@ -290,17 +299,8 @@
       "vaccine",
       "vote"
     ],
-    "isButton": false,
-    "location": {
-      "x": 596,
-      "y": 14,
-      "width": 31,
-      "height": 12
-    },
-    "classList": [
-      "sc-fjdhpX",
-      "sc-chPdSV",
-      "lcJwCV"
+    "visibleText": [
+      "Style"
     ]
   },
   {
@@ -312,19 +312,6 @@
     "area": 444,
     "shape": 308,
     "widgetId": 10,
-    "visibleText": [
-      "Travel"
-    ],
-    "neighborText": [
-      "entertainment",
-      "style",
-      "travel",
-      "sports",
-      "vaccine",
-      "vote",
-      "real",
-      "madrid"
-    ],
     "isButton": false,
     "location": {
       "x": 636,
@@ -336,6 +323,19 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "entertainment",
+      "style",
+      "travel",
+      "sports",
+      "vaccine",
+      "vote",
+      "real",
+      "madrid"
+    ],
+    "visibleText": [
+      "Travel"
     ]
   },
   {
@@ -347,18 +347,6 @@
     "area": 504,
     "shape": 350,
     "widgetId": 11,
-    "visibleText": [
-      "Sports"
-    ],
-    "neighborText": [
-      "travel",
-      "sports",
-      "videos",
-      "vaccine",
-      "vote",
-      "real",
-      "madrid"
-    ],
     "isButton": false,
     "location": {
       "x": 682,
@@ -370,6 +358,18 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "travel",
+      "sports",
+      "videos",
+      "vaccine",
+      "vote",
+      "real",
+      "madrid"
+    ],
+    "visibleText": [
+      "Sports"
     ]
   },
   {
@@ -379,17 +379,6 @@
     "area": 600,
     "shape": 266,
     "widgetId": 12,
-    "visibleText": [
-      "Edition"
-    ],
-    "neighborText": [
-      "search",
-      "cnn",
-      "'juno'",
-      "star",
-      "alexis",
-      "sharkey"
-    ],
     "isButton": false,
     "location": {
       "x": 902,
@@ -401,6 +390,17 @@
       "Text-sc-1amvtpj-0-span",
       "sc-Rmtcm",
       "gPIpbc"
+    ],
+    "neighborText": [
+      "search",
+      "cnn",
+      "'juno'",
+      "star",
+      "alexis",
+      "sharkey"
+    ],
+    "visibleText": [
+      "Edition"
     ]
   },
   {
@@ -410,6 +410,14 @@
     "area": 100,
     "shape": 100,
     "widgetId": 13,
+    "isButton": false,
+    "location": {
+      "x": 951,
+      "y": 16,
+      "width": 10,
+      "height": 10
+    },
+    "classList": [],
     "neighborText": [
       "edition",
       "search",
@@ -419,14 +427,6 @@
       "observatory",
       "collapse"
     ],
-    "isButton": false,
-    "location": {
-      "x": 951,
-      "y": 16,
-      "width": 10,
-      "height": 10
-    },
-    "classList": [],
     "visibleText": []
   },
   {
@@ -436,21 +436,6 @@
     "area": 576,
     "shape": 100,
     "widgetId": 14,
-    "visibleText": [
-      "Search",
-      "CNN"
-    ],
-    "neighborText": [
-      "edition",
-      "search",
-      "cnn",
-      "user",
-      "account",
-      "alexis",
-      "sharkey",
-      "observatory",
-      "collapse"
-    ],
     "isButton": true,
     "location": {
       "x": 985,
@@ -462,6 +447,21 @@
       "sc-jhAzac",
       "sc-gisBJw",
       "hioqcg"
+    ],
+    "neighborText": [
+      "edition",
+      "search",
+      "cnn",
+      "user",
+      "account",
+      "alexis",
+      "sharkey",
+      "observatory",
+      "collapse"
+    ],
+    "visibleText": [
+      "Search",
+      "CNN"
     ]
   },
   {
@@ -472,18 +472,6 @@
     "area": 576,
     "shape": 100,
     "widgetId": 15,
-    "visibleText": [
-      "Open",
-      "Menu"
-    ],
-    "neighborText": [
-      "user",
-      "account",
-      "open",
-      "menu",
-      "observatory",
-      "collapse"
-    ],
     "isButton": true,
     "location": {
       "x": 1081,
@@ -495,6 +483,18 @@
       "sc-jhAzac",
       "sc-gisBJw",
       "hioqcg"
+    ],
+    "neighborText": [
+      "user",
+      "account",
+      "open",
+      "menu",
+      "observatory",
+      "collapse"
+    ],
+    "visibleText": [
+      "Open",
+      "Menu"
     ]
   },
   {
@@ -506,19 +506,6 @@
     "area": 516,
     "shape": 358,
     "widgetId": 16,
-    "visibleText": [
-      "Videos"
-    ],
-    "neighborText": [
-      "sports",
-      "videos",
-      "vaccine",
-      "vote",
-      "real",
-      "madrid",
-      "'juno'",
-      "star"
-    ],
     "isButton": false,
     "location": {
       "x": 732,
@@ -530,6 +517,19 @@
       "sc-fjdhpX",
       "sc-chPdSV",
       "lcJwCV"
+    ],
+    "neighborText": [
+      "sports",
+      "videos",
+      "vaccine",
+      "vote",
+      "real",
+      "madrid",
+      "'juno'",
+      "star"
+    ],
+    "visibleText": [
+      "Videos"
     ]
   }
 ]
