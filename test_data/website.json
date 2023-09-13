@@ -14,7 +14,8 @@
         "old": "/html[1]/body[1]/main[1]/section[1]/figure[1]/article[1]/section[1]/ul[1]/li[2]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/p[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 28
   },
   {
     "name": "Aliexpress",
@@ -179,7 +180,8 @@
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]",
         "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]"
       }
-    ]
+    ],
+    "diffMonth": 44
   },
   {
     "name": "Amazon",
@@ -228,7 +230,8 @@
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[4]",
         "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[4]/div[2]/div[2]/div[1]/a[9]"
       }
-    ]
+    ],
+    "diffMonth": 43
   },
   {
     "name": "Apple",
@@ -277,7 +280,8 @@
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]",
         "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/div[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 37
   },
   {
     "name": "Bestbuy",
@@ -446,7 +450,8 @@
         "old": "/html[1]/body[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
         "new": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 32
   },
   {
     "name": "Bing",
@@ -495,7 +500,8 @@
         "old": "/html[1]/body[1]/div[2]/div[2]/div[2]/form[1]/div[1]/div[1]/div[1]/div[1]/img[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/form[1]/div[1]/div[1]/*[local-name() = \"svg\"][1]"
       }
-    ]
+    ],
+    "diffMonth": 12
   },
   {
     "name": "Chase",
@@ -628,7 +634,8 @@
         "old": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[2]",
         "new": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/a[3]"
       }
-    ]
+    ],
+    "diffMonth": 24
   },
   {
     "name": "Cnn",
@@ -701,7 +708,8 @@
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[10]",
         "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[9]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 31
   },
   {
     "name": "Craigslist",
@@ -890,7 +898,8 @@
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[1]/li[2]/a[1]",
         "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[1]/li[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 56
   },
   {
     "name": "Dropbox",
@@ -943,7 +952,8 @@
         "old": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/section[2]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/h2[1]",
         "new": "/html[1]/body[1]/div[12]/div[1]/main[1]/section[3]/div[1]/section[1]/div[1]/div[2]/section[1]/article[1]/div[1]/div[1]/h2[1]"
       }
-    ]
+    ],
+    "diffMonth": 12
   },
   {
     "name": "Ebay",
@@ -1052,7 +1062,8 @@
         "old": "/html[1]/body[1]/header[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/button[1]",
         "new": "/html[1]/body[1]/header[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/button[1]"
       }
-    ]
+    ],
+    "diffMonth": 30
   },
   {
     "name": "Espn",
@@ -1153,7 +1164,8 @@
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
         "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 12
   },
   {
     "name": "Etsy",
@@ -1214,7 +1226,8 @@
         "old": "/html[1]/body[1]/div[3]/header[1]/div[2]/div[1]/form[1]/div[1]/div[1]/input[1]",
         "new": "/html[1]/body[1]/div[4]/header[1]/div[2]/div[1]/form[1]/div[1]/div[1]/input[1]"
       }
-    ]
+    ],
+    "diffMonth": 13
   },
   {
     "name": "Facebook",
@@ -1323,7 +1336,8 @@
         "old": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[8]/a[1]",
         "new": "/html[1]/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[6]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 49
   },
   {
     "name": "Fidelity",
@@ -1408,7 +1422,8 @@
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/div[1]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/div[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 34
   },
   {
     "name": "Force",
@@ -1485,7 +1500,8 @@
         "old": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]",
         "new": "/html[1]/body[1]/nav[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]"
       }
-    ]
+    ],
+    "diffMonth": 22
   },
   {
     "name": "Foxnews",
@@ -1610,7 +1626,8 @@
         "old": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[2]/div[2]/a[1]",
         "new": "/html[1]/body[1]/div[2]/header[1]/div[2]/div[1]/div[2]/div[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 28
   },
   {
     "name": "Google",
@@ -1699,7 +1716,8 @@
         "old": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[2]/span[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[2]/span[1]"
       }
-    ]
+    ],
+    "diffMonth": 27
   },
   {
     "name": "Hulu",
@@ -1716,7 +1734,8 @@
         "old": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/button[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/button[1]"
       }
-    ]
+    ],
+    "diffMonth": 12
   },
   {
     "name": "Imdb",
@@ -1773,7 +1792,8 @@
         "old": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/h3[1]/div[1]/a[3]",
         "new": "/html[1]/body[1]/div[1]/footer[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 17
   },
   {
     "name": "Indeed",
@@ -1834,7 +1854,8 @@
         "old": "/html[1]/body[1]/div[1]/div[2]/div[2]/span[1]/div[2]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/footer[1]/nav[1]/ul[1]/li[5]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 59
   },
   {
     "name": "Instagram",
@@ -1903,7 +1924,8 @@
         "old": "/html[1]/body[1]/span[1]/section[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
         "new": "/html[1]/body[1]/div[1]/section[1]/footer[1]/div[1]/div[1]/div[1]/div[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 30
   },
   {
     "name": "Instructure",
@@ -1920,7 +1942,8 @@
         "old": "/html[1]/body[1]/header[1]/nav[1]/div[1]/span[1]/a[6]",
         "new": "/html[1]/body[1]/div[1]/div[1]/header[1]/nav[1]/ul[1]/li[4]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 37
   },
   {
     "name": "Intuit",
@@ -1973,7 +1996,8 @@
         "old": "/html[1]/body[1]/header[1]/section[1]/section[1]/div[1]/div[1]/section[1]/div[1]/section[2]/div[1]/section[4]/div[2]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]/div[1]/div[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 20
   },
   {
     "name": "Linkedin",
@@ -1998,7 +2022,8 @@
         "old": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/form[1]/input[3]",
         "new": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/button[1]"
       }
-    ]
+    ],
+    "diffMonth": 40
   },
   {
     "name": "Live",
@@ -2019,7 +2044,8 @@
         "old": "/html[1]/body[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
         "new": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 40
   },
   {
     "name": "Microsoft",
@@ -2044,13 +2070,14 @@
         "old": "/html[1]/body[1]/div[2]/div[1]/div[1]/span[2]/div[1]/div[1]/div[1]/div[5]/div[1]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/div[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 53
   },
   {
     "name": "Microsoftonline",
     "url": {
-      "old": "https://web.archive.org/web/201802if_/https://login.microsoftonline.com/",
-      "new": "https://web.archive.org/web/20201201if_/https://login.microsoftonline.com/"
+      "old": "https://web.archive.org/web/20180104203602if_/https://login.microsoftonline.com/",
+      "new": "https://web.archive.org/web/20201201222112if_/https://login.microsoftonline.com"
     },
     "xpath": [
       {
@@ -2077,7 +2104,8 @@
         "old": "/html[1]/body[1]/div[1]/form[1]/div[2]/div[1]/div[1]/a[2]",
         "new": "/html[1]/body[1]/div[1]/form[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[2]"
       }
-    ]
+    ],
+    "diffMonth": 34
   },
   {
     "name": "Myshopify",
@@ -2094,7 +2122,8 @@
         "old": "/html[1]/body[1]/div[2]/div[1]/nav[1]/div[1]/ul[2]/li[2]/form[1]/input[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]/span[1]"
       }
-    ]
+    ],
+    "diffMonth": 24
   },
   {
     "name": "Netflix",
@@ -2115,7 +2144,8 @@
         "old": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[3]/form[1]/button[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[1]/button[1]"
       }
-    ]
+    ],
+    "diffMonth": 49
   },
   {
     "name": "Nytimes",
@@ -2216,7 +2246,8 @@
         "old": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]"
       }
-    ]
+    ],
+    "diffMonth": 24
   },
   {
     "name": "Office",
@@ -2273,7 +2304,8 @@
         "old": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]",
         "new": "/html[1]/body[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/h1[1]"
       }
-    ]
+    ],
+    "diffMonth": 21
   },
   {
     "name": "Okta",
@@ -2322,7 +2354,8 @@
         "old": "/html[1]/body[1]/header[1]/div[1]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[2]/button[1]"
       }
-    ]
+    ],
+    "diffMonth": 36
   },
   {
     "name": "Paypal",
@@ -2423,7 +2456,8 @@
         "old": "/html[1]/body[1]/div[1]/footer[1]/div[1]/ul[1]/li[4]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/ul[2]/li[4]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 17
   },
   {
     "name": "Reddit",
@@ -2552,7 +2586,8 @@
         "old": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[7]/a[1]",
         "new": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[3]/ul[2]/li[10]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 44
   },
   {
     "name": "Spotify",
@@ -2629,7 +2664,8 @@
         "old": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
         "new": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[2]/dd[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 38
   },
   {
     "name": "Target",
@@ -2706,7 +2742,8 @@
         "old": "/html[1]/body[1]/div[2]/div[2]/header[1]/header[1]/nav[1]/ul[1]/li[4]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 41
   },
   {
     "name": "Twitch",
@@ -2735,7 +2772,8 @@
         "old": "/html[1]/body[1]/div[1]/div[1]/a[1]/*[local-name() = \"svg\"][1]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/*[local-name() = \"svg\"][1]"
       }
-    ]
+    ],
+    "diffMonth": 57
   },
   {
     "name": "Twitter",
@@ -2824,7 +2862,8 @@
         "old": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[7]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[3]/ul[1]/li[7]"
       }
-    ]
+    ],
+    "diffMonth": 40
   },
   {
     "name": "Ups",
@@ -2949,7 +2988,8 @@
         "old": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
         "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 40
   },
   {
     "name": "Usps",
@@ -3102,7 +3142,8 @@
         "old": "/html[1]/body[1]/div[3]/div[2]/div[1]",
         "new": "/html[1]/body[1]/div[3]/div[1]/div[1]"
       }
-    ]
+    ],
+    "diffMonth": 35
   },
   {
     "name": "Walmart",
@@ -3139,7 +3180,8 @@
         "old": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/a[3]",
         "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 38
   },
   {
     "name": "Wellsfargo",
@@ -3296,7 +3338,8 @@
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/nav[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
         "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/nav[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 13
   },
   {
     "name": "Wikipedia",
@@ -3461,7 +3504,8 @@
         "old": "/html[1]/body[1]/div[2]/form[1]/fieldset[1]/button[1]",
         "new": "/html[1]/body[1]/div[3]/form[1]/fieldset[1]/button[1]"
       }
-    ]
+    ],
+    "diffMonth": 39
   },
   {
     "name": "Yahoo",
@@ -3538,7 +3582,8 @@
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
         "new": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[5]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 25
   },
   {
     "name": "Youtube",
@@ -3579,7 +3624,8 @@
         "old": "/html[1]/body[1]/div[4]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/ul[1]/li[3]/a[1]/span[1]/span[2]/span[1]",
         "new": "/html[1]/body[1]/ytd-app[1]/div[1]/ytd-mini-guide-renderer[1]/div[1]/ytd-mini-guide-entry-renderer[5]/a[1]/span[1]"
       }
-    ]
+    ],
+    "diffMonth": 15
   },
   {
     "name": "Zillow",
@@ -3624,7 +3670,8 @@
         "old": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[1]/section[1]/div[1]/a[1]",
         "new": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[3]/li[1]/a[1]"
       }
-    ]
+    ],
+    "diffMonth": 40
   },
   {
     "name": "Zoom",
@@ -3665,6 +3712,7 @@
         "old": "/html[1]/body[1]/div[4]/div[2]/form[1]/div[7]/div[1]/button[1]",
         "new": "/html[1]/body[1]/div[3]/div[3]/div[1]/div[2]/div[1]/form[1]/div[1]/div[1]/div[1]/button[1]"
       }
-    ]
+    ],
+    "diffMonth": 55
   }
 ]
