@@ -9,10 +9,16 @@ const cluster = require('cluster');
 const website = require('../test_data/our_data/website.json');
 const root = path.join(__dirname, '../test_data/our_data/apps');
 const recordedPath = path.join(__dirname, '../test_data/our_data/recorded.txt');
+const failedPath = path.join(__dirname, '../test_data/our_data/failed.txt');
 
 function getRecorded() {
   const recordedContent = fs.readFileSync(recordedPath, 'utf8');
   return recordedContent.split('\n').filter(Boolean);
+}
+
+function getFailed() {
+  const failedContent = fs.readFileSync(failedPath, 'utf8');
+  return failedContent.split('\n').filter(Boolean);
 }
 
 function writeRecorded(recorded) {
@@ -86,7 +92,7 @@ async function getScreenshotsOfNewSite(driver, site, targetProperties) {
     return getScreenshotOfElement(element, screenshotPath);
   });
   const positionScreenshots = targetProperties.map(async (targetProperty, index) => {
-    if (!targetProperty.location) {
+    if (!targetProperty?.location) {
       console.warn('targetProperty.location is null', targetProperty);
       return;
     }
@@ -131,12 +137,13 @@ async function getPropertyOfSite(driver, site) {
   await driver.get(url.old);
   await driver.sleep(2000);
   await driver.executeScript(javascript); // 注入 selector 函数
+
   const promiseList = xpath.map((oneTarget) =>
     driver.executeScript(function getProperties(xpath) {
-      if (!Silimon) {
-        console.warn('Silimon is null');
+      if (!window.Silimon) {
+        return {};
       }
-      !Silimon && window.eval(Silimon);
+
       return Silimon.getElementPropertiesByXpath(xpath);
     }, oneTarget.old),
   );
@@ -151,7 +158,9 @@ async function getPropertyOfSite(driver, site) {
   await driver.executeScript(javascript); // 注入 selector 函数
   const elementsToExtract = 'input,textarea,button,select,a,h1,h2,h3,h4,h5,li,span,div,p,th,tr,td,label,svg';
   const candidateProperties = await driver.executeScript(function getProperties(selector) {
-    !Silimon && window.eval(Silimon);
+    if (!window.Silimon) {
+      return {};
+    }
     return Silimon.getCandidateElementsPropertiesBySelector(selector);
   }, elementsToExtract);
   await writeJson(candidateProperties, path.join(root, site.name, 'properties/candidate.json')); // 旧网站上目标元素的属性
@@ -166,7 +175,7 @@ async function startRecord(website) {
     await driver.manage().window().maximize(); // 最大化窗口
     for (const site of website) {
       const recorded = getRecorded();
-      if (!recorded.includes(site.name)) {
+      if (!recorded.includes(site.name) && !getFailed().includes(site.name)) {
         console.info('recording', site.name);
         await getPropertyOfSite(driver, site);
         recorded.push(site.name);
@@ -189,5 +198,5 @@ if (cluster.isMaster) {
     }, 5000 * i);
   }
 } else {
-  startRecord(shuffle(website));
+  startRecord(website);
 }
