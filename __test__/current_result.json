@@ -20,28 +20,28 @@
     "locatedError": 0
   },
   "Bing": {
-    "locatedSuccess": 10,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Chase": {
-    "locatedSuccess": 31,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Cnn": {
-    "locatedSuccess": 11,
-    "locatedError": 5
+    "locatedSuccess": 0,
+    "locatedError": 0
   },
   "Craigslist": {
     "locatedSuccess": 45,
     "locatedError": 0
   },
   "Dropbox": {
-    "locatedSuccess": 6,
-    "locatedError": 5
+    "locatedSuccess": 0,
+    "locatedError": 0
   },
   "Ebay": {
-    "locatedSuccess": 22,
-    "locatedError": 3
+    "locatedSuccess": 0,
+    "locatedError": 0
   },
   "Espn": {
     "locatedSuccess": 23,
@@ -49,10 +49,10 @@
   },
   "Etsy": {
     "locatedSuccess": 11,
-    "locatedError": 2
+    "locatedError": 1
   },
   "Facebook": {
-    "locatedSuccess": 25,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Fidelity": {
@@ -60,11 +60,11 @@
     "locatedError": 0
   },
   "Force": {
-    "locatedSuccess": 17,
-    "locatedError": 0
+    "locatedSuccess": 12,
+    "locatedError": 5
   },
   "Foxnews": {
-    "locatedSuccess": 0,
+    "locatedSuccess": 28,
     "locatedError": 0
   },
   "Google": {
@@ -76,16 +76,16 @@
     "locatedError": 0
   },
   "Imdb": {
-    "locatedSuccess": 0,
-    "locatedError": 0
+    "locatedSuccess": 6,
+    "locatedError": 6
   },
   "Indeed": {
-    "locatedSuccess": 11,
-    "locatedError": 1
+    "locatedSuccess": 13,
+    "locatedError": 0
   },
   "Instagram": {
-    "locatedSuccess": 14,
-    "locatedError": 1
+    "locatedSuccess": 13,
+    "locatedError": 2
   },
   "Instructure": {
     "locatedSuccess": 1,
@@ -96,28 +96,28 @@
     "locatedError": 1
   },
   "Linkedin": {
-    "locatedSuccess": 2,
-    "locatedError": 2
+    "locatedSuccess": 3,
+    "locatedError": 1
   },
   "Live": {
-    "locatedSuccess": 1,
-    "locatedError": 2
+    "locatedSuccess": 0,
+    "locatedError": 3
   },
   "Microsoft": {
-    "locatedSuccess": 4,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Microsoftonline": {
-    "locatedSuccess": 6,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Myshopify": {
-    "locatedSuccess": 2,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Netflix": {
     "locatedSuccess": 1,
-    "locatedError": 2
+    "locatedError": 1
   },
   "Nytimes": {
     "locatedSuccess": 23,
@@ -128,11 +128,11 @@
     "locatedError": 2
   },
   "Okta": {
-    "locatedSuccess": 9,
-    "locatedError": 1
+    "locatedSuccess": 10,
+    "locatedError": 0
   },
   "Paypal": {
-    "locatedSuccess": 0,
+    "locatedSuccess": 22,
     "locatedError": 0
   },
   "Reddit": {
@@ -140,59 +140,59 @@
     "locatedError": 0
   },
   "Spotify": {
-    "locatedSuccess": 0,
-    "locatedError": 0
-  },
-  "Target": {
-    "locatedSuccess": 0,
-    "locatedError": 0
-  },
-  "Twitch": {
-    "locatedSuccess": 3,
+    "locatedSuccess": 15,
     "locatedError": 2
   },
+  "Target": {
+    "locatedSuccess": 11,
+    "locatedError": 6
+  },
+  "Twitch": {
+    "locatedSuccess": 1,
+    "locatedError": 3
+  },
   "Twitter": {
-    "locatedSuccess": 19,
-    "locatedError": 1
+    "locatedSuccess": 20,
+    "locatedError": 0
   },
   "Ups": {
-    "locatedSuccess": 0,
-    "locatedError": 0
+    "locatedSuccess": 26,
+    "locatedError": 3
   },
   "Usps": {
     "locatedSuccess": 0,
     "locatedError": 0
   },
   "Walmart": {
-    "locatedSuccess": 4,
-    "locatedError": 3
+    "locatedSuccess": 5,
+    "locatedError": 1
   },
   "Wellsfargo": {
-    "locatedSuccess": 37,
+    "locatedSuccess": 35,
     "locatedError": 0
   },
   "Wikipedia": {
-    "locatedSuccess": 39,
-    "locatedError": 0
+    "locatedSuccess": 33,
+    "locatedError": 6
   },
   "Yahoo": {
-    "locatedSuccess": 12,
-    "locatedError": 5
+    "locatedSuccess": 0,
+    "locatedError": 0
   },
   "Youtube": {
-    "locatedSuccess": 7,
-    "locatedError": 1
+    "locatedSuccess": 0,
+    "locatedError": 0
   },
   "Zillow": {
-    "locatedSuccess": 7,
-    "locatedError": 2
+    "locatedSuccess": 8,
+    "locatedError": 0
   },
   "Zoom": {
-    "locatedSuccess": 6,
-    "locatedError": 2
+    "locatedSuccess": 0,
+    "locatedError": 0
   },
   "Total": {
-    "locatedSuccess": 561,
+    "locatedSuccess": 517,
     "locatedError": 44
   }
 }

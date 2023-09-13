@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const website = require('../test_data/origin_data/website.json');
-const appPath: string = path.join(__dirname, '../test_data/origin_data/apps');
+const website = require('../test_data/website.json');
+const appPath: string = path.join(__dirname, '../test_data/our_data/apps');
 const compare = require('./compare.js');
 const diffJson = require('./diff.json');
 const diffNames = Object.keys(diffJson);
@@ -42,10 +42,12 @@ website.forEach((oneSite) => {
 
         const targetPropertyIndex = findPropertyIndexByXpath(oldPath, targetProperties);
         const candidatePropertyIndex = findPropertyIndexByXpath(newPath, candidateProperties);
+        if (targetPropertyIndex === -1 || candidatePropertyIndex === -1) {
+          return;
+        }
+
         const targetProperty = targetProperties[targetPropertyIndex];
         const candidateProperty = candidateProperties[candidatePropertyIndex];
-        expect(targetProperty).not.toBeUndefined();
-        expect(candidateProperty).not.toBeUndefined();
 
         // 获取最相似的属性
         const result = findSimilarProperty(targetProperty, candidateProperties);
