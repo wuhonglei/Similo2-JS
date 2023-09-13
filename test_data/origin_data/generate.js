@@ -1,9 +1,14 @@
+/**
+ * 根据原始数据生成 website.json
+ */
+
 const path = require('path');
 const fs = require('fs');
 
 const oldSite = require('./json/old.json');
 const newSite = require('./json/new.json');
-const appPath = path.join('/Users/wuhonglei1/Desktop/code/Similo2-main/WidgetLocator', 'apps');
+const appPath = path.join(__dirname, '../apps');
+const websitePath = path.join(__dirname, '../website.json');
 
 const oldPathPattern = /(?:old_xpath=).+/;
 const newPathPattern = /(?:new_xpath=).+/;
@@ -43,10 +48,10 @@ function walk(app) {
         const newPathMatch = content.match(newPathPattern);
         const oldPath = oldPathMatch[0].replace('old_xpath=', '');
         const newPath = newPathMatch[0].replace('new_xpath=', '');
-        // site.xpath.push({
-        //   old: oldPath,
-        //   new: newPath,
-        // });
+        site.xpath.push({
+          old: oldPath,
+          new: newPath,
+        });
       }
     });
     siteList.push(site);
@@ -55,5 +60,4 @@ function walk(app) {
 }
 
 const content = walk(appPath);
-console.info(content.filter((item) => !(item.url.old + item.url.new).includes('if_')));
-// fs.writeFileSync('/Users/wuhonglei1/Desktop/code/Similo2-main/Similo2/data/website.json', content);
+fs.writeFileSync(websitePath, JSON.stringify(content, null, 2));
