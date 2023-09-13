@@ -68,23 +68,25 @@ function getElementHeight(element: Element): number {
 }
 
 /**
- * 判断是否是同一个元素
- * @param parentElement
+ * 判断是否是有效的邻居节点
+ * @param currentElement
  * @param element
  * @returns
  */
-function isSameElement(parentElement: Element, element: Element): boolean {
-  if (parentElement === element) {
-    return true;
-  }
-
-  if (!parentElement.contains(element)) {
+function isValidNeighborElement(currentElement: Element, element: Element): boolean {
+  if (!currentElement) {
     return false;
   }
 
-  const parentText = getVisibleText(parentElement);
-  const elementText = getVisibleText(element);
-  return parentText === elementText;
+  if (currentElement === element) {
+    return false;
+  }
+
+  if (currentElement.contains(element)) {
+    return false;
+  }
+
+  return true;
 }
 
 /**
@@ -92,7 +94,7 @@ function isSameElement(parentElement: Element, element: Element): boolean {
  * @param location 元素区域
  * @returns string
  */
-function getNeighborText(element: Element, location: ElementLocation): string[] {
+export function getNeighborText(element: Element, location: ElementLocation): string[] {
   const { x, y, width, height } = location;
 
   /**
@@ -119,7 +121,7 @@ function getNeighborText(element: Element, location: ElementLocation): string[] 
     for (let i = x1; i < x2; i += xStep) {
       for (let j = y1; j < y2; j += yStep) {
         const pointElement = document.elementFromPoint(i, j);
-        pointElement && !isSameElement(pointElement, element) && neighborElements.push(pointElement);
+        isValidNeighborElement(pointElement, element) && neighborElements.push(pointElement);
       }
     }
   });
