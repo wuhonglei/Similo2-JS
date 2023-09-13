@@ -4,16 +4,26 @@ import typescript from '@rollup/plugin-typescript';
 import commonjs from 'rollup-plugin-commonjs';
 
 export default defineConfig({
-  input: 'src/index.ts',
-  output: {
-    file: 'lib/bundle.js',
-    format: 'umd',
-    name: 'Silimon',
-    sourcemap: true, // Enable source map generation
-  },
+  input: ['src/property.ts', 'src/similarity.ts'],
+  output: [
+    {
+      dir: 'lib',
+      format: 'esm',
+      name: 'Silimon',
+      sourcemap: true, // Enable source map generation
+    },
+    {
+      dir: 'lib',
+      format: 'esm',
+      name: 'Silimon',
+      sourcemap: true, // Enable source map generation
+    },
+  ],
   plugins: [
     nodeResolve(),
-    typescript(),
+    typescript({
+      tsconfig: './tsconfig.json',
+    }),
     commonjs({
       include: /node_modules/, // 指定要处理的模块范围
     }),

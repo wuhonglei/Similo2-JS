@@ -144,6 +144,8 @@ export function stringSimilarity(a: string, b: string): number {
 
 /**
  * 移除标点符号
+ * 根据 4603 个可见元素文本数据集，统计出现频率最高的标点符号
+ *
  * ... 例如 I'm shopping for...
  * ® 注册标识, 例如 Starbucks® Rewards Visa® Prepaid Card
  * ? 例如 stay?

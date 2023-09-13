@@ -72,7 +72,6 @@ function getMaxScoreDetail(scoreDetailsList: SimilarScoreDetail[][], idealScore:
     max,
     index,
     scores,
-    normalizedScores: normalizeScore(scores, idealScore),
   };
 }
 
@@ -94,13 +93,12 @@ export function getIdealScore(property: Property): number {
 export function findSimilarProperty(property: Property, properties: Property[]): SimilarPropertyResult {
   const scoreDetailsList = properties.map((p) => getSimilarScoreDetails(property, p));
   const idealScore = getIdealScore(property);
-  const { scores, normalizedScores, max, index } = getMaxScoreDetail(scoreDetailsList, idealScore);
+  const { scores, max, index } = getMaxScoreDetail(scoreDetailsList, idealScore);
 
   return {
     scores,
     maxScore: max,
     maxIndex: index,
-    normalizedScores,
     scoreDetails: scoreDetailsList,
     similarProperty: properties[index],
   };
