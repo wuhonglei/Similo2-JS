@@ -7,7 +7,7 @@ const path = require('path');
 const originResult = require('./origin_result.json');
 const currentResult = require('./current_result.json');
 
-module.exports = function compare() {
+function compare() {
   const diff = {};
   Object.keys(originResult).forEach((key) => {
     if (key === 'Total') {
@@ -35,4 +35,10 @@ module.exports = function compare() {
 
   const filepath = path.join(__dirname, './diff.json');
   fs.writeFileSync(filepath, JSON.stringify(diff, null, 2));
-};
+}
+
+if (require.main === module) {
+  compare();
+}
+
+module.exports = compare;

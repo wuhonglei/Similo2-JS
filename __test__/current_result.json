@@ -8,8 +8,8 @@
     "locatedError": 0
   },
   "Amazon": {
-    "locatedSuccess": 8,
-    "locatedError": 2
+    "locatedSuccess": 10,
+    "locatedError": 0
   },
   "Apple": {
     "locatedSuccess": 10,
@@ -81,19 +81,19 @@
   },
   "Indeed": {
     "locatedSuccess": 11,
-    "locatedError": 2
+    "locatedError": 1
   },
   "Instagram": {
-    "locatedSuccess": 12,
-    "locatedError": 3
+    "locatedSuccess": 14,
+    "locatedError": 1
   },
   "Instructure": {
     "locatedSuccess": 1,
     "locatedError": 1
   },
   "Intuit": {
-    "locatedSuccess": 6,
-    "locatedError": 5
+    "locatedSuccess": 10,
+    "locatedError": 1
   },
   "Linkedin": {
     "locatedSuccess": 2,
@@ -192,7 +192,7 @@
     "locatedError": 2
   },
   "Total": {
-    "locatedSuccess": 553,
-    "locatedError": 53
+    "locatedSuccess": 561,
+    "locatedError": 44
   }
 }

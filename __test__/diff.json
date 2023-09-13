@@ -1,34 +1,4 @@
 {
-  "Aliexpress": {
-    "origin": {
-      "locatedSuccess": 39,
-      "locatedError": 0
-    },
-    "current": {
-      "locatedSuccess": 38,
-      "locatedError": 1
-    }
-  },
-  "Amazon": {
-    "origin": {
-      "locatedSuccess": 10,
-      "locatedError": 0
-    },
-    "current": {
-      "locatedSuccess": 8,
-      "locatedError": 2
-    }
-  },
-  "Etsy": {
-    "origin": {
-      "locatedSuccess": 11,
-      "locatedError": 2
-    },
-    "current": {
-      "locatedSuccess": 10,
-      "locatedError": 3
-    }
-  },
   "Indeed": {
     "origin": {
       "locatedSuccess": 13,
@@ -36,17 +6,7 @@
     },
     "current": {
       "locatedSuccess": 11,
-      "locatedError": 2
-    }
-  },
-  "Instagram": {
-    "origin": {
-      "locatedSuccess": 14,
       "locatedError": 1
-    },
-    "current": {
-      "locatedSuccess": 11,
-      "locatedError": 4
     }
   },
   "Intuit": {
@@ -55,8 +15,8 @@
       "locatedError": 0
     },
     "current": {
-      "locatedSuccess": 6,
-      "locatedError": 5
+      "locatedSuccess": 10,
+      "locatedError": 1
     }
   },
   "Linkedin": {
@@ -85,8 +45,8 @@
       "locatedError": 2
     },
     "current": {
-      "locatedSuccess": 3,
-      "locatedError": 4
+      "locatedSuccess": 4,
+      "locatedError": 3
     }
   },
   "Yahoo": {
