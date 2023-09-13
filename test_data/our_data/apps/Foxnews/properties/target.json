@@ -1,0 +1,937 @@
+[
+  {
+    "alt": "",
+    "area": 9312,
+    "classList": [
+      "logo"
+    ],
+    "href": "http://www.foxnews.com/",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/div[1]/h1[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 96,
+      "width": 97,
+      "x": 200,
+      "y": 7
+    },
+    "name": "",
+    "neighborText": [
+      "U.S.",
+      "World",
+      "Opinion",
+      "Politics",
+      "Entertainment",
+      "Business",
+      "Lifestyle",
+      "TV",
+      "Radio",
+      "More",
+      "Expand",
+      "/",
+      "Collapse",
+      "search",
+      "Watch",
+      "TV",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More",
+      "Exclusive",
+      "Video"
+    ],
+    "shape": 101,
+    "tag": "A",
+    "visibleText": [
+      "Fox",
+      "News"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[1]/h1[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1479,
+    "classList": [],
+    "href": "http://www.foxnews.com/us.html",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 51,
+      "x": 314,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "Fox",
+      "News",
+      "World",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More"
+    ],
+    "shape": 175,
+    "tag": "A",
+    "visibleText": [
+      "U.S."
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2280,
+    "classList": [],
+    "href": "http://video.foxnews.com/v/5614615980001/#sp=watch-live",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/div[2]/div[1]/div[2]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 76,
+      "x": 1515,
+      "y": 12
+    },
+    "name": "",
+    "neighborText": [
+      "I:COMP",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More",
+      "Expand",
+      "/",
+      "Collapse",
+      "search"
+    ],
+    "shape": 253,
+    "tag": "A",
+    "visibleText": [
+      "Watch",
+      "TV"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[2]/div[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2793,
+    "classList": [
+      "subnav-title"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/div[3]/div[1]/div[1]/nav[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 57,
+      "x": 326,
+      "y": 55
+    },
+    "name": null,
+    "neighborText": [
+      "Fox",
+      "News",
+      "U.S.",
+      "World",
+      "Manafort",
+      "trial",
+      "Exclusive",
+      "Video"
+    ],
+    "shape": 116,
+    "tag": "SPAN",
+    "visibleText": [
+      "Hot",
+      "Topics"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[3]/div[1]/div[1]/nav[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 2156,
+    "classList": [
+      "subnav-title"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/div[3]/div[1]/div[2]/nav[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 44,
+      "x": 1295,
+      "y": 55
+    },
+    "name": null,
+    "neighborText": [
+      "U.S.",
+      "World",
+      "Opinion",
+      "Politics",
+      "Entertainment",
+      "Business",
+      "Lifestyle",
+      "TV",
+      "Radio",
+      "More",
+      "Expand",
+      "/",
+      "Collapse",
+      "search",
+      "Watch",
+      "TV",
+      "SP500"
+    ],
+    "shape": 89,
+    "tag": "SPAN",
+    "visibleText": [
+      "Markets"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[3]/div[1]/div[2]/nav[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/us/crime.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 36,
+      "x": 216,
+      "y": 18377
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 225,
+    "tag": "A",
+    "visibleText": [
+      "Crime"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 736,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/us/military.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 46,
+      "x": 216,
+      "y": 18401
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 287,
+    "tag": "A",
+    "visibleText": [
+      "Military"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 992,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/us/education.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 62,
+      "x": 216,
+      "y": 18425
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 387,
+    "tag": "A",
+    "visibleText": [
+      "Education"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 592,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/us/terror.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 37,
+      "x": 216,
+      "y": 18449
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 231,
+    "tag": "A",
+    "visibleText": [
+      "Terror"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1200,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/us/immigration.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 75,
+      "x": 216,
+      "y": 18473
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 468,
+    "tag": "A",
+    "visibleText": [
+      "Immigration"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 912,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/us/economy.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 57,
+      "x": 216,
+      "y": 18497
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 356,
+    "tag": "A",
+    "visibleText": [
+      "Economy"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1920,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/us/personal-freedoms.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 120,
+      "x": 216,
+      "y": 18521
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 750,
+    "tag": "A",
+    "visibleText": [
+      "Personal",
+      "Freedoms"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2204,
+    "classList": [],
+    "href": "http://www.foxnews.com/opinion.html",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 76,
+      "x": 449,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "World",
+      "Politics",
+      "Manafort",
+      "trial",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements"
+    ],
+    "shape": 262,
+    "tag": "A",
+    "visibleText": [
+      "Opinion"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2224,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/news-events/fox-news-investigates.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 139,
+      "x": 216,
+      "y": 18545
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 868,
+    "tag": "A",
+    "visibleText": [
+      "Fox",
+      "News",
+      "Investigates"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 416,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/united-nations.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 26,
+      "x": 450,
+      "y": 18377
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 162,
+    "tag": "A",
+    "visibleText": [
+      "U.N."
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 880,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/conflicts.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 55,
+      "x": 450,
+      "y": 18401
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 343,
+    "tag": "A",
+    "visibleText": [
+      "Conflicts"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 960,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/terrorism.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 60,
+      "x": 450,
+      "y": 18425
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 375,
+    "tag": "A",
+    "visibleText": [
+      "Terrorism"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 928,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/disasters.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 58,
+      "x": 450,
+      "y": 18449
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 362,
+    "tag": "A",
+    "visibleText": [
+      "Disasters"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1616,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/global-economy.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 101,
+      "x": 450,
+      "y": 18473
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 631,
+    "tag": "A",
+    "visibleText": [
+      "Global",
+      "Economy"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1248,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/environment.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 78,
+      "x": 450,
+      "y": 18497
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 487,
+    "tag": "A",
+    "visibleText": [
+      "Environment"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 784,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/world-religion.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 49,
+      "x": 450,
+      "y": 18521
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 306,
+    "tag": "A",
+    "visibleText": [
+      "Religion"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 912,
+    "classList": [],
+    "href": "http://www.foxnews.com/category/world/scandals.html",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 57,
+      "x": 450,
+      "y": 18545
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 356,
+    "tag": "A",
+    "visibleText": [
+      "Scandals"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]/nav[2]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2146,
+    "classList": [],
+    "href": "http://www.foxnews.com/politics.html",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 74,
+      "x": 535,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "Opinion",
+      "Entertainment",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements"
+    ],
+    "shape": 255,
+    "tag": "A",
+    "visibleText": [
+      "Politics"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3451,
+    "classList": [],
+    "href": "http://www.foxnews.com/entertainment.html",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 119,
+      "x": 619,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "Politics",
+      "Business",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements"
+    ],
+    "shape": 410,
+    "tag": "A",
+    "visibleText": [
+      "Entertainment"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2465,
+    "classList": [],
+    "href": "http://www.foxbusiness.com/",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 85,
+      "x": 749,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "Entertainment",
+      "Lifestyle",
+      "Obama's",
+      "endorsements",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements"
+    ],
+    "shape": 293,
+    "tag": "A",
+    "visibleText": [
+      "Business"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2349,
+    "classList": [],
+    "href": "http://www.foxnews.com/lifestyle.html",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 81,
+      "x": 845,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "Business",
+      "TV",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More"
+    ],
+    "shape": 279,
+    "tag": "A",
+    "visibleText": [
+      "Lifestyle"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1247,
+    "classList": [],
+    "href": "http://www.foxnews.com/shows.html",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 43,
+      "x": 937,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "Lifestyle",
+      "Radio",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More"
+    ],
+    "shape": 148,
+    "tag": "A",
+    "visibleText": [
+      "TV"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2059,
+    "classList": [
+      "js-menu-toggle"
+    ],
+    "href": "http://www.foxnews.com/#",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/ul[1]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 71,
+      "x": 1062,
+      "y": 14
+    },
+    "name": "",
+    "neighborText": [
+      "Radio",
+      "Hot",
+      "Topics",
+      "Manafort",
+      "trial",
+      "Bush",
+      "doctor",
+      "suspect",
+      "ID'd",
+      "Obama's",
+      "endorsements",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More"
+    ],
+    "shape": 244,
+    "tag": "A",
+    "visibleText": [
+      "More"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[10]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 720,
+    "classList": [
+      "js-focus-search"
+    ],
+    "href": "http://www.foxnews.com/#",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/div[2]/div[1]/div[2]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 24,
+      "x": 1487,
+      "y": 12
+    },
+    "name": "",
+    "neighborText": [
+      "Watch",
+      "TV",
+      "I:COMP",
+      "Markets",
+      "SP500",
+      "I:COMP",
+      "I:DJI",
+      "More"
+    ],
+    "shape": 80,
+    "tag": "A",
+    "visibleText": [
+      "Expand",
+      "/",
+      "Collapse",
+      "search"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/div[2]/div[1]/div[2]/div[2]/a[1]"
+  }
+]

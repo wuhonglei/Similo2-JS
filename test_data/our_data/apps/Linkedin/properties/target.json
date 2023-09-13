@@ -1,0 +1,118 @@
+[
+  {
+    "alt": "",
+    "area": 6912,
+    "classList": [
+      "login-email"
+    ],
+    "href": "",
+    "id": "login-email",
+    "idxpath": "//*[@id='login-email']",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 216,
+      "x": 777,
+      "y": 10
+    },
+    "name": "session_key",
+    "neighborText": [
+      "Password"
+    ],
+    "shape": 675,
+    "tag": "INPUT",
+    "visibleText": [
+      "Email"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/form[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 6912,
+    "classList": [
+      "login-password"
+    ],
+    "href": "",
+    "id": "login-password",
+    "idxpath": "//*[@id='login-password']",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 216,
+      "x": 1001,
+      "y": 10
+    },
+    "name": "session_password",
+    "neighborText": [
+      "Sign",
+      "in",
+      "Email"
+    ],
+    "shape": 675,
+    "tag": "INPUT",
+    "visibleText": [
+      "Password"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/form[1]/input[2]"
+  },
+  {
+    "alt": "",
+    "area": 5408,
+    "classList": [
+      "link-forgot-password"
+    ],
+    "href": "https://www.linkedin.com/uas/request-password-reset?trk=uno-reg-guest-home-forgot-password",
+    "id": "",
+    "idxpath": "//*[@id='layout-main']/div[1]/div[1]/div[1]/form[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 104,
+      "x": 1339,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in"
+    ],
+    "shape": 200,
+    "tag": "A",
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/form[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2976,
+    "classList": [
+      "login",
+      "submit-button"
+    ],
+    "href": "",
+    "id": "login-submit",
+    "idxpath": "//*[@id='login-submit']",
+    "isButton": true,
+    "location": {
+      "height": 32,
+      "width": 93,
+      "x": 1225,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "Forgot",
+      "password?",
+      "Password"
+    ],
+    "shape": 290,
+    "tag": "INPUT",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/form[1]/input[3]"
+  }
+]

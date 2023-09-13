@@ -1,0 +1,56 @@
+[
+  {
+    "alt": "",
+    "area": 6604,
+    "classList": [],
+    "href": "https://www.instructure.com/",
+    "id": "",
+    "idxpath": "//*[@id='main-nav']/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 254,
+      "x": 416,
+      "y": 37
+    },
+    "name": "",
+    "neighborText": [
+      "Canvas"
+    ],
+    "shape": 976,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/nav[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2626,
+    "classList": [
+      "about-us"
+    ],
+    "href": "https://www.instructure.com/about",
+    "id": "navAabout",
+    "idxpath": "//*[@id='navAabout']",
+    "isButton": false,
+    "location": {
+      "height": 26,
+      "width": 101,
+      "x": 1034,
+      "y": 37
+    },
+    "name": "",
+    "neighborText": [
+      "Investors",
+      "News"
+    ],
+    "shape": 388,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "Us"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/nav[1]/div[1]/span[1]/a[6]"
+  }
+]

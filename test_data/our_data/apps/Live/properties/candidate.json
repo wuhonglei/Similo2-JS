@@ -1,0 +1,7203 @@
+[
+  {
+    "alt": "",
+    "area": 2496,
+    "classList": [
+      "plate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 52,
+      "x": -26,
+      "y": -24
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 108,
+    "tag": "DIV",
+    "visibleText": [
+      "Dismiss",
+      "Download",
+      "the",
+      "free",
+      "Outlook",
+      "experience",
+      "designed",
+      "for",
+      "your",
+      "phone",
+      "Download",
+      "Outlook",
+      "for",
+      "iOS",
+      "Download",
+      "Outlook",
+      "for",
+      "Android",
+      "Continue",
+      "to",
+      "Outlook",
+      "sign-in"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1936,
+    "classList": [
+      "mobile-speedbump-close"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 44,
+      "width": 44,
+      "x": -18,
+      "y": -24
+    },
+    "name": "",
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 100,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Dismiss"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 23114,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump-slogan']/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 182,
+      "width": 127,
+      "x": 0,
+      "y": 4
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 69,
+    "tag": "H1",
+    "visibleText": [
+      "Download",
+      "the",
+      "free",
+      "Outlook",
+      "experience",
+      "designed",
+      "for",
+      "your",
+      "phone"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/header[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "primary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 0,
+      "x": 0,
+      "y": 282
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 0,
+    "tag": "LI",
+    "visibleText": [
+      "Download",
+      "Outlook",
+      "for",
+      "iOS"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 6072,
+    "classList": [
+      "internal"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2087918",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 138,
+      "x": 0,
+      "y": 282
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 313,
+    "tag": "A",
+    "visibleText": [
+      "Download",
+      "Outlook",
+      "for",
+      "iOS"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "primary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 0,
+      "x": 0,
+      "y": 346
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 0,
+    "tag": "LI",
+    "visibleText": [
+      "Download",
+      "Outlook",
+      "for",
+      "Android"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 6072,
+    "classList": [
+      "internal"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2087917",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 138,
+      "x": 0,
+      "y": 346
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 313,
+    "tag": "A",
+    "visibleText": [
+      "Download",
+      "Outlook",
+      "for",
+      "Android"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "secondary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 88,
+      "width": 0,
+      "x": 0,
+      "y": 410
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 0,
+    "tag": "LI",
+    "visibleText": [
+      "Continue",
+      "to",
+      "Outlook",
+      "sign-in"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "internal",
+      "sign-in-link"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 88,
+      "width": 0,
+      "x": 0,
+      "y": 410
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 0,
+    "tag": "A",
+    "visibleText": [
+      "Continue",
+      "to",
+      "Outlook",
+      "sign-in"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1232,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 88,
+      "width": 14,
+      "x": 0,
+      "y": 410
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 15,
+    "tag": "SPAN",
+    "visibleText": [
+      "Continue",
+      "to",
+      "Outlook",
+      "sign-in"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "screen"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mobile-speedbump']/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "masthead-shell"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Outlook",
+      "Connect.",
+      "Organize.",
+      "Get",
+      "things",
+      "done.",
+      "Free",
+      "Outlook",
+      "email",
+      "and",
+      "calendar",
+      "Everything",
+      "you",
+      "need",
+      "to",
+      "be",
+      "your",
+      "most",
+      "productive",
+      "and",
+      "connected",
+      "self—at",
+      "home,",
+      "on",
+      "the",
+      "go,",
+      "and",
+      "everywhere",
+      "in",
+      "between.",
+      "Create",
+      "free",
+      "account",
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1621760,
+    "classList": [
+      "primary-content",
+      "ready-to-animate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 905,
+      "width": 1792,
+      "x": 0,
+      "y": 60
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 198,
+    "tag": "DIV",
+    "visibleText": [
+      "Outlook",
+      "Connect.",
+      "Organize.",
+      "Get",
+      "things",
+      "done.",
+      "Free",
+      "Outlook",
+      "email",
+      "and",
+      "calendar",
+      "Everything",
+      "you",
+      "need",
+      "to",
+      "be",
+      "your",
+      "most",
+      "productive",
+      "and",
+      "connected",
+      "self—at",
+      "home,",
+      "on",
+      "the",
+      "go,",
+      "and",
+      "everywhere",
+      "in",
+      "between.",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 743016,
+    "classList": [
+      "titling",
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 746,
+      "width": 996,
+      "x": 398,
+      "y": 60
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 133,
+    "tag": "DIV",
+    "visibleText": [
+      "Outlook",
+      "Connect.",
+      "Organize.",
+      "Get",
+      "things",
+      "done."
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 281868,
+    "classList": [
+      "product-name"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 283,
+      "width": 996,
+      "x": 398,
+      "y": 90
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 351,
+    "tag": "H1",
+    "visibleText": [
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 4250,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/h1[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 125,
+      "x": 398,
+      "y": 90
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 367,
+    "tag": "SPAN",
+    "visibleText": [
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/h1[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 431268,
+    "classList": [
+      "tagline"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 433,
+      "width": 996,
+      "x": 390,
+      "y": 373
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 230,
+    "tag": "P",
+    "visibleText": [
+      "Connect.",
+      "Organize.",
+      "Get",
+      "things",
+      "done."
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 125496,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 126,
+      "width": 996,
+      "x": 390,
+      "y": 373
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 790,
+    "tag": "SPAN",
+    "visibleText": [
+      "Connect."
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 125496,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 126,
+      "width": 996,
+      "x": 390,
+      "y": 499
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 790,
+    "tag": "SPAN",
+    "visibleText": [
+      "Organize."
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 125496,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]/span[3]",
+    "isButton": false,
+    "location": {
+      "height": 126,
+      "width": 996,
+      "x": 390,
+      "y": 625
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 790,
+    "tag": "SPAN",
+    "visibleText": [
+      "Get",
+      "things",
+      "done."
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/p[1]/span[3]"
+  },
+  {
+    "alt": "",
+    "area": 158364,
+    "classList": [
+      "plate",
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 159,
+      "width": 996,
+      "x": 398,
+      "y": 806
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 626,
+    "tag": "DIV",
+    "visibleText": [
+      "Free",
+      "Outlook",
+      "email",
+      "and",
+      "calendar",
+      "Everything",
+      "you",
+      "need",
+      "to",
+      "be",
+      "your",
+      "most",
+      "productive",
+      "and",
+      "connected",
+      "self—at",
+      "home,",
+      "on",
+      "the",
+      "go,",
+      "and",
+      "everywhere",
+      "in",
+      "between.",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 48546,
+    "classList": [
+      "prose"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 93,
+      "width": 522,
+      "x": 398,
+      "y": 833
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 561,
+    "tag": "DIV",
+    "visibleText": [
+      "Free",
+      "Outlook",
+      "email",
+      "and",
+      "calendar",
+      "Everything",
+      "you",
+      "need",
+      "to",
+      "be",
+      "your",
+      "most",
+      "productive",
+      "and",
+      "connected",
+      "self—at",
+      "home,",
+      "on",
+      "the",
+      "go,",
+      "and",
+      "everywhere",
+      "in",
+      "between."
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 14094,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 27,
+      "width": 522,
+      "x": 398,
+      "y": 836
+    },
+    "name": null,
+    "neighborText": [
+      "Everything",
+      "you",
+      "need",
+      "to",
+      "be",
+      "your",
+      "most",
+      "productive",
+      "and",
+      "connected",
+      "self—at",
+      "home,",
+      "on",
+      "the",
+      "go,",
+      "and",
+      "everywhere",
+      "in",
+      "between."
+    ],
+    "shape": 1933,
+    "tag": "H2",
+    "visibleText": [
+      "Free",
+      "Outlook",
+      "email",
+      "and",
+      "calendar"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 28188,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 522,
+      "x": 398,
+      "y": 872
+    },
+    "name": null,
+    "neighborText": [
+      "Free",
+      "Outlook",
+      "email",
+      "and",
+      "calendar"
+    ],
+    "shape": 966,
+    "tag": "P",
+    "visibleText": [
+      "Everything",
+      "you",
+      "need",
+      "to",
+      "be",
+      "your",
+      "most",
+      "productive",
+      "and",
+      "connected",
+      "self—at",
+      "home,",
+      "on",
+      "the",
+      "go,",
+      "and",
+      "everywhere",
+      "in",
+      "between."
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 27965,
+    "classList": [
+      "action"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 85,
+      "width": 329,
+      "x": 1064,
+      "y": 836
+    },
+    "name": null,
+    "neighborText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "shape": 387,
+    "tag": "DIV",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 27965,
+    "classList": [
+      "internal"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1&signup=1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 85,
+      "width": 329,
+      "x": 1064,
+      "y": 836
+    },
+    "name": "",
+    "neighborText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "shape": 387,
+    "tag": "A",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 27965,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 85,
+      "width": 329,
+      "x": 1064,
+      "y": 836
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 387,
+    "tag": "SPAN",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/section[1]/div[1]/div[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 59760,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 996,
+      "x": 398,
+      "y": -1
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1660,
+    "tag": "DIV",
+    "visibleText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2288,
+    "classList": [],
+    "href": "https://www.microsoft.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/mark[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 104,
+      "x": 398,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 472,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/mark[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5402,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 37,
+      "width": 146,
+      "x": 1133,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 394,
+    "tag": "LI",
+    "visibleText": [
+      "Try",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 5402,
+    "classList": [],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2005900&WT.mc_id=PROD_OL-Web_PreAuth_May19UI",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 37,
+      "width": 146,
+      "x": 1133,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in"
+    ],
+    "shape": 394,
+    "tag": "A",
+    "visibleText": [
+      "Try",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3811,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 37,
+      "width": 103,
+      "x": 1290,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "Try",
+      "premium"
+    ],
+    "shape": 278,
+    "tag": "LI",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 3811,
+    "classList": [
+      "internal",
+      "sign-in-link"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 37,
+      "width": 103,
+      "x": 1290,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "Try",
+      "premium"
+    ],
+    "shape": 278,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[1]/aside[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 738304,
+    "classList": [
+      "media"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 412,
+      "width": 1792,
+      "x": 0,
+      "y": 1095
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 434,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 410352,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 412,
+      "width": 996,
+      "x": 398,
+      "y": 1095
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 241,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 410352,
+    "classList": [
+      "photo",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 412,
+      "width": 996,
+      "x": 647,
+      "y": 1095
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 241,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 971264,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 542,
+      "width": 1792,
+      "x": 0,
+      "y": 1157
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 330,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "and",
+      "calendar,",
+      "together",
+      "in",
+      "one",
+      "place",
+      "Stay",
+      "on",
+      "top",
+      "of",
+      "your",
+      "most",
+      "important",
+      "messages",
+      "and",
+      "events."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 539832,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 542,
+      "width": 996,
+      "x": 398,
+      "y": 1157
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 183,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "and",
+      "calendar,",
+      "together",
+      "in",
+      "one",
+      "place",
+      "Stay",
+      "on",
+      "top",
+      "of",
+      "your",
+      "most",
+      "important",
+      "messages",
+      "and",
+      "events."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 279672,
+    "classList": [
+      "plate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 542,
+      "width": 516,
+      "x": 398,
+      "y": 1249
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 95,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "and",
+      "calendar,",
+      "together",
+      "in",
+      "one",
+      "place",
+      "Stay",
+      "on",
+      "top",
+      "of",
+      "your",
+      "most",
+      "important",
+      "messages",
+      "and",
+      "events."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 119840,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[2]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 280,
+      "width": 428,
+      "x": 398,
+      "y": 1329
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 152,
+    "tag": "H1",
+    "visibleText": [
+      "Email",
+      "and",
+      "calendar,",
+      "together",
+      "in",
+      "one",
+      "place"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[2]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 106959,
+    "classList": [],
+    "href": "",
+    "id": "one-place-headline",
+    "idxpath": "//*[@id='one-place-headline']",
+    "isButton": false,
+    "location": {
+      "height": 303,
+      "width": 353,
+      "x": 398,
+      "y": 1317
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 116,
+    "tag": "SPAN",
+    "visibleText": [
+      "Email",
+      "and",
+      "calendar,",
+      "together",
+      "in",
+      "one",
+      "place"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[2]/div[1]/div[1]/h1[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 22743,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/header[1]/div[2]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 57,
+      "width": 399,
+      "x": 398,
+      "y": 1654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 700,
+    "tag": "P",
+    "visibleText": [
+      "Stay",
+      "on",
+      "top",
+      "of",
+      "your",
+      "most",
+      "important",
+      "messages",
+      "and",
+      "events."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/header[1]/div[2]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 1720320,
+    "classList": [
+      "tour-the-interface"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 960,
+      "width": 1792,
+      "x": 0,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 186,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "Calendar",
+      "People",
+      "Tasks",
+      "Search",
+      "Send,",
+      "receive,",
+      "and",
+      "manage",
+      "your",
+      "email.",
+      "Schedule",
+      "and",
+      "manage",
+      "appointments,",
+      "meetings,",
+      "or",
+      "events.",
+      "See",
+      "details",
+      "about",
+      "contacts",
+      "when",
+      "you",
+      "hover",
+      "over",
+      "their",
+      "name.",
+      "Prioritize",
+      "your",
+      "tasks",
+      "with",
+      "Microsoft",
+      "To",
+      "Do.",
+      "Locate",
+      "messages,",
+      "people,",
+      "and",
+      "documents."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 826680,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 830,
+      "width": 996,
+      "x": 398,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 120,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "Calendar",
+      "People",
+      "Tasks",
+      "Search",
+      "Send,",
+      "receive,",
+      "and",
+      "manage",
+      "your",
+      "email.",
+      "Schedule",
+      "and",
+      "manage",
+      "appointments,",
+      "meetings,",
+      "or",
+      "events.",
+      "See",
+      "details",
+      "about",
+      "contacts",
+      "when",
+      "you",
+      "hover",
+      "over",
+      "their",
+      "name.",
+      "Prioritize",
+      "your",
+      "tasks",
+      "with",
+      "Microsoft",
+      "To",
+      "Do.",
+      "Locate",
+      "messages,",
+      "people,",
+      "and",
+      "documents."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 826680,
+    "classList": [
+      "interface-arcade-cabinet"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 830,
+      "width": 996,
+      "x": 398,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 120,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "Calendar",
+      "People",
+      "Tasks",
+      "Search",
+      "Send,",
+      "receive,",
+      "and",
+      "manage",
+      "your",
+      "email.",
+      "Schedule",
+      "and",
+      "manage",
+      "appointments,",
+      "meetings,",
+      "or",
+      "events.",
+      "See",
+      "details",
+      "about",
+      "contacts",
+      "when",
+      "you",
+      "hover",
+      "over",
+      "their",
+      "name.",
+      "Prioritize",
+      "your",
+      "tasks",
+      "with",
+      "Microsoft",
+      "To",
+      "Do.",
+      "Locate",
+      "messages,",
+      "people,",
+      "and",
+      "documents."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 635448,
+    "classList": [
+      "monitor",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 638,
+      "width": 996,
+      "x": 398,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 156,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 635448,
+    "classList": [
+      "fill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 638,
+      "width": 996,
+      "x": 398,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 156,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 635448,
+    "classList": [
+      "scenarios"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 638,
+      "width": 996,
+      "x": 398,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 156,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 595608,
+    "classList": [
+      "scenario",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 598,
+      "width": 996,
+      "x": 398,
+      "y": 1738
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 166,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 160890,
+    "classList": [
+      "scenario",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 519,
+      "width": 310,
+      "x": 911,
+      "y": 1791
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 59,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 203522,
+    "classList": [
+      "scenario",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 638,
+      "width": 319,
+      "x": 1074,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 50,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 503976,
+    "classList": [
+      "scenario",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 506,
+      "width": 996,
+      "x": 398,
+      "y": 1699
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 196,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 141432,
+    "classList": [
+      "controller"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 142,
+      "width": 996,
+      "x": 398,
+      "y": 2387
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 701,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "Calendar",
+      "People",
+      "Tasks",
+      "Search",
+      "Send,",
+      "receive,",
+      "and",
+      "manage",
+      "your",
+      "email.",
+      "Schedule",
+      "and",
+      "manage",
+      "appointments,",
+      "meetings,",
+      "or",
+      "events.",
+      "See",
+      "details",
+      "about",
+      "contacts",
+      "when",
+      "you",
+      "hover",
+      "over",
+      "their",
+      "name.",
+      "Prioritize",
+      "your",
+      "tasks",
+      "with",
+      "Microsoft",
+      "To",
+      "Do.",
+      "Locate",
+      "messages,",
+      "people,",
+      "and",
+      "documents."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 16791,
+    "classList": [
+      "default",
+      "current"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 87,
+      "width": 193,
+      "x": 398,
+      "y": 2384
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 221,
+    "tag": "LI",
+    "visibleText": [
+      "Email"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 594,
+    "classList": [
+      "some-class"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/i[2]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 27,
+      "x": 481,
+      "y": 2399
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 122,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/i[2]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 16791,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 87,
+      "width": 193,
+      "x": 598,
+      "y": 2387
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 221,
+    "tag": "LI",
+    "visibleText": [
+      "Calendar"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 594,
+    "classList": [
+      "some-class"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/i[2]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 27,
+      "x": 681,
+      "y": 2402
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 122,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/i[2]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 16791,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 87,
+      "width": 193,
+      "x": 799,
+      "y": 2387
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 221,
+    "tag": "LI",
+    "visibleText": [
+      "People"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 594,
+    "classList": [
+      "some-class"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/i[2]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 27,
+      "x": 882,
+      "y": 2402
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 122,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/i[2]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 16791,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 87,
+      "width": 193,
+      "x": 1000,
+      "y": 2387
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 221,
+    "tag": "LI",
+    "visibleText": [
+      "Tasks"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 594,
+    "classList": [
+      "some-class"
+    ],
+    "href": "",
+    "id": "Layer_1",
+    "idxpath": "//*[@id='Layer_1']",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 27,
+      "x": 1083,
+      "y": 2402
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 122,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[4]/i[2]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 16791,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 87,
+      "width": 193,
+      "x": 1201,
+      "y": 2387
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 221,
+    "tag": "LI",
+    "visibleText": [
+      "Search"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 594,
+    "classList": [
+      "some-class"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/i[2]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 27,
+      "x": 1284,
+      "y": 2402
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 122,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[5]/i[2]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 6755,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[2]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 193,
+      "x": 398,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 551,
+    "tag": "LI",
+    "visibleText": [
+      "Send,",
+      "receive,",
+      "and",
+      "manage",
+      "your",
+      "email."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 4590,
+    "classList": [],
+    "href": "",
+    "id": "one-place-feature-desc-a",
+    "idxpath": "//*[@id='one-place-feature-desc-a']",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 270,
+      "x": 359,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1588,
+    "tag": "P",
+    "visibleText": [
+      "Send,",
+      "receive,",
+      "and",
+      "manage",
+      "your",
+      "email."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 6755,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[2]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 193,
+      "x": 598,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 551,
+    "tag": "LI",
+    "visibleText": [
+      "Schedule",
+      "and",
+      "manage",
+      "appointments,",
+      "meetings,",
+      "or",
+      "events."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 9450,
+    "classList": [],
+    "href": "",
+    "id": "one-place-feature-desc-b",
+    "idxpath": "//*[@id='one-place-feature-desc-b']",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 270,
+      "x": 560,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 771,
+    "tag": "P",
+    "visibleText": [
+      "Schedule",
+      "and",
+      "manage",
+      "appointments,",
+      "meetings,",
+      "or",
+      "events."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[2]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 6755,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[2]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 193,
+      "x": 799,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 551,
+    "tag": "LI",
+    "visibleText": [
+      "See",
+      "details",
+      "about",
+      "contacts",
+      "when",
+      "you",
+      "hover",
+      "over",
+      "their",
+      "name."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 9450,
+    "classList": [],
+    "href": "",
+    "id": "one-place-feature-desc-c",
+    "idxpath": "//*[@id='one-place-feature-desc-c']",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 270,
+      "x": 760,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 771,
+    "tag": "P",
+    "visibleText": [
+      "See",
+      "details",
+      "about",
+      "contacts",
+      "when",
+      "you",
+      "hover",
+      "over",
+      "their",
+      "name."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[3]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 6755,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[2]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 193,
+      "x": 1000,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 551,
+    "tag": "LI",
+    "visibleText": [
+      "Prioritize",
+      "your",
+      "tasks",
+      "with",
+      "Microsoft",
+      "To",
+      "Do."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 4590,
+    "classList": [],
+    "href": "",
+    "id": "one-place-feature-desc-d",
+    "idxpath": "//*[@id='one-place-feature-desc-d']",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 270,
+      "x": 961,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1588,
+    "tag": "P",
+    "visibleText": [
+      "Prioritize",
+      "your",
+      "tasks",
+      "with",
+      "Microsoft",
+      "To",
+      "Do."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[4]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 6755,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='a-simple-experience']/div[1]/div[1]/div[1]/div[2]/ul[2]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 193,
+      "x": 1201,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 551,
+    "tag": "LI",
+    "visibleText": [
+      "Locate",
+      "messages,",
+      "people,",
+      "and",
+      "documents."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 4590,
+    "classList": [],
+    "href": "",
+    "id": "one-place-feature-desc-e",
+    "idxpath": "//*[@id='one-place-feature-desc-e']",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 270,
+      "x": 1162,
+      "y": 2494
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1588,
+    "tag": "P",
+    "visibleText": [
+      "Locate",
+      "messages,",
+      "people,",
+      "and",
+      "documents."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]/ul[2]/li[5]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 123648,
+    "classList": [
+      "plate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 69,
+      "width": 1792,
+      "x": 0,
+      "y": -69
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2597,
+    "tag": "DIV",
+    "visibleText": [
+      "Try",
+      "premium",
+      "Sign",
+      "in",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 68724,
+    "classList": [
+      "elements-rack",
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 69,
+      "width": 996,
+      "x": 398,
+      "y": -69
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1443,
+    "tag": "DIV",
+    "visibleText": [
+      "Try",
+      "premium",
+      "Sign",
+      "in",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 20900,
+    "classList": [
+      "actions"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 475,
+      "x": 918,
+      "y": -57
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 1079,
+    "tag": "DIV",
+    "visibleText": [
+      "Try",
+      "premium",
+      "Sign",
+      "in",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 6424,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 146,
+      "x": 928,
+      "y": -57
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 331,
+    "tag": "LI",
+    "visibleText": [
+      "Try",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 6424,
+    "classList": [],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2005900&WT.mc_id=PROD_OL-Web_PreAuth_May19UI",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 146,
+      "x": 928,
+      "y": -57
+    },
+    "name": "",
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 331,
+    "tag": "A",
+    "visibleText": [
+      "Try",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4532,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 103,
+      "x": 1084,
+      "y": -57
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 234,
+    "tag": "LI",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 4532,
+    "classList": [
+      "internal",
+      "sign-in-link"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 103,
+      "x": 1084,
+      "y": -57
+    },
+    "name": "",
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 234,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8580,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 195,
+      "x": 1198,
+      "y": -57
+    },
+    "name": null,
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 443,
+    "tag": "LI",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 8580,
+    "classList": [
+      "internal"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1&signup=1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 195,
+      "x": 1198,
+      "y": -57
+    },
+    "name": "",
+    "neighborText": [
+      "Microsoft",
+      "Try",
+      "premium",
+      "Sign",
+      "in"
+    ],
+    "shape": 443,
+    "tag": "A",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[1]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2247168,
+    "classList": [
+      "scenery"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 1254,
+      "width": 1792,
+      "x": 0,
+      "y": 2659
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 142,
+    "tag": "DIV",
+    "visibleText": [
+      "Backed",
+      "by",
+      "enterprise-grade",
+      "security",
+      "Outlook",
+      "works",
+      "around",
+      "the",
+      "clock",
+      "to",
+      "help",
+      "protect",
+      "your",
+      "privacy",
+      "and",
+      "keep",
+      "your",
+      "inbox",
+      "free",
+      "of",
+      "clutter.",
+      "Protection",
+      "delivered",
+      "by",
+      "the",
+      "same",
+      "tools",
+      "Microsoft",
+      "uses",
+      "for",
+      "business",
+      "customers.",
+      "Data",
+      "encryption",
+      "in",
+      "your",
+      "mailbox",
+      "and",
+      "after",
+      "email",
+      "is",
+      "sent.",
+      "Automatic",
+      "deactivation",
+      "of",
+      "unsafe",
+      "links",
+      "that",
+      "contain",
+      "phishing",
+      "scams,",
+      "viruses,",
+      "or",
+      "malware.",
+      "Premium",
+      "Ransomware",
+      "detection",
+      "and",
+      "recovery",
+      "for",
+      "your",
+      "important",
+      "files",
+      "in",
+      "OneDrive.",
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 897792,
+    "classList": [
+      "primary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 501,
+      "width": 1792,
+      "x": 0,
+      "y": 2659
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 357,
+    "tag": "DIV",
+    "visibleText": [
+      "Backed",
+      "by",
+      "enterprise-grade",
+      "security",
+      "Outlook",
+      "works",
+      "around",
+      "the",
+      "clock",
+      "to",
+      "help",
+      "protect",
+      "your",
+      "privacy",
+      "and",
+      "keep",
+      "your",
+      "inbox",
+      "free",
+      "of",
+      "clutter."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 498996,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 501,
+      "width": 996,
+      "x": 398,
+      "y": 2659
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 198,
+    "tag": "DIV",
+    "visibleText": [
+      "Backed",
+      "by",
+      "enterprise-grade",
+      "security",
+      "Outlook",
+      "works",
+      "around",
+      "the",
+      "clock",
+      "to",
+      "help",
+      "protect",
+      "your",
+      "privacy",
+      "and",
+      "keep",
+      "your",
+      "inbox",
+      "free",
+      "of",
+      "clutter."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 204326,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 361,
+      "width": 566,
+      "x": 398,
+      "y": 2799
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 156,
+    "tag": "DIV",
+    "visibleText": [
+      "Backed",
+      "by",
+      "enterprise-grade",
+      "security",
+      "Outlook",
+      "works",
+      "around",
+      "the",
+      "clock",
+      "to",
+      "help",
+      "protect",
+      "your",
+      "privacy",
+      "and",
+      "keep",
+      "your",
+      "inbox",
+      "free",
+      "of",
+      "clutter."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 129048,
+    "classList": [],
+    "href": "",
+    "id": "security-headline",
+    "idxpath": "//*[@id='security-headline']",
+    "isButton": false,
+    "location": {
+      "height": 228,
+      "width": 566,
+      "x": 398,
+      "y": 2799
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 248,
+    "tag": "H1",
+    "visibleText": [
+      "Backed",
+      "by",
+      "enterprise-grade",
+      "security"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 23161,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[1]/div[1]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 53,
+      "width": 437,
+      "x": 398,
+      "y": 3107
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 824,
+    "tag": "P",
+    "visibleText": [
+      "Outlook",
+      "works",
+      "around",
+      "the",
+      "clock",
+      "to",
+      "help",
+      "protect",
+      "your",
+      "privacy",
+      "and",
+      "keep",
+      "your",
+      "inbox",
+      "free",
+      "of",
+      "clutter."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[2]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 1170176,
+    "classList": [
+      "features"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 653,
+      "width": 1792,
+      "x": 0,
+      "y": 3260
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 274,
+    "tag": "DIV",
+    "visibleText": [
+      "Protection",
+      "delivered",
+      "by",
+      "the",
+      "same",
+      "tools",
+      "Microsoft",
+      "uses",
+      "for",
+      "business",
+      "customers.",
+      "Data",
+      "encryption",
+      "in",
+      "your",
+      "mailbox",
+      "and",
+      "after",
+      "email",
+      "is",
+      "sent.",
+      "Automatic",
+      "deactivation",
+      "of",
+      "unsafe",
+      "links",
+      "that",
+      "contain",
+      "phishing",
+      "scams,",
+      "viruses,",
+      "or",
+      "malware.",
+      "Premium",
+      "Ransomware",
+      "detection",
+      "and",
+      "recovery",
+      "for",
+      "your",
+      "important",
+      "files",
+      "in",
+      "OneDrive.",
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 650388,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 653,
+      "width": 996,
+      "x": 398,
+      "y": 3260
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 152,
+    "tag": "DIV",
+    "visibleText": [
+      "Protection",
+      "delivered",
+      "by",
+      "the",
+      "same",
+      "tools",
+      "Microsoft",
+      "uses",
+      "for",
+      "business",
+      "customers.",
+      "Data",
+      "encryption",
+      "in",
+      "your",
+      "mailbox",
+      "and",
+      "after",
+      "email",
+      "is",
+      "sent.",
+      "Automatic",
+      "deactivation",
+      "of",
+      "unsafe",
+      "links",
+      "that",
+      "contain",
+      "phishing",
+      "scams,",
+      "viruses,",
+      "or",
+      "malware.",
+      "Premium",
+      "Ransomware",
+      "detection",
+      "and",
+      "recovery",
+      "for",
+      "your",
+      "important",
+      "files",
+      "in",
+      "OneDrive.",
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 18518,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 47,
+      "width": 394,
+      "x": 398,
+      "y": 3260
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 838,
+    "tag": "LI",
+    "visibleText": [
+      "Protection",
+      "delivered",
+      "by",
+      "the",
+      "same",
+      "tools",
+      "Microsoft",
+      "uses",
+      "for",
+      "business",
+      "customers."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 11120,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 278,
+      "x": 514,
+      "y": 3264
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 695,
+    "tag": "SPAN",
+    "visibleText": [
+      "Protection",
+      "delivered",
+      "by",
+      "the",
+      "same",
+      "tools",
+      "Microsoft",
+      "uses",
+      "for",
+      "business",
+      "customers."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 18518,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 47,
+      "width": 394,
+      "x": 398,
+      "y": 3372
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 838,
+    "tag": "LI",
+    "visibleText": [
+      "Data",
+      "encryption",
+      "in",
+      "your",
+      "mailbox",
+      "and",
+      "after",
+      "email",
+      "is",
+      "sent."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 11120,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 278,
+      "x": 514,
+      "y": 3376
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 695,
+    "tag": "SPAN",
+    "visibleText": [
+      "Data",
+      "encryption",
+      "in",
+      "your",
+      "mailbox",
+      "and",
+      "after",
+      "email",
+      "is",
+      "sent."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 33096,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 84,
+      "width": 394,
+      "x": 398,
+      "y": 3484
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 469,
+    "tag": "LI",
+    "visibleText": [
+      "Automatic",
+      "deactivation",
+      "of",
+      "unsafe",
+      "links",
+      "that",
+      "contain",
+      "phishing",
+      "scams,",
+      "viruses,",
+      "or",
+      "malware.",
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 23352,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[3]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 84,
+      "width": 278,
+      "x": 514,
+      "y": 3484
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 330,
+    "tag": "SPAN",
+    "visibleText": [
+      "Automatic",
+      "deactivation",
+      "of",
+      "unsafe",
+      "links",
+      "that",
+      "contain",
+      "phishing",
+      "scams,",
+      "viruses,",
+      "or",
+      "malware.",
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[3]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 25216,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 64,
+      "width": 394,
+      "x": 398,
+      "y": 3634
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 615,
+    "tag": "LI",
+    "visibleText": [
+      "Ransomware",
+      "detection",
+      "and",
+      "recovery",
+      "for",
+      "your",
+      "important",
+      "files",
+      "in",
+      "OneDrive.",
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 17792,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='security']/div[1]/div[2]/div[1]/ul[1]/li[4]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 64,
+      "width": 278,
+      "x": 514,
+      "y": 3634
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 434,
+    "tag": "SPAN",
+    "visibleText": [
+      "Ransomware",
+      "detection",
+      "and",
+      "recovery",
+      "for",
+      "your",
+      "important",
+      "files",
+      "in",
+      "OneDrive.",
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/ul[1]/li[4]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 193224,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/header[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 194,
+      "width": 996,
+      "x": 398,
+      "y": 4094
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 513,
+    "tag": "DIV",
+    "visibleText": [
+      "Access",
+      "to",
+      "Office.",
+      "For",
+      "free."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 193224,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/header[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 194,
+      "width": 996,
+      "x": 398,
+      "y": 4094
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 513,
+    "tag": "H1",
+    "visibleText": [
+      "Access",
+      "to",
+      "Office.",
+      "For",
+      "free."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/header[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 71712,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/header[1]/div[1]/h1[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 72,
+      "width": 996,
+      "x": 398,
+      "y": 4094
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1383,
+    "tag": "SPAN",
+    "visibleText": [
+      "Access",
+      "to",
+      "Office."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/header[1]/div[1]/h1[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 71712,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/header[1]/div[1]/h1[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 72,
+      "width": 996,
+      "x": 398,
+      "y": 4256
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1383,
+    "tag": "SPAN",
+    "visibleText": [
+      "For",
+      "free."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/header[1]/div[1]/h1[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 1473024,
+    "classList": [
+      "productivity-apps-carousel"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 1792,
+      "x": 0,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 218,
+    "tag": "DIV",
+    "visibleText": [
+      "PowerPoint",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1473024,
+    "classList": [
+      "container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 1792,
+      "x": 0,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 218,
+    "tag": "DIV",
+    "visibleText": [
+      "PowerPoint",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1473024,
+    "classList": [
+      "fill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 1792,
+      "x": 0,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 218,
+    "tag": "DIV",
+    "visibleText": [
+      "PowerPoint",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4636080,
+    "classList": [
+      "track"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 5640,
+      "x": -1486,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 686,
+    "tag": "DIV",
+    "visibleText": [
+      "PowerPoint",
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "single-app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": -1486,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      "PowerPoint"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "art",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": -1486,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "single-app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": -538,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      "Word"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "art",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": -538,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "single-app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 411,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "art",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 411,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "single-app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 1359,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      "PowerPoint"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "art",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 1359,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "single-app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[5]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 2307,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      "Word"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[5]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "art",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 2307,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "single-app"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[6]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 3256,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      "Excel"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[6]"
+  },
+  {
+    "alt": "",
+    "area": 738156,
+    "classList": [
+      "art",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 822,
+      "width": 898,
+      "x": 3256,
+      "y": 4418
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 34000,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/article[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 85,
+      "width": 400,
+      "x": 696,
+      "y": 5320
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 470,
+    "tag": "DIV",
+    "visibleText": [
+      "Collaborating",
+      "is",
+      "easy",
+      "with",
+      "Word,",
+      "PowerPoint,",
+      "and",
+      "Excel.",
+      "You",
+      "can",
+      "chat",
+      "in",
+      "real",
+      "time",
+      "with",
+      "Skype—right",
+      "from",
+      "your",
+      "inbox."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/article[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 34000,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/article[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 85,
+      "width": 400,
+      "x": 696,
+      "y": 5320
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 470,
+    "tag": "P",
+    "visibleText": [
+      "Collaborating",
+      "is",
+      "easy",
+      "with",
+      "Word,",
+      "PowerPoint,",
+      "and",
+      "Excel.",
+      "You",
+      "can",
+      "chat",
+      "in",
+      "real",
+      "time",
+      "with",
+      "Skype—right",
+      "from",
+      "your",
+      "inbox."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/article[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 102400,
+    "classList": [
+      "visualization",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/aside[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 320,
+      "width": 320,
+      "x": 736,
+      "y": 5486
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/aside[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 68644,
+    "classList": [
+      "app-tiles-track"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='productivity-apps']/aside[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 262,
+      "width": 262,
+      "x": 764,
+      "y": 5515
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/aside[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "family-photograph"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 5986
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "art",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 5986
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 706048,
+    "classList": [
+      "essay"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 394,
+      "width": 1792,
+      "x": 0,
+      "y": 6578
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 454,
+    "tag": "DIV",
+    "visibleText": [
+      "Keep",
+      "your",
+      "busy",
+      "life",
+      "organized",
+      "Use",
+      "Outlook's",
+      "powerful",
+      "built-in",
+      "calendar",
+      "to",
+      "keep",
+      "track",
+      "of",
+      "your",
+      "appointments",
+      "and",
+      "schedule",
+      "meetings",
+      "with",
+      "others."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 392424,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 394,
+      "width": 996,
+      "x": 398,
+      "y": 6578
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 252,
+    "tag": "DIV",
+    "visibleText": [
+      "Keep",
+      "your",
+      "busy",
+      "life",
+      "organized",
+      "Use",
+      "Outlook's",
+      "powerful",
+      "built-in",
+      "calendar",
+      "to",
+      "keep",
+      "track",
+      "of",
+      "your",
+      "appointments",
+      "and",
+      "schedule",
+      "meetings",
+      "with",
+      "others."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 97280,
+    "classList": [],
+    "href": "",
+    "id": "time-management-headline",
+    "idxpath": "//*[@id='time-management-headline']",
+    "isButton": false,
+    "location": {
+      "height": 152,
+      "width": 640,
+      "x": 398,
+      "y": 6578
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 421,
+    "tag": "H1",
+    "visibleText": [
+      "Keep",
+      "your",
+      "busy",
+      "life",
+      "organized"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[2]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 97008,
+    "classList": [
+      "description"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 188,
+      "width": 516,
+      "x": 398,
+      "y": 6784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 274,
+    "tag": "DIV",
+    "visibleText": [
+      "Use",
+      "Outlook's",
+      "powerful",
+      "built-in",
+      "calendar",
+      "to",
+      "keep",
+      "track",
+      "of",
+      "your",
+      "appointments",
+      "and",
+      "schedule",
+      "meetings",
+      "with",
+      "others."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 39312,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[2]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 84,
+      "width": 468,
+      "x": 398,
+      "y": 6838
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 557,
+    "tag": "P",
+    "visibleText": [
+      "Use",
+      "Outlook's",
+      "powerful",
+      "built-in",
+      "calendar",
+      "to",
+      "keep",
+      "track",
+      "of",
+      "your",
+      "appointments",
+      "and",
+      "schedule",
+      "meetings",
+      "with",
+      "others."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[2]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 2044672,
+    "classList": [
+      "scenarios"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 1141,
+      "width": 1792,
+      "x": 0,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 157,
+    "tag": "DIV",
+    "visibleText": [
+      "Simplify",
+      "scheduling",
+      "by",
+      "sending",
+      "your",
+      "availability",
+      "Easily",
+      "check",
+      "in",
+      "to",
+      "upcoming",
+      "flights"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 1136436,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 1141,
+      "width": 996,
+      "x": 398,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 87,
+    "tag": "DIV",
+    "visibleText": [
+      "Simplify",
+      "scheduling",
+      "by",
+      "sending",
+      "your",
+      "availability",
+      "Easily",
+      "check",
+      "in",
+      "to",
+      "upcoming",
+      "flights"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 520908,
+    "classList": [
+      "scenario",
+      "create-personal-events"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 996,
+      "x": 398,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 190,
+    "tag": "DIV",
+    "visibleText": [
+      "Simplify",
+      "scheduling",
+      "by",
+      "sending",
+      "your",
+      "availability"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 286081,
+    "classList": [
+      "media"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 547,
+      "x": 846,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 104,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 286081,
+    "classList": [
+      "mini-states",
+      "android"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 547,
+      "x": 846,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 104,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 286081,
+    "classList": [
+      "fill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 547,
+      "x": 846,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 104,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 286081,
+    "classList": [
+      "triptych"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 547,
+      "x": 846,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 104,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 128658,
+    "classList": [
+      "single-device"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 246,
+      "x": 996,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 47,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 128658,
+    "classList": [
+      "single-device"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 246,
+      "x": 996,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 47,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 128658,
+    "classList": [
+      "single-device"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 523,
+      "width": 246,
+      "x": 997,
+      "y": 7052
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 47,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 77280,
+    "classList": [
+      "caption"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 210,
+      "width": 368,
+      "x": 398,
+      "y": 7209
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 175,
+    "tag": "DIV",
+    "visibleText": [
+      "Simplify",
+      "scheduling",
+      "by",
+      "sending",
+      "your",
+      "availability"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 496008,
+    "classList": [
+      "scenario",
+      "check-in-to-flights"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 996,
+      "x": 398,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 200,
+    "tag": "DIV",
+    "visibleText": [
+      "Easily",
+      "check",
+      "in",
+      "to",
+      "upcoming",
+      "flights"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 272406,
+    "classList": [
+      "media"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 547,
+      "x": 398,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 272406,
+    "classList": [
+      "mini-states",
+      "ios"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 547,
+      "x": 398,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 272406,
+    "classList": [
+      "fill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 547,
+      "x": 398,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 272406,
+    "classList": [
+      "triptych"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 547,
+      "x": 398,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 122508,
+    "classList": [
+      "single-device"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 246,
+      "x": 548,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 49,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 122508,
+    "classList": [
+      "single-device"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 246,
+      "x": 548,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 49,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 122508,
+    "classList": [
+      "single-device"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 498,
+      "width": 246,
+      "x": 548,
+      "y": 7695
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 49,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 57776,
+    "classList": [
+      "caption"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='time-management']/div[3]/div[1]/div[2]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 157,
+      "width": 368,
+      "x": 1025,
+      "y": 7866
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 234,
+    "tag": "DIV",
+    "visibleText": [
+      "Easily",
+      "check",
+      "in",
+      "to",
+      "upcoming",
+      "flights"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[3]/div[1]/div[2]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1560832,
+    "classList": [
+      "diptych"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='accessibility-addendum']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 871,
+      "width": 1792,
+      "x": 0,
+      "y": 8444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 205,
+    "tag": "DIV",
+    "visibleText": [
+      "More",
+      "accessible",
+      "than",
+      "ever",
+      "We've",
+      "designed",
+      "Outlook.com",
+      "to",
+      "be",
+      "everyone's",
+      "most",
+      "accessible",
+      "inbox,",
+      "with",
+      "intuitive",
+      "voice-controlled",
+      "navigation,",
+      "support",
+      "for",
+      "multiple",
+      "assistive",
+      "devices—and",
+      "more."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 523480,
+    "classList": [
+      "text-plate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='accessibility-addendum']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 569,
+      "width": 920,
+      "x": 871,
+      "y": 8444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 161,
+    "tag": "DIV",
+    "visibleText": [
+      "More",
+      "accessible",
+      "than",
+      "ever",
+      "We've",
+      "designed",
+      "Outlook.com",
+      "to",
+      "be",
+      "everyone's",
+      "most",
+      "accessible",
+      "inbox,",
+      "with",
+      "intuitive",
+      "voice-controlled",
+      "navigation,",
+      "support",
+      "for",
+      "multiple",
+      "assistive",
+      "devices—and",
+      "more."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 523480,
+    "classList": [
+      "fill"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='accessibility-addendum']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 569,
+      "width": 920,
+      "x": 871,
+      "y": 8444
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 161,
+    "tag": "DIV",
+    "visibleText": [
+      "More",
+      "accessible",
+      "than",
+      "ever",
+      "We've",
+      "designed",
+      "Outlook.com",
+      "to",
+      "be",
+      "everyone's",
+      "most",
+      "accessible",
+      "inbox,",
+      "with",
+      "intuitive",
+      "voice-controlled",
+      "navigation,",
+      "support",
+      "for",
+      "multiple",
+      "assistive",
+      "devices—and",
+      "more."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 84252,
+    "classList": [
+      "content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='accessibility-addendum']/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 238,
+      "width": 354,
+      "x": 1039,
+      "y": 8600
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 148,
+    "tag": "DIV",
+    "visibleText": [
+      "More",
+      "accessible",
+      "than",
+      "ever",
+      "We've",
+      "designed",
+      "Outlook.com",
+      "to",
+      "be",
+      "everyone's",
+      "most",
+      "accessible",
+      "inbox,",
+      "with",
+      "intuitive",
+      "voice-controlled",
+      "navigation,",
+      "support",
+      "for",
+      "multiple",
+      "assistive",
+      "devices—and",
+      "more."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 25272,
+    "classList": [],
+    "href": "",
+    "id": "accessibility-headline",
+    "idxpath": "//*[@id='accessibility-headline']",
+    "isButton": false,
+    "location": {
+      "height": 78,
+      "width": 324,
+      "x": 1039,
+      "y": 8600
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 415,
+    "tag": "H1",
+    "visibleText": [
+      "More",
+      "accessible",
+      "than",
+      "ever"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 46728,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='accessibility-addendum']/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 132,
+      "width": 354,
+      "x": 1039,
+      "y": 8706
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 268,
+    "tag": "P",
+    "visibleText": [
+      "We've",
+      "designed",
+      "Outlook.com",
+      "to",
+      "be",
+      "everyone's",
+      "most",
+      "accessible",
+      "inbox,",
+      "with",
+      "intuitive",
+      "voice-controlled",
+      "navigation,",
+      "support",
+      "for",
+      "multiple",
+      "assistive",
+      "devices—and",
+      "more."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 88644,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 89,
+      "width": 996,
+      "x": 398,
+      "y": 9475
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1119,
+    "tag": "DIV",
+    "visibleText": [
+      "Looking",
+      "for",
+      "Hotmail?",
+      "You've",
+      "found",
+      "it!",
+      "We've",
+      "redesigned",
+      "and",
+      "relaunched",
+      "Hotmail",
+      "as",
+      "Outlook.",
+      "We're",
+      "still",
+      "committed",
+      "to",
+      "building",
+      "the",
+      "best",
+      "free",
+      "email",
+      "and",
+      "calendar."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 88644,
+    "classList": [
+      "plate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 89,
+      "width": 996,
+      "x": 398,
+      "y": 9475
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1119,
+    "tag": "DIV",
+    "visibleText": [
+      "Looking",
+      "for",
+      "Hotmail?",
+      "You've",
+      "found",
+      "it!",
+      "We've",
+      "redesigned",
+      "and",
+      "relaunched",
+      "Hotmail",
+      "as",
+      "Outlook.",
+      "We're",
+      "still",
+      "committed",
+      "to",
+      "building",
+      "the",
+      "best",
+      "free",
+      "email",
+      "and",
+      "calendar."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 26892,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 27,
+      "width": 996,
+      "x": 398,
+      "y": 9475
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3688,
+    "tag": "H1",
+    "visibleText": [
+      "Looking",
+      "for",
+      "Hotmail?"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 30888,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 594,
+      "x": 599,
+      "y": 9512
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1142,
+    "tag": "P",
+    "visibleText": [
+      "You've",
+      "found",
+      "it!",
+      "We've",
+      "redesigned",
+      "and",
+      "relaunched",
+      "Hotmail",
+      "as",
+      "Outlook.",
+      "We're",
+      "still",
+      "committed",
+      "to",
+      "building",
+      "the",
+      "best",
+      "free",
+      "email",
+      "and",
+      "calendar."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[2]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 2157568,
+    "classList": [
+      "scenery"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 1204,
+      "width": 1792,
+      "x": 0,
+      "y": 9724
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 148,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Outlook",
+      "Email",
+      "and",
+      "calendar,",
+      "plus",
+      "so",
+      "much",
+      "more.",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1727488,
+    "classList": [
+      "primary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 964,
+      "width": 1792,
+      "x": 0,
+      "y": 9724
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Outlook",
+      "Email",
+      "and",
+      "calendar,",
+      "plus",
+      "so",
+      "much",
+      "more.",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 432264,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 434,
+      "width": 996,
+      "x": 398,
+      "y": 10234
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 229,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Outlook",
+      "Email",
+      "and",
+      "calendar,",
+      "plus",
+      "so",
+      "much",
+      "more.",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 242172,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 434,
+      "width": 558,
+      "x": 617,
+      "y": 10234
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 128,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Outlook",
+      "Email",
+      "and",
+      "calendar,",
+      "plus",
+      "so",
+      "much",
+      "more.",
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 100440,
+    "classList": [
+      "halve-me"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 180,
+      "width": 558,
+      "x": 617,
+      "y": 10234
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 310,
+    "tag": "H1",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 50220,
+    "classList": [],
+    "href": "",
+    "id": "welcome-to-outlook-headline",
+    "idxpath": "//*[@id='welcome-to-outlook-headline']",
+    "isButton": false,
+    "location": {
+      "height": 90,
+      "width": 558,
+      "x": 617,
+      "y": 10234
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 620,
+    "tag": "SPAN",
+    "visibleText": [
+      "Welcome"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 50220,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 90,
+      "width": 558,
+      "x": 617,
+      "y": 10324
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 620,
+    "tag": "SPAN",
+    "visibleText": [
+      "to",
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 39618,
+    "classList": [
+      "halve-me"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 71,
+      "width": 558,
+      "x": 617,
+      "y": 10446
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 785,
+    "tag": "P",
+    "visibleText": [
+      "Email",
+      "and",
+      "calendar,",
+      "plus",
+      "so",
+      "much",
+      "more."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 19530,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 558,
+      "x": 617,
+      "y": 10446
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1594,
+    "tag": "SPAN",
+    "visibleText": [
+      "Email",
+      "and",
+      "calendar,"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/p[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 19530,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/p[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 558,
+      "x": 617,
+      "y": 10481
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1594,
+    "tag": "SPAN",
+    "visibleText": [
+      "plus",
+      "so",
+      "much",
+      "more."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/p[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 24494,
+    "classList": [
+      "internal"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1&signup=1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/mark[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 74,
+      "width": 331,
+      "x": 730,
+      "y": 10594
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 447,
+    "tag": "A",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[1]/div[1]/div[1]/mark[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 430080,
+    "classList": [
+      "secondary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 240,
+      "width": 1792,
+      "x": 0,
+      "y": 10689
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 746,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 239040,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 240,
+      "width": 996,
+      "x": 398,
+      "y": 10689
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 415,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2401,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 49,
+      "x": 534,
+      "y": 10784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 2401,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 49,
+      "x": 646,
+      "y": 10784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 2401,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 49,
+      "x": 759,
+      "y": 10784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 2401,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 49,
+      "x": 871,
+      "y": 10784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 2401,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 49,
+      "x": 984,
+      "y": 10784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 2401,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 49,
+      "x": 1096,
+      "y": 10784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 2401,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 49,
+      "width": 49,
+      "x": 1209,
+      "y": 10784
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[2]/div[2]/div[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1453312,
+    "classList": [
+      "scenery"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 811,
+      "width": 1792,
+      "x": 0,
+      "y": 11029
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 220,
+    "tag": "DIV",
+    "visibleText": [
+      "Expand",
+      "your",
+      "Outlook",
+      "We've",
+      "developed",
+      "a",
+      "suite",
+      "of",
+      "premium",
+      "Outlook",
+      "features",
+      "for",
+      "people",
+      "with",
+      "advanced",
+      "email",
+      "and",
+      "calendar",
+      "needs.",
+      "A",
+      "Microsoft",
+      "365",
+      "subscription",
+      "offers",
+      "an",
+      "ad-free",
+      "interface,",
+      "custom",
+      "domains,",
+      "enhanced",
+      "security",
+      "options,",
+      "the",
+      "full",
+      "desktop",
+      "version",
+      "of",
+      "Office,",
+      "and",
+      "1",
+      "TB",
+      "of",
+      "cloud",
+      "storage.",
+      "Learn",
+      "about",
+      "premium",
+      "Outlook",
+      "features",
+      "that",
+      "come",
+      "with",
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 802079,
+    "classList": [
+      "photo",
+      "lazy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 811,
+      "width": 989,
+      "x": 802,
+      "y": 11029
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 121,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 580668,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 583,
+      "width": 996,
+      "x": 398,
+      "y": 11143
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 170,
+    "tag": "DIV",
+    "visibleText": [
+      "Expand",
+      "your",
+      "Outlook",
+      "We've",
+      "developed",
+      "a",
+      "suite",
+      "of",
+      "premium",
+      "Outlook",
+      "features",
+      "for",
+      "people",
+      "with",
+      "advanced",
+      "email",
+      "and",
+      "calendar",
+      "needs.",
+      "A",
+      "Microsoft",
+      "365",
+      "subscription",
+      "offers",
+      "an",
+      "ad-free",
+      "interface,",
+      "custom",
+      "domains,",
+      "enhanced",
+      "security",
+      "options,",
+      "the",
+      "full",
+      "desktop",
+      "version",
+      "of",
+      "Office,",
+      "and",
+      "1",
+      "TB",
+      "of",
+      "cloud",
+      "storage.",
+      "Learn",
+      "about",
+      "premium",
+      "Outlook",
+      "features",
+      "that",
+      "come",
+      "with",
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 350966,
+    "classList": [
+      "plate"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 583,
+      "width": 602,
+      "x": 398,
+      "y": 11213
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 103,
+    "tag": "DIV",
+    "visibleText": [
+      "Expand",
+      "your",
+      "Outlook",
+      "We've",
+      "developed",
+      "a",
+      "suite",
+      "of",
+      "premium",
+      "Outlook",
+      "features",
+      "for",
+      "people",
+      "with",
+      "advanced",
+      "email",
+      "and",
+      "calendar",
+      "needs.",
+      "A",
+      "Microsoft",
+      "365",
+      "subscription",
+      "offers",
+      "an",
+      "ad-free",
+      "interface,",
+      "custom",
+      "domains,",
+      "enhanced",
+      "security",
+      "options,",
+      "the",
+      "full",
+      "desktop",
+      "version",
+      "of",
+      "Office,",
+      "and",
+      "1",
+      "TB",
+      "of",
+      "cloud",
+      "storage.",
+      "Learn",
+      "about",
+      "premium",
+      "Outlook",
+      "features",
+      "that",
+      "come",
+      "with",
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 234116,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 428,
+      "width": 547,
+      "x": 394,
+      "y": 11274
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 127,
+    "tag": "DIV",
+    "visibleText": [
+      "Expand",
+      "your",
+      "Outlook",
+      "We've",
+      "developed",
+      "a",
+      "suite",
+      "of",
+      "premium",
+      "Outlook",
+      "features",
+      "for",
+      "people",
+      "with",
+      "advanced",
+      "email",
+      "and",
+      "calendar",
+      "needs.",
+      "A",
+      "Microsoft",
+      "365",
+      "subscription",
+      "offers",
+      "an",
+      "ad-free",
+      "interface,",
+      "custom",
+      "domains,",
+      "enhanced",
+      "security",
+      "options,",
+      "the",
+      "full",
+      "desktop",
+      "version",
+      "of",
+      "Office,",
+      "and",
+      "1",
+      "TB",
+      "of",
+      "cloud",
+      "storage.",
+      "Learn",
+      "about",
+      "premium",
+      "Outlook",
+      "features",
+      "that",
+      "come",
+      "with",
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 87520,
+    "classList": [
+      "title",
+      "halve-me"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 160,
+      "width": 547,
+      "x": 394,
+      "y": 11274
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 341,
+    "tag": "H1",
+    "visibleText": [
+      "Expand",
+      "your",
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 43760,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/h1[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 547,
+      "x": 394,
+      "y": 11274
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 683,
+    "tag": "SPAN",
+    "visibleText": [
+      "Expand",
+      "your"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/h1[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 43760,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/h1[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 547,
+      "x": 394,
+      "y": 11354
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 683,
+    "tag": "SPAN",
+    "visibleText": [
+      "Outlook"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/h1[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 85728,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 188,
+      "width": 456,
+      "x": 394,
+      "y": 11514
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 242,
+    "tag": "P",
+    "visibleText": [
+      "We've",
+      "developed",
+      "a",
+      "suite",
+      "of",
+      "premium",
+      "Outlook",
+      "features",
+      "for",
+      "people",
+      "with",
+      "advanced",
+      "email",
+      "and",
+      "calendar",
+      "needs.",
+      "A",
+      "Microsoft",
+      "365",
+      "subscription",
+      "offers",
+      "an",
+      "ad-free",
+      "interface,",
+      "custom",
+      "domains,",
+      "enhanced",
+      "security",
+      "options,",
+      "the",
+      "full",
+      "desktop",
+      "version",
+      "of",
+      "Office,",
+      "and",
+      "1",
+      "TB",
+      "of",
+      "cloud",
+      "storage.",
+      "Learn",
+      "about",
+      "premium",
+      "Outlook",
+      "features",
+      "that",
+      "come",
+      "with",
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 22308,
+    "classList": [],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2005900&WT.mc_id=PROD_OL-Web_PreAuth_May19UI",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/p[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 429,
+      "x": 394,
+      "y": 11649
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 825,
+    "tag": "A",
+    "visibleText": [
+      "Learn",
+      "about",
+      "premium",
+      "Outlook",
+      "features",
+      "that",
+      "come",
+      "with",
+      "Microsoft",
+      "365"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/aside[3]/div[1]/div[2]/div[1]/div[1]/p[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 333660,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 335,
+      "width": 996,
+      "x": 398,
+      "y": 12001
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 297,
+    "tag": "DIV",
+    "visibleText": [
+      "Support",
+      "Create",
+      "free",
+      "account",
+      "Upgrade",
+      "to",
+      "premium",
+      "Outlook",
+      "for",
+      "iOS",
+      "Outlook",
+      "for",
+      "Android"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1536,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 64,
+      "x": 648,
+      "y": 12188
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 266,
+    "tag": "LI",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1536,
+    "classList": [],
+    "href": "https://go.microsoft.com/fwlink/?linkid=867851",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 64,
+      "x": 648,
+      "y": 12188
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 266,
+    "tag": "A",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1536,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 64,
+      "x": 648,
+      "y": 12188
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 266,
+    "tag": "SPAN",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 3696,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 154,
+      "x": 767,
+      "y": 12188
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 641,
+    "tag": "LI",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 3696,
+    "classList": [
+      "internal"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1&signup=1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 154,
+      "x": 767,
+      "y": 12188
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 641,
+    "tag": "A",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3696,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 154,
+      "x": 767,
+      "y": 12188
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 641,
+    "tag": "SPAN",
+    "visibleText": [
+      "Create",
+      "free",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 3984,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 166,
+      "x": 976,
+      "y": 12188
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 691,
+    "tag": "LI",
+    "visibleText": [
+      "Upgrade",
+      "to",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 3984,
+    "classList": [],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2005900&WT.mc_id=PROD_OL-Web_PreAuth_May19UI",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 166,
+      "x": 976,
+      "y": 12188
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 691,
+    "tag": "A",
+    "visibleText": [
+      "Upgrade",
+      "to",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3984,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 166,
+      "x": 976,
+      "y": 12188
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 691,
+    "tag": "SPAN",
+    "visibleText": [
+      "Upgrade",
+      "to",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 3504,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 146,
+      "x": 691,
+      "y": 12262
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 608,
+    "tag": "LI",
+    "visibleText": [
+      "Outlook",
+      "for",
+      "iOS"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 3504,
+    "classList": [
+      "app",
+      "ios",
+      "internal"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2087713",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 146,
+      "x": 691,
+      "y": 12262
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 608,
+    "tag": "A",
+    "visibleText": [
+      "Outlook",
+      "for",
+      "iOS"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2976,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 124,
+      "x": 713,
+      "y": 12262
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 516,
+    "tag": "SPAN",
+    "visibleText": [
+      "Outlook",
+      "for",
+      "iOS"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 4368,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 182,
+      "x": 892,
+      "y": 12262
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 758,
+    "tag": "LI",
+    "visibleText": [
+      "Outlook",
+      "for",
+      "Android"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 4368,
+    "classList": [
+      "app",
+      "android",
+      "internal"
+    ],
+    "href": "https://go.microsoft.com/fwlink/?linkid=2087915",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 182,
+      "x": 892,
+      "y": 12262
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 758,
+    "tag": "A",
+    "visibleText": [
+      "Outlook",
+      "for",
+      "Android"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3840,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 160,
+      "x": 914,
+      "y": 12262
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 666,
+    "tag": "SPAN",
+    "visibleText": [
+      "Outlook",
+      "for",
+      "Android"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 199200,
+    "classList": [
+      "bound"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 200,
+      "width": 996,
+      "x": 398,
+      "y": 12466
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 498,
+    "tag": "DIV",
+    "visibleText": [
+      "Microsoft",
+      "©",
+      "2020",
+      "Microsoft",
+      "Privacy",
+      "&",
+      "cookies",
+      "Terms",
+      "of",
+      "use",
+      "About",
+      "our",
+      "ads",
+      "Trademarks",
+      "Contact",
+      "us"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 19920,
+    "classList": [
+      "primary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 996,
+      "x": 398,
+      "y": 12521
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 4980,
+    "tag": "DIV",
+    "visibleText": [
+      "Microsoft",
+      "©",
+      "2020",
+      "Microsoft",
+      "Privacy",
+      "&",
+      "cookies",
+      "Terms",
+      "of",
+      "use",
+      "About",
+      "our",
+      "ads",
+      "Trademarks",
+      "Contact",
+      "us"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1740,
+    "classList": [],
+    "href": "https://www.microsoft.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/figure[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 87,
+      "x": 398,
+      "y": 12521
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 435,
+    "tag": "A",
+    "visibleText": [
+      "Microsoft"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/figure[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 9060,
+    "classList": [
+      "legal"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 604,
+      "x": 789,
+      "y": 12524
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 4026,
+    "tag": "DIV",
+    "visibleText": [
+      "©",
+      "2020",
+      "Microsoft",
+      "Privacy",
+      "&",
+      "cookies",
+      "Terms",
+      "of",
+      "use",
+      "About",
+      "our",
+      "ads",
+      "Trademarks",
+      "Contact",
+      "us"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1500,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 100,
+      "x": 933,
+      "y": 12524
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 666,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy",
+      "&",
+      "cookies"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1500,
+    "classList": [],
+    "href": "https://go.microsoft.com/fwlink/?LinkId=521839",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 100,
+      "x": 933,
+      "y": 12524
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 666,
+    "tag": "A",
+    "visibleText": [
+      "Privacy",
+      "&",
+      "cookies"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1700,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 100,
+      "x": 933,
+      "y": 12523
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 588,
+    "tag": "SPAN",
+    "visibleText": [
+      "Privacy",
+      "&",
+      "cookies"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1065,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 71,
+      "x": 1053,
+      "y": 12524
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 473,
+    "tag": "LI",
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1065,
+    "classList": [],
+    "href": "https://go.microsoft.com/fwlink/?LinkID=206977",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 71,
+      "x": 1053,
+      "y": 12524
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 473,
+    "tag": "A",
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1207,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 71,
+      "x": 1053,
+      "y": 12523
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 417,
+    "tag": "SPAN",
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1215,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 81,
+      "x": 1145,
+      "y": 12524
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 540,
+    "tag": "LI",
+    "visibleText": [
+      "About",
+      "our",
+      "ads"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1215,
+    "classList": [],
+    "href": "https://choice.microsoft.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 81,
+      "x": 1145,
+      "y": 12524
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 540,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "our",
+      "ads"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1377,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 81,
+      "x": 1145,
+      "y": 12523
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 476,
+    "tag": "SPAN",
+    "visibleText": [
+      "About",
+      "our",
+      "ads"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 975,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 65,
+      "x": 1247,
+      "y": 12524
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 433,
+    "tag": "LI",
+    "visibleText": [
+      "Trademarks"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 975,
+    "classList": [],
+    "href": "https://www.microsoft.com/trademarks",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 65,
+      "x": 1247,
+      "y": 12524
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 433,
+    "tag": "A",
+    "visibleText": [
+      "Trademarks"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1105,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 65,
+      "x": 1247,
+      "y": 12523
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 382,
+    "tag": "SPAN",
+    "visibleText": [
+      "Trademarks"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 60,
+      "x": 1333,
+      "y": 12524
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 400,
+    "tag": "LI",
+    "visibleText": [
+      "Contact",
+      "us"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [],
+    "href": "https://support.microsoft.com/en-us/contactus/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 60,
+      "x": 1333,
+      "y": 12524
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 400,
+    "tag": "A",
+    "visibleText": [
+      "Contact",
+      "us"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1020,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 60,
+      "x": 1333,
+      "y": 12523
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 352,
+    "tag": "SPAN",
+    "visibleText": [
+      "Contact",
+      "us"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]"
+  }
+]

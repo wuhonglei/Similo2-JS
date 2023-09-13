@@ -1,0 +1,86 @@
+[
+  {
+    "alt": "",
+    "area": 12980,
+    "classList": [
+      "buttonLargeWhite"
+    ],
+    "href": "https://aka.ms/l2?WT.mc_id=PROD_OL-Web_PreAuth_Premium_Top#upgrade-section",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/section[1]/div[1]/div[2]/div[2]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 59,
+      "width": 220,
+      "x": 656,
+      "y": 450
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in"
+    ],
+    "shape": 372,
+    "tag": "A",
+    "visibleText": [
+      "Get",
+      "premium"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[2]/div[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 12980,
+    "classList": [
+      "buttonLargeBlue"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 59,
+      "width": 220,
+      "x": 916,
+      "y": 450
+    },
+    "name": null,
+    "neighborText": [
+      "Get",
+      "premium"
+    ],
+    "shape": 372,
+    "tag": "DIV",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[2]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4485,
+    "classList": [
+      "linkButton"
+    ],
+    "href": "https://outlook.live.com/owa/?nlp=1&signup=1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 39,
+      "width": 115,
+      "x": 1340,
+      "y": 32
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 294,
+    "tag": "A",
+    "visibleText": [
+      "Create",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]"
+  }
+]

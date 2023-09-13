@@ -1,0 +1,1017 @@
+[
+  {
+    "alt": "",
+    "area": 125440,
+    "classList": [
+      "wrapper"
+    ],
+    "href": "",
+    "id": "shopify-nav",
+    "idxpath": "//*[@id='shopify-nav']",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2560,
+    "tag": "DIV",
+    "visibleText": [
+      "Shopify",
+      "Ecommerce",
+      "-",
+      "Shopping",
+      "Cart",
+      "&",
+      "Software",
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?",
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY",
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 71400,
+    "classList": [
+      "row"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 1020,
+      "x": 386,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1457,
+    "tag": "DIV",
+    "visibleText": [
+      "Shopify",
+      "Ecommerce",
+      "-",
+      "Shopping",
+      "Cart",
+      "&",
+      "Software",
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?",
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY",
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 11700,
+    "classList": [
+      "col3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 52,
+      "width": 225,
+      "x": 401,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?",
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY",
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "shape": 432,
+    "tag": "DIV",
+    "visibleText": [
+      "Shopify",
+      "Ecommerce",
+      "-",
+      "Shopping",
+      "Cart",
+      "&",
+      "Software"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4752,
+    "classList": [],
+    "href": "",
+    "id": "branding",
+    "idxpath": "//*[@id='branding']",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 132,
+      "x": 401,
+      "y": 16
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 366,
+    "tag": "SPAN",
+    "visibleText": [
+      "Shopify",
+      "Ecommerce",
+      "-",
+      "Shopping",
+      "Cart",
+      "&",
+      "Software"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 51450,
+    "classList": [
+      "col9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 735,
+      "x": 656,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1050,
+    "tag": "DIV",
+    "visibleText": [
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?",
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY",
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 18480,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 264,
+      "x": 767,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?",
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "shape": 377,
+    "tag": "LI",
+    "visibleText": [
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 15840,
+    "classList": [],
+    "href": "https://www.shopify.com/?utm_source=ExpiredDomainLink&utm_medium=textlink&utm_campaign=ExpiredDomainLink",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 264,
+      "x": 767,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "shape": 440,
+    "tag": "A",
+    "visibleText": [
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 14490,
+    "classList": [
+      "signup"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 207,
+      "x": 1032,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY",
+      "BUY",
+      "A",
+      "STORE",
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?"
+    ],
+    "shape": 295,
+    "tag": "LI",
+    "visibleText": [
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 12420,
+    "classList": [],
+    "href": "https://www.shopify.com/?utm_source=ExpiredDomainLink&utm_medium=textlink&utm_campaign=ExpiredDomainLink",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 207,
+      "x": 1032,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?",
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "shape": 345,
+    "tag": "A",
+    "visibleText": [
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 6156,
+    "classList": [
+      "btn-green"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 171,
+      "x": 1050,
+      "y": 17
+    },
+    "name": null,
+    "neighborText": [
+      "WANT",
+      "TO",
+      "SETUP",
+      "AN",
+      "ONLINE",
+      "STORE?",
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "shape": 475,
+    "tag": "SPAN",
+    "visibleText": [
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 10500,
+    "classList": [
+      "signup"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 150,
+      "x": 1240,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "BUY",
+      "A",
+      "STORE",
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "shape": 214,
+    "tag": "LI",
+    "visibleText": [
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 9000,
+    "classList": [],
+    "href": "https://exchangemarketplace.com/?utm_source=ExpiredDomainLink&utm_medium=textlink&utm_campaign=ExpiredDomainLink&utm_content=header",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 150,
+      "x": 1240,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "shape": 250,
+    "tag": "A",
+    "visibleText": [
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4104,
+    "classList": [
+      "btn-pink"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='shopify-nav']/div[1]/div[2]/nav[1]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 114,
+      "x": 1258,
+      "y": 17
+    },
+    "name": null,
+    "neighborText": [
+      "SIGN",
+      "UP",
+      "FOR",
+      "SHOPIFY"
+    ],
+    "shape": 316,
+    "tag": "SPAN",
+    "visibleText": [
+      "BUY",
+      "A",
+      "STORE"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[3]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1155840,
+    "classList": [
+      "wrapper",
+      "content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 645,
+      "width": 1792,
+      "x": 0,
+      "y": 70
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 277,
+    "tag": "DIV",
+    "visibleText": [
+      "Only",
+      "one",
+      "step",
+      "left!",
+      "To",
+      "finish",
+      "setting",
+      "up",
+      "your",
+      "new",
+      "web",
+      "address,",
+      "go",
+      "to",
+      "your",
+      "domain",
+      "settings,",
+      "click",
+      "\"Connect",
+      "existing",
+      "domain\",",
+      "and",
+      "enter:",
+      "web.archive.org"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 657900,
+    "classList": [
+      "row"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 645,
+      "width": 1020,
+      "x": 386,
+      "y": 70
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 158,
+    "tag": "DIV",
+    "visibleText": [
+      "Only",
+      "one",
+      "step",
+      "left!",
+      "To",
+      "finish",
+      "setting",
+      "up",
+      "your",
+      "new",
+      "web",
+      "address,",
+      "go",
+      "to",
+      "your",
+      "domain",
+      "settings,",
+      "click",
+      "\"Connect",
+      "existing",
+      "domain\",",
+      "and",
+      "enter:",
+      "web.archive.org"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 530000,
+    "classList": [
+      "clearfix"
+    ],
+    "href": "",
+    "id": "content-wrapper",
+    "idxpath": "//*[@id='content-wrapper']",
+    "isButton": false,
+    "location": {
+      "height": 500,
+      "width": 1060,
+      "x": 366,
+      "y": 205
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 212,
+    "tag": "DIV",
+    "visibleText": [
+      "Only",
+      "one",
+      "step",
+      "left!",
+      "To",
+      "finish",
+      "setting",
+      "up",
+      "your",
+      "new",
+      "web",
+      "address,",
+      "go",
+      "to",
+      "your",
+      "domain",
+      "settings,",
+      "click",
+      "\"Connect",
+      "existing",
+      "domain\",",
+      "and",
+      "enter:",
+      "web.archive.org"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 438600,
+    "classList": [],
+    "href": "",
+    "id": "pg-store404",
+    "idxpath": "//*[@id='pg-store404']",
+    "isButton": false,
+    "location": {
+      "height": 430,
+      "width": 1020,
+      "x": 386,
+      "y": 240
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 237,
+    "tag": "DIV",
+    "visibleText": [
+      "Only",
+      "one",
+      "step",
+      "left!",
+      "To",
+      "finish",
+      "setting",
+      "up",
+      "your",
+      "new",
+      "web",
+      "address,",
+      "go",
+      "to",
+      "your",
+      "domain",
+      "settings,",
+      "click",
+      "\"Connect",
+      "existing",
+      "domain\",",
+      "and",
+      "enter:",
+      "web.archive.org"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 153000,
+    "classList": [],
+    "href": "",
+    "id": "one-step-left-msg",
+    "idxpath": "//*[@id='one-step-left-msg']",
+    "isButton": false,
+    "location": {
+      "height": 150,
+      "width": 1020,
+      "x": 386,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 680,
+    "tag": "DIV",
+    "visibleText": [
+      "Only",
+      "one",
+      "step",
+      "left!",
+      "To",
+      "finish",
+      "setting",
+      "up",
+      "your",
+      "new",
+      "web",
+      "address,",
+      "go",
+      "to",
+      "your",
+      "domain",
+      "settings,",
+      "click",
+      "\"Connect",
+      "existing",
+      "domain\",",
+      "and",
+      "enter:",
+      "web.archive.org"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 153000,
+    "classList": [
+      "tc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='one-step-left-msg']/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 150,
+      "width": 1020,
+      "x": 386,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 680,
+    "tag": "H1",
+    "visibleText": [
+      "Only",
+      "one",
+      "step",
+      "left!",
+      "To",
+      "finish",
+      "setting",
+      "up",
+      "your",
+      "new",
+      "web",
+      "address,",
+      "go",
+      "to",
+      "your",
+      "domain",
+      "settings,",
+      "click",
+      "\"Connect",
+      "existing",
+      "domain\",",
+      "and",
+      "enter:",
+      "web.archive.org"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 85770,
+    "classList": [],
+    "href": "https://www.shopify.com/admin/settings/domains",
+    "id": "",
+    "idxpath": "//*[@id='one-step-left-msg']/h1[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 90,
+      "width": 953,
+      "x": 395,
+      "y": 425
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 1058,
+    "tag": "A",
+    "visibleText": [
+      "your",
+      "domain",
+      "settings"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h1[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 9360,
+    "classList": [],
+    "href": "",
+    "id": "one-step-left-hostname",
+    "idxpath": "//*[@id='one-step-left-hostname']",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 234,
+      "x": 1161,
+      "y": 475
+    },
+    "name": null,
+    "neighborText": [
+      "your",
+      "domain",
+      "settings"
+    ],
+    "shape": 585,
+    "tag": "SPAN",
+    "visibleText": [
+      "web.archive.org"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/h1[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 2400,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/footer[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 96,
+      "x": 655,
+      "y": 765
+    },
+    "name": null,
+    "neighborText": [
+      "Find",
+      "products",
+      "to",
+      "sell"
+    ],
+    "shape": 384,
+    "tag": "LI",
+    "visibleText": [
+      "Start",
+      "a",
+      "store"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 2075,
+    "classList": [],
+    "href": "https://www.shopify.com/?utm_source=ExpiredDomainLink&utm_medium=textlink&utm_campaign=ExpiredDomainLink",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/footer[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 83,
+      "x": 655,
+      "y": 765
+    },
+    "name": "",
+    "neighborText": [
+      "Find",
+      "products",
+      "to",
+      "sell"
+    ],
+    "shape": 332,
+    "tag": "A",
+    "visibleText": [
+      "Start",
+      "a",
+      "store"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3825,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/footer[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 153,
+      "x": 762,
+      "y": 765
+    },
+    "name": null,
+    "neighborText": [
+      "Buy",
+      "an",
+      "existing",
+      "online",
+      "store",
+      "Start",
+      "a",
+      "store"
+    ],
+    "shape": 612,
+    "tag": "LI",
+    "visibleText": [
+      "Find",
+      "products",
+      "to",
+      "sell"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 3500,
+    "classList": [],
+    "href": "https://www.shopify.com/oberlo?utm_source=ExpiredDomainLink&utm_medium=textlink&utm_campaign=ExpiredDomainLink",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/footer[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 140,
+      "x": 762,
+      "y": 765
+    },
+    "name": "",
+    "neighborText": [
+      "Buy",
+      "an",
+      "existing",
+      "online",
+      "store",
+      "Start",
+      "a",
+      "store"
+    ],
+    "shape": 560,
+    "tag": "A",
+    "visibleText": [
+      "Find",
+      "products",
+      "to",
+      "sell"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5000,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/footer[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 200,
+      "x": 925,
+      "y": 765
+    },
+    "name": null,
+    "neighborText": [
+      "Find",
+      "products",
+      "to",
+      "sell"
+    ],
+    "shape": 800,
+    "tag": "LI",
+    "visibleText": [
+      "Buy",
+      "an",
+      "existing",
+      "online",
+      "store"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 4750,
+    "classList": [],
+    "href": "https://exchangemarketplace.com/?utm_source=ExpiredDomainLink&utm_medium=textlink&utm_campaign=ExpiredDomainLink&utm_content=footer",
+    "id": "",
+    "idxpath": "//*[@id='subpage']/footer[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 190,
+      "x": 925,
+      "y": 765
+    },
+    "name": "",
+    "neighborText": [
+      "Find",
+      "products",
+      "to",
+      "sell"
+    ],
+    "shape": 760,
+    "tag": "A",
+    "visibleText": [
+      "Buy",
+      "an",
+      "existing",
+      "online",
+      "store"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[3]/a[1]"
+  }
+]

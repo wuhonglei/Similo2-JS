@@ -1,0 +1,5673 @@
+[
+  {
+    "alt": "",
+    "area": 4590,
+    "classList": [
+      "nav__logo-link"
+    ],
+    "href": "https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 135,
+      "x": 332,
+      "y": 15
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 397,
+    "tag": "A",
+    "visibleText": [
+      "LinkedIn"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "sr-only"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 332,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      "LinkedIn"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 8240,
+    "classList": [
+      "nav__cta-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 206,
+      "x": 1253,
+      "y": 12
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in"
+    ],
+    "shape": 515,
+    "tag": "DIV",
+    "visibleText": [
+      "Join",
+      "now",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3640,
+    "classList": [
+      "nav__button-tertiary"
+    ],
+    "href": "https://www.linkedin.com/signup/cold-join?trk=guest_homepage-basic_nav-header-join",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 40,
+      "width": 91,
+      "x": 1253,
+      "y": 12
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in"
+    ],
+    "shape": 227,
+    "tag": "A",
+    "visibleText": [
+      "Join",
+      "now"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3960,
+    "classList": [
+      "nav__button-secondary"
+    ],
+    "href": "https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/a[2]",
+    "isButton": true,
+    "location": {
+      "height": 40,
+      "width": 99,
+      "x": 1360,
+      "y": 12
+    },
+    "name": "",
+    "neighborText": [
+      "Join",
+      "now"
+    ],
+    "shape": 247,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 175968,
+    "classList": [
+      "hero",
+      "hero--with-form"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 156,
+      "width": 1128,
+      "x": 332,
+      "y": 108
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 723,
+    "tag": "DIV",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "your",
+      "professional",
+      "community"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 96720,
+    "classList": [
+      "hero__headline",
+      "hero__headline--basic"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 156,
+      "width": 620,
+      "x": 332,
+      "y": 108
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 397,
+    "tag": "H1",
+    "visibleText": [
+      "Welcome",
+      "to",
+      "your",
+      "professional",
+      "community"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 141576,
+    "classList": [
+      "sign-in-form-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 347,
+      "width": 408,
+      "x": 332,
+      "y": 264
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 117,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "or",
+      "phone",
+      "number",
+      "Password",
+      "Show",
+      "Forgot",
+      "password?",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 48960,
+    "classList": [
+      "sign-in-form__form-input-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 120,
+      "width": 408,
+      "x": 332,
+      "y": 264
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 340,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "or",
+      "phone",
+      "number",
+      "Password",
+      "Show"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 19584,
+    "classList": [
+      "input"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 408,
+      "x": 332,
+      "y": 276
+    },
+    "name": null,
+    "neighborText": [
+      "Show"
+    ],
+    "shape": 850,
+    "tag": "DIV",
+    "visibleText": [
+      "Email",
+      "or",
+      "phone",
+      "number"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 19584,
+    "classList": [
+      "input__input"
+    ],
+    "href": "",
+    "id": "session_key",
+    "idxpath": "//*[@id='session_key']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 408,
+      "x": 332,
+      "y": 276
+    },
+    "name": "session_key",
+    "neighborText": [
+      "Show"
+    ],
+    "shape": 850,
+    "tag": "INPUT",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 19584,
+    "classList": [
+      "input__label"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[1]/label[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 408,
+      "x": 332,
+      "y": 276
+    },
+    "name": null,
+    "neighborText": [
+      "Show"
+    ],
+    "shape": 850,
+    "tag": "LABEL",
+    "visibleText": [
+      "Email",
+      "or",
+      "phone",
+      "number"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[1]/label[1]"
+  },
+  {
+    "alt": "",
+    "area": 19584,
+    "classList": [
+      "input"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 408,
+      "x": 332,
+      "y": 336
+    },
+    "name": null,
+    "neighborText": [
+      "Forgot",
+      "password?"
+    ],
+    "shape": 850,
+    "tag": "DIV",
+    "visibleText": [
+      "Password",
+      "Show"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 19584,
+    "classList": [
+      "input__input"
+    ],
+    "href": "",
+    "id": "session_password",
+    "idxpath": "//*[@id='session_password']",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 408,
+      "x": 332,
+      "y": 336
+    },
+    "name": "session_password",
+    "neighborText": [
+      "Forgot",
+      "password?"
+    ],
+    "shape": 850,
+    "tag": "INPUT",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[2]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 19584,
+    "classList": [
+      "input__label"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[2]/label[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 408,
+      "x": 332,
+      "y": 336
+    },
+    "name": null,
+    "neighborText": [
+      "Forgot",
+      "password?"
+    ],
+    "shape": 850,
+    "tag": "LABEL",
+    "visibleText": [
+      "Password"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[2]/label[1]"
+  },
+  {
+    "alt": "",
+    "area": 1824,
+    "classList": [
+      "sign-in-form__password-visibility-toggle-button"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[2]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 32,
+      "width": 57,
+      "x": 674,
+      "y": 344
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 178,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Show"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/div[2]/div[2]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 3096,
+    "classList": [
+      "sign-in-form__forgot-password-link"
+    ],
+    "href": "https://www.linkedin.com/uas/request-password-reset?trk=homepage-basic_signin-form_forgot-password-link",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 129,
+      "x": 332,
+      "y": 400
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in"
+    ],
+    "shape": 537,
+    "tag": "A",
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 22848,
+    "classList": [
+      "sign-in-form__submit-button"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 56,
+      "width": 408,
+      "x": 332,
+      "y": 448
+    },
+    "name": "",
+    "neighborText": [
+      "Forgot",
+      "password?"
+    ],
+    "shape": 728,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]/form[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 395928,
+    "classList": [
+      "search-cta"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 351,
+      "width": 1128,
+      "x": 332,
+      "y": 851
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 321,
+    "tag": "DIV",
+    "visibleText": [
+      "Find",
+      "open",
+      "jobs",
+      "and",
+      "internships",
+      "SUGGESTED",
+      "SEARCHES",
+      "Engineering",
+      "Business",
+      "Development",
+      "Finance",
+      "Administrative",
+      "Assistant",
+      "Retail",
+      "Associate",
+      "Customer",
+      "Service",
+      "Operations",
+      "Information",
+      "Technology",
+      "Marketing",
+      "Human",
+      "Resources",
+      "Show",
+      "more",
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 48960,
+    "classList": [
+      "job-finder-cta"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 120,
+      "width": 408,
+      "x": 332,
+      "y": 851
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 340,
+    "tag": "DIV",
+    "visibleText": [
+      "Find",
+      "open",
+      "jobs",
+      "and",
+      "internships"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 48960,
+    "classList": [
+      "job-finder-cta__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 120,
+      "width": 408,
+      "x": 332,
+      "y": 851
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 340,
+    "tag": "H2",
+    "visibleText": [
+      "Find",
+      "open",
+      "jobs",
+      "and",
+      "internships"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 227448,
+    "classList": [
+      "suggested-search"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 351,
+      "width": 648,
+      "x": 812,
+      "y": 851
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 184,
+    "tag": "DIV",
+    "visibleText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Engineering",
+      "Business",
+      "Development",
+      "Finance",
+      "Administrative",
+      "Assistant",
+      "Retail",
+      "Associate",
+      "Customer",
+      "Service",
+      "Operations",
+      "Information",
+      "Technology",
+      "Marketing",
+      "Human",
+      "Resources",
+      "Show",
+      "more",
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 227448,
+    "classList": [
+      "etta-see-more-less-list"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 351,
+      "width": 648,
+      "x": 812,
+      "y": 851
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 184,
+    "tag": "DIV",
+    "visibleText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Engineering",
+      "Business",
+      "Development",
+      "Finance",
+      "Administrative",
+      "Assistant",
+      "Retail",
+      "Associate",
+      "Customer",
+      "Service",
+      "Operations",
+      "Information",
+      "Technology",
+      "Marketing",
+      "Human",
+      "Resources",
+      "Show",
+      "more",
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 12960,
+    "classList": [
+      "etta-see-more-less-list__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 648,
+      "x": 812,
+      "y": 851
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3240,
+    "tag": "H2",
+    "visibleText": [
+      "SUGGESTED",
+      "SEARCHES"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 201528,
+    "classList": [
+      "see-more-less-list"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 311,
+      "width": 648,
+      "x": 812,
+      "y": 891
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 208,
+    "tag": "DIV",
+    "visibleText": [
+      "Engineering",
+      "Business",
+      "Development",
+      "Finance",
+      "Administrative",
+      "Assistant",
+      "Retail",
+      "Associate",
+      "Customer",
+      "Service",
+      "Operations",
+      "Information",
+      "Technology",
+      "Marketing",
+      "Human",
+      "Resources",
+      "Show",
+      "more",
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 10540,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 155,
+      "x": 812,
+      "y": 891
+    },
+    "name": null,
+    "neighborText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Business",
+      "Development"
+    ],
+    "shape": 227,
+    "tag": "LI",
+    "visibleText": [
+      "Engineering"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 8344,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/engineering-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 149,
+      "x": 812,
+      "y": 891
+    },
+    "name": "",
+    "neighborText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Business",
+      "Development"
+    ],
+    "shape": 266,
+    "tag": "A",
+    "visibleText": [
+      "Engineering"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 17340,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 255,
+      "x": 967,
+      "y": 891
+    },
+    "name": null,
+    "neighborText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Finance",
+      "Engineering"
+    ],
+    "shape": 375,
+    "tag": "LI",
+    "visibleText": [
+      "Business",
+      "Development"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 13944,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/business-development-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 249,
+      "x": 967,
+      "y": 891
+    },
+    "name": "",
+    "neighborText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Finance",
+      "Engineering"
+    ],
+    "shape": 444,
+    "tag": "A",
+    "visibleText": [
+      "Business",
+      "Development"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7956,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 117,
+      "x": 1222,
+      "y": 891
+    },
+    "name": null,
+    "neighborText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Business",
+      "Development"
+    ],
+    "shape": 172,
+    "tag": "LI",
+    "visibleText": [
+      "Finance"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 6216,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/finance-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 111,
+      "x": 1222,
+      "y": 891
+    },
+    "name": "",
+    "neighborText": [
+      "SUGGESTED",
+      "SEARCHES",
+      "Business",
+      "Development"
+    ],
+    "shape": 198,
+    "tag": "A",
+    "visibleText": [
+      "Finance"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 18224,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 268,
+      "x": 812,
+      "y": 959
+    },
+    "name": null,
+    "neighborText": [
+      "Engineering",
+      "Business",
+      "Development"
+    ],
+    "shape": 394,
+    "tag": "LI",
+    "visibleText": [
+      "Administrative",
+      "Assistant"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 14672,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/administrative-assistant-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 262,
+      "x": 812,
+      "y": 959
+    },
+    "name": "",
+    "neighborText": [
+      "Engineering",
+      "Business",
+      "Development"
+    ],
+    "shape": 467,
+    "tag": "A",
+    "visibleText": [
+      "Administrative",
+      "Assistant"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 12988,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 191,
+      "x": 1080,
+      "y": 959
+    },
+    "name": null,
+    "neighborText": [
+      "Business",
+      "Development",
+      "Finance"
+    ],
+    "shape": 280,
+    "tag": "LI",
+    "visibleText": [
+      "Retail",
+      "Associate"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 10360,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/retail-associate-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 185,
+      "x": 1080,
+      "y": 959
+    },
+    "name": "",
+    "neighborText": [
+      "Business",
+      "Development",
+      "Finance"
+    ],
+    "shape": 330,
+    "tag": "A",
+    "visibleText": [
+      "Retail",
+      "Associate"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 14212,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 209,
+      "x": 812,
+      "y": 1027
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 307,
+    "tag": "LI",
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 11368,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/customer-service-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 203,
+      "x": 812,
+      "y": 1027
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 362,
+    "tag": "A",
+    "visibleText": [
+      "Customer",
+      "Service"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 9996,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 147,
+      "x": 1021,
+      "y": 1027
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 216,
+    "tag": "LI",
+    "visibleText": [
+      "Operations"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 7896,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/operations-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 141,
+      "x": 1021,
+      "y": 1027
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 251,
+    "tag": "A",
+    "visibleText": [
+      "Operations"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 17816,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 262,
+      "x": 1169,
+      "y": 1027
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 385,
+    "tag": "LI",
+    "visibleText": [
+      "Information",
+      "Technology"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 14336,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/information-technology-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 256,
+      "x": 1169,
+      "y": 1027
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 457,
+    "tag": "A",
+    "visibleText": [
+      "Information",
+      "Technology"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 9384,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 138,
+      "x": 812,
+      "y": 1095
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 202,
+    "tag": "LI",
+    "visibleText": [
+      "Marketing"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]"
+  },
+  {
+    "alt": "",
+    "area": 7392,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/marketing-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 132,
+      "x": 812,
+      "y": 1095
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 235,
+    "tag": "A",
+    "visibleText": [
+      "Marketing"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 14484,
+    "classList": [
+      "suggested-search__pill",
+      "see-more-less-list__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 213,
+      "x": 950,
+      "y": 1095
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 313,
+    "tag": "LI",
+    "visibleText": [
+      "Human",
+      "Resources"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]"
+  },
+  {
+    "alt": "",
+    "area": 11592,
+    "classList": [
+      "pill"
+    ],
+    "href": "https://www.linkedin.com/jobs/human-resources-jobs-san-francisco-ca?trk=homepage-basic_suggested-search",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 207,
+      "x": 950,
+      "y": 1095
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 369,
+    "tag": "A",
+    "visibleText": [
+      "Human",
+      "Resources"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 15552,
+    "classList": [
+      "show-more-less-state__label",
+      "show-more-less-state__label-more"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/label[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 648,
+      "x": 812,
+      "y": 1178
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2700,
+    "tag": "LABEL",
+    "visibleText": [
+      "Show",
+      "more",
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/label[1]"
+  },
+  {
+    "alt": "",
+    "area": 1596,
+    "classList": [
+      "etta-see-more-less-list__show-more"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/label[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 84,
+      "x": 812,
+      "y": 1181
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 442,
+    "tag": "SPAN",
+    "visibleText": [
+      "Show",
+      "more"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/label[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "etta-see-more-less-list__sr-only"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/label[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 900,
+      "y": 1178
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      "Show",
+      "more",
+      "results",
+      "for",
+      "Suggested",
+      "Searches"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[2]/div[1]/div[2]/div[1]/div[1]/label[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 270720,
+    "classList": [
+      "talent-finder-cta"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 240,
+      "width": 1128,
+      "x": 332,
+      "y": 1322
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 470,
+    "tag": "DIV",
+    "visibleText": [
+      "Post",
+      "your",
+      "job",
+      "and",
+      "find",
+      "the",
+      "people",
+      "you",
+      "need",
+      "Post",
+      "a",
+      "job"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 41300,
+    "classList": [
+      "talent-finder-cta__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 100,
+      "width": 413,
+      "x": 332,
+      "y": 1392
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 413,
+    "tag": "H2",
+    "visibleText": [
+      "Post",
+      "your",
+      "job",
+      "and",
+      "find",
+      "the",
+      "people",
+      "you",
+      "need"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 7336,
+    "classList": [
+      "pill",
+      "pill--transparent"
+    ],
+    "href": "https://www.linkedin.com/talent/post-a-job?trk=homepage-basic_talent-finder-cta",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 131,
+      "x": 812,
+      "y": 1408
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 233,
+    "tag": "A",
+    "visibleText": [
+      "Post",
+      "a",
+      "job"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[3]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 947520,
+    "classList": [
+      "section",
+      "testimonials"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 840,
+      "width": 1128,
+      "x": 332,
+      "y": 1562
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 134,
+    "tag": "DIV",
+    "visibleText": [
+      "Previous",
+      "Next",
+      "Let",
+      "the",
+      "right",
+      "people",
+      "know",
+      "you’re",
+      "open",
+      "to",
+      "work",
+      "With",
+      "the",
+      "Open",
+      "To",
+      "Work",
+      "feature,",
+      "you",
+      "can",
+      "privately",
+      "tell",
+      "recruiters",
+      "or",
+      "publicly",
+      "share",
+      "with",
+      "the",
+      "LinkedIn",
+      "community",
+      "that",
+      "youre",
+      "looking",
+      "for",
+      "new",
+      "job",
+      "opportunities",
+      "Conversations",
+      "today",
+      "could",
+      "lead",
+      "to",
+      "opportunity",
+      "tomorrow",
+      "Sending",
+      "messages",
+      "to",
+      "people",
+      "you",
+      "know",
+      "is",
+      "a",
+      "great",
+      "way",
+      "to",
+      "strengthen",
+      "relationships",
+      "as",
+      "you",
+      "take",
+      "the",
+      "next",
+      "step",
+      "in",
+      "your",
+      "career",
+      "Stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "your",
+      "industry",
+      "From",
+      "Live",
+      "videos,",
+      "to",
+      "stories,",
+      "to",
+      "newsletters",
+      "and",
+      "more,",
+      "LinkedIn",
+      "is",
+      "full",
+      "of",
+      "ways",
+      "to",
+      "stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "the",
+      "latest",
+      "discussions",
+      "in",
+      "your",
+      "industry"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 36032,
+    "classList": [
+      "slide-list__header-nav"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 1126,
+      "x": 334,
+      "y": 1820
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3518,
+    "tag": "DIV",
+    "visibleText": [
+      "Previous",
+      "Next"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2848,
+    "classList": [
+      "slide-list__nav-wrap",
+      "slide-list__nav-wrap--prev"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 89,
+      "x": 334,
+      "y": 1820
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 278,
+    "tag": "DIV",
+    "visibleText": [
+      "Previous"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2336,
+    "classList": [
+      "slide-list__nav-button"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 32,
+      "width": 73,
+      "x": 342,
+      "y": 1820
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 228,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Previous"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 2080,
+    "classList": [
+      "slide-list__nav-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 65,
+      "x": 342,
+      "y": 1820
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 203,
+    "tag": "SPAN",
+    "visibleText": [
+      "Previous"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1888,
+    "classList": [
+      "slide-list__nav-wrap",
+      "slide-list__nav-wrap--next"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 59,
+      "x": 427,
+      "y": 1820
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 184,
+    "tag": "DIV",
+    "visibleText": [
+      "Next"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1376,
+    "classList": [
+      "slide-list__nav-button"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[2]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 32,
+      "width": 43,
+      "x": 435,
+      "y": 1820
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 134,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Next"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[2]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 1120,
+    "classList": [
+      "slide-list__nav-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[2]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 35,
+      "x": 435,
+      "y": 1820
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 109,
+    "tag": "SPAN",
+    "visibleText": [
+      "Next"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/header[1]/div[1]/div[2]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 292944,
+    "classList": [
+      "testimonials__card"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 272,
+      "width": 1077,
+      "x": 334,
+      "y": 1868
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 395,
+    "tag": "LI",
+    "visibleText": [
+      "Let",
+      "the",
+      "right",
+      "people",
+      "know",
+      "you’re",
+      "open",
+      "to",
+      "work",
+      "With",
+      "the",
+      "Open",
+      "To",
+      "Work",
+      "feature,",
+      "you",
+      "can",
+      "privately",
+      "tell",
+      "recruiters",
+      "or",
+      "publicly",
+      "share",
+      "with",
+      "the",
+      "LinkedIn",
+      "community",
+      "that",
+      "youre",
+      "looking",
+      "for",
+      "new",
+      "job",
+      "opportunities"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 153136,
+    "classList": [
+      "testimonials__content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 272,
+      "width": 563,
+      "x": 334,
+      "y": 1868
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 206,
+    "tag": "DIV",
+    "visibleText": [
+      "Let",
+      "the",
+      "right",
+      "people",
+      "know",
+      "you’re",
+      "open",
+      "to",
+      "work",
+      "With",
+      "the",
+      "Open",
+      "To",
+      "Work",
+      "feature,",
+      "you",
+      "can",
+      "privately",
+      "tell",
+      "recruiters",
+      "or",
+      "publicly",
+      "share",
+      "with",
+      "the",
+      "LinkedIn",
+      "community",
+      "that",
+      "youre",
+      "looking",
+      "for",
+      "new",
+      "job",
+      "opportunities"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 54048,
+    "classList": [
+      "testimonials__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 96,
+      "width": 563,
+      "x": 334,
+      "y": 1868
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 586,
+    "tag": "H2",
+    "visibleText": [
+      "Let",
+      "the",
+      "right",
+      "people",
+      "know",
+      "you’re",
+      "open",
+      "to",
+      "work"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 90080,
+    "classList": [
+      "testimonials__quote"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 160,
+      "width": 563,
+      "x": 334,
+      "y": 1972
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 351,
+    "tag": "P",
+    "visibleText": [
+      "With",
+      "the",
+      "Open",
+      "To",
+      "Work",
+      "feature,",
+      "you",
+      "can",
+      "privately",
+      "tell",
+      "recruiters",
+      "or",
+      "publicly",
+      "share",
+      "with",
+      "the",
+      "LinkedIn",
+      "community",
+      "that",
+      "youre",
+      "looking",
+      "for",
+      "new",
+      "job",
+      "opportunities"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 87532,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 158,
+      "width": 554,
+      "x": 334,
+      "y": 1973
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 350,
+    "tag": "SPAN",
+    "visibleText": [
+      "With",
+      "the",
+      "Open",
+      "To",
+      "Work",
+      "feature,",
+      "you",
+      "can",
+      "privately",
+      "tell",
+      "recruiters",
+      "or",
+      "publicly",
+      "share",
+      "with",
+      "the",
+      "LinkedIn",
+      "community",
+      "that",
+      "youre",
+      "looking",
+      "for",
+      "new",
+      "job",
+      "opportunities"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[1]/div[1]/p[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 292944,
+    "classList": [
+      "testimonials__card"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 272,
+      "width": 1077,
+      "x": 1507,
+      "y": 1868
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 395,
+    "tag": "LI",
+    "visibleText": [
+      "Conversations",
+      "today",
+      "could",
+      "lead",
+      "to",
+      "opportunity",
+      "tomorrow",
+      "Sending",
+      "messages",
+      "to",
+      "people",
+      "you",
+      "know",
+      "is",
+      "a",
+      "great",
+      "way",
+      "to",
+      "strengthen",
+      "relationships",
+      "as",
+      "you",
+      "take",
+      "the",
+      "next",
+      "step",
+      "in",
+      "your",
+      "career"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 130616,
+    "classList": [
+      "testimonials__content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 232,
+      "width": 563,
+      "x": 1507,
+      "y": 1888
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 242,
+    "tag": "DIV",
+    "visibleText": [
+      "Conversations",
+      "today",
+      "could",
+      "lead",
+      "to",
+      "opportunity",
+      "tomorrow",
+      "Sending",
+      "messages",
+      "to",
+      "people",
+      "you",
+      "know",
+      "is",
+      "a",
+      "great",
+      "way",
+      "to",
+      "strengthen",
+      "relationships",
+      "as",
+      "you",
+      "take",
+      "the",
+      "next",
+      "step",
+      "in",
+      "your",
+      "career"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 54048,
+    "classList": [
+      "testimonials__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 96,
+      "width": 563,
+      "x": 1507,
+      "y": 1888
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 586,
+    "tag": "H2",
+    "visibleText": [
+      "Conversations",
+      "today",
+      "could",
+      "lead",
+      "to",
+      "opportunity",
+      "tomorrow"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 67560,
+    "classList": [
+      "testimonials__quote"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 120,
+      "width": 563,
+      "x": 1507,
+      "y": 1992
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 469,
+    "tag": "P",
+    "visibleText": [
+      "Sending",
+      "messages",
+      "to",
+      "people",
+      "you",
+      "know",
+      "is",
+      "a",
+      "great",
+      "way",
+      "to",
+      "strengthen",
+      "relationships",
+      "as",
+      "you",
+      "take",
+      "the",
+      "next",
+      "step",
+      "in",
+      "your",
+      "career"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 65962,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 118,
+      "width": 559,
+      "x": 1507,
+      "y": 1993
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 473,
+    "tag": "SPAN",
+    "visibleText": [
+      "Sending",
+      "messages",
+      "to",
+      "people",
+      "you",
+      "know",
+      "is",
+      "a",
+      "great",
+      "way",
+      "to",
+      "strengthen",
+      "relationships",
+      "as",
+      "you",
+      "take",
+      "the",
+      "next",
+      "step",
+      "in",
+      "your",
+      "career"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[2]/div[1]/p[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 292944,
+    "classList": [
+      "testimonials__card"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 272,
+      "width": 1077,
+      "x": 2680,
+      "y": 1868
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 395,
+    "tag": "LI",
+    "visibleText": [
+      "Stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "your",
+      "industry",
+      "From",
+      "Live",
+      "videos,",
+      "to",
+      "stories,",
+      "to",
+      "newsletters",
+      "and",
+      "more,",
+      "LinkedIn",
+      "is",
+      "full",
+      "of",
+      "ways",
+      "to",
+      "stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "the",
+      "latest",
+      "discussions",
+      "in",
+      "your",
+      "industry"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 126112,
+    "classList": [
+      "testimonials__content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 224,
+      "width": 563,
+      "x": 2680,
+      "y": 1892
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 251,
+    "tag": "DIV",
+    "visibleText": [
+      "Stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "your",
+      "industry",
+      "From",
+      "Live",
+      "videos,",
+      "to",
+      "stories,",
+      "to",
+      "newsletters",
+      "and",
+      "more,",
+      "LinkedIn",
+      "is",
+      "full",
+      "of",
+      "ways",
+      "to",
+      "stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "the",
+      "latest",
+      "discussions",
+      "in",
+      "your",
+      "industry"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 27024,
+    "classList": [
+      "testimonials__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 563,
+      "x": 2680,
+      "y": 1892
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1172,
+    "tag": "H2",
+    "visibleText": [
+      "Stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "your",
+      "industry"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 90080,
+    "classList": [
+      "testimonials__quote"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 160,
+      "width": 563,
+      "x": 2680,
+      "y": 1948
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 351,
+    "tag": "P",
+    "visibleText": [
+      "From",
+      "Live",
+      "videos,",
+      "to",
+      "stories,",
+      "to",
+      "newsletters",
+      "and",
+      "more,",
+      "LinkedIn",
+      "is",
+      "full",
+      "of",
+      "ways",
+      "to",
+      "stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "the",
+      "latest",
+      "discussions",
+      "in",
+      "your",
+      "industry"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 86900,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 158,
+      "width": 550,
+      "x": 2680,
+      "y": 1949
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 348,
+    "tag": "SPAN",
+    "visibleText": [
+      "From",
+      "Live",
+      "videos,",
+      "to",
+      "stories,",
+      "to",
+      "newsletters",
+      "and",
+      "more,",
+      "LinkedIn",
+      "is",
+      "full",
+      "of",
+      "ways",
+      "to",
+      "stay",
+      "up",
+      "to",
+      "date",
+      "on",
+      "the",
+      "latest",
+      "discussions",
+      "in",
+      "your",
+      "industry"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/section[1]/ul[1]/li[3]/div[1]/p[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 482784,
+    "classList": [
+      "product-cta"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 428,
+      "width": 1128,
+      "x": 332,
+      "y": 2462
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 263,
+    "tag": "DIV",
+    "visibleText": [
+      "Connect",
+      "with",
+      "people",
+      "who",
+      "can",
+      "help",
+      "Find",
+      "people",
+      "you",
+      "know",
+      "Learn",
+      "the",
+      "skills",
+      "that",
+      "can",
+      "help",
+      "you",
+      "now",
+      "Choose",
+      "a",
+      "topic",
+      "to",
+      "learn",
+      "about"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 202048,
+    "classList": [
+      "people-cta"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 308,
+      "width": 656,
+      "x": 332,
+      "y": 2522
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 212,
+    "tag": "DIV",
+    "visibleText": [
+      "Connect",
+      "with",
+      "people",
+      "who",
+      "can",
+      "help",
+      "Find",
+      "people",
+      "you",
+      "know"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 103968,
+    "classList": [
+      "people-cta__content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 228,
+      "width": 456,
+      "x": 332,
+      "y": 2602
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 200,
+    "tag": "DIV",
+    "visibleText": [
+      "Connect",
+      "with",
+      "people",
+      "who",
+      "can",
+      "help",
+      "Find",
+      "people",
+      "you",
+      "know"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 54720,
+    "classList": [
+      "people-cta__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 120,
+      "width": 456,
+      "x": 332,
+      "y": 2602
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 380,
+    "tag": "H2",
+    "visibleText": [
+      "Connect",
+      "with",
+      "people",
+      "who",
+      "can",
+      "help"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 13440,
+    "classList": [
+      "pill",
+      "pill--transparent"
+    ],
+    "href": "https://www.linkedin.com/pub/dir/+/+?trk=homepage-basic_people-cta",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 240,
+      "x": 332,
+      "y": 2762
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 428,
+    "tag": "A",
+    "visibleText": [
+      "Find",
+      "people",
+      "you",
+      "know"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 126768,
+    "classList": [
+      "learning-cta"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 278,
+      "width": 456,
+      "x": 1004,
+      "y": 2522
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 164,
+    "tag": "DIV",
+    "visibleText": [
+      "Learn",
+      "the",
+      "skills",
+      "that",
+      "can",
+      "help",
+      "you",
+      "now",
+      "Choose",
+      "a",
+      "topic",
+      "to",
+      "learn",
+      "about"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 101232,
+    "classList": [
+      "learning-cta__content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 222,
+      "width": 456,
+      "x": 1004,
+      "y": 2578
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 205,
+    "tag": "DIV",
+    "visibleText": [
+      "Learn",
+      "the",
+      "skills",
+      "that",
+      "can",
+      "help",
+      "you",
+      "now",
+      "Choose",
+      "a",
+      "topic",
+      "to",
+      "learn",
+      "about"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 54720,
+    "classList": [
+      "learning-cta__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 120,
+      "width": 456,
+      "x": 1004,
+      "y": 2578
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 380,
+    "tag": "H2",
+    "visibleText": [
+      "Learn",
+      "the",
+      "skills",
+      "that",
+      "can",
+      "help",
+      "you",
+      "now"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 28272,
+    "classList": [
+      "dropdown",
+      "dropdown--down",
+      "learning-cta",
+      "learning-cta--down"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 62,
+      "width": 456,
+      "x": 1004,
+      "y": 2738
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 735,
+    "tag": "DIV",
+    "visibleText": [
+      "Choose",
+      "a",
+      "topic",
+      "to",
+      "learn",
+      "about"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 28272,
+    "classList": [
+      "see-more-less-list",
+      "learning-cta"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 62,
+      "width": 456,
+      "x": 1004,
+      "y": 2738
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 735,
+    "tag": "DIV",
+    "visibleText": [
+      "Choose",
+      "a",
+      "topic",
+      "to",
+      "learn",
+      "about"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 22320,
+    "classList": [
+      "show-more-less-state__label",
+      "show-more-less-state__label-more",
+      "learning-cta__label",
+      "learning-cta__label-more"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]/div[1]/label[1]",
+    "isButton": false,
+    "location": {
+      "height": 62,
+      "width": 360,
+      "x": 1004,
+      "y": 2738
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 580,
+    "tag": "LABEL",
+    "visibleText": [
+      "Choose",
+      "a",
+      "topic",
+      "to",
+      "learn",
+      "about"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]/div[1]/label[1]"
+  },
+  {
+    "alt": "",
+    "area": 7168,
+    "classList": [
+      "learning-cta__show-more",
+      "see-more-less-list__show-more"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]/div[1]/label[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 28,
+      "width": 256,
+      "x": 1021,
+      "y": 2755
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 914,
+    "tag": "SPAN",
+    "visibleText": [
+      "Choose",
+      "a",
+      "topic",
+      "to",
+      "learn",
+      "about"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[4]/div[1]/div[2]/div[1]/div[1]/div[1]/label[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 812160,
+    "classList": [
+      "marketing"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[5]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 720,
+      "width": 1128,
+      "x": 332,
+      "y": 3010
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 156,
+    "tag": "DIV",
+    "visibleText": [
+      "Let's",
+      "step",
+      "forward",
+      "With",
+      "our",
+      "communities",
+      "by",
+      "our",
+      "side,",
+      "there's",
+      "no",
+      "telling",
+      "where",
+      "our",
+      "next",
+      "small",
+      "steps",
+      "could",
+      "lead"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 213192,
+    "classList": [
+      "marketing__media"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 378,
+      "width": 564,
+      "x": 332,
+      "y": 3180
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 149,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 406080,
+    "classList": [
+      "marketing__copy"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 720,
+      "width": 564,
+      "x": 896,
+      "y": 3010
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 78,
+    "tag": "DIV",
+    "visibleText": [
+      "Let's",
+      "step",
+      "forward",
+      "With",
+      "our",
+      "communities",
+      "by",
+      "our",
+      "side,",
+      "there's",
+      "no",
+      "telling",
+      "where",
+      "our",
+      "next",
+      "small",
+      "steps",
+      "could",
+      "lead"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 25800,
+    "classList": [
+      "marketing__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 516,
+      "x": 944,
+      "y": 3262
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1032,
+    "tag": "H2",
+    "visibleText": [
+      "Let's",
+      "step",
+      "forward"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[2]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 77400,
+    "classList": [
+      "marketing__subtitle"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[2]/h3[1]",
+    "isButton": false,
+    "location": {
+      "height": 150,
+      "width": 516,
+      "x": 944,
+      "y": 3328
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 344,
+    "tag": "H3",
+    "visibleText": [
+      "With",
+      "our",
+      "communities",
+      "by",
+      "our",
+      "side,",
+      "there's",
+      "no",
+      "telling",
+      "where",
+      "our",
+      "next",
+      "small",
+      "steps",
+      "could",
+      "lead"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[5]/div[1]/div[2]/h3[1]"
+  },
+  {
+    "alt": "",
+    "area": 302304,
+    "classList": [
+      "join-cta",
+      "lazy-load"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 268,
+      "width": 1128,
+      "x": 332,
+      "y": 3850
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 420,
+    "tag": "DIV",
+    "visibleText": [
+      "Join",
+      "your",
+      "colleagues,",
+      "classmates,",
+      "and",
+      "friends",
+      "on",
+      "LinkedIn.",
+      "Get",
+      "started"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 157920,
+    "classList": [
+      "join-cta__header"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 140,
+      "width": 1128,
+      "x": 332,
+      "y": 3870
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 805,
+    "tag": "H2",
+    "visibleText": [
+      "Join",
+      "your",
+      "colleagues,",
+      "classmates,",
+      "and",
+      "friends",
+      "on",
+      "LinkedIn."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 7728,
+    "classList": [
+      "pill",
+      "pill--blue",
+      "pill--join-cta"
+    ],
+    "href": "https://www.linkedin.com/signup/cold-join?trk=guest_homepage-basic_join-cta",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 56,
+      "width": 138,
+      "x": 332,
+      "y": 4050
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 246,
+    "tag": "A",
+    "visibleText": [
+      "Get",
+      "started"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[6]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 421872,
+    "classList": [
+      "directory"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 374,
+      "width": 1128,
+      "x": 332,
+      "y": 4630
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 301,
+    "tag": "DIV",
+    "visibleText": [
+      "General",
+      "Sign",
+      "Up",
+      "Help",
+      "Center",
+      "About",
+      "Press",
+      "Blog",
+      "Careers",
+      "Developers",
+      "Browse",
+      "LinkedIn",
+      "Learning",
+      "Jobs",
+      "Salary",
+      "Mobile",
+      "ProFinder",
+      "Business",
+      "Solutions",
+      "Talent",
+      "Marketing",
+      "Sales",
+      "Learning",
+      "Directories",
+      "Members",
+      "Jobs",
+      "Companies",
+      "Salaries",
+      "Featured",
+      "Learning",
+      "Posts",
+      "Articles",
+      "Schools",
+      "News",
+      "News",
+      "Letters",
+      "Services"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 342432,
+    "classList": [
+      "directory__lists"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 328,
+      "width": 1044,
+      "x": 416,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 318,
+    "tag": "DIV",
+    "visibleText": [
+      "General",
+      "Sign",
+      "Up",
+      "Help",
+      "Center",
+      "About",
+      "Press",
+      "Blog",
+      "Careers",
+      "Developers",
+      "Browse",
+      "LinkedIn",
+      "Learning",
+      "Jobs",
+      "Salary",
+      "Mobile",
+      "ProFinder",
+      "Business",
+      "Solutions",
+      "Talent",
+      "Marketing",
+      "Sales",
+      "Learning",
+      "Directories",
+      "Members",
+      "Jobs",
+      "Companies",
+      "Salaries",
+      "Featured",
+      "Learning",
+      "Posts",
+      "Articles",
+      "Schools",
+      "News",
+      "News",
+      "Letters",
+      "Services"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 62976,
+    "classList": [
+      "directory__column"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 328,
+      "width": 192,
+      "x": 596,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 58,
+    "tag": "DIV",
+    "visibleText": [
+      "General",
+      "Sign",
+      "Up",
+      "Help",
+      "Center",
+      "About",
+      "Press",
+      "Blog",
+      "Careers",
+      "Developers"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3840,
+    "classList": [
+      "directory__list-item",
+      "directory__list-item--heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 192,
+      "x": 596,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 960,
+    "tag": "P",
+    "visibleText": [
+      "General"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 596,
+      "y": 4682
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 832,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/signup/cold-join?trk=guest_homepage-basic_directory",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 52,
+      "x": 596,
+      "y": 4687
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 325,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 596,
+      "y": 4707
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1280,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/help/linkedin?lang=en&trk=homepage-basic_directory_helpCenterUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 80,
+      "x": 596,
+      "y": 4712
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 500,
+    "tag": "A",
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 596,
+      "y": 4732
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 640,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://about.linkedin.com/?trk=homepage-basic_directory_aboutUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 40,
+      "x": 596,
+      "y": 4737
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 250,
+    "tag": "A",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 596,
+      "y": 4757
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Press"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 592,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://press.linkedin.com/?trk=homepage-basic_directory_pressMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 37,
+      "x": 596,
+      "y": 4762
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 231,
+    "tag": "A",
+    "visibleText": [
+      "Press"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 596,
+      "y": 4782
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Blog"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 480,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://blog.linkedin.com/?trk=homepage-basic_directory_blogMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 30,
+      "x": 596,
+      "y": 4787
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 187,
+    "tag": "A",
+    "visibleText": [
+      "Blog"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 596,
+      "y": 4807
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Careers"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 832,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/company/linkedin/jobs?trk=homepage-basic_directory_careersUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 52,
+      "x": 596,
+      "y": 4812
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 325,
+    "tag": "A",
+    "visibleText": [
+      "Careers"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 596,
+      "y": 4832
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Developers"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1200,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://developer.linkedin.com/?trk=homepage-basic_directory_developerMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 75,
+      "x": 596,
+      "y": 4837
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 468,
+    "tag": "A",
+    "visibleText": [
+      "Developers"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 62976,
+    "classList": [
+      "directory__column"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 328,
+      "width": 192,
+      "x": 812,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 58,
+    "tag": "DIV",
+    "visibleText": [
+      "Browse",
+      "LinkedIn",
+      "Learning",
+      "Jobs",
+      "Salary",
+      "Mobile",
+      "ProFinder"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 3840,
+    "classList": [
+      "directory__list-item",
+      "directory__list-item--heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 192,
+      "x": 812,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 960,
+    "tag": "P",
+    "visibleText": [
+      "Browse",
+      "LinkedIn"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 812,
+      "y": 4682
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Learning"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 928,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/learning/?trk=homepage-basic_directory_learningHomeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 58,
+      "x": 812,
+      "y": 4687
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 362,
+    "tag": "A",
+    "visibleText": [
+      "Learning"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 812,
+      "y": 4707
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Jobs"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 512,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/jobs?trk=homepage-basic_directory_jobsHomeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 32,
+      "x": 812,
+      "y": 4712
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 200,
+    "tag": "A",
+    "visibleText": [
+      "Jobs"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 812,
+      "y": 4732
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Salary"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 672,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/salary/?trk=homepage-basic_directory_salaryHomeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 42,
+      "x": 812,
+      "y": 4737
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 262,
+    "tag": "A",
+    "visibleText": [
+      "Salary"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 812,
+      "y": 4757
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Mobile"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 720,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://mobile.linkedin.com/?trk=homepage-basic_directory_mobileMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 45,
+      "x": 812,
+      "y": 4762
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 281,
+    "tag": "A",
+    "visibleText": [
+      "Mobile"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 812,
+      "y": 4782
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "ProFinder"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 1040,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/profinder?trk=homepage-basic_directory_profinderHomeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 65,
+      "x": 812,
+      "y": 4787
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 406,
+    "tag": "A",
+    "visibleText": [
+      "ProFinder"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[2]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 62976,
+    "classList": [
+      "directory__column"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 328,
+      "width": 192,
+      "x": 1028,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 58,
+    "tag": "DIV",
+    "visibleText": [
+      "Business",
+      "Solutions",
+      "Talent",
+      "Marketing",
+      "Sales",
+      "Learning"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 3840,
+    "classList": [
+      "directory__list-item",
+      "directory__list-item--heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 192,
+      "x": 1028,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 960,
+    "tag": "P",
+    "visibleText": [
+      "Business",
+      "Solutions"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1028,
+      "y": 4682
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Talent"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 656,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://business.linkedin.com/talent-solutions?src=li-footer&utm_source=linkedin&utm_medium=footer&trk=homepage-basic_directory_talentSolutionsMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 41,
+      "x": 1028,
+      "y": 4687
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 256,
+    "tag": "A",
+    "visibleText": [
+      "Talent"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1028,
+      "y": 4707
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Marketing"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1072,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://business.linkedin.com/marketing-solutions?src=li-footer&utm_source=linkedin&utm_medium=footer&trk=homepage-basic_directory_marketingSolutionsMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 67,
+      "x": 1028,
+      "y": 4712
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 418,
+    "tag": "A",
+    "visibleText": [
+      "Marketing"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1028,
+      "y": 4732
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Sales"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://business.linkedin.com/sales-solutions?src=li-footer&utm_source=linkedin&utm_medium=footer&trk=homepage-basic_directory_salesSolutionsMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 36,
+      "x": 1028,
+      "y": 4737
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 225,
+    "tag": "A",
+    "visibleText": [
+      "Sales"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1028,
+      "y": 4757
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Learning"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 928,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://learning.linkedin.com/?src=li-footer&trk=homepage-basic_directory_learningMicrositeUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 58,
+      "x": 1028,
+      "y": 4762
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 362,
+    "tag": "A",
+    "visibleText": [
+      "Learning"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 62976,
+    "classList": [
+      "directory__column"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 328,
+      "width": 192,
+      "x": 1244,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 58,
+    "tag": "DIV",
+    "visibleText": [
+      "Directories",
+      "Members",
+      "Jobs",
+      "Companies",
+      "Salaries",
+      "Featured",
+      "Learning",
+      "Posts",
+      "Articles",
+      "Schools",
+      "News",
+      "News",
+      "Letters",
+      "Services"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 3840,
+    "classList": [
+      "directory__list-item",
+      "directory__list-item--heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 192,
+      "x": 1244,
+      "y": 4654
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 960,
+    "tag": "P",
+    "visibleText": [
+      "Directories"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4682
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Members"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1008,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/people?trk=homepage-basic_directory_peopleDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 63,
+      "x": 1244,
+      "y": 4687
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 393,
+    "tag": "A",
+    "visibleText": [
+      "Members"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4707
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Jobs"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 512,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/jobs?trk=homepage-basic_directory_jobSearchDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 32,
+      "x": 1244,
+      "y": 4712
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 200,
+    "tag": "A",
+    "visibleText": [
+      "Jobs"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4732
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Companies"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1200,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/companies?trk=homepage-basic_directory_companyDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 75,
+      "x": 1244,
+      "y": 4737
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 468,
+    "tag": "A",
+    "visibleText": [
+      "Companies"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4757
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Salaries"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 848,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/salaries?trk=homepage-basic_directory_salaryDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 53,
+      "x": 1244,
+      "y": 4762
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 331,
+    "tag": "A",
+    "visibleText": [
+      "Salaries"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4782
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Featured"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 960,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/featured?trk=homepage-basic_directory_featuredDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 60,
+      "x": 1244,
+      "y": 4787
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 375,
+    "tag": "A",
+    "visibleText": [
+      "Featured"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4807
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Learning"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 928,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/learning?trk=homepage-basic_directory_learningDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 58,
+      "x": 1244,
+      "y": 4812
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 362,
+    "tag": "A",
+    "visibleText": [
+      "Learning"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4832
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Posts"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 592,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/posts?trk=homepage-basic_directory_postsDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 37,
+      "x": 1244,
+      "y": 4837
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 231,
+    "tag": "A",
+    "visibleText": [
+      "Posts"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4857
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Articles"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 832,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/articles?trk=homepage-basic_directory_articlesDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 52,
+      "x": 1244,
+      "y": 4862
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 325,
+    "tag": "A",
+    "visibleText": [
+      "Articles"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4882
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Schools"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[9]"
+  },
+  {
+    "alt": "",
+    "area": 848,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/schools?trk=homepage-basic_directory_schoolsDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 53,
+      "x": 1244,
+      "y": 4887
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 331,
+    "tag": "A",
+    "visibleText": [
+      "Schools"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[9]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4907
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "News"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[10]"
+  },
+  {
+    "alt": "",
+    "area": 592,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/news?trk=homepage-basic_directory_newsDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 37,
+      "x": 1244,
+      "y": 4912
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 231,
+    "tag": "A",
+    "visibleText": [
+      "News"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[10]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4932
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "News",
+      "Letters"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[11]"
+  },
+  {
+    "alt": "",
+    "area": 1408,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/newsletters?trk=homepage-basic_directory_newslettersDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[11]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 88,
+      "x": 1244,
+      "y": 4937
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 550,
+    "tag": "A",
+    "visibleText": [
+      "News",
+      "Letters"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[11]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "directory__list-item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "height": 25,
+      "width": 192,
+      "x": 1244,
+      "y": 4957
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 768,
+    "tag": "LI",
+    "visibleText": [
+      "Services"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[12]"
+  },
+  {
+    "alt": "",
+    "area": 928,
+    "classList": [
+      "directory__link"
+    ],
+    "href": "https://www.linkedin.com/directory/services?trk=homepage-basic_directory_servicesDirectoryUrl",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[12]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 58,
+      "x": 1244,
+      "y": 4962
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 362,
+    "tag": "A",
+    "visibleText": [
+      "Services"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/section[7]/div[1]/div[1]/div[4]/ul[1]/li[12]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 6150,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 123,
+      "x": 332,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 246,
+    "tag": "LI",
+    "visibleText": [
+      "LinkedIn",
+      "©",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "sr-only"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 393,
+      "y": 5013
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      "LinkedIn"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1462,
+    "classList": [
+      "li-footer__copy-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 43,
+      "x": 404,
+      "y": 5013
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 126,
+    "tag": "SPAN",
+    "visibleText": [
+      "©",
+      "2020"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 2550,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 51,
+      "x": 455,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 102,
+    "tag": "LI",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1190,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://about.linkedin.com/?trk=homepage-basic_footer-about",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 35,
+      "x": 463,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 102,
+    "tag": "A",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4500,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 90,
+      "x": 507,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 180,
+    "tag": "LI",
+    "visibleText": [
+      "Accessibility"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 2516,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://www.linkedin.com/accessibility?trk=homepage-basic_footer-accessibility",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 74,
+      "x": 515,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 217,
+    "tag": "A",
+    "visibleText": [
+      "Accessibility"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5550,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 111,
+      "x": 597,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 222,
+    "tag": "LI",
+    "visibleText": [
+      "User",
+      "Agreement"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 3230,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://www.linkedin.com/legal/user-agreement?trk=homepage-basic_footer-user-agreement",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 95,
+      "x": 605,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 279,
+    "tag": "A",
+    "visibleText": [
+      "User",
+      "Agreement"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4900,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 98,
+      "x": 709,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 196,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 2788,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 82,
+      "x": 717,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 241,
+    "tag": "A",
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4750,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 95,
+      "x": 807,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 190,
+    "tag": "LI",
+    "visibleText": [
+      "Cookie",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 2686,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://www.linkedin.com/legal/cookie-policy?trk=homepage-basic_footer-cookie-policy",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 79,
+      "x": 815,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 232,
+    "tag": "A",
+    "visibleText": [
+      "Cookie",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5650,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 113,
+      "x": 903,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 226,
+    "tag": "LI",
+    "visibleText": [
+      "Copyright",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 3298,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://www.linkedin.com/legal/copyright-policy?trk=homepage-basic_footer-copyright-policy",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 97,
+      "x": 911,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 285,
+    "tag": "A",
+    "visibleText": [
+      "Copyright",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4450,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 89,
+      "x": 1016,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 178,
+    "tag": "LI",
+    "visibleText": [
+      "Brand",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 2482,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://brand.linkedin.com/policies?trk=homepage-basic_footer-brand-policy",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 73,
+      "x": 1024,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 214,
+    "tag": "A",
+    "visibleText": [
+      "Brand",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5200,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 104,
+      "x": 1106,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 208,
+    "tag": "LI",
+    "visibleText": [
+      "Guest",
+      "Controls"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[9]"
+  },
+  {
+    "alt": "",
+    "area": 2992,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://www.linkedin.com/psettings/guest-controls?trk=homepage-basic_footer-guest-controls",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 88,
+      "x": 1114,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 258,
+    "tag": "A",
+    "visibleText": [
+      "Guest",
+      "Controls"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[9]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7400,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 148,
+      "x": 1210,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 296,
+    "tag": "LI",
+    "visibleText": [
+      "Community",
+      "Guidelines"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[10]"
+  },
+  {
+    "alt": "",
+    "area": 4488,
+    "classList": [
+      "li-footer__item-link"
+    ],
+    "href": "https://www.linkedin.com/help/linkedin/answer/34593?lang=en&trk=homepage-basic_footer-community-guide",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 132,
+      "x": 1218,
+      "y": 5013
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 388,
+    "tag": "A",
+    "visibleText": [
+      "Community",
+      "Guidelines"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[10]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4750,
+    "classList": [
+      "li-footer__item"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 95,
+      "x": 1359,
+      "y": 5005
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 190,
+    "tag": "LI",
+    "visibleText": [
+      "Language"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]"
+  },
+  {
+    "alt": "",
+    "area": 2686,
+    "classList": [
+      "collapsible-dropdown",
+      "collapsible-dropdown--footer",
+      "collapsible-dropdown--up",
+      "language-selector"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 79,
+      "x": 1367,
+      "y": 5013
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 232,
+    "tag": "DIV",
+    "visibleText": [
+      "Language"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1343,
+    "classList": [
+      "language-selector__button"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 17,
+      "width": 79,
+      "x": 1367,
+      "y": 5021
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 464,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Language"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 798,
+    "classList": [
+      "language-selector__label-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 57,
+      "x": 1368,
+      "y": 5023
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 407,
+    "tag": "SPAN",
+    "visibleText": [
+      "Language"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/ul[1]/li[11]/div[1]/button[1]/span[1]"
+  }
+]

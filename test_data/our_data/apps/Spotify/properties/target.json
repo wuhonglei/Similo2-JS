@@ -1,0 +1,431 @@
+[
+  {
+    "alt": "",
+    "area": 10560,
+    "classList": [
+      "navbar-brand"
+    ],
+    "href": "https://www.spotify.com/us/home/",
+    "id": "",
+    "idxpath": "//*[@id='js-navbar']/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 132,
+      "x": 326,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Premium",
+      "Help",
+      "Download",
+      "Sign",
+      "up",
+      "Log",
+      "In"
+    ],
+    "shape": 165,
+    "tag": "A",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/header[1]/div[1]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 8000,
+    "classList": [],
+    "href": "https://www.spotify.com/us/premium/?checkout=false",
+    "id": "nav-link-premium",
+    "idxpath": "//*[@id='nav-link-premium']",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 100,
+      "x": 998,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Help"
+    ],
+    "shape": 125,
+    "tag": "A",
+    "visibleText": [
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/header[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2430,
+    "classList": [],
+    "href": "https://developer.spotify.com/",
+    "id": "nav-link-developers",
+    "idxpath": "//*[@id='nav-link-developers']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 81,
+      "x": 716,
+      "y": 3361
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 270,
+    "tag": "A",
+    "visibleText": [
+      "Developers"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 990,
+    "classList": [],
+    "href": "https://support.spotify.com/?utm_source=www.spotify.com&utm_medium=www_footer",
+    "id": "nav-link-help",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 33,
+      "x": 911,
+      "y": 3319
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 110,
+    "tag": "A",
+    "visibleText": [
+      "Help"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2460,
+    "classList": [],
+    "href": "https://www.spotify.com/us/redirect/webplayerlink/?utm_medium=www_footer",
+    "id": "nav-link-play",
+    "idxpath": "//*[@id='nav-link-play']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 82,
+      "x": 911,
+      "y": 3403
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 273,
+    "tag": "A",
+    "visibleText": [
+      "Web",
+      "Player"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[4]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1722,
+    "classList": [],
+    "href": "https://www.spotify.com/us/legal/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 41,
+      "x": 326,
+      "y": 3587
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 97,
+    "tag": "A",
+    "visibleText": [
+      "Legal"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2856,
+    "classList": [],
+    "href": "https://www.spotify.com/us/legal/privacy-policy/#s13",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 68,
+      "x": 430,
+      "y": 3587
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 161,
+    "tag": "A",
+    "visibleText": [
+      "Cookies"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3402,
+    "classList": [],
+    "href": "https://www.spotify.com/us/legal/privacy-policy/#s13",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 81,
+      "x": 499,
+      "y": 3587
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 192,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "Ads"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1311,
+    "classList": [
+      "market"
+    ],
+    "href": "https://www.spotify.com/us/select-your-country/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 23,
+      "width": 57,
+      "x": 1408,
+      "y": 3567
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 247,
+    "tag": "A",
+    "visibleText": [
+      "USA"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[2]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5440,
+    "classList": [],
+    "href": "https://support.spotify.com/?utm_source=www.spotify.com&utm_medium=www_header",
+    "id": "nav-link-help",
+    "idxpath": "//*[@id='nav-link-help']",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 68,
+      "x": 1099,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Download",
+      "Premium"
+    ],
+    "shape": 85,
+    "tag": "A",
+    "visibleText": [
+      "Help"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/header[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8720,
+    "classList": [
+      "js-get-spotify",
+      "js-gtm-event"
+    ],
+    "href": "https://www.spotify.com/us/download/",
+    "id": "nav-link-download",
+    "idxpath": "//*[@id='nav-link-download']",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 109,
+      "x": 1168,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "up",
+      "Help"
+    ],
+    "shape": 136,
+    "tag": "A",
+    "visibleText": [
+      "Download"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/header[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7120,
+    "classList": [],
+    "href": "https://www.spotify.com/us/signup/",
+    "id": "nav-link-sign-up",
+    "idxpath": "//*[@id='nav-link-sign-up']",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 89,
+      "x": 1313,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Log",
+      "In",
+      "Download"
+    ],
+    "shape": 111,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/header[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 6320,
+    "classList": [
+      "user-link"
+    ],
+    "href": "https://www.spotify.com/login?continue=https%3A%2F%2Fwww.spotify.com%2Fus%2Flogged-in%2F",
+    "id": "header-login-link",
+    "idxpath": "//*[@id='header-login-link']",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 79,
+      "x": 1403,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "up"
+    ],
+    "shape": 98,
+    "tag": "A",
+    "visibleText": [
+      "Log",
+      "In"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/header[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5280,
+    "classList": [],
+    "href": "https://www.spotify.com/us/home/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 132,
+      "x": 326,
+      "y": 3262
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 330,
+    "tag": "A",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1320,
+    "classList": [],
+    "href": "https://www.spotify.com/us/about-us/contact/",
+    "id": "nav-link-about",
+    "idxpath": "//*[@id='nav-link-about']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 44,
+      "x": 521,
+      "y": 3319
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 146,
+    "tag": "A",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1020,
+    "classList": [],
+    "href": "https://www.spotifyjobs.com/",
+    "id": "nav-link-jobs",
+    "idxpath": "//*[@id='nav-link-jobs']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 34,
+      "x": 521,
+      "y": 3361
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 113,
+    "tag": "A",
+    "visibleText": [
+      "Jobs"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2190,
+    "classList": [],
+    "href": "https://artists.spotify.com/",
+    "id": "nav-link-artists",
+    "idxpath": "//*[@id='nav-link-artists']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 73,
+      "x": 716,
+      "y": 3319
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 243,
+    "tag": "A",
+    "visibleText": [
+      "For",
+      "Artists"
+    ],
+    "xpath": "/html[1]/body[1]/footer[1]/div[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]"
+  }
+]

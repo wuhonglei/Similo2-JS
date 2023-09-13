@@ -18,27 +18,7 @@
     },
     "name": "",
     "neighborText": [
-      "Office",
-      "Microsoft",
-      "Office",
-      "Products",
-      "Resources",
-      "Templates",
-      "Support",
-      "My",
-      "account",
-      "Buy",
-      "Office",
-      "365",
-      "All",
-      "Microsoft",
-      "Sign",
-      "in",
-      "to",
-      "your",
-      "account",
-      "Sign",
-      "in"
+      "Office"
     ],
     "shape": 253,
     "tag": "A",
@@ -64,7 +44,6 @@
     "name": null,
     "neighborText": [
       "Microsoft",
-      "Office",
       "Products"
     ],
     "shape": 200,
@@ -101,8 +80,6 @@
       "great",
       "work",
       "done.",
-      "Get",
-      "Office",
       "Get",
       "Office",
       "Sign",
@@ -146,11 +123,7 @@
       "Sign",
       "in",
       "Get",
-      "Office",
-      "Get",
-      "Office",
-      "Sign",
-      "in"
+      "Office"
     ],
     "shape": 329,
     "tag": "LI",
@@ -203,15 +176,7 @@
     "name": "",
     "neighborText": [
       "Templates",
-      "Products",
-      "Resources",
-      "Templates",
-      "Support",
-      "My",
-      "account",
-      "Buy",
-      "Office",
-      "365"
+      "Products"
     ],
     "shape": 205,
     "tag": "BUTTON",
@@ -239,16 +204,7 @@
     "name": "",
     "neighborText": [
       "Support",
-      "Resources",
-      "Products",
-      "Resources",
-      "Templates",
-      "Support",
-      "My",
-      "account",
-      "Buy",
-      "Office",
-      "365"
+      "Resources"
     ],
     "shape": 158,
     "tag": "A",
@@ -277,15 +233,7 @@
     "neighborText": [
       "My",
       "account",
-      "Products",
-      "Resources",
-      "Templates",
-      "Support",
-      "My",
-      "account",
-      "Buy",
-      "Office",
-      "365"
+      "Templates"
     ],
     "shape": 133,
     "tag": "A",
@@ -312,15 +260,10 @@
     },
     "name": "",
     "neighborText": [
-      "Products",
-      "Resources",
-      "Templates",
-      "Support",
-      "My",
-      "account",
       "Buy",
       "Office",
-      "365"
+      "365",
+      "Support"
     ],
     "shape": 175,
     "tag": "A",
@@ -349,16 +292,7 @@
     "name": "",
     "neighborText": [
       "My",
-      "account",
-      "Products",
-      "Resources",
-      "Templates",
-      "Support",
-      "My",
-      "account",
-      "Buy",
-      "Office",
-      "365"
+      "account"
     ],
     "shape": 335,
     "tag": "A",

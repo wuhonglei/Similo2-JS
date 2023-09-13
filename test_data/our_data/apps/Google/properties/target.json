@@ -1,22 +1,588 @@
 [
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+    "alt": "",
+    "area": 825,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_1']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 55,
+      "x": 4,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "Images"
+    ],
+    "shape": 366,
+    "tag": "SPAN",
+    "visibleText": [
+      "Search"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[1]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 810,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_2']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 54,
+      "x": 59,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "Maps",
+      "Search"
+    ],
+    "shape": 360,
+    "tag": "SPAN",
+    "visibleText": [
+      "Images"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[2]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 272,
+    "classList": [],
+    "href": "",
+    "id": "gbi5",
+    "idxpath": "//*[@id='gbi5']",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 16,
+      "x": 1765,
+      "y": 7
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in"
+    ],
+    "shape": 94,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/a[1]/span[2]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 17476,
+    "classList": [
+      "lst"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/input[1]",
+    "isButton": false,
+    "location": {
+      "height": 34,
+      "width": 514,
+      "x": 639,
+      "y": 285
+    },
+    "name": "q",
+    "neighborText": [
+      "Advanced",
+      "search",
+      "Language",
+      "tools",
+      "Google",
+      "Search",
+      "I'm",
+      "Feeling",
+      "Lucky"
+    ],
+    "shape": 1511,
+    "tag": "INPUT",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 2928,
+    "classList": [],
+    "href": "https://www.google.com/advanced_search?hl=en&authuser=0",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 12,
+      "width": 244,
+      "x": 1166,
+      "y": 288
+    },
+    "name": "",
+    "neighborText": [
+      "Language",
+      "tools"
+    ],
+    "shape": 2033,
+    "tag": "A",
+    "visibleText": [
+      "Advanced",
+      "search"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3360,
+    "classList": [
+      "lsb"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[1]/span[1]/input[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 112,
+      "x": 774,
+      "y": 325
+    },
+    "name": "btnG",
+    "neighborText": [
+      "I'm",
+      "Feeling",
+      "Lucky"
+    ],
+    "shape": 373,
+    "tag": "INPUT",
+    "visibleText": [
+      "Google",
+      "Search"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[1]/span[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 3840,
+    "classList": [
+      "lsb"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[2]/span[1]/input[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 128,
+      "x": 892,
+      "y": 325
+    },
+    "name": "btnI",
+    "neighborText": [],
+    "shape": 426,
+    "tag": "INPUT",
+    "visibleText": [
+      "I'm",
+      "Feeling",
+      "Lucky"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/form[1]/table[1]/tbody[1]/tr[1]/td[2]/span[2]/span[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 1905,
+    "classList": [],
+    "href": "https://www.google.com/intl/en/ads/",
+    "id": "",
+    "idxpath": "//*[@id='fll']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 127,
+      "x": 673,
+      "y": 445
+    },
+    "name": "",
+    "neighborText": [
+      "Business",
+      "Solutions",
+      "©",
+      "2018",
+      "-",
+      "Privacy",
+      "-",
+      "Terms"
+    ],
+    "shape": 846,
+    "tag": "A",
+    "visibleText": [
+      "Advertising",
+      "Programs"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [],
+    "href": "https://www.google.com/services/",
+    "id": "",
+    "idxpath": "//*[@id='fll']/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 112,
+      "x": 825,
+      "y": 445
+    },
+    "name": "",
+    "neighborText": [
+      "+Google",
+      "Advertising",
+      "Programs",
+      "©",
+      "2018",
+      "-",
+      "Privacy",
+      "-",
+      "Terms"
+    ],
+    "shape": 746,
+    "tag": "A",
+    "visibleText": [
+      "Business",
+      "Solutions"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/div[1]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 1215,
+    "classList": [],
+    "href": "https://www.google.com/intl/en/about.html",
+    "id": "",
+    "idxpath": "//*[@id='fll']/a[4]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 81,
+      "x": 1036,
+      "y": 445
+    },
+    "name": "",
+    "neighborText": [
+      "+Google",
+      "©",
+      "2018",
+      "-",
+      "Privacy",
+      "-",
+      "Terms"
+    ],
+    "shape": 540,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "Google"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/div[1]/div[1]/a[4]"
+  },
+  {
+    "alt": "",
+    "area": 507,
+    "classList": [],
+    "href": "https://www.google.com/intl/en/policies/privacy/",
+    "id": "",
+    "idxpath": "//*[@id='footer']/p[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 39,
+      "x": 879,
+      "y": 479
+    },
+    "name": "",
+    "neighborText": [
+      "Business",
+      "Solutions",
+      "Advertising",
+      "ProgramsBusiness",
+      "Solutions+GoogleAbout",
+      "Google",
+      "Terms"
+    ],
+    "shape": 300,
+    "tag": "A",
+    "visibleText": [
+      "Privacy"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/p[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 416,
+    "classList": [],
+    "href": "https://www.google.com/intl/en/policies/terms/",
+    "id": "",
+    "idxpath": "//*[@id='footer']/p[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 32,
+      "x": 929,
+      "y": 479
+    },
+    "name": "",
+    "neighborText": [
+      "Business",
+      "Solutions",
+      "Advertising",
+      "ProgramsBusiness",
+      "Solutions+GoogleAbout",
+      "Google",
+      "Privacy"
+    ],
+    "shape": 246,
+    "tag": "A",
+    "visibleText": [
+      "Terms"
+    ],
+    "xpath": "/html[1]/body[1]/center[1]/span[1]/p[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 645,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_8']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 43,
+      "x": 114,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "Play",
+      "YouTube",
+      "Images"
+    ],
+    "shape": 286,
+    "tag": "SPAN",
+    "visibleText": [
+      "Maps"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[3]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 555,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_78']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 37,
+      "x": 157,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "YouTube",
+      "Images",
+      "Maps"
+    ],
+    "shape": 246,
+    "tag": "SPAN",
+    "visibleText": [
+      "Play"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[4]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 945,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_36']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 63,
+      "x": 195,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "News",
+      "Maps",
+      "Play",
+      "Gmail"
+    ],
+    "shape": 420,
+    "tag": "SPAN",
+    "visibleText": [
+      "YouTube"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[5]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 660,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_5']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 44,
+      "x": 258,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "Gmail",
+      "YouTube"
+    ],
+    "shape": 293,
+    "tag": "SPAN",
+    "visibleText": [
+      "News"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[6]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 675,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_23']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 45,
+      "x": 302,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "Drive",
+      "YouTube",
+      "News",
+      "More"
+    ],
+    "shape": 300,
+    "tag": "SPAN",
+    "visibleText": [
+      "Gmail"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[7]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 630,
+    "classList": [
+      "gbts"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='gb_49']/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 42,
+      "x": 348,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "More",
+      "News",
+      "Gmail"
+    ],
+    "shape": 280,
+    "tag": "SPAN",
+    "visibleText": [
+      "Drive"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[8]/a[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 435,
+    "classList": [],
+    "href": "",
+    "id": "gbztms1",
+    "idxpath": "//*[@id='gbztms1']",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 29,
+      "x": 396,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [
+      "Gmail",
+      "Drive"
+    ],
+    "shape": 193,
+    "tag": "SPAN",
+    "visibleText": [
+      "More"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/ol[1]/li[9]/a[1]/span[2]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 645,
+    "classList": [],
+    "href": "",
+    "id": "gbi4s1",
+    "idxpath": "//*[@id='gbi4s1']",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 43,
+      "x": 1708,
+      "y": 8
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 286,
+    "tag": "SPAN",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[2]/span[1]"
+  }
 ]

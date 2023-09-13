@@ -1,0 +1,148 @@
+[
+  {
+    "alt": "",
+    "area": 6000,
+    "classList": [
+      "text"
+    ],
+    "href": "",
+    "id": "query",
+    "idxpath": "//*[@id='query']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 200,
+      "x": 857,
+      "y": 15
+    },
+    "name": "query",
+    "neighborText": [
+      "Browse"
+    ],
+    "shape": 666,
+    "tag": "INPUT",
+    "visibleText": [
+      "Search"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/form[1]/input[2]"
+  },
+  {
+    "alt": "",
+    "area": 1170,
+    "classList": [
+      "button"
+    ],
+    "href": "http://www.twitch.tv/login",
+    "id": "header_login",
+    "idxpath": "//*[@id='header_login']",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 39,
+      "x": 1243,
+      "y": 15
+    },
+    "name": "",
+    "neighborText": [
+      "Log",
+      "In",
+      "Sign",
+      "Up",
+      "Go",
+      "Turbo"
+    ],
+    "shape": 130,
+    "tag": "A",
+    "visibleText": [
+      "Log",
+      "In"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1890,
+    "classList": [
+      "button",
+      "primary",
+      "last"
+    ],
+    "href": "http://www.twitch.tv/signup",
+    "id": "header_signup",
+    "idxpath": "//*[@id='header_signup']",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 63,
+      "x": 1302,
+      "y": 15
+    },
+    "name": "",
+    "neighborText": [
+      "Log",
+      "In"
+    ],
+    "shape": 210,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "Up"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 1410,
+    "classList": [
+      "button"
+    ],
+    "href": "http://www.twitch.tv/directory",
+    "id": "header_browse",
+    "idxpath": "//*[@id='header_browse']",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 47,
+      "x": 1077,
+      "y": 15
+    },
+    "name": "",
+    "neighborText": [
+      "Browse",
+      "Go",
+      "Turbo",
+      "Search"
+    ],
+    "shape": 156,
+    "tag": "A",
+    "visibleText": [
+      "Browse"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3008,
+    "classList": [
+      "svg-logo_twitch"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='header_logo']/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 94,
+      "x": 426,
+      "y": 14
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 293,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/a[1]/*[local-name() = 'svg'][1]"
+  }
+]

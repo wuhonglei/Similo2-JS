@@ -1,0 +1,895 @@
+[
+  {
+    "alt": "",
+    "area": 5226,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/Home.page",
+    "id": "ups-header_logo",
+    "idxpath": "//*[@id='ups-header_logo']",
+    "isButton": false,
+    "location": {
+      "height": 78,
+      "width": 67,
+      "x": 196,
+      "y": 32
+    },
+    "name": "",
+    "neighborText": [
+      "COLLAPSE",
+      "QUICK",
+      "START",
+      "QUICK",
+      "START",
+      "COLLAPSE",
+      "QUICK",
+      "START",
+      "QUICK",
+      "START",
+      "Hello.",
+      "Get",
+      "Started",
+      "with",
+      "UPS.",
+      "Track",
+      "Tracking",
+      "Numbers",
+      "Go",
+      "expand",
+      "Ship",
+      "Ship",
+      "expand",
+      "Quote",
+      "Quote",
+      "expand",
+      "Locations",
+      "Locations",
+      "View",
+      "&",
+      "Pay",
+      "Bill"
+    ],
+    "shape": 85,
+    "tag": "A",
+    "visibleText": [
+      "UPS"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8250,
+    "classList": [
+      "ups-analytics",
+      "ups-toolsToggle"
+    ],
+    "href": "javascript:void(0)",
+    "id": "ups-quickStartMenu",
+    "idxpath": "//*[@id='ups-quickStartMenu']",
+    "isButton": false,
+    "location": {
+      "height": 33,
+      "width": 250,
+      "x": 196,
+      "y": 85
+    },
+    "name": "",
+    "neighborText": [
+      "UPS",
+      "Hello.",
+      "Get",
+      "Started",
+      "with",
+      "UPS."
+    ],
+    "shape": 757,
+    "tag": "A",
+    "visibleText": [
+      "COLLAPSE",
+      "QUICK",
+      "START",
+      "QUICK",
+      "START"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/help-center/sri/tracking/change-delivery.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_custServeLinks']/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 196,
+      "y": 1387
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Change",
+      "Delivery"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://wwwapps.ups.com/webClaims/create?loc=en_US",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_custServeLinks']/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 196,
+      "y": 1428
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Delivery",
+      "Issues"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/services/tracking.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_thisSiteLinks']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 553,
+      "y": 1305
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/shipping.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_thisSiteLinks']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 553,
+      "y": 1346
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Shipping"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/services.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_thisSiteLinks']/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 553,
+      "y": 1387
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Services"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/dropoff?loc=en_US",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_thisSiteLinks']/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 553,
+      "y": 1428
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Locations"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://wwwapps.ups.com/ppc/ppc.html?loc=en_US#/profilePage",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_thisSiteLinks']/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 553,
+      "y": 1469
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "My",
+      "Profile"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/about.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1305
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "UPS"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.pressroom.ups.com/",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1346
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Media",
+      "Relations",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "http://www.investors.ups.com/",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1387
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Investor",
+      "Relations",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2275,
+    "classList": [
+      "ups-analytics",
+      "ups-menu_toggle"
+    ],
+    "href": "https://www.ups.com/us/en/Home.page#",
+    "id": "ups-menuLinks0",
+    "idxpath": "//*[@id='ups-menuLinks0']",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 65,
+      "x": 624,
+      "y": 97
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 185,
+    "tag": "A",
+    "visibleText": [
+      "Tracking",
+      "expand",
+      "Tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/nav[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.jobs-ups.com/location",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1428
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Careers",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://sustainability.ups.com/",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1469
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Sustainability",
+      "&",
+      "Community",
+      "Involvement",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [],
+    "href": "https://www.theupsstore.com/?loc=en_US",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_otherSitesLinks']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1571
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "UPS",
+      "Store",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [],
+    "href": "https://upscapital.com/",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_otherSitesLinks']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1612
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "UPS",
+      "Capital",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [],
+    "href": "https://www.ups.com/us/en/about/sites.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_otherSitesLinks']/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 911,
+      "y": 1694
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "See",
+      "All",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-footer_social-facebook"
+    ],
+    "href": "http://www.facebook.com/ups",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_connectLinks']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 1268,
+      "y": 1305
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Facebook",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-footer_social-twitter"
+    ],
+    "href": "https://twitter.com/UPS",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_connectLinks']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 1268,
+      "y": 1346
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Twitter",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-footer_social-linkedin"
+    ],
+    "href": "https://www.linkedin.com/company/ups",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_connectLinks']/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 1268,
+      "y": 1387
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "LinkedIn",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-footer_social-youtube"
+    ],
+    "href": "https://www.youtube.com/ups",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_connectLinks']/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 1268,
+      "y": 1428
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "YouTube",
+      "Open",
+      "the",
+      "link",
+      "in",
+      "a",
+      "new",
+      "window"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2415,
+    "classList": [
+      "ups-analytics",
+      "ups-menu_toggle"
+    ],
+    "href": "https://www.ups.com/us/en/Home.page#",
+    "id": "ups-menuLinks1",
+    "idxpath": "//*[@id='ups-menuLinks1']",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 69,
+      "x": 861,
+      "y": 97
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 197,
+    "tag": "A",
+    "visibleText": [
+      "Shipping",
+      "expand",
+      "Tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/nav[1]/div[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2240,
+    "classList": [
+      "ups-analytics",
+      "ups-menu_toggle"
+    ],
+    "href": "https://www.ups.com/us/en/Home.page#",
+    "id": "ups-menuLinks2",
+    "idxpath": "//*[@id='ups-menuLinks2']",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 64,
+      "x": 1103,
+      "y": 97
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 182,
+    "tag": "A",
+    "visibleText": [
+      "Services",
+      "expand",
+      "Tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/nav[1]/div[1]/div[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 624,
+    "classList": [],
+    "href": "https://www.ups.com/dropoff?loc=en_US",
+    "id": "",
+    "idxpath": "//*[@id='ups-navItems']/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 12,
+      "width": 52,
+      "x": 1218,
+      "y": 15
+    },
+    "name": "",
+    "neighborText": [
+      "United",
+      "States",
+      "-",
+      "English",
+      "expand",
+      "Tracking",
+      "Sign",
+      "Up"
+    ],
+    "shape": 433,
+    "tag": "A",
+    "visibleText": [
+      "Locations"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1980,
+    "classList": [
+      "ups-menu_toggle",
+      "ups-analytics"
+    ],
+    "href": "javascript:void(0)",
+    "id": "ups-language-toggle",
+    "idxpath": "//*[@id='ups-language-toggle']",
+    "isButton": false,
+    "location": {
+      "height": 12,
+      "width": 165,
+      "x": 1312,
+      "y": 15
+    },
+    "name": "",
+    "neighborText": [
+      "My",
+      "Profile",
+      "expand",
+      "Tracking",
+      "Locations",
+      "Search"
+    ],
+    "shape": 1375,
+    "tag": "A",
+    "visibleText": [
+      "United",
+      "States",
+      "-",
+      "English",
+      "expand",
+      "Tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7000,
+    "classList": [
+      "ups-analytics",
+      "ups-menu_toggle"
+    ],
+    "href": "",
+    "id": "ups-custServe-toggle",
+    "idxpath": "//*[@id='ups-custServe-toggle']",
+    "isButton": true,
+    "location": {
+      "height": 35,
+      "width": 200,
+      "x": 1396,
+      "y": 85
+    },
+    "name": "",
+    "neighborText": [
+      "Search",
+      "Go"
+    ],
+    "shape": 571,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Customer",
+      "Service",
+      "expand",
+      "Tracking"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/nav[1]/div[2]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/help-center.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_custServeLinks']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 196,
+      "y": 1305
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 13407,
+    "classList": [
+      "ups-analytics"
+    ],
+    "href": "https://www.ups.com/us/en/help-center/get-started-with-ups.page",
+    "id": "",
+    "idxpath": "//*[@id='ups-footer_custServeLinks']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 327,
+      "x": 196,
+      "y": 1346
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 797,
+    "tag": "A",
+    "visibleText": [
+      "Get",
+      "Started",
+      "with",
+      "UPS"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+  }
+]

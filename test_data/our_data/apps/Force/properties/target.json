@@ -1,19 +1,680 @@
 [
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+    "alt": "",
+    "area": 4180,
+    "classList": [
+      "root-nav-heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='products_menu_item']/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 95,
+      "x": 367,
+      "y": 129
+    },
+    "name": null,
+    "neighborText": [
+      "1-855-382-6558",
+      "Contact",
+      "Us",
+      "Login",
+      "Products",
+      "Solutions"
+    ],
+    "shape": 215,
+    "tag": "H2",
+    "visibleText": [
+      "Products"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 4356,
+    "classList": [
+      "root-nav-heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='solutions_menu_item']/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 99,
+      "x": 462,
+      "y": 129
+    },
+    "name": null,
+    "neighborText": [
+      "1-855-382-6558",
+      "Contact",
+      "Us",
+      "Login",
+      "Solutions",
+      "Support",
+      "&",
+      "Services",
+      "Products"
+    ],
+    "shape": 225,
+    "tag": "H2",
+    "visibleText": [
+      "Solutions"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 570
+    },
+    "name": null,
+    "neighborText": [
+      "Overview",
+      "Solutions",
+      "Architecture",
+      "Features"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "Architecture"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 615
+    },
+    "name": null,
+    "neighborText": [
+      "Solutions",
+      "Architecture",
+      "Features",
+      "Related",
+      "Products"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "Features"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 660
+    },
+    "name": null,
+    "neighborText": [
+      "Architecture",
+      "Features",
+      "Related",
+      "Products",
+      "Pricing"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "Related",
+      "Products"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 705
+    },
+    "name": null,
+    "neighborText": [
+      "Features",
+      "Related",
+      "Products",
+      "Pricing",
+      "App",
+      "Gallery"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "Pricing"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 795
+    },
+    "name": null,
+    "neighborText": [
+      "Pricing",
+      "App",
+      "Gallery",
+      "Resources"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "Resources"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 750
+    },
+    "name": null,
+    "neighborText": [
+      "Related",
+      "Products",
+      "Pricing",
+      "App",
+      "Gallery",
+      "Resources"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "App",
+      "Gallery"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 5628,
+    "classList": [
+      "btn",
+      "btn-lg",
+      "btn-dark",
+      "salesforce-sans-regular",
+      "invocaTelLink"
+    ],
+    "href": "https://www.salesforce.com/form/app-cloud/guided-tour.jsp?d=7010M000001yJAi",
+    "id": "",
+    "idxpath": "//*[@id='main']/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 42,
+      "width": 134,
+      "x": 584,
+      "y": 437
+    },
+    "name": "",
+    "neighborText": [
+      "Now",
+      "anyone",
+      "can",
+      "turn",
+      "business",
+      "ideas",
+      "into",
+      "intelligent",
+      "apps",
+      "—",
+      "without",
+      "code",
+      "—",
+      "on",
+      "the",
+      "world's",
+      "most",
+      "trusted",
+      "cloud",
+      "platform.",
+      "Every",
+      "app",
+      "is",
+      "instantly",
+      "mobile,",
+      "connected,",
+      "and",
+      "secure.",
+      "No",
+      "problem.",
+      "Chat",
+      "with",
+      "our",
+      "sales",
+      "experts",
+      "or",
+      "call",
+      "us",
+      "at",
+      "1-800-667-6389.",
+      "CONTACT",
+      "US",
+      "NO",
+      "THANKS"
+    ],
+    "shape": 319,
+    "tag": "A",
+    "visibleText": [
+      "TAKE",
+      "A",
+      "TOUR"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7392,
+    "classList": [
+      "root-nav-heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='support_menu_item']/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 168,
+      "x": 561,
+      "y": 129
+    },
+    "name": null,
+    "neighborText": [
+      "1-855-382-6558",
+      "Contact",
+      "Us",
+      "Login",
+      "Support",
+      "&",
+      "Services",
+      "Events",
+      "Solutions"
+    ],
+    "shape": 381,
+    "tag": "H2",
+    "visibleText": [
+      "Support",
+      "&",
+      "Services"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 3432,
+    "classList": [
+      "globalnavbar-expander",
+      "invocaTelLink"
+    ],
+    "href": "https://www.salesforce.com/events/",
+    "id": "",
+    "idxpath": "//*[@id='events_menu_item']/h2[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 78,
+      "x": 730,
+      "y": 129
+    },
+    "name": "",
+    "neighborText": [
+      "1-855-382-6558",
+      "Contact",
+      "Us",
+      "Login",
+      "Customer",
+      "Success",
+      "Support",
+      "&",
+      "Services"
+    ],
+    "shape": 177,
+    "tag": "A",
+    "visibleText": [
+      "Events"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/h2[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4312,
+    "classList": [
+      "root-nav-heading"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='about-us_menu_item']/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 98,
+      "x": 973,
+      "y": 129
+    },
+    "name": null,
+    "neighborText": [
+      "About",
+      "Us",
+      "Customer",
+      "Success"
+    ],
+    "shape": 222,
+    "tag": "H2",
+    "visibleText": [
+      "About",
+      "Us"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[6]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 1620,
+    "classList": [
+      "dropdown-toggle",
+      "disabled",
+      "invocaTelLink"
+    ],
+    "href": "https://www.salesforce.com/products/platform/products/force/?d=70130000000f27V&internal=true#",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/div[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 81,
+      "x": 1297,
+      "y": 80
+    },
+    "name": "",
+    "neighborText": [
+      "We",
+      "use",
+      "cookies",
+      "to",
+      "make",
+      "interactions",
+      "with",
+      "our",
+      "websites",
+      "and",
+      "services",
+      "easy",
+      "and",
+      "meaningful,",
+      "to",
+      "better",
+      "understand",
+      "how",
+      "they",
+      "are",
+      "used",
+      "and",
+      "to",
+      "tailor",
+      "advertising.",
+      "You",
+      "can",
+      "read",
+      "more",
+      "and",
+      "make",
+      "your",
+      "cookie",
+      "choices",
+      "here.",
+      "By",
+      "continuing",
+      "to",
+      "use",
+      "this",
+      "site",
+      "you",
+      "are",
+      "giving",
+      "us",
+      "your",
+      "consent",
+      "to",
+      "do",
+      "this.",
+      "1-855-382-6558",
+      "TRY",
+      "FOR",
+      "FREE"
+    ],
+    "shape": 405,
+    "tag": "A",
+    "visibleText": [
+      "Contact",
+      "Us"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/div[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2220,
+    "classList": [
+      "dropdown-toggle",
+      "disabled",
+      "invocaTelLink"
+    ],
+    "href": "https://login.salesforce.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/div[6]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 74,
+      "x": 1461,
+      "y": 76
+    },
+    "name": "",
+    "neighborText": [
+      "We",
+      "use",
+      "cookies",
+      "to",
+      "make",
+      "interactions",
+      "with",
+      "our",
+      "websites",
+      "and",
+      "services",
+      "easy",
+      "and",
+      "meaningful,",
+      "to",
+      "better",
+      "understand",
+      "how",
+      "they",
+      "are",
+      "used",
+      "and",
+      "to",
+      "tailor",
+      "advertising.",
+      "You",
+      "can",
+      "read",
+      "more",
+      "and",
+      "make",
+      "your",
+      "cookie",
+      "choices",
+      "here.",
+      "By",
+      "continuing",
+      "to",
+      "use",
+      "this",
+      "site",
+      "you",
+      "are",
+      "giving",
+      "us",
+      "your",
+      "consent",
+      "to",
+      "do",
+      "this.",
+      "TRY",
+      "FOR",
+      "FREE"
+    ],
+    "shape": 246,
+    "tag": "A",
+    "visibleText": [
+      "Login"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/div[1]/div[6]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5460,
+    "classList": [
+      "btn",
+      "btn-lg",
+      "btn-nav",
+      "salesforce-sans-regular",
+      "invocaTelLink"
+    ],
+    "href": "https://www.salesforce.com/form/signup/freetrial-platform/?d=cta-glob-nav-1",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 42,
+      "width": 130,
+      "x": 1405,
+      "y": 116
+    },
+    "name": "",
+    "neighborText": [
+      "1-855-382-6558",
+      "Contact",
+      "Us",
+      "Login"
+    ],
+    "shape": 309,
+    "tag": "A",
+    "visibleText": [
+      "TRY",
+      "FOR",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 480
+    },
+    "name": null,
+    "neighborText": [
+      "WATCH",
+      "DEMO",
+      "Overview",
+      "Solutions"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "Overview"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 6660,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 148,
+      "x": 286,
+      "y": 525
+    },
+    "name": null,
+    "neighborText": [
+      "Overview",
+      "Solutions",
+      "Architecture"
+    ],
+    "shape": 328,
+    "tag": "LI",
+    "visibleText": [
+      "Solutions"
+    ],
+    "xpath": "/html[1]/body[1]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]"
+  }
 ]

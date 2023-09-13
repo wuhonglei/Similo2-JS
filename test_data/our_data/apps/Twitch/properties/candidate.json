@@ -1,0 +1,3770 @@
+[
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "root"
+    ],
+    "href": "",
+    "id": "root",
+    "idxpath": "//*[@id='root']",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "登录",
+      "注册",
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册",
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "tw-absolute",
+      "tw-bottom-0",
+      "tw-flex",
+      "tw-flex-column",
+      "tw-flex-nowrap",
+      "tw-left-0",
+      "tw-overflow-hidden",
+      "tw-right-0",
+      "tw-top-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "登录",
+      "注册",
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册",
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "tw-flex",
+      "tw-flex-column",
+      "tw-flex-nowrap",
+      "tw-full-height"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "登录",
+      "注册",
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册",
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 89600,
+    "classList": [
+      "top-nav__menu",
+      "tw-align-items-stretch",
+      "tw-c-background-base",
+      "tw-elevation-1",
+      "tw-flex",
+      "tw-flex-nowrap",
+      "tw-full-height"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3584,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "登录",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 29850,
+    "classList": [
+      "tw-align-items-stretch",
+      "tw-flex",
+      "tw-flex-grow-1",
+      "tw-flex-nowrap",
+      "tw-flex-shrink-1",
+      "tw-full-width",
+      "tw-justify-content-start"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 597,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 1194,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "navigation",
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2500,
+    "classList": [
+      "tw-interactive",
+      "tw-link"
+    ],
+    "href": "https://www.twitch.tv/",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 50,
+      "x": 0,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "浏览",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2500,
+    "classList": [
+      "tw-animated-glitch-logo",
+      "tw-inline-flex",
+      "tw-pd-05"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/a[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 50,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "浏览",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/a[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1600,
+    "classList": [
+      "ScSvg-cdc1ai-0",
+      "hrdQOA"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 40,
+      "x": 5,
+      "y": 5
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [
+      "tw-interactive",
+      "tw-link"
+    ],
+    "href": "https://www.twitch.tv/#sideNav",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 0,
+      "x": 50,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "浏览",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 0,
+    "tag": "A",
+    "visibleText": [
+      "Skip",
+      "navigation"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "top-nav__skip-nav-link"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/a[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 49,
+      "y": -1
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "navigation"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/a[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3800,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 76,
+      "x": 50,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 152,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3800,
+    "classList": [
+      "tw-flex",
+      "tw-flex-row",
+      "tw-full-height",
+      "tw-justify-content-between"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 76,
+      "x": 50,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 152,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3800,
+    "classList": [
+      "tw-flex",
+      "tw-flex-column",
+      "tw-full-height",
+      "tw-pd-x-1",
+      "tw-xl-pd-x-2"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 76,
+      "x": 50,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 152,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1728,
+    "classList": [
+      "tw-align-self-center",
+      "tw-flex",
+      "tw-full-height"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 36,
+      "x": 70,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 75,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1728,
+    "classList": [
+      "navigation-link",
+      "tw-interactive"
+    ],
+    "href": "https://www.twitch.tv/directory",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 36,
+      "x": 70,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 75,
+    "tag": "A",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 756,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 36,
+      "x": 70,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 171,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 756,
+    "classList": [
+      "tw-flex-column",
+      "tw-hide",
+      "tw-sm-flex"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 36,
+      "x": 70,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 171,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 756,
+    "classList": [
+      "tw-hide",
+      "tw-xl-flex"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 36,
+      "x": 70,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 171,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 756,
+    "classList": [
+      "tw-font-size-4",
+      "tw-line-height-heading",
+      "tw-semibold",
+      "tw-title"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 36,
+      "x": 70,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 171,
+    "tag": "P",
+    "visibleText": [
+      "浏览"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 36,
+    "classList": [
+      "navigation-link__indicator-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 36,
+      "x": 70,
+      "y": 48
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 3600,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 2500,
+    "classList": [
+      "tw-align-items-center",
+      "tw-flex",
+      "tw-full-height",
+      "tw-pd-x-1"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 50,
+      "x": 126,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [
+      "tw-inline-block",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 136,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 136,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [
+      "tw-inline-flex"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 136,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-medium",
+      "tw-border-bottom-right-radius-medium",
+      "tw-border-top-left-radius-medium",
+      "tw-border-top-right-radius-medium",
+      "tw-button-icon",
+      "tw-core-button",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 136,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "BUTTON",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "tw-button-icon__icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 141,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 141,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScIconLayout-sc-1bgeryd-0",
+      "kbOjdP",
+      "tw-icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 141,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScAspectRatio-sc-1sw3lwy-1",
+      "dNNaBC",
+      "tw-aspect"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 141,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScAspectSpacer-sc-1sw3lwy-0",
+      "gkBhyN"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 141,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScIconSVG-sc-1bgeryd-1",
+      "cMQeyU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 141,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "浏览"
+    ],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 29850,
+    "classList": [
+      "tw-align-items-center",
+      "tw-flex-grow-1",
+      "tw-flex-shrink-1",
+      "tw-full-width",
+      "tw-hide",
+      "tw-justify-content-center",
+      "tw-sm-flex"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 597,
+      "x": 597,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "登录",
+      "注册",
+      "Skip",
+      "navigation",
+      "浏览"
+    ],
+    "shape": 1194,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 18400,
+    "classList": [
+      "top-nav__search-container",
+      "tw-mg-x-2"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 46,
+      "width": 400,
+      "x": 696,
+      "y": 2
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 869,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 18400,
+    "classList": [
+      "search-box"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 46,
+      "width": 400,
+      "x": 696,
+      "y": 2
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 869,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 18400,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 46,
+      "width": 400,
+      "x": 696,
+      "y": 2
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 869,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 18400,
+    "classList": [
+      "tw-relative",
+      "tw-z-default"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 46,
+      "width": 400,
+      "x": 696,
+      "y": 2
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 869,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 18400,
+    "classList": [
+      "tw-pd-05"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 46,
+      "width": 400,
+      "x": 696,
+      "y": 2
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 869,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 14040,
+    "classList": [
+      "tw-combo-input",
+      "tw-flex",
+      "tw-full-width"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 390,
+      "x": 701,
+      "y": 7
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1083,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 12780,
+    "classList": [
+      "tw-combo-input__input",
+      "tw-flex-grow-1"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 355,
+      "x": 701,
+      "y": 7
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 986,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 12780,
+    "classList": [
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 355,
+      "x": 701,
+      "y": 7
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 986,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 12780,
+    "classList": [
+      "tw-block",
+      "tw-border-bottom-left-radius-large",
+      "tw-border-bottom-right-radius-none",
+      "tw-border-top-left-radius-large",
+      "tw-border-top-right-radius-none",
+      "tw-font-size-5",
+      "tw-full-width",
+      "tw-input",
+      "tw-input--large",
+      "tw-pd-l-1",
+      "tw-pd-r-1",
+      "tw-pd-y-05"
+    ],
+    "href": "",
+    "id": "tw-31c24ba9c2581f3de6d9786b4bb80dbc",
+    "idxpath": "//*[@id='tw-31c24ba9c2581f3de6d9786b4bb80dbc']",
+    "isButton": false,
+    "location": {
+      "height": 36,
+      "width": 355,
+      "x": 701,
+      "y": 7
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 986,
+    "tag": "INPUT",
+    "visibleText": [
+      "搜索"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 1224,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-none",
+      "tw-border-bottom-right-radius-large",
+      "tw-border-top-left-radius-none",
+      "tw-border-top-right-radius-large",
+      "tw-combo-input__button-icon",
+      "tw-combo-input__button-icon--large",
+      "tw-core-button",
+      "tw-core-button--disabled",
+      "tw-core-button--large",
+      "tw-core-button--secondary",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 36,
+      "width": 34,
+      "x": 1057,
+      "y": 7
+    },
+    "name": "",
+    "neighborText": [
+      "搜索"
+    ],
+    "shape": 94,
+    "tag": "BUTTON",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "tw-align-items-center",
+      "tw-core-button-icon",
+      "tw-core-button-icon--large",
+      "tw-inline-flex"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1062,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "搜索"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "ScIconLayout-sc-1bgeryd-0",
+      "kbOjdP",
+      "tw-icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1062,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "搜索"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "ScAspectRatio-sc-1sw3lwy-1",
+      "dNNaBC",
+      "tw-aspect"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1062,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "搜索"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "ScAspectSpacer-sc-1sw3lwy-0",
+      "gkBhyN"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1062,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "搜索"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "ScIconSVG-sc-1bgeryd-1",
+      "cMQeyU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1062,
+      "y": 13
+    },
+    "name": null,
+    "neighborText": [
+      "搜索"
+    ],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 29850,
+    "classList": [
+      "tw-align-items-center",
+      "tw-flex",
+      "tw-flex-grow-1",
+      "tw-flex-shrink-1",
+      "tw-full-width",
+      "tw-justify-content-end"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 597,
+      "x": 1194,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1194,
+    "tag": "DIV",
+    "visibleText": [
+      "登录",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 7350,
+    "classList": [
+      "tw-flex",
+      "tw-full-height",
+      "tw-mg-r-1",
+      "tw-pd-y-1"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 147,
+      "x": 1635,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 294,
+    "tag": "DIV",
+    "visibleText": [
+      "登录",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 4410,
+    "classList": [
+      "tw-flex",
+      "tw-flex-nowrap"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 147,
+      "x": 1635,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 490,
+    "tag": "DIV",
+    "visibleText": [
+      "登录",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3360,
+    "classList": [
+      "anon-user",
+      "tw-flex",
+      "tw-flex-nowrap"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 112,
+      "x": 1635,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 373,
+    "tag": "DIV",
+    "visibleText": [
+      "登录",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [
+      "tw-pd-x-05"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 56,
+      "x": 1635,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 186,
+    "tag": "DIV",
+    "visibleText": [
+      "登录"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1380,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-medium",
+      "tw-border-bottom-right-radius-medium",
+      "tw-border-top-left-radius-medium",
+      "tw-border-top-right-radius-medium",
+      "tw-core-button",
+      "tw-core-button--secondary",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 46,
+      "x": 1640,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "登录",
+      "注册"
+    ],
+    "shape": 153,
+    "tag": "BUTTON",
+    "visibleText": [
+      "登录"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 874,
+    "classList": [
+      "tw-align-items-center",
+      "tw-core-button-label",
+      "tw-flex",
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 46,
+      "x": 1640,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册",
+      "登录"
+    ],
+    "shape": 242,
+    "tag": "DIV",
+    "visibleText": [
+      "登录"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 494,
+    "classList": [
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 26,
+      "x": 1650,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 136,
+    "tag": "DIV",
+    "visibleText": [
+      "登录"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [
+      "tw-pd-x-05"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 56,
+      "x": 1691,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "登录"
+    ],
+    "shape": 186,
+    "tag": "DIV",
+    "visibleText": [
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1380,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-medium",
+      "tw-border-bottom-right-radius-medium",
+      "tw-border-top-left-radius-medium",
+      "tw-border-top-right-radius-medium",
+      "tw-core-button",
+      "tw-core-button--primary",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 46,
+      "x": 1696,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "注册",
+      "登录"
+    ],
+    "shape": 153,
+    "tag": "BUTTON",
+    "visibleText": [
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 874,
+    "classList": [
+      "tw-align-items-center",
+      "tw-core-button-label",
+      "tw-flex",
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 46,
+      "x": 1696,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "登录",
+      "注册"
+    ],
+    "shape": 242,
+    "tag": "DIV",
+    "visibleText": [
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 494,
+    "classList": [
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 26,
+      "x": 1706,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "登录"
+    ],
+    "shape": 136,
+    "tag": "DIV",
+    "visibleText": [
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1050,
+    "classList": [
+      "tw-align-items-stretch",
+      "tw-flex",
+      "tw-flex-grow-1",
+      "tw-full-height",
+      "tw-pd-l-05",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 35,
+      "x": 1747,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 116,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [
+      "tw-inline-block",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 1752,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 1752,
+      "y": 10
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-medium",
+      "tw-border-bottom-right-radius-medium",
+      "tw-border-top-left-radius-medium",
+      "tw-border-top-right-radius-medium",
+      "tw-button-icon",
+      "tw-core-button",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 1752,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "BUTTON",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "tw-button-icon__icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 1757,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 1757,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScIconLayout-sc-1bgeryd-0",
+      "kbOjdP",
+      "tw-icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 1757,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScAspectRatio-sc-1sw3lwy-1",
+      "dNNaBC",
+      "tw-aspect"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 1757,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScAspectSpacer-sc-1sw3lwy-0",
+      "gkBhyN"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 1757,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScIconSVG-sc-1bgeryd-1",
+      "cMQeyU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 1757,
+      "y": 15
+    },
+    "name": null,
+    "neighborText": [
+      "注册"
+    ],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[2]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 1639680,
+    "classList": [
+      "tw-flex",
+      "tw-flex-nowrap",
+      "tw-full-height",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1792,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 195,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册",
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 219600,
+    "classList": [],
+    "href": "",
+    "id": "sideNav",
+    "idxpath": "//*[@id='sideNav']",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 26,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 219600,
+    "classList": [
+      "side-nav",
+      "side-nav--expanded",
+      "tw-c-background-alt",
+      "tw-flex-shrink-0",
+      "tw-full-height",
+      "tw-z-above"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 26,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 219600,
+    "classList": [
+      "tw-full-height"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 26,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 219600,
+    "classList": [
+      "tw-flex-grow-1",
+      "scrollable-area",
+      "scrollable-area--suppress-scroll-x"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 26,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 237900,
+    "classList": [
+      "simplebar-scroll-content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 260,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 28,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 219600,
+    "classList": [
+      "simplebar-content",
+      "side-nav__scrollable_content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 26,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 51360,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 214,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 112,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2000,
+    "classList": [
+      "collapse-toggle",
+      "tw-absolute",
+      "tw-flex",
+      "tw-flex-grow-0",
+      "tw-flex-shrink-0",
+      "tw-justify-content-center",
+      "tw-mg-y-05",
+      "tw-pd-y-05",
+      "tw-right-0",
+      "tw-top-0",
+      "tw-z-above"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 50,
+      "x": 190,
+      "y": 55
+    },
+    "name": null,
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 125,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-medium",
+      "tw-border-bottom-right-radius-medium",
+      "tw-border-top-left-radius-medium",
+      "tw-border-top-right-radius-medium",
+      "tw-button-icon",
+      "tw-core-button",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 30,
+      "x": 200,
+      "y": 60
+    },
+    "name": "",
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "BUTTON",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "tw-button-icon__icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 205,
+      "y": 65
+    },
+    "name": null,
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 205,
+      "y": 65
+    },
+    "name": null,
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScIconLayout-sc-1bgeryd-0",
+      "kbOjdP",
+      "tw-icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 205,
+      "y": 65
+    },
+    "name": null,
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScAspectRatio-sc-1sw3lwy-1",
+      "dNNaBC",
+      "tw-aspect"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 205,
+      "y": 65
+    },
+    "name": null,
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScAspectSpacer-sc-1sw3lwy-0",
+      "gkBhyN"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 205,
+      "y": 65
+    },
+    "name": null,
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "ScIconSVG-sc-1bgeryd-1",
+      "cMQeyU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 20,
+      "x": 205,
+      "y": 65
+    },
+    "name": null,
+    "neighborText": [
+      "Skip",
+      "navigation",
+      "浏览",
+      "Twitch",
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]/div[1]/div[1]/div[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 51360,
+    "classList": [
+      "side-bar-contents"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 214,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 112,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 51360,
+    "classList": [
+      "tw-flex",
+      "tw-flex-column",
+      "tw-flex-grow-1",
+      "tw-flex-shrink-0",
+      "tw-justify-content-between"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 214,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 112,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 51360,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 214,
+      "width": 240,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 112,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 46560,
+    "classList": [
+      "side-info-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sideNav']/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 194,
+      "width": 240,
+      "x": 0,
+      "y": 60
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 123,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 46560,
+    "classList": [],
+    "href": "",
+    "id": "7dbe20ceb7a16caead8bf96881fc39b3",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']",
+    "isButton": false,
+    "location": {
+      "height": 194,
+      "width": 240,
+      "x": 0,
+      "y": 60
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 123,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 46560,
+    "classList": [
+      "side-nav-page-info"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 194,
+      "width": 240,
+      "x": 0,
+      "y": 60
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 123,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 42680,
+    "classList": [
+      "tw-border-radius-large",
+      "tw-c-background-base",
+      "tw-elevation-1",
+      "tw-flex",
+      "tw-flex-column",
+      "tw-mg-1",
+      "tw-pd-2"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 194,
+      "width": 220,
+      "x": 10,
+      "y": 60
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 113,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 27720,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 154,
+      "width": 180,
+      "x": 30,
+      "y": 80
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 116,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 18720,
+    "classList": [
+      "tw-mg-y-1"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 104,
+      "width": 180,
+      "x": 30,
+      "y": 90
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 173,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 10260,
+    "classList": [
+      "tw-mg-b-05"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 57,
+      "width": 180,
+      "x": 30,
+      "y": 90
+    },
+    "name": null,
+    "neighborText": [
+      "浏览",
+      "Skip",
+      "navigation",
+      "浏览",
+      "加入",
+      "Twitch",
+      "社区！",
+      "探索全球最精彩的直播内容。"
+    ],
+    "shape": 315,
+    "tag": "DIV",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 10260,
+    "classList": [
+      "tw-c-text-base",
+      "tw-font-size-3",
+      "tw-line-height-heading",
+      "tw-strong"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 57,
+      "width": 180,
+      "x": 30,
+      "y": 90
+    },
+    "name": null,
+    "neighborText": [
+      "浏览",
+      "Skip",
+      "navigation",
+      "浏览",
+      "探索全球最精彩的直播内容。"
+    ],
+    "shape": 315,
+    "tag": "P",
+    "visibleText": [
+      "加入",
+      "Twitch",
+      "社区！"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 2610,
+    "classList": [
+      "tw-c-text-link",
+      "tw-font-size-3",
+      "tw-strong"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 29,
+      "width": 90,
+      "x": 78,
+      "y": 89
+    },
+    "name": null,
+    "neighborText": [
+      "浏览",
+      "Skip",
+      "navigation",
+      "浏览",
+      "探索全球最精彩的直播内容。"
+    ],
+    "shape": 310,
+    "tag": "SPAN",
+    "visibleText": [
+      "Twitch"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 7560,
+    "classList": [
+      "tw-font-size-5"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 180,
+      "x": 30,
+      "y": 152
+    },
+    "name": null,
+    "neighborText": [
+      "加入",
+      "Twitch",
+      "社区！",
+      "注册"
+    ],
+    "shape": 428,
+    "tag": "P",
+    "visibleText": [
+      "探索全球最精彩的直播内容。"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 1380,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-medium",
+      "tw-border-bottom-right-radius-medium",
+      "tw-border-top-left-radius-medium",
+      "tw-border-top-right-radius-medium",
+      "tw-core-button",
+      "tw-core-button--primary",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 46,
+      "x": 30,
+      "y": 204
+    },
+    "name": "",
+    "neighborText": [
+      "探索全球最精彩的直播内容。"
+    ],
+    "shape": 153,
+    "tag": "BUTTON",
+    "visibleText": [
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 874,
+    "classList": [
+      "tw-align-items-center",
+      "tw-core-button-label",
+      "tw-flex",
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/button[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 46,
+      "x": 30,
+      "y": 209
+    },
+    "name": null,
+    "neighborText": [
+      "探索全球最精彩的直播内容。",
+      "注册"
+    ],
+    "shape": 242,
+    "tag": "DIV",
+    "visibleText": [
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 494,
+    "classList": [
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='7dbe20ceb7a16caead8bf96881fc39b3']/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 26,
+      "x": 40,
+      "y": 209
+    },
+    "name": null,
+    "neighborText": [
+      "探索全球最精彩的直播内容。"
+    ],
+    "shape": 136,
+    "tag": "DIV",
+    "visibleText": [
+      "注册"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1420080,
+    "classList": [
+      "root-scrollable",
+      "scrollable-area",
+      "scrollable-area--suppress-scroll-x"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 169,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1438380,
+    "classList": [
+      "simplebar-scroll-content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1572,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 171,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 1420080,
+    "classList": [
+      "simplebar-content",
+      "root-scrollable__content"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 169,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1420080,
+    "classList": [
+      "root-scrollable__wrapper",
+      "tw-full-width",
+      "tw-relative"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 169,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1420080,
+    "classList": [
+      "tw-full-height"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 169,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 543200,
+    "classList": [
+      "front-page-carousel",
+      "tw-pd-t-2",
+      "tw-pd-x-3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 350,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 443,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 543200,
+    "classList": [
+      "headliner-ad",
+      "tw-absolute",
+      "tw-full-width",
+      "tw-left-0",
+      "tw-top-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 350,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 443,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 543200,
+    "classList": [
+      "tw-block",
+      "tw-full-height",
+      "tw-full-width"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 350,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 443,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 543200,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 350,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 443,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 511756,
+    "classList": [
+      "tw-mg-x-3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 343,
+      "width": 1492,
+      "x": 270,
+      "y": 430
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 434,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 511756,
+    "classList": [
+      "common-centered-column"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 343,
+      "width": 1492,
+      "x": 270,
+      "y": 430
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 434,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 511756,
+    "classList": [
+      "tw-mg-y-3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 343,
+      "width": 1492,
+      "x": 270,
+      "y": 430
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 434,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 511756,
+    "classList": [
+      "tw-pd-b-5"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 343,
+      "width": 1492,
+      "x": 270,
+      "y": 430
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 434,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 437156,
+    "classList": [
+      "tw-align-center",
+      "tw-full-height",
+      "tw-full-width"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 293,
+      "width": 1492,
+      "x": 270,
+      "y": 430
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 509,
+    "tag": "DIV",
+    "visibleText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 40000,
+    "classList": [
+      "ScSvg-sc-1j5mt50-1",
+      "hAChQG"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/figure[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 200,
+      "width": 200,
+      "x": 916,
+      "y": 430
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/figure[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 40284,
+    "classList": [
+      "tw-font-size-4"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 27,
+      "width": 1492,
+      "x": 270,
+      "y": 635
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 5525,
+    "tag": "P",
+    "visibleText": [
+      "出现错误…"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 31332,
+    "classList": [
+      "tw-c-text-alt-2",
+      "tw-font-size-5"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 1492,
+      "x": 270,
+      "y": 662
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 7104,
+    "tag": "P",
+    "visibleText": [
+      "我们找不到推荐"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]"
+  },
+  {
+    "alt": "",
+    "area": 59680,
+    "classList": [
+      "tw-pd-t-1"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 1492,
+      "x": 270,
+      "y": 683
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3730,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 2160,
+    "classList": [
+      "tw-align-items-center",
+      "tw-align-middle",
+      "tw-border-bottom-left-radius-medium",
+      "tw-border-bottom-right-radius-medium",
+      "tw-border-top-left-radius-medium",
+      "tw-border-top-right-radius-medium",
+      "tw-core-button",
+      "tw-core-button--primary",
+      "tw-inline-flex",
+      "tw-interactive",
+      "tw-justify-content-center",
+      "tw-overflow-hidden",
+      "tw-relative"
+    ],
+    "href": "https://www.twitch.tv/directory",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 72,
+      "x": 980,
+      "y": 693
+    },
+    "name": "",
+    "neighborText": [
+      "出现错误…",
+      "我们找不到推荐"
+    ],
+    "shape": 240,
+    "tag": "A",
+    "visibleText": [
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1368,
+    "classList": [
+      "tw-align-items-center",
+      "tw-core-button-label",
+      "tw-flex",
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 72,
+      "x": 980,
+      "y": 698
+    },
+    "name": null,
+    "neighborText": [
+      "出现错误…",
+      "我们找不到推荐",
+      "浏览频道"
+    ],
+    "shape": 378,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 988,
+    "classList": [
+      "tw-flex-grow-0"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 52,
+      "x": 990,
+      "y": 698
+    },
+    "name": null,
+    "neighborText": [
+      "出现错误…",
+      "我们找不到推荐"
+    ],
+    "shape": 273,
+    "tag": "DIV",
+    "visibleText": [
+      "浏览频道"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1420080,
+    "classList": [
+      "celebration__overlay",
+      "tw-absolute",
+      "tw-align-items-center",
+      "tw-flex",
+      "tw-full-height",
+      "tw-full-width",
+      "tw-justify-content-center",
+      "tw-left-0",
+      "tw-top-0",
+      "tw-z-above"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/main[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1552,
+      "x": 240,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 169,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 0,
+    "classList": [],
+    "href": "",
+    "id": "5c25fb4e79fdaa4e53c60a5208f35ea4",
+    "idxpath": "//*[@id='5c25fb4e79fdaa4e53c60a5208f35ea4']",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 0,
+      "x": 1792,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 0,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1639680,
+    "classList": [
+      "celebration__overlay",
+      "tw-absolute",
+      "tw-align-items-center",
+      "tw-flex",
+      "tw-full-height",
+      "tw-full-width",
+      "tw-justify-content-center",
+      "tw-left-0",
+      "tw-top-0",
+      "tw-z-above"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='root']/div[1]/div[2]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 915,
+      "width": 1792,
+      "x": 0,
+      "y": 50
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 195,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]"
+  }
+]

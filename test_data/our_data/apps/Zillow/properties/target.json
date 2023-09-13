@@ -1,0 +1,265 @@
+[
+  {
+    "alt": "",
+    "area": 2684,
+    "classList": [],
+    "href": "https://www.zillow.com/homes/",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/nav[1]/div[1]/div[2]/section[1]/header[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 61,
+      "x": 390,
+      "y": 5
+    },
+    "name": "",
+    "neighborText": [
+      "Rent"
+    ],
+    "shape": 138,
+    "tag": "A",
+    "visibleText": [
+      "Buy"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[2]/section[1]/header[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2948,
+    "classList": [],
+    "href": "https://www.zillow.com/homes/for_rent/",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/nav[1]/div[1]/div[2]/section[2]/header[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 67,
+      "x": 459,
+      "y": 5
+    },
+    "name": "",
+    "neighborText": [
+      "Sell",
+      "Buy"
+    ],
+    "shape": 152,
+    "tag": "A",
+    "visibleText": [
+      "Rent"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[2]/section[2]/header[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2552,
+    "classList": [],
+    "href": "https://www.zillow.com/sell/",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/nav[1]/div[1]/div[2]/section[3]/header[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 58,
+      "x": 534,
+      "y": 5
+    },
+    "name": "",
+    "neighborText": [
+      "Mortgages",
+      "Rent"
+    ],
+    "shape": 131,
+    "tag": "A",
+    "visibleText": [
+      "Sell"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[2]/section[3]/header[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5500,
+    "classList": [],
+    "href": "https://www.zillow.com/agent-finder/real-estate-agent-reviews/",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/nav[1]/div[1]/div[2]/section[5]/header[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 125,
+      "x": 720,
+      "y": 5
+    },
+    "name": "",
+    "neighborText": [
+      "Home",
+      "design",
+      "Mortgages"
+    ],
+    "shape": 284,
+    "tag": "A",
+    "visibleText": [
+      "Agent",
+      "finder"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[2]/section[5]/header[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 915,
+    "classList": [],
+    "href": "https://www.zillow.com/advertise/",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/nav[1]/div[1]/div[1]/div[1]/section[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 61,
+      "x": 1275,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in",
+      "or",
+      "Join",
+      "Advertise"
+    ],
+    "shape": 406,
+    "tag": "A",
+    "visibleText": [
+      "Advertise"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[1]/div[1]/section[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 645,
+    "classList": [
+      "zss-login-link",
+      "auth-required",
+      "login"
+    ],
+    "href": "https://www.zillow.com/user/acct/login/",
+    "id": "login_opener",
+    "idxpath": "//*[@id='login_opener']",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 43,
+      "x": 1386,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Advertise",
+      "Sign",
+      "in",
+      "Join"
+    ],
+    "shape": 286,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[1]/div[1]/section[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 36600,
+    "classList": [
+      "search-input",
+      "za-track-event"
+    ],
+    "href": "",
+    "id": "citystatezip",
+    "idxpath": "//*[@id='citystatezip']",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 610,
+      "x": 591,
+      "y": 329
+    },
+    "name": "citystatezip",
+    "neighborText": [],
+    "shape": 1016,
+    "tag": "INPUT",
+    "visibleText": [
+      "Enter",
+      "an",
+      "address,",
+      "neighborhood,",
+      "city",
+      "or",
+      "ZIP",
+      "code"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/form[1]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 900,
+    "classList": [
+      "search-button-text"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='formSearchBar']/div[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 50,
+      "x": 1115,
+      "y": 350
+    },
+    "name": null,
+    "neighborText": [
+      "Zestimate",
+      "Enter",
+      "an",
+      "address,",
+      "neighborhood,",
+      "city",
+      "or",
+      "ZIP",
+      "code"
+    ],
+    "shape": 277,
+    "tag": "SPAN",
+    "visibleText": [
+      "Search"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[2]/div[2]/main[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 240,
+    "classList": [],
+    "href": "https://zillow.zendesk.com/hc/en-us",
+    "id": "",
+    "idxpath": "//*[@id='wrapper']/header[1]/nav[1]/div[1]/div[1]/section[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 16,
+      "x": 1496,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "in",
+      "or",
+      "Join"
+    ],
+    "shape": 106,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/header[1]/nav[1]/div[1]/div[1]/section[1]/div[1]/a[1]"
+  }
+]

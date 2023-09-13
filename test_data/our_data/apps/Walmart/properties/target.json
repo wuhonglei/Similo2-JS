@@ -1,0 +1,351 @@
+[
+  {
+    "alt": "",
+    "area": 12000,
+    "classList": [
+      "header-Logo",
+      "display-block"
+    ],
+    "href": "https://www.walmart.com/",
+    "id": "header-Logo",
+    "idxpath": "//*[@id='header-Logo']",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 200,
+      "x": 246,
+      "y": 69
+    },
+    "name": "",
+    "neighborText": [
+      "Gift",
+      "CardsRegistry",
+      "&",
+      "ListsWeekly",
+      "AdsStore",
+      "FinderTrack",
+      "OrdersReorder",
+      "ItemsCredit",
+      "Card",
+      "HelpGrocery",
+      "Pickup",
+      "All",
+      "Search",
+      "Search",
+      "ClearanceMy",
+      "local",
+      "storePick",
+      "it",
+      "up",
+      "TODAYTips",
+      "&",
+      "Ideas",
+      "Support",
+      "Hurricane",
+      "Harvey",
+      "relief",
+      "today!",
+      "All",
+      "Departments"
+    ],
+    "shape": 333,
+    "tag": "A",
+    "visibleText": [
+      "Walmart.",
+      "Save",
+      "Money.",
+      "Live",
+      "Better."
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2520,
+    "classList": [
+      "header-SearchDropdown-toggle",
+      "flyout-trigger",
+      "btn",
+      "dropdown"
+    ],
+    "href": "",
+    "id": "listboxActive",
+    "idxpath": "//*[@id='listboxActive']",
+    "isButton": true,
+    "location": {
+      "height": 40,
+      "width": 63,
+      "x": 503,
+      "y": 78
+    },
+    "name": "",
+    "neighborText": [
+      "Gift",
+      "CardsRegistry",
+      "&",
+      "ListsWeekly",
+      "AdsStore",
+      "FinderTrack",
+      "OrdersReorder",
+      "ItemsCredit",
+      "Card",
+      "HelpGrocery",
+      "Pickup",
+      "Search",
+      "ClearanceMy",
+      "local",
+      "storePick",
+      "it",
+      "up",
+      "TODAYTips",
+      "&",
+      "Ideas"
+    ],
+    "shape": 157,
+    "tag": "BUTTON",
+    "visibleText": [
+      "All"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/form[1]/div[1]/div[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 26920,
+    "classList": [
+      "header-GlobalSearch-input"
+    ],
+    "href": "",
+    "id": "global-search-input",
+    "idxpath": "//*[@id='global-search-input']",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 673,
+      "x": 565,
+      "y": 78
+    },
+    "name": "query",
+    "neighborText": [],
+    "shape": 1682,
+    "tag": "INPUT",
+    "visibleText": [
+      "Search"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/form[1]/div[1]/div[2]/div[1]/label[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 2000,
+    "classList": [
+      "header-GlobalSearch-submit",
+      "btn"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='global-search-form']/div[1]/div[3]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 40,
+      "width": 50,
+      "x": 1239,
+      "y": 78
+    },
+    "name": "",
+    "neighborText": [
+      "Reorder",
+      "Items",
+      "Gift",
+      "CardsRegistry",
+      "&",
+      "ListsWeekly",
+      "AdsStore",
+      "FinderTrack",
+      "OrdersReorder",
+      "ItemsCredit",
+      "Card",
+      "HelpGrocery",
+      "Pickup",
+      "Hello.",
+      "Sign",
+      "In",
+      "My",
+      "Account",
+      "ClearanceMy",
+      "local",
+      "storePick",
+      "it",
+      "up",
+      "TODAYTips",
+      "&",
+      "Ideas",
+      "Support",
+      "Hurricane",
+      "Harvey",
+      "relief",
+      "today!",
+      "Search"
+    ],
+    "shape": 125,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Search"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/form[1]/div[1]/div[3]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 2304,
+    "classList": [
+      "header-GlobalAccountFlyout-flyout-link",
+      "dropdown-link",
+      "font-bold",
+      "display-block",
+      "btn-fake-link"
+    ],
+    "href": "",
+    "id": "header-GlobalAccountFlyout-flyout-link",
+    "idxpath": "//*[@id='header-GlobalAccountFlyout-flyout-link']",
+    "isButton": true,
+    "location": {
+      "height": 24,
+      "width": 96,
+      "x": 1383,
+      "y": 96
+    },
+    "name": "",
+    "neighborText": [
+      "Gift",
+      "CardsRegistry",
+      "&",
+      "ListsWeekly",
+      "AdsStore",
+      "FinderTrack",
+      "OrdersReorder",
+      "ItemsCredit",
+      "Card",
+      "HelpGrocery",
+      "Pickup",
+      "Hello.",
+      "Sign",
+      "In",
+      "Items",
+      "in",
+      "cart",
+      "Support",
+      "Hurricane",
+      "Harvey",
+      "relief",
+      "today!"
+    ],
+    "shape": 400,
+    "tag": "BUTTON",
+    "visibleText": [
+      "My",
+      "Account"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[2]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 2106,
+    "classList": [
+      "header-Cart",
+      "display-block",
+      "text-center"
+    ],
+    "href": "https://www.walmart.com/cart",
+    "id": "header-Cart",
+    "idxpath": "//*[@id='header-Cart']",
+    "isButton": false,
+    "location": {
+      "height": 39,
+      "width": 54,
+      "x": 1492,
+      "y": 78
+    },
+    "name": "",
+    "neighborText": [
+      "Gift",
+      "CardsRegistry",
+      "&",
+      "ListsWeekly",
+      "AdsStore",
+      "FinderTrack",
+      "OrdersReorder",
+      "ItemsCredit",
+      "Card",
+      "HelpGrocery",
+      "Pickup",
+      "Hello.",
+      "Sign",
+      "In",
+      "My",
+      "Account",
+      "Support",
+      "Hurricane",
+      "Harvey",
+      "relief",
+      "today!",
+      "ClearanceMy",
+      "local",
+      "storePick",
+      "it",
+      "up",
+      "TODAYTips",
+      "&",
+      "Ideas",
+      "Support",
+      "Hurricane",
+      "Harvey",
+      "relief",
+      "today!"
+    ],
+    "shape": 138,
+    "tag": "A",
+    "visibleText": [
+      "Items",
+      "in",
+      "cart"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1395,
+    "classList": [
+      "header-GlobalEyebrowNav-link"
+    ],
+    "href": "https://www.walmart.com/easyreorder",
+    "id": "header-GlobalEyebrowNav-link-5",
+    "idxpath": "//*[@id='header-GlobalEyebrowNav-link-5']",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 93,
+      "x": 1179,
+      "y": 47
+    },
+    "name": "",
+    "neighborText": [
+      "Credit",
+      "Card",
+      "All",
+      "Search",
+      "Search",
+      "Hello.",
+      "Sign",
+      "In",
+      "My",
+      "Account",
+      "Track",
+      "Orders"
+    ],
+    "shape": 620,
+    "tag": "A",
+    "visibleText": [
+      "Reorder",
+      "Items"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/div[1]/a[3]"
+  }
+]

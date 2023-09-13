@@ -1,0 +1,607 @@
+[
+  {
+    "alt": "",
+    "area": 8280,
+    "classList": [
+      "text-input",
+      "email-input"
+    ],
+    "href": "",
+    "id": "signin-email",
+    "idxpath": "//*[@id='signin-email']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 276,
+      "x": 1027,
+      "y": 238
+    },
+    "name": "session[username_or_email]",
+    "neighborText": [
+      "Password",
+      "Log",
+      "in"
+    ],
+    "shape": 920,
+    "tag": "INPUT",
+    "visibleText": [
+      "Phone,",
+      "email",
+      "or",
+      "username"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 5730,
+    "classList": [
+      "text-input",
+      "flex-table-input"
+    ],
+    "href": "",
+    "id": "signin-password",
+    "idxpath": "//*[@id='signin-password']",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 191,
+      "x": 1027,
+      "y": 283
+    },
+    "name": "session[password]",
+    "neighborText": [
+      "1",
+      "Phone,",
+      "email",
+      "or",
+      "username",
+      "Log",
+      "in",
+      "Remember",
+      "me",
+      "Forgot",
+      "password?",
+      "Remember",
+      "me",
+      "·",
+      "Forgot",
+      "password?"
+    ],
+    "shape": 636,
+    "tag": "INPUT",
+    "visibleText": [
+      "Password"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 448,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 32,
+      "x": 675,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Terms",
+      "Privacy",
+      "policy",
+      "Status",
+      "Jobs"
+    ],
+    "shape": 228,
+    "tag": "LI",
+    "visibleText": [
+      "Terms"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 602,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 43,
+      "x": 801,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Cookies",
+      "Ads",
+      "info",
+      "Privacy",
+      "policy"
+    ],
+    "shape": 307,
+    "tag": "LI",
+    "visibleText": [
+      "Cookies"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 616,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 44,
+      "x": 854,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Ads",
+      "info",
+      "Brand",
+      "Cookies"
+    ],
+    "shape": 314,
+    "tag": "LI",
+    "visibleText": [
+      "Ads",
+      "info"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[9]"
+  },
+  {
+    "alt": "",
+    "area": 448,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 32,
+      "x": 907,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Brand",
+      "Advertise",
+      "Ads",
+      "info"
+    ],
+    "shape": 228,
+    "tag": "LI",
+    "visibleText": [
+      "Brand"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[10]"
+  },
+  {
+    "alt": "",
+    "area": 700,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 50,
+      "x": 949,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Advertise",
+      "Businesses",
+      "Brand"
+    ],
+    "shape": 357,
+    "tag": "LI",
+    "visibleText": [
+      "Advertise"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[11]"
+  },
+  {
+    "alt": "",
+    "area": 854,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 61,
+      "x": 1009,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Businesses",
+      "Developers",
+      "Advertise"
+    ],
+    "shape": 435,
+    "tag": "LI",
+    "visibleText": [
+      "Businesses"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[12]"
+  },
+  {
+    "alt": "",
+    "area": 840,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[13]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 60,
+      "x": 1079,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Developers",
+      "Directory",
+      "Businesses"
+    ],
+    "shape": 428,
+    "tag": "LI",
+    "visibleText": [
+      "Developers"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[13]"
+  },
+  {
+    "alt": "",
+    "area": 672,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[14]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 48,
+      "x": 1149,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Directory",
+      "Settings",
+      "Developers"
+    ],
+    "shape": 342,
+    "tag": "LI",
+    "visibleText": [
+      "Directory"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[14]"
+  },
+  {
+    "alt": "",
+    "area": 616,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[15]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 44,
+      "x": 1207,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Settings",
+      "©",
+      "2017",
+      "Twitter",
+      "Directory"
+    ],
+    "shape": 314,
+    "tag": "LI",
+    "visibleText": [
+      "Settings"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[15]"
+  },
+  {
+    "alt": "",
+    "area": 1092,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[16]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 78,
+      "x": 1260,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "©",
+      "2017",
+      "Twitter",
+      "Settings"
+    ],
+    "shape": 557,
+    "tag": "LI",
+    "visibleText": [
+      "©",
+      "2017",
+      "Twitter"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[16]"
+  },
+  {
+    "alt": "",
+    "area": 2250,
+    "classList": [
+      "flex-table-secondary"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[2]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 75,
+      "x": 1227,
+      "y": 283
+    },
+    "name": null,
+    "neighborText": [
+      "Phone,",
+      "email",
+      "or",
+      "username",
+      "Log",
+      "in",
+      "Forgot",
+      "password?",
+      "Remember",
+      "me",
+      "·",
+      "Forgot",
+      "password?",
+      "Password"
+    ],
+    "shape": 250,
+    "tag": "TD",
+    "visibleText": [
+      "Log",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]"
+  },
+  {
+    "alt": "",
+    "area": 1358,
+    "classList": [
+      "forgot"
+    ],
+    "href": "https://twitter.com/account/begin_password_reset",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[2]/div[2]/form[1]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 97,
+      "x": 1136,
+      "y": 320
+    },
+    "name": "",
+    "neighborText": [
+      "Password",
+      "Log",
+      "in",
+      "Remember",
+      "me",
+      "New",
+      "to",
+      "Twitter?",
+      "Sign",
+      "up"
+    ],
+    "shape": 692,
+    "tag": "A",
+    "visibleText": [
+      "Forgot",
+      "password?"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/form[1]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 448,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 32,
+      "x": 447,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "About",
+      "Help",
+      "Center"
+    ],
+    "shape": 228,
+    "tag": "LI",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 896,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 64,
+      "x": 488,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Help",
+      "Center",
+      "Blog",
+      "About"
+    ],
+    "shape": 457,
+    "tag": "LI",
+    "visibleText": [
+      "Help",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 336,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 24,
+      "x": 562,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Blog",
+      "Status",
+      "Help",
+      "Center"
+    ],
+    "shape": 171,
+    "tag": "LI",
+    "visibleText": [
+      "Blog"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 476,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 34,
+      "x": 596,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Status",
+      "Jobs",
+      "Help",
+      "Center",
+      "Blog"
+    ],
+    "shape": 242,
+    "tag": "LI",
+    "visibleText": [
+      "Status"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 364,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 26,
+      "x": 640,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Jobs",
+      "Terms",
+      "Status"
+    ],
+    "shape": 185,
+    "tag": "LI",
+    "visibleText": [
+      "Jobs"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 1036,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 14,
+      "width": 74,
+      "x": 717,
+      "y": 751
+    },
+    "name": null,
+    "neighborText": [
+      "Privacy",
+      "policy",
+      "Cookies",
+      "Terms"
+    ],
+    "shape": 528,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy",
+      "policy"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[7]"
+  }
+]

@@ -1,0 +1,4662 @@
+[
+  {
+    "alt": "",
+    "area": 143360,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2240,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "main",
+      "navigation",
+      "Buy",
+      "Rent",
+      "Sell",
+      "Home",
+      "Loans",
+      "Agent",
+      "finder",
+      "Manage",
+      "Rentals",
+      "Advertise",
+      "Help",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 143360,
+    "classList": [],
+    "href": "",
+    "id": "pfs-nav-wrapper",
+    "idxpath": "//*[@id='pfs-nav-wrapper']",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2240,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "main",
+      "navigation",
+      "Buy",
+      "Rent",
+      "Sell",
+      "Home",
+      "Loans",
+      "Agent",
+      "finder",
+      "Manage",
+      "Rentals",
+      "Advertise",
+      "Help",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 143360,
+    "classList": [],
+    "href": "",
+    "id": "page-header-container",
+    "idxpath": "//*[@id='page-header-container']",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2240,
+    "tag": "DIV",
+    "visibleText": [
+      "Skip",
+      "main",
+      "navigation",
+      "Buy",
+      "Rent",
+      "Sell",
+      "Home",
+      "Loans",
+      "Agent",
+      "finder",
+      "Manage",
+      "Rentals",
+      "Advertise",
+      "Help",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 80,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1gc6ow0-0",
+      "jgOolL"
+    ],
+    "href": "https://www.zillow.com/#skip-topnav-target",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 1,
+      "x": -9999,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 1,
+    "tag": "A",
+    "visibleText": [
+      "Skip",
+      "main",
+      "navigation"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3322,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 151,
+      "x": -10075,
+      "y": 28
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 686,
+    "tag": "SPAN",
+    "visibleText": [
+      "Skip",
+      "main",
+      "navigation"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 15360,
+    "classList": [
+      "pfs__sc-7lof6w-0",
+      "dDvhRD"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 192,
+      "x": 800,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Buy",
+      "Rent",
+      "Sell",
+      "Home",
+      "Loans",
+      "Agent",
+      "finder",
+      "Manage",
+      "Rentals",
+      "Advertise",
+      "Help",
+      "Sign",
+      "in"
+    ],
+    "shape": 240,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4800,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__j60ma-0",
+      "jLGUcv",
+      "znav-topnav-logo"
+    ],
+    "href": "https://www.zillow.com/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 160,
+      "x": 816,
+      "y": 24
+    },
+    "name": "",
+    "neighborText": [
+      "Buy",
+      "Rent",
+      "Sell",
+      "Home",
+      "Loans",
+      "Agent",
+      "finder",
+      "Manage",
+      "Rentals",
+      "Advertise",
+      "Help",
+      "Sign",
+      "in"
+    ],
+    "shape": 533,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5600,
+    "classList": [
+      "StyledZillowLogo-sc-18erp45-0",
+      "cxXsAq",
+      "pfs__j60ma-1",
+      "eCEnCc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[1]/a[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 35,
+      "width": 160,
+      "x": 816,
+      "y": 24
+    },
+    "name": null,
+    "neighborText": [
+      "Buy",
+      "Rent",
+      "Sell",
+      "Home",
+      "Loans",
+      "Agent",
+      "finder",
+      "Manage",
+      "Rentals",
+      "Advertise",
+      "Help",
+      "Sign",
+      "in"
+    ],
+    "shape": 457,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[1]/a[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 101120,
+    "classList": [
+      "pfs__sc-1ve4drk-0",
+      "dveKse",
+      "znav-links"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 1280,
+      "x": 256,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1620,
+    "tag": "DIV",
+    "visibleText": [
+      "Buy",
+      "Rent",
+      "Sell",
+      "Home",
+      "Loans",
+      "Agent",
+      "finder",
+      "Manage",
+      "Rentals",
+      "Advertise",
+      "Help",
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 4108,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 52,
+      "x": 258,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Buy",
+      "Rent"
+    ],
+    "shape": 65,
+    "tag": "LI",
+    "visibleText": [
+      "Buy"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 2288,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx",
+      "noroute"
+    ],
+    "href": "https://www.zillow.com/homes/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 52,
+      "x": 258,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Rent"
+    ],
+    "shape": 118,
+    "tag": "A",
+    "visibleText": [
+      "Buy"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 456,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 24,
+      "x": 272,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Rent"
+    ],
+    "shape": 126,
+    "tag": "SPAN",
+    "visibleText": [
+      "Buy"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 4582,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 58,
+      "x": 310,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Rent",
+      "Sell",
+      "Buy"
+    ],
+    "shape": 73,
+    "tag": "LI",
+    "visibleText": [
+      "Rent"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 2552,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx",
+      "noroute"
+    ],
+    "href": "https://www.zillow.com/homes/for_rent/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 58,
+      "x": 310,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Buy",
+      "Sell"
+    ],
+    "shape": 131,
+    "tag": "A",
+    "visibleText": [
+      "Rent"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 570,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 30,
+      "x": 324,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Buy",
+      "Sell"
+    ],
+    "shape": 157,
+    "tag": "SPAN",
+    "visibleText": [
+      "Rent"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 3950,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 50,
+      "x": 368,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Sell",
+      "Home",
+      "Loans",
+      "Rent"
+    ],
+    "shape": 63,
+    "tag": "LI",
+    "visibleText": [
+      "Sell"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 2200,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx"
+    ],
+    "href": "https://www.zillow.com/sell/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 50,
+      "x": 368,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Rent",
+      "Home",
+      "Loans"
+    ],
+    "shape": 113,
+    "tag": "A",
+    "visibleText": [
+      "Sell"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 418,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 22,
+      "x": 382,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Rent",
+      "Home",
+      "Loans"
+    ],
+    "shape": 115,
+    "tag": "SPAN",
+    "visibleText": [
+      "Sell"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[3]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 8690,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 110,
+      "x": 419,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Agent",
+      "finder",
+      "Home",
+      "Loans",
+      "Sell"
+    ],
+    "shape": 139,
+    "tag": "LI",
+    "visibleText": [
+      "Home",
+      "Loans"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 4840,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx"
+    ],
+    "href": "https://www.zillow.com/home-loans/#source=Z_Mortgagestopnav",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 110,
+      "x": 419,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Sell",
+      "Agent",
+      "finder"
+    ],
+    "shape": 250,
+    "tag": "A",
+    "visibleText": [
+      "Home",
+      "Loans"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1558,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[4]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 82,
+      "x": 433,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Sell",
+      "Agent",
+      "finder"
+    ],
+    "shape": 431,
+    "tag": "SPAN",
+    "visibleText": [
+      "Home",
+      "Loans"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[4]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 8532,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 108,
+      "x": 529,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Agent",
+      "finder",
+      "Home",
+      "Loans"
+    ],
+    "shape": 136,
+    "tag": "LI",
+    "visibleText": [
+      "Agent",
+      "finder"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 4752,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx"
+    ],
+    "href": "https://www.zillow.com/agent-finder/real-estate-agent-reviews/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 108,
+      "x": 529,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Home",
+      "Loans"
+    ],
+    "shape": 245,
+    "tag": "A",
+    "visibleText": [
+      "Agent",
+      "finder"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1520,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[1]/li[5]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 80,
+      "x": 543,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Home",
+      "Loans"
+    ],
+    "shape": 421,
+    "tag": "SPAN",
+    "visibleText": [
+      "Agent",
+      "finder"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[1]/li[5]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 10428,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc",
+      "znav-manage-rentals"
+    ],
+    "href": "",
+    "id": "manage-rentals",
+    "idxpath": "//*[@id='manage-rentals']",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 132,
+      "x": 1157,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Advertise",
+      "Manage",
+      "Rentals"
+    ],
+    "shape": 167,
+    "tag": "LI",
+    "visibleText": [
+      "Manage",
+      "Rentals"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[2]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 5808,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx",
+      "noroute"
+    ],
+    "href": "https://www.zillow.com/rental-manager/?source=topnav&itc=postbutton_sitenav",
+    "id": "",
+    "idxpath": "//*[@id='manage-rentals']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 132,
+      "x": 1157,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Advertise"
+    ],
+    "shape": 300,
+    "tag": "A",
+    "visibleText": [
+      "Manage",
+      "Rentals"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[2]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1976,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='manage-rentals']/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 104,
+      "x": 1171,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Advertise"
+    ],
+    "shape": 547,
+    "tag": "SPAN",
+    "visibleText": [
+      "Manage",
+      "Rentals"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[2]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 7031,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[2]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 89,
+      "x": 1289,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Advertise",
+      "Help",
+      "Manage",
+      "Rentals"
+    ],
+    "shape": 112,
+    "tag": "LI",
+    "visibleText": [
+      "Advertise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[2]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 3916,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx"
+    ],
+    "href": "https://www.zillow.com/marketing/advertise/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[2]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 89,
+      "x": 1289,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Manage",
+      "Rentals",
+      "Help"
+    ],
+    "shape": 202,
+    "tag": "A",
+    "visibleText": [
+      "Advertise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[2]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1159,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[2]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 61,
+      "x": 1303,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Manage",
+      "Rentals",
+      "Help"
+    ],
+    "shape": 321,
+    "tag": "SPAN",
+    "visibleText": [
+      "Advertise"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[2]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 4582,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[3]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 58,
+      "x": 1380,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Help",
+      "Sign",
+      "in",
+      "Advertise"
+    ],
+    "shape": 73,
+    "tag": "LI",
+    "visibleText": [
+      "Help"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[3]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 2552,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx"
+    ],
+    "href": "https://zillow.zendesk.com/hc/en-us/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[3]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 58,
+      "x": 1380,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Advertise",
+      "Sign",
+      "in"
+    ],
+    "shape": 131,
+    "tag": "A",
+    "visibleText": [
+      "Help"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[3]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 570,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[3]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 30,
+      "x": 1394,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Advertise",
+      "Sign",
+      "in"
+    ],
+    "shape": 157,
+    "tag": "SPAN",
+    "visibleText": [
+      "Help"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[3]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 5609,
+    "classList": [
+      "pfs__sc-585qe5-0",
+      "LQquc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[4]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 79,
+      "width": 71,
+      "x": 1440,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "in",
+      "Help"
+    ],
+    "shape": 89,
+    "tag": "LI",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[4]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 3124,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__sc-1dpbk03-0",
+      "icabtx"
+    ],
+    "href": "https://www.zillow.com/user/acct/login/",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[4]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 44,
+      "width": 71,
+      "x": 1440,
+      "y": 18
+    },
+    "name": "",
+    "neighborText": [
+      "Help"
+    ],
+    "shape": 161,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[4]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 817,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='page-header-container']/header[1]/nav[1]/div[2]/ul[4]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 43,
+      "x": 1454,
+      "y": 30
+    },
+    "name": null,
+    "neighborText": [
+      "Help"
+    ],
+    "shape": 226,
+    "tag": "SPAN",
+    "visibleText": [
+      "Sign",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/div[1]/header[1]/nav[1]/div[2]/ul[4]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "home-page-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Reimagine",
+      "home",
+      "We’ll",
+      "help",
+      "you",
+      "find",
+      "a",
+      "place",
+      "you’ll",
+      "love."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "cwvp5a-0",
+      "glNNLY",
+      "ims7rz-0",
+      "jznFzK",
+      "bkgimg"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      "Reimagine",
+      "home",
+      "We’ll",
+      "help",
+      "you",
+      "find",
+      "a",
+      "place",
+      "you’ll",
+      "love."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1729280,
+    "classList": [
+      "sc-108t4n2-0",
+      "sc-108t4n2-1",
+      "iZjyGM"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 185,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1158000,
+    "classList": [
+      "sc-17oo9i7-0",
+      "lgnmhF",
+      "cwvp5a-1",
+      "iUwcdM"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 965,
+      "width": 1200,
+      "x": 296,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 124,
+    "tag": "DIV",
+    "visibleText": [
+      "Reimagine",
+      "home",
+      "We’ll",
+      "help",
+      "you",
+      "find",
+      "a",
+      "place",
+      "you’ll",
+      "love."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1089744,
+    "classList": [
+      "sc-17oo9i7-0",
+      "tagoQ",
+      "ims7rz-1",
+      "kVDycv"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 933,
+      "width": 1168,
+      "x": 312,
+      "y": 16
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 125,
+    "tag": "DIV",
+    "visibleText": [
+      "Reimagine",
+      "home",
+      "We’ll",
+      "help",
+      "you",
+      "find",
+      "a",
+      "place",
+      "you’ll",
+      "love."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 150672,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 129,
+      "width": 1168,
+      "x": 312,
+      "y": 209
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 905,
+    "tag": "DIV",
+    "visibleText": [
+      "Reimagine",
+      "home",
+      "We’ll",
+      "help",
+      "you",
+      "find",
+      "a",
+      "place",
+      "you’ll",
+      "love."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 84096,
+    "classList": [
+      "Text-aiai24-0",
+      "StyledHeading-ktujwe-0",
+      "kGKFgG",
+      "sc-7bab5z-0",
+      "cIaKbN"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 72,
+      "width": 1168,
+      "x": 312,
+      "y": 209
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1622,
+    "tag": "H1",
+    "visibleText": [
+      "Reimagine",
+      "home"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 36432,
+    "classList": [
+      "Text-aiai24-0",
+      "StyledHeading-ktujwe-0",
+      "hpiEYY",
+      "sc-7bab5z-0",
+      "cIaKbN"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 33,
+      "width": 1104,
+      "x": 344,
+      "y": 305
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3345,
+    "tag": "H2",
+    "visibleText": [
+      "We’ll",
+      "help",
+      "you",
+      "find",
+      "a",
+      "place",
+      "you’ll",
+      "love."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 79424,
+    "classList": [],
+    "href": "",
+    "id": "search-bar",
+    "idxpath": "//*[@id='search-bar']",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 1168,
+      "x": 312,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1717,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 79424,
+    "classList": [
+      "sc-1dzx782-0",
+      "lmZLGo"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='search-bar']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 68,
+      "width": 1168,
+      "x": 312,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1717,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 49000,
+    "classList": [
+      "Flex-n94bjd-0",
+      "a1vt6p-0",
+      "etljVG"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='search-bar']/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 700,
+      "x": 546,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1000,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 46760,
+    "classList": [
+      "react-autosuggest__container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='search-bar']/div[1]/div[1]/form[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 668,
+      "x": 562,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 954,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 46760,
+    "classList": [
+      "StyledAdornedInput-sc-1kgphdl-0",
+      "innlGh",
+      "SearchBox-sc-6uapbf-0",
+      "sc-1kcx0vh-0",
+      "eZusZV"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='search-bar']/div[1]/div[1]/form[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 668,
+      "x": 562,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 954,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 42910,
+    "classList": [
+      "Input-sc-4ry0fw-0",
+      "jbZScm",
+      "react-autosuggest__input"
+    ],
+    "href": "",
+    "id": "search-box-input",
+    "idxpath": "//*[@id='search-box-input']",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 613,
+      "x": 562,
+      "y": 370
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 875,
+    "tag": "INPUT",
+    "visibleText": [
+      "Enter",
+      "an",
+      "address,",
+      "neighborhood,",
+      "city,",
+      "or",
+      "ZIP",
+      "code"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/input[1]"
+  },
+  {
+    "alt": "",
+    "area": 3850,
+    "classList": [
+      "StyledAdornment-sc-1kerx9v-0",
+      "StyledAdornmentRight-sc-1kerx9v-2",
+      "pHdgX"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='search-bar']/div[1]/div[1]/form[1]/div[1]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 70,
+      "width": 55,
+      "x": 1175,
+      "y": 370
+    },
+    "name": null,
+    "neighborText": [
+      "We’ll",
+      "help",
+      "you",
+      "find",
+      "a",
+      "place",
+      "you’ll",
+      "love.",
+      "Enter",
+      "an",
+      "address,",
+      "neighborhood,",
+      "city,",
+      "or",
+      "ZIP",
+      "code"
+    ],
+    "shape": 78,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 528,
+    "classList": [
+      "ajo662-1",
+      "bDYWJC"
+    ],
+    "href": "",
+    "id": "search-icon",
+    "idxpath": "//*[@id='search-icon']",
+    "isButton": true,
+    "location": {
+      "height": 24,
+      "width": 22,
+      "x": 1191,
+      "y": 393
+    },
+    "name": "",
+    "neighborText": [
+      "Enter",
+      "an",
+      "address,",
+      "neighborhood,",
+      "city,",
+      "or",
+      "ZIP",
+      "code"
+    ],
+    "shape": 91,
+    "tag": "BUTTON",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/span[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 484,
+    "classList": [
+      "Icon-sc-13llmml-0",
+      "dkEWIT",
+      "ajo662-0",
+      "lafvSm"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='search-icon']/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 22,
+      "width": 22,
+      "x": 1191,
+      "y": 393
+    },
+    "name": null,
+    "neighborText": [
+      "Enter",
+      "an",
+      "address,",
+      "neighborhood,",
+      "city,",
+      "or",
+      "ZIP",
+      "code"
+    ],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/span[1]/button[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 505344,
+    "classList": [
+      "sc-1gjebnj-1",
+      "btRIpw"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 282,
+      "width": 1792,
+      "x": 0,
+      "y": 965
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 635,
+    "tag": "DIV",
+    "visibleText": [
+      "We",
+      "have",
+      "the",
+      "most",
+      "listings",
+      "and",
+      "constant",
+      "updates.",
+      "So",
+      "you’ll",
+      "never",
+      "miss",
+      "out."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 184800,
+    "classList": [
+      "sc-17oo9i7-0",
+      "tagoQ",
+      "sc-1gjebnj-0",
+      "ipuKQb"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 154,
+      "width": 1200,
+      "x": 296,
+      "y": 997
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 779,
+    "tag": "DIV",
+    "visibleText": [
+      "We",
+      "have",
+      "the",
+      "most",
+      "listings",
+      "and",
+      "constant",
+      "updates.",
+      "So",
+      "you’ll",
+      "never",
+      "miss",
+      "out."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 64000,
+    "classList": [
+      "Text-aiai24-0",
+      "StyledHeading-ktujwe-0",
+      "gKdKMg",
+      "sc-10ww3i-1",
+      "RIfFE"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 800,
+      "x": 496,
+      "y": 997
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1000,
+    "tag": "H2",
+    "visibleText": [
+      "We",
+      "have",
+      "the",
+      "most",
+      "listings",
+      "and",
+      "constant",
+      "updates.",
+      "So",
+      "you’ll",
+      "never",
+      "miss",
+      "out."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 38553,
+    "classList": [
+      "sc-10ww3i-5",
+      "cYCkIH"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/h2[1]/span[2]",
+    "isButton": false,
+    "location": {
+      "height": 71,
+      "width": 543,
+      "x": 624,
+      "y": 1001
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 764,
+    "tag": "SPAN",
+    "visibleText": [
+      "We",
+      "have",
+      "the",
+      "most",
+      "listings",
+      "and",
+      "constant",
+      "updates.",
+      "So",
+      "you’ll",
+      "never",
+      "miss",
+      "out."
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/h2[1]/span[2]"
+  },
+  {
+    "alt": "",
+    "area": 280,
+    "classList": [
+      "sc-10ww3i-0",
+      "haiBtw"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 2,
+      "width": 140,
+      "x": 826,
+      "y": 1149
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 7000,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 197120,
+    "classList": [
+      "sc-10wuuzs-0",
+      "daWclX"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/main[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 110,
+      "width": 1792,
+      "x": 0,
+      "y": 1247
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1629,
+    "tag": "DIV",
+    "visibleText": [
+      "Real",
+      "Estate",
+      "Rentals",
+      "Mortgage",
+      "Rates",
+      "Browse",
+      "Homes"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 132000,
+    "classList": [
+      "Flex-n94bjd-0",
+      "sc-10wuuzs-1",
+      "EpPYV"
+    ],
+    "href": "",
+    "id": "region-footer-links",
+    "idxpath": "//*[@id='region-footer-links']",
+    "isButton": false,
+    "location": {
+      "height": 110,
+      "width": 1200,
+      "x": 296,
+      "y": 1247
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1090,
+    "tag": "DIV",
+    "visibleText": [
+      "Real",
+      "Estate",
+      "Rentals",
+      "Mortgage",
+      "Rates",
+      "Browse",
+      "Homes"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-10wuuzs-3",
+      "dzBzIU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 320,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "LI",
+    "visibleText": [
+      "Real",
+      "Estate"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-2wypaj-0",
+      "bOqbRP"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 320,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "DIV",
+    "visibleText": [
+      "Real",
+      "Estate"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7152,
+    "classList": [
+      "TextButton-n1gfmh-0",
+      "sc-11kispe-0",
+      "eSIbcF"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[1]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 48,
+      "width": 149,
+      "x": 389,
+      "y": 1278
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 310,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Real",
+      "Estate"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 1785,
+    "classList": [
+      "Text-aiai24-0",
+      "gcfmLm"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[1]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 85,
+      "x": 405,
+      "y": 1291
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 404,
+    "tag": "SPAN",
+    "visibleText": [
+      "Real",
+      "Estate"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[1]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-10wuuzs-3",
+      "dzBzIU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 608,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "LI",
+    "visibleText": [
+      "Rentals"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-2wypaj-0",
+      "bOqbRP"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 608,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "DIV",
+    "visibleText": [
+      "Rentals"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 5808,
+    "classList": [
+      "TextButton-n1gfmh-0",
+      "sc-11kispe-0",
+      "eSIbcF"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[2]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 48,
+      "width": 121,
+      "x": 691,
+      "y": 1278
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 252,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Rentals"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 1197,
+    "classList": [
+      "Text-aiai24-0",
+      "gcfmLm"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[2]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 57,
+      "x": 707,
+      "y": 1291
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 271,
+    "tag": "SPAN",
+    "visibleText": [
+      "Rentals"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[2]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-10wuuzs-3",
+      "dzBzIU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 896,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "LI",
+    "visibleText": [
+      "Mortgage",
+      "Rates"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-2wypaj-0",
+      "bOqbRP"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 896,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "DIV",
+    "visibleText": [
+      "Mortgage",
+      "Rates"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 8832,
+    "classList": [
+      "TextButton-n1gfmh-0",
+      "sc-11kispe-0",
+      "eSIbcF"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[3]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 48,
+      "width": 184,
+      "x": 947,
+      "y": 1278
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 383,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Mortgage",
+      "Rates"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[3]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 2520,
+    "classList": [
+      "Text-aiai24-0",
+      "gcfmLm"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[3]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 120,
+      "x": 963,
+      "y": 1291
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 571,
+    "tag": "SPAN",
+    "visibleText": [
+      "Mortgage",
+      "Rates"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[3]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-10wuuzs-3",
+      "dzBzIU"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 1184,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "LI",
+    "visibleText": [
+      "Browse",
+      "Homes"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 13824,
+    "classList": [
+      "sc-2wypaj-0",
+      "bOqbRP"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[4]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 288,
+      "x": 1184,
+      "y": 1278
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 600,
+    "tag": "DIV",
+    "visibleText": [
+      "Browse",
+      "Homes"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[4]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 8592,
+    "classList": [
+      "TextButton-n1gfmh-0",
+      "sc-11kispe-0",
+      "eSIbcF"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[4]/div[1]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 48,
+      "width": 179,
+      "x": 1238,
+      "y": 1278
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 372,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Browse",
+      "Homes"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[4]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 2415,
+    "classList": [
+      "Text-aiai24-0",
+      "gcfmLm"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='region-footer-links']/ul[1]/li[4]/div[1]/button[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 115,
+      "x": 1254,
+      "y": 1291
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 547,
+    "tag": "SPAN",
+    "visibleText": [
+      "Browse",
+      "Homes"
+    ],
+    "xpath": "/html[1]/body[1]/main[1]/div[3]/div[2]/ul[1]/li[4]/div[1]/button[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1141504,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 637,
+      "width": 1792,
+      "x": 0,
+      "y": 1357
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 281,
+    "tag": "DIV",
+    "visibleText": [
+      "About",
+      "Zestimates",
+      "Research",
+      "Careers",
+      "Help",
+      "Advertise",
+      "Fair",
+      "Housing",
+      "Guide",
+      "Terms",
+      "of",
+      "use",
+      "Privacy",
+      "Portal",
+      "Cookie",
+      "Preference",
+      "Blog",
+      "AI",
+      "Mobile",
+      "Apps",
+      "Trulia",
+      "StreetEasy",
+      "HotPads",
+      "Out",
+      "East",
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information",
+      "→",
+      "Zillow",
+      "Group",
+      "is",
+      "committed",
+      "to",
+      "ensuring",
+      "digital",
+      "accessibility",
+      "for",
+      "individuals",
+      "with",
+      "disabilities.",
+      "We",
+      "are",
+      "continuously",
+      "working",
+      "to",
+      "improve",
+      "the",
+      "accessibility",
+      "of",
+      "our",
+      "web",
+      "experience",
+      "for",
+      "everyone,",
+      "and",
+      "we",
+      "welcome",
+      "feedback",
+      "and",
+      "accommodation",
+      "requests.",
+      "If",
+      "you",
+      "wish",
+      "to",
+      "report",
+      "an",
+      "issue",
+      "or",
+      "seek",
+      "an",
+      "accommodation,",
+      "please",
+      "contact",
+      "us.",
+      "Zillow,",
+      "Inc.",
+      "has",
+      "a",
+      "real",
+      "estate",
+      "brokerage",
+      "license",
+      "in",
+      "multiple",
+      "states.",
+      "A",
+      "list",
+      "of",
+      "our",
+      "real",
+      "estate",
+      "licenses",
+      "is",
+      "available",
+      "here.",
+      "TREC:",
+      "Information",
+      "about",
+      "brokerage",
+      "services,",
+      "Consumer",
+      "protection",
+      "notice",
+      "California",
+      "DRE",
+      "#1522444",
+      "Follow",
+      "us:",
+      "Visit",
+      "us",
+      "on",
+      "facebook",
+      "Visit",
+      "us",
+      "on",
+      "twitter",
+      "©",
+      "2006-2020",
+      "Zillow",
+      "Equal",
+      "Housing",
+      "Opportunity"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 1141504,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 637,
+      "width": 1792,
+      "x": 0,
+      "y": 1357
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 281,
+    "tag": "DIV",
+    "visibleText": [
+      "About",
+      "Zestimates",
+      "Research",
+      "Careers",
+      "Help",
+      "Advertise",
+      "Fair",
+      "Housing",
+      "Guide",
+      "Terms",
+      "of",
+      "use",
+      "Privacy",
+      "Portal",
+      "Cookie",
+      "Preference",
+      "Blog",
+      "AI",
+      "Mobile",
+      "Apps",
+      "Trulia",
+      "StreetEasy",
+      "HotPads",
+      "Out",
+      "East",
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information",
+      "→",
+      "Zillow",
+      "Group",
+      "is",
+      "committed",
+      "to",
+      "ensuring",
+      "digital",
+      "accessibility",
+      "for",
+      "individuals",
+      "with",
+      "disabilities.",
+      "We",
+      "are",
+      "continuously",
+      "working",
+      "to",
+      "improve",
+      "the",
+      "accessibility",
+      "of",
+      "our",
+      "web",
+      "experience",
+      "for",
+      "everyone,",
+      "and",
+      "we",
+      "welcome",
+      "feedback",
+      "and",
+      "accommodation",
+      "requests.",
+      "If",
+      "you",
+      "wish",
+      "to",
+      "report",
+      "an",
+      "issue",
+      "or",
+      "seek",
+      "an",
+      "accommodation,",
+      "please",
+      "contact",
+      "us.",
+      "Zillow,",
+      "Inc.",
+      "has",
+      "a",
+      "real",
+      "estate",
+      "brokerage",
+      "license",
+      "in",
+      "multiple",
+      "states.",
+      "A",
+      "list",
+      "of",
+      "our",
+      "real",
+      "estate",
+      "licenses",
+      "is",
+      "available",
+      "here.",
+      "TREC:",
+      "Information",
+      "about",
+      "brokerage",
+      "services,",
+      "Consumer",
+      "protection",
+      "notice",
+      "California",
+      "DRE",
+      "#1522444",
+      "Follow",
+      "us:",
+      "Visit",
+      "us",
+      "on",
+      "facebook",
+      "Visit",
+      "us",
+      "on",
+      "twitter",
+      "©",
+      "2006-2020",
+      "Zillow",
+      "Equal",
+      "Housing",
+      "Opportunity"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 184320,
+    "classList": [
+      "pfs__cacbnh-0",
+      "diOWNM"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 144,
+      "width": 1280,
+      "x": 256,
+      "y": 1357
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 888,
+    "tag": "DIV",
+    "visibleText": [
+      "About",
+      "Zestimates",
+      "Research",
+      "Careers",
+      "Help",
+      "Advertise",
+      "Fair",
+      "Housing",
+      "Guide",
+      "Terms",
+      "of",
+      "use",
+      "Privacy",
+      "Portal",
+      "Cookie",
+      "Preference",
+      "Blog",
+      "AI",
+      "Mobile",
+      "Apps",
+      "Trulia",
+      "StreetEasy",
+      "HotPads",
+      "Out",
+      "East",
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information",
+      "→"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1080,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 36,
+      "x": 380,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 120,
+    "tag": "LI",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1080,
+    "classList": [],
+    "href": "https://www.zillow.com/corp/About.htm",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 36,
+      "x": 380,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 120,
+    "tag": "A",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1980,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 66,
+      "x": 437,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 220,
+    "tag": "LI",
+    "visibleText": [
+      "Zestimates"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1980,
+    "classList": [],
+    "href": "https://www.zillow.com/zestimate/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 66,
+      "x": 437,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 220,
+    "tag": "A",
+    "visibleText": [
+      "Zestimates"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1650,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 55,
+      "x": 523,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 183,
+    "tag": "LI",
+    "visibleText": [
+      "Research"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1650,
+    "classList": [],
+    "href": "https://www.zillow.com/research/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 55,
+      "x": 523,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 183,
+    "tag": "A",
+    "visibleText": [
+      "Research"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1380,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 46,
+      "x": 598,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 153,
+    "tag": "LI",
+    "visibleText": [
+      "Careers"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1380,
+    "classList": [],
+    "href": "https://www.zillow.com/careers/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 46,
+      "x": 598,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 153,
+    "tag": "A",
+    "visibleText": [
+      "Careers"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 840,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 28,
+      "x": 665,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 93,
+    "tag": "LI",
+    "visibleText": [
+      "Help"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 840,
+    "classList": [],
+    "href": "https://zillow.zendesk.com/hc/en-us",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 28,
+      "x": 665,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 93,
+    "tag": "A",
+    "visibleText": [
+      "Help"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 56,
+      "x": 713,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 186,
+    "tag": "LI",
+    "visibleText": [
+      "Advertise"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [],
+    "href": "https://www.zillow.com/marketing/advertise/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 56,
+      "x": 713,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 186,
+    "tag": "A",
+    "visibleText": [
+      "Advertise"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3450,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 115,
+      "x": 790,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 383,
+    "tag": "LI",
+    "visibleText": [
+      "Fair",
+      "Housing",
+      "Guide"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 3450,
+    "classList": [],
+    "href": "https://www.zillow.com/rental-manager/resources/fair-housing-guide/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 115,
+      "x": 790,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 383,
+    "tag": "A",
+    "visibleText": [
+      "Fair",
+      "Housing",
+      "Guide"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[7]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2340,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 78,
+      "x": 925,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 260,
+    "tag": "LI",
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 2340,
+    "classList": [],
+    "href": "https://www.zillow.com/corp/Terms.htm",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 78,
+      "x": 925,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 260,
+    "tag": "A",
+    "visibleText": [
+      "Terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2460,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 82,
+      "x": 1024,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 273,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy",
+      "Portal"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[9]"
+  },
+  {
+    "alt": "",
+    "area": 2460,
+    "classList": [],
+    "href": "https://privacy.zillowgroup.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 82,
+      "x": 1024,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 273,
+    "tag": "A",
+    "visibleText": [
+      "Privacy",
+      "Portal"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[9]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3300,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 110,
+      "x": 1126,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 366,
+    "tag": "LI",
+    "visibleText": [
+      "Cookie",
+      "Preference"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[10]"
+  },
+  {
+    "alt": "",
+    "area": 3300,
+    "classList": [
+      "cookie-preference"
+    ],
+    "href": "javascript:;",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[10]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 110,
+      "x": 1126,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 366,
+    "tag": "A",
+    "visibleText": [
+      "Cookie",
+      "Preference"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[10]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 780,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 26,
+      "x": 1257,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 86,
+    "tag": "LI",
+    "visibleText": [
+      "Blog"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[11]"
+  },
+  {
+    "alt": "",
+    "area": 780,
+    "classList": [],
+    "href": "https://www.zillow.com/blog/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[11]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 26,
+      "x": 1257,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 86,
+    "tag": "A",
+    "visibleText": [
+      "Blog"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[11]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 330,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 11,
+      "x": 1304,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 36,
+    "tag": "LI",
+    "visibleText": [
+      "AI"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[12]"
+  },
+  {
+    "alt": "",
+    "area": 330,
+    "classList": [],
+    "href": "https://www.zillow.com/tech/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[12]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 11,
+      "x": 1304,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 36,
+    "tag": "A",
+    "visibleText": [
+      "AI"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[12]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2250,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[13]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 75,
+      "x": 1336,
+      "y": 1382
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 250,
+    "tag": "LI",
+    "visibleText": [
+      "Mobile",
+      "Apps"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[13]"
+  },
+  {
+    "alt": "",
+    "area": 2250,
+    "classList": [],
+    "href": "https://www.zillow.com/mobile/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[13]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 75,
+      "x": 1336,
+      "y": 1382
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 250,
+    "tag": "A",
+    "visibleText": [
+      "Mobile",
+      "Apps"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/li[13]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1020,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 34,
+      "x": 765,
+      "y": 1412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 113,
+    "tag": "LI",
+    "visibleText": [
+      "Trulia"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1020,
+    "classList": [],
+    "href": "https://www.trulia.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 34,
+      "x": 765,
+      "y": 1412
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 113,
+    "tag": "A",
+    "visibleText": [
+      "Trulia"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1890,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 63,
+      "x": 820,
+      "y": 1412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 210,
+    "tag": "LI",
+    "visibleText": [
+      "StreetEasy"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1890,
+    "classList": [],
+    "href": "https://streeteasy.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 63,
+      "x": 820,
+      "y": 1412
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 210,
+    "tag": "A",
+    "visibleText": [
+      "StreetEasy"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1530,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 51,
+      "x": 903,
+      "y": 1412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 170,
+    "tag": "LI",
+    "visibleText": [
+      "HotPads"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1530,
+    "classList": [],
+    "href": "https://hotpads.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 51,
+      "x": 903,
+      "y": 1412
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 170,
+    "tag": "A",
+    "visibleText": [
+      "HotPads"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1530,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 51,
+      "x": 974,
+      "y": 1412
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 170,
+    "tag": "LI",
+    "visibleText": [
+      "Out",
+      "East"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1530,
+    "classList": [],
+    "href": "https://outeast.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 30,
+      "width": 51,
+      "x": 974,
+      "y": 1412
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 170,
+    "tag": "A",
+    "visibleText": [
+      "Out",
+      "East"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/ul[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 24320,
+    "classList": [
+      "pfs__sc-16y5ofh-0",
+      "JECno"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 1280,
+      "x": 256,
+      "y": 1457
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 6736,
+    "tag": "DIV",
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information",
+      "→"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 4266,
+    "classList": [],
+    "href": "https://privacy.zillowgroup.com/cookie",
+    "id": "doNotSell",
+    "idxpath": "//*[@id='doNotSell']",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 237,
+      "x": 777,
+      "y": 1457
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 1316,
+    "tag": "A",
+    "visibleText": [
+      "Do",
+      "Not",
+      "Sell",
+      "My",
+      "Personal",
+      "Information",
+      "→"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 288,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='doNotSell']/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 16,
+      "x": 998,
+      "y": 1457
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 88,
+    "tag": "SPAN",
+    "visibleText": [
+      "→"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[1]/nav[1]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 404480,
+    "classList": [
+      "pfs__wsq7ni-0",
+      "epVqVE"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 316,
+      "width": 1280,
+      "x": 256,
+      "y": 1501
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 405,
+    "tag": "DIV",
+    "visibleText": [
+      "Zillow",
+      "Group",
+      "is",
+      "committed",
+      "to",
+      "ensuring",
+      "digital",
+      "accessibility",
+      "for",
+      "individuals",
+      "with",
+      "disabilities.",
+      "We",
+      "are",
+      "continuously",
+      "working",
+      "to",
+      "improve",
+      "the",
+      "accessibility",
+      "of",
+      "our",
+      "web",
+      "experience",
+      "for",
+      "everyone,",
+      "and",
+      "we",
+      "welcome",
+      "feedback",
+      "and",
+      "accommodation",
+      "requests.",
+      "If",
+      "you",
+      "wish",
+      "to",
+      "report",
+      "an",
+      "issue",
+      "or",
+      "seek",
+      "an",
+      "accommodation,",
+      "please",
+      "contact",
+      "us.",
+      "Zillow,",
+      "Inc.",
+      "has",
+      "a",
+      "real",
+      "estate",
+      "brokerage",
+      "license",
+      "in",
+      "multiple",
+      "states.",
+      "A",
+      "list",
+      "of",
+      "our",
+      "real",
+      "estate",
+      "licenses",
+      "is",
+      "available",
+      "here.",
+      "TREC:",
+      "Information",
+      "about",
+      "brokerage",
+      "services,",
+      "Consumer",
+      "protection",
+      "notice",
+      "California",
+      "DRE",
+      "#1522444",
+      "Follow",
+      "us:",
+      "Visit",
+      "us",
+      "on",
+      "facebook",
+      "Visit",
+      "us",
+      "on",
+      "twitter",
+      "©",
+      "2006-2020",
+      "Zillow",
+      "Equal",
+      "Housing",
+      "Opportunity"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 32400,
+    "classList": [
+      "pfs__sc-1sj5qgb-0",
+      "fTWZnB"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 720,
+      "x": 536,
+      "y": 1525
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1600,
+    "tag": "DIV",
+    "visibleText": [
+      "Zillow",
+      "Group",
+      "is",
+      "committed",
+      "to",
+      "ensuring",
+      "digital",
+      "accessibility",
+      "for",
+      "individuals",
+      "with",
+      "disabilities.",
+      "We",
+      "are",
+      "continuously",
+      "working",
+      "to",
+      "improve",
+      "the",
+      "accessibility",
+      "of",
+      "our",
+      "web",
+      "experience",
+      "for",
+      "everyone,",
+      "and",
+      "we",
+      "welcome",
+      "feedback",
+      "and",
+      "accommodation",
+      "requests.",
+      "If",
+      "you",
+      "wish",
+      "to",
+      "report",
+      "an",
+      "issue",
+      "or",
+      "seek",
+      "an",
+      "accommodation,",
+      "please",
+      "contact",
+      "us."
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 912,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "eckaZc"
+    ],
+    "href": "https://zillow.zendesk.com/hc/en-us/requests/new?ticket_form_id=39140",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 57,
+      "x": 1029,
+      "y": 1554
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 356,
+    "tag": "A",
+    "visibleText": [
+      "contact",
+      "us"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 32400,
+    "classList": [
+      "pfs__sc-1sj5qgb-0",
+      "fTWZnB"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 720,
+      "x": 536,
+      "y": 1594
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1600,
+    "tag": "DIV",
+    "visibleText": [
+      "Zillow,",
+      "Inc.",
+      "has",
+      "a",
+      "real",
+      "estate",
+      "brokerage",
+      "license",
+      "in",
+      "multiple",
+      "states.",
+      "A",
+      "list",
+      "of",
+      "our",
+      "real",
+      "estate",
+      "licenses",
+      "is",
+      "available",
+      "here.",
+      "TREC:",
+      "Information",
+      "about",
+      "brokerage",
+      "services,",
+      "Consumer",
+      "protection",
+      "notice",
+      "California",
+      "DRE",
+      "#1522444"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "eckaZc"
+    ],
+    "href": "https://www.zillow.com/info/real-estate-licenses/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 25,
+      "x": 1181,
+      "y": 1593
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 156,
+    "tag": "A",
+    "visibleText": [
+      "here"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3360,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "eckaZc"
+    ],
+    "href": "https://www.trec.texas.gov/sites/default/files/pdf-forms/IABS%201-0.pdf",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 210,
+      "x": 726,
+      "y": 1608
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 1312,
+    "tag": "A",
+    "visibleText": [
+      "Information",
+      "about",
+      "brokerage",
+      "services"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 2496,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "eckaZc"
+    ],
+    "href": "https://www.trec.texas.gov/sites/default/files/pdf-forms/CN%201-2.pdf",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[3]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 156,
+      "x": 943,
+      "y": 1608
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 975,
+    "tag": "A",
+    "visibleText": [
+      "Consumer",
+      "protection",
+      "notice"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[3]"
+  },
+  {
+    "alt": "",
+    "area": 3552,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 37,
+      "width": 96,
+      "x": 794,
+      "y": 1663
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 259,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1920,
+    "classList": [],
+    "href": "http://zillow.com/z/buying/app-download?itc=zw_zw_zw_zillow-footer_btn_ios-download",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 96,
+      "x": 794,
+      "y": 1679
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 480,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3072,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[1]/a[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 96,
+      "x": 794,
+      "y": 1663
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 300,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[1]/a[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 3996,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 37,
+      "width": 108,
+      "x": 898,
+      "y": 1663
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 291,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 2160,
+    "classList": [],
+    "href": "http://zillow.com/z/buying/app-download?itc=zw_zw_zw_zillow-footer_btn_android-download",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 108,
+      "x": 898,
+      "y": 1679
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 540,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3456,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[2]/a[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 108,
+      "x": 898,
+      "y": 1663
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 337,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[1]/li[2]/a[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 4864,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 152,
+      "x": 674,
+      "y": 1731
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 475,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 4864,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__j60ma-0",
+      "jLGUcv",
+      "znav-topnav-logo"
+    ],
+    "href": "https://www.zillow.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 152,
+      "x": 674,
+      "y": 1731
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 475,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4864,
+    "classList": [
+      "StyledZillowLogo-sc-18erp45-0",
+      "cxXsAq",
+      "pfs__j60ma-1",
+      "eCEnCc"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[1]/a[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 152,
+      "x": 674,
+      "y": 1731
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 475,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[1]/a[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 6075,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 135,
+      "x": 834,
+      "y": 1725
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 300,
+    "tag": "LI",
+    "visibleText": [
+      "Follow",
+      "us:",
+      "Visit",
+      "us",
+      "on",
+      "facebook",
+      "Visit",
+      "us",
+      "on",
+      "twitter"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 6075,
+    "classList": [
+      "pfs__sc-1l86zl0-0",
+      "fXxFYE"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 45,
+      "width": 135,
+      "x": 834,
+      "y": 1725
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 300,
+    "tag": "DIV",
+    "visibleText": [
+      "Follow",
+      "us:",
+      "Visit",
+      "us",
+      "on",
+      "facebook",
+      "Visit",
+      "us",
+      "on",
+      "twitter"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 880,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 55,
+      "x": 834,
+      "y": 1739
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 343,
+    "tag": "SPAN",
+    "visibleText": [
+      "Follow",
+      "us:"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 512,
+    "classList": [],
+    "href": "http://www.facebook.com/Zillow",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 32,
+      "x": 897,
+      "y": 1739
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 200,
+    "tag": "A",
+    "visibleText": [
+      "Visit",
+      "us",
+      "on",
+      "facebook"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 512,
+    "classList": [
+      "pfs__tgmoyx-0",
+      "eeFcCq"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 32,
+      "x": 897,
+      "y": 1739
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 200,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1024,
+    "classList": [
+      "Icon-sc-13llmml-0",
+      "bUlNGv"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]/span[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 32,
+      "x": 897,
+      "y": 1725
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]/span[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "VisuallyHidden-t8tewe-0",
+      "fyUmOz"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 833,
+      "y": 1769
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Visit",
+      "us",
+      "on",
+      "facebook"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 512,
+    "classList": [],
+    "href": "http://twitter.com/zillow",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 32,
+      "x": 937,
+      "y": 1739
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 200,
+    "tag": "A",
+    "visibleText": [
+      "Visit",
+      "us",
+      "on",
+      "twitter"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 512,
+    "classList": [
+      "pfs__tgmoyx-0",
+      "kaSVVj"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 32,
+      "x": 937,
+      "y": 1739
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 200,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1024,
+    "classList": [
+      "Icon-sc-13llmml-0",
+      "bUlNGv"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]/span[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 32,
+      "x": 937,
+      "y": 1725
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]/span[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "VisuallyHidden-t8tewe-0",
+      "fyUmOz"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 833,
+      "y": 1769
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Visit",
+      "us",
+      "on",
+      "twitter"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[2]/div[1]/a[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1926,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 107,
+      "x": 977,
+      "y": 1738
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 594,
+    "tag": "LI",
+    "visibleText": [
+      "©",
+      "2006-2020",
+      "Zillow"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 1024,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 32,
+      "x": 1093,
+      "y": 1731
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      "Equal",
+      "Housing",
+      "Opportunity"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 512,
+    "classList": [
+      "Anchor-hn4bge-0",
+      "pfs__x86ldc-0",
+      "jvyEiZ"
+    ],
+    "href": "https://www.hud.gov/program_offices/fair_housing_equal_opp",
+    "id": "eho-link",
+    "idxpath": "//*[@id='eho-link']",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 32,
+      "x": 1093,
+      "y": 1732
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 200,
+    "tag": "A",
+    "visibleText": [
+      "Equal",
+      "Housing",
+      "Opportunity"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1024,
+    "classList": [
+      "Icon-sc-13llmml-0",
+      "bUlNGv"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='eho-link']/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 32,
+      "x": 1093,
+      "y": 1731
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[4]/a[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 1,
+    "classList": [
+      "VisuallyHidden-t8tewe-0",
+      "fyUmOz"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='eho-link']/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 1,
+      "width": 1,
+      "x": 1092,
+      "y": 1762
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      "Equal",
+      "Housing",
+      "Opportunity"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/ul[2]/li[4]/a[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 225280,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 176,
+      "width": 1280,
+      "x": 256,
+      "y": 1818
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 727,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 217600,
+    "classList": [
+      "footer-image"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[3]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 170,
+      "width": 1280,
+      "x": 256,
+      "y": 1818
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 752,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[3]/*[local-name() = 'svg'][1]"
+  }
+]

@@ -1,0 +1,2714 @@
+[
+  {
+    "alt": "",
+    "area": 2438912,
+    "classList": [
+      "wrap"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 1361,
+      "width": 1792,
+      "x": 0,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 131,
+    "tag": "DIV",
+    "visibleText": [
+      "SKIP",
+      "TO",
+      "CONTENT",
+      "Spotify",
+      "Premium",
+      "Support",
+      "Download",
+      "Sign",
+      "up",
+      "Log",
+      "in",
+      "SPOTIFY",
+      "PREMIUM",
+      "Get",
+      "3",
+      "months",
+      "of",
+      "Premium",
+      "for",
+      "free",
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime.",
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE",
+      "Individual",
+      "plan",
+      "only.",
+      "Only",
+      "$9.99/month",
+      "after.",
+      "Offer",
+      "not",
+      "available",
+      "to",
+      "users",
+      "who",
+      "already",
+      "tried",
+      "Premium.",
+      "Terms",
+      "and",
+      "conditions",
+      "apply.",
+      "Offer",
+      "ends",
+      "Dec",
+      "31,",
+      "2020.",
+      "SPOTIFY",
+      "FREE",
+      "Listening",
+      "is",
+      "everything",
+      "Millions",
+      "of",
+      "songs",
+      "and",
+      "podcasts.",
+      "No",
+      "credit",
+      "card",
+      "needed.",
+      "GET",
+      "SPOTIFY",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 3072,
+    "classList": [
+      "mh-skip-link",
+      "svelte-r3xe8j"
+    ],
+    "href": "https://www.spotify.com/us/#start-of-content",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 96,
+      "x": 16,
+      "y": 16
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 300,
+    "tag": "A",
+    "visibleText": [
+      "SKIP",
+      "TO",
+      "CONTENT"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 93600,
+    "classList": [
+      "mh-container",
+      "svelte-r3xe8j"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 1170,
+      "x": 311,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1462,
+    "tag": "DIV",
+    "visibleText": [
+      "Spotify",
+      "Premium",
+      "Support",
+      "Download",
+      "Sign",
+      "up",
+      "Log",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 7920,
+    "classList": [
+      "mh-brand-wrapper",
+      "svelte-r3xe8j"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 132,
+      "x": 326,
+      "y": 20
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 220,
+    "tag": "DIV",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 5280,
+    "classList": [
+      "mh-header-primary",
+      "svelte-18o1xvt"
+    ],
+    "href": "https://www.spotify.com/us/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 132,
+      "x": 326,
+      "y": 20
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 330,
+    "tag": "A",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5280,
+    "classList": [
+      "mh-header-primary",
+      "svelte-1gcdbl9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 132,
+      "x": 326,
+      "y": 20
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 330,
+    "tag": "SPAN",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 5412,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]/a[1]/span[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 132,
+      "x": 326,
+      "y": 20
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 321,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/div[1]/a[1]/span[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 8000,
+    "classList": [
+      "svelte-vf0pv9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 100,
+      "x": 973,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Premium",
+      "Support"
+    ],
+    "shape": 125,
+    "tag": "LI",
+    "visibleText": [
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 8000,
+    "classList": [
+      "mh-header-primary",
+      "svelte-vf0pv9"
+    ],
+    "href": "https://www.spotify.com/us/premium/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 100,
+      "x": 973,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Support"
+    ],
+    "shape": 125,
+    "tag": "A",
+    "visibleText": [
+      "Premium"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7520,
+    "classList": [
+      "svelte-vf0pv9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 94,
+      "x": 1074,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Support",
+      "Download",
+      "Premium"
+    ],
+    "shape": 117,
+    "tag": "LI",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 7520,
+    "classList": [
+      "mh-header-primary",
+      "svelte-vf0pv9"
+    ],
+    "href": "https://support.spotify.com/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 94,
+      "x": 1074,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Download",
+      "Premium"
+    ],
+    "shape": 117,
+    "tag": "A",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 8720,
+    "classList": [
+      "svelte-vf0pv9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 109,
+      "x": 1168,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Download",
+      "Sign",
+      "up",
+      "Support"
+    ],
+    "shape": 136,
+    "tag": "LI",
+    "visibleText": [
+      "Download"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 8720,
+    "classList": [
+      "mh-header-primary",
+      "svelte-vf0pv9"
+    ],
+    "href": "https://www.spotify.com/us/download/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 109,
+      "x": 1168,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "up",
+      "Support"
+    ],
+    "shape": 136,
+    "tag": "A",
+    "visibleText": [
+      "Download"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 16,
+    "classList": [
+      "mh-header-primary",
+      "svelte-1i2hclv"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 1,
+      "x": 1295,
+      "y": 32
+    },
+    "name": null,
+    "neighborText": [
+      "Download",
+      "Sign",
+      "up"
+    ],
+    "shape": 6,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 7120,
+    "classList": [
+      "svelte-vf0pv9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 89,
+      "x": 1313,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Sign",
+      "up",
+      "Log",
+      "in",
+      "Download"
+    ],
+    "shape": 111,
+    "tag": "LI",
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 7120,
+    "classList": [
+      "mh-header-secondary",
+      "mh-tier-2",
+      "svelte-vf0pv9"
+    ],
+    "href": "https://www.spotify.com/us/signup/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 89,
+      "x": 1313,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Log",
+      "in",
+      "Download"
+    ],
+    "shape": 111,
+    "tag": "A",
+    "visibleText": [
+      "Sign",
+      "up"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4960,
+    "classList": [
+      "svelte-vf0pv9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 62,
+      "x": 1403,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Log",
+      "in",
+      "Sign",
+      "up"
+    ],
+    "shape": 77,
+    "tag": "LI",
+    "visibleText": [
+      "Log",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 4960,
+    "classList": [
+      "mh-header-secondary",
+      "mh-tier-2",
+      "svelte-vf0pv9"
+    ],
+    "href": "https://www.spotify.com/login/?continue=https://www.spotify.com/api/growth/l2l-redirect",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 80,
+      "width": 62,
+      "x": 1403,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "Sign",
+      "up"
+    ],
+    "shape": 77,
+    "tag": "A",
+    "visibleText": [
+      "Log",
+      "in"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/header[1]/div[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1209600,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/section[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 675,
+      "width": 1792,
+      "x": 0,
+      "y": 80
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 265,
+    "tag": "DIV",
+    "visibleText": [
+      "SPOTIFY",
+      "PREMIUM",
+      "Get",
+      "3",
+      "months",
+      "of",
+      "Premium",
+      "for",
+      "free",
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime.",
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE",
+      "Individual",
+      "plan",
+      "only.",
+      "Only",
+      "$9.99/month",
+      "after.",
+      "Offer",
+      "not",
+      "available",
+      "to",
+      "users",
+      "who",
+      "already",
+      "tried",
+      "Premium.",
+      "Terms",
+      "and",
+      "conditions",
+      "apply.",
+      "Offer",
+      "ends",
+      "Dec",
+      "31,",
+      "2020."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 261760,
+    "classList": [
+      "sc-fzplgP",
+      "bHmBtJ"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 409,
+      "width": 640,
+      "x": 326,
+      "y": 160
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 156,
+    "tag": "DIV",
+    "visibleText": [
+      "SPOTIFY",
+      "PREMIUM",
+      "Get",
+      "3",
+      "months",
+      "of",
+      "Premium",
+      "for",
+      "free",
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime.",
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE",
+      "Individual",
+      "plan",
+      "only.",
+      "Only",
+      "$9.99/month",
+      "after.",
+      "Offer",
+      "not",
+      "available",
+      "to",
+      "users",
+      "who",
+      "already",
+      "tried",
+      "Premium.",
+      "Terms",
+      "and",
+      "conditions",
+      "apply.",
+      "Offer",
+      "ends",
+      "Dec",
+      "31,",
+      "2020."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 9344,
+    "classList": [
+      "sc-fzqOul",
+      "kYKazV"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/p[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 584,
+      "x": 326,
+      "y": 174
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 3650,
+    "tag": "P",
+    "visibleText": [
+      "SPOTIFY",
+      "PREMIUM"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/p[1]"
+  },
+  {
+    "alt": "",
+    "area": 74752,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 128,
+      "width": 584,
+      "x": 326,
+      "y": 222
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 456,
+    "tag": "DIV",
+    "visibleText": [
+      "Get",
+      "3",
+      "months",
+      "of",
+      "Premium",
+      "for",
+      "free"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 74752,
+    "classList": [
+      "Type__TypeElement-sc-9snywk-0",
+      "iiNLPi",
+      "sc-fznOgF",
+      "glfmCu"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[1]/h1[1]",
+    "isButton": false,
+    "location": {
+      "height": 128,
+      "width": 584,
+      "x": 326,
+      "y": 222
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 456,
+    "tag": "H1",
+    "visibleText": [
+      "Get",
+      "3",
+      "months",
+      "of",
+      "Premium",
+      "for",
+      "free"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[1]/h1[1]"
+  },
+  {
+    "alt": "",
+    "area": 23360,
+    "classList": [
+      "subheader"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 584,
+      "x": 326,
+      "y": 350
+    },
+    "name": null,
+    "neighborText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE"
+    ],
+    "shape": 1460,
+    "tag": "DIV",
+    "visibleText": [
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 14016,
+    "classList": [
+      "Type__TypeElement-sc-9snywk-0",
+      "iiNLPi",
+      "sc-fznYue",
+      "fRiAQw"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[2]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 584,
+      "x": 326,
+      "y": 366
+    },
+    "name": null,
+    "neighborText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE"
+    ],
+    "shape": 2433,
+    "tag": "H2",
+    "visibleText": [
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[2]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 28032,
+    "classList": [
+      "sc-fzppAM",
+      "vTcAG"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 584,
+      "x": 326,
+      "y": 425
+    },
+    "name": null,
+    "neighborText": [
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime.",
+      "Individual",
+      "plan",
+      "only.",
+      "Only",
+      "$9.99/month",
+      "after.",
+      "Offer",
+      "not",
+      "available",
+      "to",
+      "users",
+      "who",
+      "already",
+      "tried",
+      "Premium.",
+      "Terms",
+      "and",
+      "conditions",
+      "apply.",
+      "Offer",
+      "ends",
+      "Dec",
+      "31,",
+      "2020."
+    ],
+    "shape": 1216,
+    "tag": "DIV",
+    "visibleText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 13248,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[3]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 48,
+      "width": 276,
+      "x": 326,
+      "y": 425
+    },
+    "name": null,
+    "neighborText": [
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime.",
+      "Individual",
+      "plan",
+      "only.",
+      "Only",
+      "$9.99/month",
+      "after.",
+      "Offer",
+      "not",
+      "available",
+      "to",
+      "users",
+      "who",
+      "already",
+      "tried",
+      "Premium.",
+      "Terms",
+      "and",
+      "conditions",
+      "apply.",
+      "Offer",
+      "ends",
+      "Dec",
+      "31,",
+      "2020."
+    ],
+    "shape": 575,
+    "tag": "DIV",
+    "visibleText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[3]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 13248,
+    "classList": [
+      "Button-oyfj48-0",
+      "DnfxB",
+      "sc-fzoLsD",
+      "kkqvoX"
+    ],
+    "href": "https://www.spotify.com/purchase/offer/holiday-2020-trial-3m",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[3]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 48,
+      "width": 276,
+      "x": 326,
+      "y": 425
+    },
+    "name": "",
+    "neighborText": [
+      "Enjoy",
+      "ad-free",
+      "music,",
+      "offline",
+      "listening,",
+      "and",
+      "more.",
+      "Cancel",
+      "anytime.",
+      "Individual",
+      "plan",
+      "only.",
+      "Only",
+      "$9.99/month",
+      "after.",
+      "Offer",
+      "not",
+      "available",
+      "to",
+      "users",
+      "who",
+      "already",
+      "tried",
+      "Premium.",
+      "Terms",
+      "and",
+      "conditions",
+      "apply.",
+      "Offer",
+      "ends",
+      "Dec",
+      "31,",
+      "2020."
+    ],
+    "shape": 575,
+    "tag": "A",
+    "visibleText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[3]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2880,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/div[3]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 180,
+      "x": 374,
+      "y": 441
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1125,
+    "tag": "SPAN",
+    "visibleText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/div[3]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 18688,
+    "classList": [
+      "sc-fzqzEs",
+      "eVQcHf"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/footer[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 32,
+      "width": 584,
+      "x": 326,
+      "y": 505
+    },
+    "name": null,
+    "neighborText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE",
+      "Terms",
+      "and",
+      "conditions",
+      "apply"
+    ],
+    "shape": 1825,
+    "tag": "DIV",
+    "visibleText": [
+      "Individual",
+      "plan",
+      "only.",
+      "Only",
+      "$9.99/month",
+      "after.",
+      "Offer",
+      "not",
+      "available",
+      "to",
+      "users",
+      "who",
+      "already",
+      "tried",
+      "Premium.",
+      "Terms",
+      "and",
+      "conditions",
+      "apply.",
+      "Offer",
+      "ends",
+      "Dec",
+      "31,",
+      "2020."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/footer[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 3180,
+    "classList": [],
+    "href": "https://www.spotify.com/legal/premium-promotional-offer-terms",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[1]/footer[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 20,
+      "width": 159,
+      "x": 384,
+      "y": 518
+    },
+    "name": "",
+    "neighborText": [
+      "GET",
+      "3",
+      "MONTHS",
+      "FREE"
+    ],
+    "shape": 795,
+    "tag": "A",
+    "visibleText": [
+      "Terms",
+      "and",
+      "conditions",
+      "apply"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[1]/footer[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 266000,
+    "classList": [
+      "sc-fznBtT",
+      "ccaska"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 532,
+      "width": 500,
+      "x": 966,
+      "y": 160
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 93,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 250000,
+    "classList": [
+      "sc-fznzqM",
+      "jQnPIU"
+    ],
+    "href": "",
+    "id": "HERO2020-0",
+    "idxpath": "//*[@id='HERO2020-0']/article[1]/header[1]/div[2]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 500,
+      "width": 500,
+      "x": 966,
+      "y": 176
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/section[1]/div[1]/main[1]/section[1]/article[1]/header[1]/div[2]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1085952,
+    "classList": [
+      "takeover"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 606,
+      "width": 1792,
+      "x": 0,
+      "y": 755
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 295,
+    "tag": "DIV",
+    "visibleText": [
+      "SPOTIFY",
+      "FREE",
+      "Listening",
+      "is",
+      "everything",
+      "Millions",
+      "of",
+      "songs",
+      "and",
+      "podcasts.",
+      "No",
+      "credit",
+      "card",
+      "needed.",
+      "GET",
+      "SPOTIFY",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 581400,
+    "classList": [
+      "max-width-container"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 510,
+      "width": 1140,
+      "x": 326,
+      "y": 827
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 223,
+    "tag": "DIV",
+    "visibleText": [
+      "SPOTIFY",
+      "FREE",
+      "Listening",
+      "is",
+      "everything",
+      "Millions",
+      "of",
+      "songs",
+      "and",
+      "podcasts.",
+      "No",
+      "credit",
+      "card",
+      "needed.",
+      "GET",
+      "SPOTIFY",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 346320,
+    "classList": [
+      "col-full"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 312,
+      "width": 1110,
+      "x": 341,
+      "y": 827
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 355,
+    "tag": "DIV",
+    "visibleText": [
+      "SPOTIFY",
+      "FREE",
+      "Listening",
+      "is",
+      "everything",
+      "Millions",
+      "of",
+      "songs",
+      "and",
+      "podcasts.",
+      "No",
+      "credit",
+      "card",
+      "needed.",
+      "GET",
+      "SPOTIFY",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 1760,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 110,
+      "x": 341,
+      "y": 827
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 687,
+    "tag": "H2",
+    "visibleText": [
+      "SPOTIFY",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 65536,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/h4[1]",
+    "isButton": false,
+    "location": {
+      "height": 128,
+      "width": 512,
+      "x": 341,
+      "y": 875
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 400,
+    "tag": "H4",
+    "visibleText": [
+      "Listening",
+      "is",
+      "everything"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/h4[1]"
+  },
+  {
+    "alt": "",
+    "area": 10656,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/h3[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 444,
+      "x": 341,
+      "y": 1035
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 1850,
+    "tag": "H3",
+    "visibleText": [
+      "Millions",
+      "of",
+      "songs",
+      "and",
+      "podcasts.",
+      "No",
+      "credit",
+      "card",
+      "needed."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/h3[1]"
+  },
+  {
+    "alt": "",
+    "area": 12096,
+    "classList": [
+      "btn",
+      "btn-green"
+    ],
+    "href": "https://www.spotify.com/us/download/",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/a[1]",
+    "isButton": true,
+    "location": {
+      "height": 48,
+      "width": 252,
+      "x": 341,
+      "y": 1091
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 525,
+    "tag": "A",
+    "visibleText": [
+      "GET",
+      "SPOTIFY",
+      "FREE"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[2]/section[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 962304,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "/html[1]/body[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 537,
+      "width": 1792,
+      "x": 0,
+      "y": 1361
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 333,
+    "tag": "DIV",
+    "visibleText": [
+      "Spotify",
+      "COMPANY",
+      "About",
+      "Jobs",
+      "For",
+      "the",
+      "Record",
+      "COMMUNITIES",
+      "For",
+      "Artists",
+      "Developers",
+      "Advertising",
+      "Investors",
+      "Vendors",
+      "USEFUL",
+      "LINKS",
+      "Support",
+      "Web",
+      "Player",
+      "Free",
+      "Mobile",
+      "App",
+      "2020",
+      "Wrapped",
+      "USA",
+      "Legal",
+      "Privacy",
+      "Center",
+      "Privacy",
+      "Policy",
+      "Cookies",
+      "About",
+      "Ads",
+      "Additional",
+      "CA",
+      "Privacy",
+      "Disclosures",
+      "©",
+      "2020",
+      "Spotify",
+      "AB"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 67470,
+    "classList": [
+      "mh-brand",
+      "svelte-x6lds3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[1]",
+    "isButton": false,
+    "location": {
+      "height": 346,
+      "width": 195,
+      "x": 311,
+      "y": 1441
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 56,
+    "tag": "DIV",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[1]"
+  },
+  {
+    "alt": "",
+    "area": 5280,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-18o1xvt"
+    ],
+    "href": "https://www.spotify.com/us/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 132,
+      "x": 326,
+      "y": 1441
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 330,
+    "tag": "A",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5280,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-1gcdbl9"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 132,
+      "x": 326,
+      "y": 1441
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 330,
+    "tag": "SPAN",
+    "visibleText": [
+      "Spotify"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 5412,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[1]/a[1]/span[1]/*[local-name() = 'svg'][1]",
+    "isButton": false,
+    "location": {
+      "height": 41,
+      "width": 132,
+      "x": 326,
+      "y": 1441
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 321,
+    "tag": "svg",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[1]/a[1]/span[1]/*[local-name() = 'svg'][1]"
+  },
+  {
+    "alt": "",
+    "area": 202410,
+    "classList": [
+      "mh-top-links",
+      "svelte-x6lds3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]",
+    "isButton": false,
+    "location": {
+      "height": 346,
+      "width": 585,
+      "x": 506,
+      "y": 1441
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 169,
+    "tag": "DIV",
+    "visibleText": [
+      "COMPANY",
+      "About",
+      "Jobs",
+      "For",
+      "the",
+      "Record",
+      "COMMUNITIES",
+      "For",
+      "Artists",
+      "Developers",
+      "Advertising",
+      "Investors",
+      "Vendors",
+      "USEFUL",
+      "LINKS",
+      "Support",
+      "Web",
+      "Player",
+      "Free",
+      "Mobile",
+      "App",
+      "2020",
+      "Wrapped"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 1848,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://www.spotify.com/us/about-us/contact/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[1]/dd[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 44,
+      "x": 521,
+      "y": 1498
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 104,
+    "tag": "A",
+    "visibleText": [
+      "About"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[1]/dd[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1428,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://www.spotifyjobs.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[1]/dd[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 34,
+      "x": 521,
+      "y": 1540
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 80,
+    "tag": "A",
+    "visibleText": [
+      "Jobs"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[1]/dd[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4410,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://newsroom.spotify.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[1]/dd[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 105,
+      "x": 521,
+      "y": 1582
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 250,
+    "tag": "A",
+    "visibleText": [
+      "For",
+      "the",
+      "Record"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[1]/dd[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3066,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://artists.spotify.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[2]/dd[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 73,
+      "x": 716,
+      "y": 1498
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 173,
+    "tag": "A",
+    "visibleText": [
+      "For",
+      "Artists"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[2]/dd[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3402,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://developer.spotify.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[2]/dd[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 81,
+      "x": 716,
+      "y": 1540
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 192,
+    "tag": "A",
+    "visibleText": [
+      "Developers"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[2]/dd[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3444,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://ads.spotify.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[2]/dd[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 82,
+      "x": 716,
+      "y": 1582
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 195,
+    "tag": "A",
+    "visibleText": [
+      "Advertising"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[2]/dd[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2730,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://investors.spotify.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[2]/dd[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 65,
+      "x": 716,
+      "y": 1624
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 154,
+    "tag": "A",
+    "visibleText": [
+      "Investors"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[2]/dd[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2478,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://spotifyforvendors.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[2]/dd[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 59,
+      "x": 716,
+      "y": 1666
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 140,
+    "tag": "A",
+    "visibleText": [
+      "Vendors"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[2]/dd[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2394,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://support.spotify.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[3]/dd[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 57,
+      "x": 911,
+      "y": 1498
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 135,
+    "tag": "A",
+    "visibleText": [
+      "Support"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[3]/dd[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3444,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://open.spotify.com/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[3]/dd[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 82,
+      "x": 911,
+      "y": 1540
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 195,
+    "tag": "A",
+    "visibleText": [
+      "Web",
+      "Player"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[3]/dd[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5040,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://www.spotify.com/us/free/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[3]/dd[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 120,
+      "x": 911,
+      "y": 1582
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 285,
+    "tag": "A",
+    "visibleText": [
+      "Free",
+      "Mobile",
+      "App"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[3]/dd[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4662,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-12h6dnj"
+    ],
+    "href": "https://www.spotify.com/us/wrapped/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[2]/dl[3]/dd[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 42,
+      "width": 111,
+      "x": 911,
+      "y": 1624
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 264,
+    "tag": "A",
+    "visibleText": [
+      "2020",
+      "Wrapped"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[2]/dl[3]/dd[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 66432,
+    "classList": [
+      "mh-social-icons",
+      "svelte-x6lds3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]",
+    "isButton": false,
+    "location": {
+      "height": 346,
+      "width": 192,
+      "x": 1274,
+      "y": 1441
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 55,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]"
+  },
+  {
+    "alt": "",
+    "area": 2916,
+    "classList": [
+      "svelte-1ad7r0v"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 54,
+      "x": 1274,
+      "y": 1461
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 2916,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-1ad7r0v"
+    ],
+    "href": "https://instagram.com/spotify",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 54,
+      "x": 1274,
+      "y": 1461
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 100,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "mh-social-icon-instagram",
+      "svelte-1ad7r0v"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1289,
+      "y": 1476
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 2916,
+    "classList": [
+      "svelte-1ad7r0v"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 54,
+      "x": 1343,
+      "y": 1461
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 2916,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-1ad7r0v"
+    ],
+    "href": "https://twitter.com/spotify",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 54,
+      "x": 1343,
+      "y": 1461
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 100,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "mh-social-icon-twitter",
+      "svelte-1ad7r0v"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1358,
+      "y": 1476
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 2916,
+    "classList": [
+      "svelte-1ad7r0v"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 54,
+      "x": 1412,
+      "y": 1461
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "LI",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 2916,
+    "classList": [
+      "mh-footer-primary",
+      "svelte-1ad7r0v"
+    ],
+    "href": "https://www.facebook.com/Spotify",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 54,
+      "width": 54,
+      "x": 1412,
+      "y": 1461
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 100,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 576,
+    "classList": [
+      "mh-social-icon-facebook",
+      "svelte-1ad7r0v"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[3]/ul[1]/li[3]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 24,
+      "x": 1427,
+      "y": 1476
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 100,
+    "tag": "SPAN",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[3]/ul[1]/li[3]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 20520,
+    "classList": [
+      "mh-country",
+      "svelte-x6lds3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[4]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 1140,
+      "x": 326,
+      "y": 1787
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 6333,
+    "tag": "DIV",
+    "visibleText": [
+      "USA"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 1026,
+    "classList": [
+      "mh-footer-secondary",
+      "mh-compact",
+      "svelte-1ouzkfx"
+    ],
+    "href": "https://www.spotify.com/us/select-your-market/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 57,
+      "x": 1408,
+      "y": 1787
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 316,
+    "tag": "A",
+    "visibleText": [
+      "USA"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 50310,
+    "classList": [
+      "mh-bottom-links",
+      "svelte-x6lds3"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 1170,
+      "x": 311,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 2720,
+    "tag": "DIV",
+    "visibleText": [
+      "Legal",
+      "Privacy",
+      "Center",
+      "Privacy",
+      "Policy",
+      "Cookies",
+      "About",
+      "Ads",
+      "Additional",
+      "CA",
+      "Privacy",
+      "Disclosures",
+      "©",
+      "2020",
+      "Spotify",
+      "AB"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]"
+  },
+  {
+    "alt": "",
+    "area": 1247,
+    "classList": [
+      "svelte-19l7cif"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 29,
+      "x": 326,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 67,
+    "tag": "LI",
+    "visibleText": [
+      "Legal"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1247,
+    "classList": [
+      "mh-footer-secondary",
+      "svelte-1ouzkfx"
+    ],
+    "href": "https://www.spotify.com/us/legal/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 29,
+      "x": 326,
+      "y": 1805
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 67,
+    "tag": "A",
+    "visibleText": [
+      "Legal"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3397,
+    "classList": [
+      "svelte-19l7cif"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 79,
+      "x": 379,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 183,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 3397,
+    "classList": [
+      "mh-footer-secondary",
+      "svelte-1ouzkfx"
+    ],
+    "href": "https://www.spotify.com/us/privacy/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 79,
+      "x": 379,
+      "y": 1805
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 183,
+    "tag": "A",
+    "visibleText": [
+      "Privacy",
+      "Center"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3182,
+    "classList": [
+      "svelte-19l7cif"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 74,
+      "x": 482,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 172,
+    "tag": "LI",
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 3182,
+    "classList": [
+      "mh-footer-secondary",
+      "svelte-1ouzkfx"
+    ],
+    "href": "https://www.spotify.com/us/legal/privacy-policy/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 74,
+      "x": 482,
+      "y": 1805
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 172,
+    "tag": "A",
+    "visibleText": [
+      "Privacy",
+      "Policy"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1892,
+    "classList": [
+      "svelte-19l7cif"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 44,
+      "x": 581,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 102,
+    "tag": "LI",
+    "visibleText": [
+      "Cookies"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1892,
+    "classList": [
+      "mh-footer-secondary",
+      "svelte-1ouzkfx"
+    ],
+    "href": "https://www.spotify.com/us/legal/cookies-policy/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 44,
+      "x": 581,
+      "y": 1805
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 102,
+    "tag": "A",
+    "visibleText": [
+      "Cookies"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2451,
+    "classList": [
+      "svelte-19l7cif"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 57,
+      "x": 649,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 132,
+    "tag": "LI",
+    "visibleText": [
+      "About",
+      "Ads"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 2451,
+    "classList": [
+      "mh-footer-secondary",
+      "svelte-1ouzkfx"
+    ],
+    "href": "https://www.spotify.com/us/legal/privacy-policy/#s3",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 57,
+      "x": 649,
+      "y": 1805
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 132,
+    "tag": "A",
+    "visibleText": [
+      "About",
+      "Ads"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 7826,
+    "classList": [
+      "svelte-19l7cif"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 182,
+      "x": 730,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 423,
+    "tag": "LI",
+    "visibleText": [
+      "Additional",
+      "CA",
+      "Privacy",
+      "Disclosures"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 7826,
+    "classList": [
+      "mh-footer-secondary",
+      "svelte-1ouzkfx"
+    ],
+    "href": "https://www.spotify.com/us/legal/California-privacy-disclosure/",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 182,
+      "x": 730,
+      "y": 1805
+    },
+    "name": "",
+    "neighborText": [],
+    "shape": 423,
+    "tag": "A",
+    "visibleText": [
+      "Additional",
+      "CA",
+      "Privacy",
+      "Disclosures"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 4386,
+    "classList": [
+      "svelte-1so9ic8"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='mh-footer']/nav[1]/div[5]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 43,
+      "width": 102,
+      "x": 1363,
+      "y": 1805
+    },
+    "name": null,
+    "neighborText": [],
+    "shape": 237,
+    "tag": "SPAN",
+    "visibleText": [
+      "©",
+      "2020",
+      "Spotify",
+      "AB"
+    ],
+    "xpath": "/html[1]/body[1]/div[3]/footer[1]/nav[1]/div[5]/span[1]"
+  }
+]

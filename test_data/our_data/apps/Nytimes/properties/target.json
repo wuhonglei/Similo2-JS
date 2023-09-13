@@ -1,0 +1,973 @@
+[
+  {
+    "alt": "",
+    "area": 24940,
+    "classList": [
+      "css-118ydgp",
+      "e1d5eg6m0"
+    ],
+    "href": "https://www.nytimes.com/",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 58,
+      "width": 430,
+      "x": 681,
+      "y": 41
+    },
+    "name": "",
+    "neighborText": [
+      "SECTIONS",
+      "SEARCH",
+      "SKIP",
+      "TO",
+      "CONTENT",
+      "SKIP",
+      "TO",
+      "SITE",
+      "INDEX",
+      "ENGLISHESPAÑOL中文",
+      "(CHINESE)",
+      "LOG",
+      "IN",
+      "World",
+      "U.S.",
+      "Politics",
+      "N.Y.",
+      "Business",
+      "Opinion",
+      "Tech",
+      "Science",
+      "Health",
+      "Sports",
+      "Arts",
+      "Books",
+      "Style",
+      "Food",
+      "Travel",
+      "Magazine",
+      "T",
+      "Magazine",
+      "Real",
+      "Estate",
+      "Video"
+    ],
+    "shape": 741,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[1]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 936,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 39,
+      "x": 356,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "World",
+      "U.S.",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94"
+    ],
+    "shape": 162,
+    "tag": "LI",
+    "visibleText": [
+      "World"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 1008,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[10]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 42,
+      "x": 853,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Sports",
+      "Arts",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Health"
+    ],
+    "shape": 175,
+    "tag": "LI",
+    "visibleText": [
+      "Sports"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[10]"
+  },
+  {
+    "alt": "",
+    "area": 696,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[11]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 29,
+      "x": 909,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Arts",
+      "Books",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Sports"
+    ],
+    "shape": 120,
+    "tag": "LI",
+    "visibleText": [
+      "Arts"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[11]"
+  },
+  {
+    "alt": "",
+    "area": 984,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[12]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 41,
+      "x": 952,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Books",
+      "Style",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Arts"
+    ],
+    "shape": 170,
+    "tag": "LI",
+    "visibleText": [
+      "Books"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[12]"
+  },
+  {
+    "alt": "",
+    "area": 816,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[13]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 34,
+      "x": 1006,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Style",
+      "Food",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Books"
+    ],
+    "shape": 141,
+    "tag": "LI",
+    "visibleText": [
+      "Style"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[13]"
+  },
+  {
+    "alt": "",
+    "area": 840,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[14]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 35,
+      "x": 1054,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Food",
+      "Travel",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Style"
+    ],
+    "shape": 145,
+    "tag": "LI",
+    "visibleText": [
+      "Food"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[14]"
+  },
+  {
+    "alt": "",
+    "area": 960,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[15]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 40,
+      "x": 1103,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Travel",
+      "Magazine",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Food"
+    ],
+    "shape": 166,
+    "tag": "LI",
+    "visibleText": [
+      "Travel"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[15]"
+  },
+  {
+    "alt": "",
+    "area": 1440,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[16]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 60,
+      "x": 1157,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Magazine",
+      "T",
+      "Magazine",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Travel"
+    ],
+    "shape": 250,
+    "tag": "LI",
+    "visibleText": [
+      "Magazine"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[16]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[17]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 70,
+      "x": 1230,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "T",
+      "Magazine",
+      "Real",
+      "Estate",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Magazine"
+    ],
+    "shape": 291,
+    "tag": "LI",
+    "visibleText": [
+      "T",
+      "Magazine"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[17]"
+  },
+  {
+    "alt": "",
+    "area": 1680,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[18]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 70,
+      "x": 1314,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Today’s",
+      "Paper",
+      "Real",
+      "Estate",
+      "Video",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "T",
+      "Magazine"
+    ],
+    "shape": 291,
+    "tag": "LI",
+    "visibleText": [
+      "Real",
+      "Estate"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[18]"
+  },
+  {
+    "alt": "",
+    "area": 912,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[19]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 38,
+      "x": 1397,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Today’s",
+      "Paper",
+      "Video",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Real",
+      "Estate"
+    ],
+    "shape": 158,
+    "tag": "LI",
+    "visibleText": [
+      "Video"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[19]"
+  },
+  {
+    "alt": "",
+    "area": 744,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[2]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 31,
+      "x": 408,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "U.S.",
+      "Politics",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "World"
+    ],
+    "shape": 129,
+    "tag": "LI",
+    "visibleText": [
+      "U.S."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[2]"
+  },
+  {
+    "alt": "",
+    "area": 1992,
+    "classList": [
+      "css-2bwtzy"
+    ],
+    "href": "https://www.nytimes.com/section/todayspaper",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[2]/div[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 83,
+      "x": 1412,
+      "y": 74
+    },
+    "name": "",
+    "neighborText": [
+      "ENGLISHESPAÑOL中文",
+      "(CHINESE)",
+      "SECTIONS",
+      "SEARCH",
+      "SKIP",
+      "TO",
+      "CONTENT",
+      "SKIP",
+      "TO",
+      "SITE",
+      "INDEX",
+      "ENGLISHESPAÑOL中文",
+      "(CHINESE)",
+      "LOG",
+      "IN",
+      "World",
+      "U.S.",
+      "Politics",
+      "N.Y.",
+      "Business",
+      "Opinion",
+      "Tech",
+      "Science",
+      "Health",
+      "Sports",
+      "Arts",
+      "Books",
+      "Style",
+      "Food",
+      "Travel",
+      "Magazine",
+      "T",
+      "Magazine",
+      "Real",
+      "Estate",
+      "Video"
+    ],
+    "shape": 345,
+    "tag": "A",
+    "visibleText": [
+      "Today’s",
+      "Paper"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/section[2]/div[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1122,
+    "classList": [
+      "css-19lv58h",
+      "em5m38e2"
+    ],
+    "href": "",
+    "id": "desktop-sections-button",
+    "idxpath": "//*[@id='desktop-sections-button']",
+    "isButton": true,
+    "location": {
+      "height": 33,
+      "width": 34,
+      "x": 296,
+      "y": 12
+    },
+    "name": "",
+    "neighborText": [
+      "SEARCH"
+    ],
+    "shape": 103,
+    "tag": "BUTTON",
+    "visibleText": [
+      "SECTIONS"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/section[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 1122,
+    "classList": [
+      "css-mgtjo2",
+      "e1f9nlu40"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]",
+    "isButton": true,
+    "location": {
+      "height": 33,
+      "width": 34,
+      "x": 338,
+      "y": 12
+    },
+    "name": "",
+    "neighborText": [
+      "ENGLISHESPAÑOL中文",
+      "(CHINESE)",
+      "SECTIONS"
+    ],
+    "shape": 103,
+    "tag": "BUTTON",
+    "visibleText": [
+      "SEARCH"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/section[1]/div[1]/div[2]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 1104,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[3]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 46,
+      "x": 452,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Politics",
+      "N.Y.",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "U.S."
+    ],
+    "shape": 191,
+    "tag": "LI",
+    "visibleText": [
+      "Politics"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[3]"
+  },
+  {
+    "alt": "",
+    "area": 696,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[4]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 29,
+      "x": 512,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "N.Y.",
+      "Business",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Politics"
+    ],
+    "shape": 120,
+    "tag": "LI",
+    "visibleText": [
+      "N.Y."
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[4]"
+  },
+  {
+    "alt": "",
+    "area": 1344,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[5]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 56,
+      "x": 555,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Business",
+      "Opinion",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "N.Y."
+    ],
+    "shape": 233,
+    "tag": "LI",
+    "visibleText": [
+      "Business"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[5]"
+  },
+  {
+    "alt": "",
+    "area": 1176,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[6]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 49,
+      "x": 624,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Opinion",
+      "Tech",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Business"
+    ],
+    "shape": 204,
+    "tag": "LI",
+    "visibleText": [
+      "Opinion"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[6]"
+  },
+  {
+    "alt": "",
+    "area": 792,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[7]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 33,
+      "x": 687,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Tech",
+      "Science",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Opinion"
+    ],
+    "shape": 137,
+    "tag": "LI",
+    "visibleText": [
+      "Tech"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[7]"
+  },
+  {
+    "alt": "",
+    "area": 1200,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[8]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 50,
+      "x": 734,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Science",
+      "Health",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Tech"
+    ],
+    "shape": 208,
+    "tag": "LI",
+    "visibleText": [
+      "Science"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[8]"
+  },
+  {
+    "alt": "",
+    "area": 1008,
+    "classList": [
+      "css-cwdrld"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]",
+    "isButton": false,
+    "location": {
+      "height": 24,
+      "width": 42,
+      "x": 797,
+      "y": 127
+    },
+    "name": null,
+    "neighborText": [
+      "Health",
+      "Sports",
+      "George",
+      "H.W.",
+      "Bush,",
+      "Who",
+      "Steered",
+      "Nation",
+      "Through",
+      "Turbulent",
+      "Era,",
+      "Dies",
+      "at",
+      "94",
+      "Science"
+    ],
+    "shape": 175,
+    "tag": "LI",
+    "visibleText": [
+      "Health"
+    ],
+    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]/div[4]/ul[1]/li[9]"
+  }
+]

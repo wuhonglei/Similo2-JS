@@ -1,0 +1,2013 @@
+[
+  {
+    "alt": "",
+    "area": 4407,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/sites",
+    "id": "",
+    "idxpath": "//*[@id='logo']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 39,
+      "width": 113,
+      "x": 448,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "post",
+      "to",
+      "classifieds",
+      "post",
+      "to",
+      "classifieds",
+      "my",
+      "account"
+    ],
+    "shape": 289,
+    "tag": "A",
+    "visibleText": [
+      "craigslist"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/div[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 5040,
+    "classList": [],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='topban']/h2[1]",
+    "isButton": false,
+    "location": {
+      "height": 40,
+      "width": 126,
+      "x": 754,
+      "y": 17
+    },
+    "name": null,
+    "neighborText": [
+      "w",
+      "sfc",
+      "community",
+      "housing"
+    ],
+    "shape": 315,
+    "tag": "H2",
+    "visibleText": [
+      "SF",
+      "bay",
+      "areaw"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/h2[1]"
+  },
+  {
+    "alt": "",
+    "area": 3129,
+    "classList": [
+      "querybox",
+      "flatinput",
+      "ui-autocomplete-input",
+      "ui-autocomplete-loading",
+      "updating-results"
+    ],
+    "href": "",
+    "id": "query",
+    "idxpath": "//*[@id='query']",
+    "isButton": false,
+    "location": {
+      "height": 21,
+      "width": 149,
+      "x": 430,
+      "y": 149
+    },
+    "name": "query",
+    "neighborText": [
+      "my",
+      "account",
+      "search",
+      "craigslist",
+      "event",
+      "calendar",
+      "M",
+      "T",
+      "W",
+      "F",
+      "S"
+    ],
+    "shape": 709,
+    "tag": "INPUT",
+    "visibleText": [
+      "getNeighborText"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/form[1]/input[2]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/help/",
+    "id": "",
+    "idxpath": "//*[@id='user_resources']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 329
+    },
+    "name": "",
+    "neighborText": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "strictly",
+      "platonic",
+      "women",
+      "seek",
+      "women",
+      "women",
+      "seeking",
+      "men",
+      "men",
+      "seeking",
+      "women",
+      "men",
+      "seeking",
+      "men",
+      "avoid",
+      "scams",
+      "&",
+      "fraud",
+      "personal",
+      "safety",
+      "tips",
+      "misc",
+      "romance",
+      "casual",
+      "encounters"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "help,",
+      "faq,",
+      "abuse,",
+      "legal"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/scams",
+    "id": "",
+    "idxpath": "//*[@id='user_resources']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 352
+    },
+    "name": "",
+    "neighborText": [
+      "help,",
+      "faq,",
+      "abuse,",
+      "legal",
+      "women",
+      "seek",
+      "women",
+      "women",
+      "seeking",
+      "men",
+      "men",
+      "seeking",
+      "women",
+      "men",
+      "seeking",
+      "men",
+      "misc",
+      "romance",
+      "personal",
+      "safety",
+      "tips",
+      "terms",
+      "of",
+      "use",
+      "casual",
+      "encounters",
+      "missed",
+      "connections",
+      "rants",
+      "and",
+      "raves"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "avoid",
+      "scams",
+      "&",
+      "fraud"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/safety",
+    "id": "",
+    "idxpath": "//*[@id='user_resources']/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 376
+    },
+    "name": "",
+    "neighborText": [
+      "help,",
+      "faq,",
+      "abuse,",
+      "legal",
+      "avoid",
+      "scams",
+      "&",
+      "fraud",
+      "men",
+      "seeking",
+      "women",
+      "men",
+      "seeking",
+      "men",
+      "misc",
+      "romance",
+      "casual",
+      "encounters",
+      "terms",
+      "of",
+      "use",
+      "privacy",
+      "policy",
+      "missed",
+      "connections",
+      "rants",
+      "and",
+      "raves"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "personal",
+      "safety",
+      "tips"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/terms.of.use",
+    "id": "",
+    "idxpath": "//*[@id='user_resources']/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 399
+    },
+    "name": "",
+    "neighborText": [
+      "help,",
+      "faq,",
+      "abuse,",
+      "legal",
+      "avoid",
+      "scams",
+      "&",
+      "fraud",
+      "personal",
+      "safety",
+      "tips",
+      "men",
+      "seeking",
+      "men",
+      "misc",
+      "romance",
+      "casual",
+      "encounters",
+      "missed",
+      "connections",
+      "rants",
+      "and",
+      "raves",
+      "privacy",
+      "policy",
+      "system",
+      "status",
+      "discussion",
+      "forums"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "terms",
+      "of",
+      "use"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/privacy.policy",
+    "id": "",
+    "idxpath": "//*[@id='user_resources']/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 423
+    },
+    "name": "",
+    "neighborText": [
+      "avoid",
+      "scams",
+      "&",
+      "fraud",
+      "personal",
+      "safety",
+      "tips",
+      "terms",
+      "of",
+      "use",
+      "misc",
+      "romance",
+      "casual",
+      "encounters",
+      "missed",
+      "connections",
+      "rants",
+      "and",
+      "raves",
+      "system",
+      "status",
+      "discussion",
+      "forums",
+      "apple"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "privacy",
+      "policy"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/help/system-status",
+    "id": "",
+    "idxpath": "//*[@id='user_resources']/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 446
+    },
+    "name": "",
+    "neighborText": [
+      "personal",
+      "safety",
+      "tips",
+      "terms",
+      "of",
+      "use",
+      "privacy",
+      "policy",
+      "missed",
+      "connections",
+      "rants",
+      "and",
+      "raves",
+      "discussion",
+      "forums",
+      "about",
+      "craigslist",
+      "apple",
+      "arts",
+      "atheist"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "system",
+      "status"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/",
+    "id": "",
+    "idxpath": "//*[@id='about_craigslist']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 496
+    },
+    "name": "",
+    "neighborText": [
+      "system",
+      "status",
+      "discussion",
+      "forums",
+      "apple",
+      "arts",
+      "atheist",
+      "craigslist",
+      "is",
+      "hiring",
+      "in",
+      "sf",
+      "craigslist",
+      "open",
+      "source",
+      "autos",
+      "beauty",
+      "bikes"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "about",
+      "craigslist"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://blog.craigslist.org/",
+    "id": "",
+    "idxpath": "//*[@id='about_craigslist']/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 567
+    },
+    "name": "",
+    "neighborText": [
+      "about",
+      "craigslist",
+      "craigslist",
+      "is",
+      "hiring",
+      "in",
+      "sf",
+      "craigslist",
+      "open",
+      "source",
+      "autos",
+      "beauty",
+      "bikes",
+      "celebs",
+      "best-of-craigslist",
+      "craigslist",
+      "TV",
+      "comp",
+      "crafts",
+      "diet"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "craigslist",
+      "blog"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/open_source",
+    "id": "",
+    "idxpath": "//*[@id='about_craigslist']/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 543
+    },
+    "name": "",
+    "neighborText": [
+      "about",
+      "craigslist",
+      "craigslist",
+      "is",
+      "hiring",
+      "in",
+      "sf",
+      "arts",
+      "atheist",
+      "autos",
+      "beauty",
+      "bikes",
+      "craigslist",
+      "blog",
+      "best-of-craigslist",
+      "celebs",
+      "comp",
+      "crafts"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "craigslist",
+      "open",
+      "source"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 195,
+    "classList": [],
+    "href": "http://sfbay.craigslist.org/sfc/",
+    "id": "",
+    "idxpath": "//*[@id='topban']/ul[1]/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 15,
+      "x": 901,
+      "y": 30
+    },
+    "name": "",
+    "neighborText": [
+      "SF",
+      "bay",
+      "areaw",
+      "sby",
+      "housing"
+    ],
+    "shape": 115,
+    "tag": "A",
+    "visibleText": [
+      "sfc"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.craigslist.org/about/best/all",
+    "id": "",
+    "idxpath": "//*[@id='about_craigslist']/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 590
+    },
+    "name": "",
+    "neighborText": [
+      "craigslist",
+      "is",
+      "hiring",
+      "in",
+      "sf",
+      "craigslist",
+      "open",
+      "source",
+      "craigslist",
+      "blog",
+      "beauty",
+      "bikes",
+      "celebs",
+      "comp",
+      "crafts",
+      "craigslist",
+      "TV",
+      "\"craigslist",
+      "joe\"",
+      "diet",
+      "divorce",
+      "dying"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "best-of-craigslist"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3724,
+    "classList": [],
+    "href": "http://www.bapd.org/",
+    "id": "",
+    "idxpath": "//*[@id='about_craigslist']/li[9]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 196,
+      "x": 407,
+      "y": 684
+    },
+    "name": "",
+    "neighborText": [
+      "craigslist",
+      "TV",
+      "\"craigslist",
+      "joe\"",
+      "craig",
+      "connects",
+      "divorce",
+      "dying",
+      "eco",
+      "educ",
+      "feedbk",
+      "weather",
+      "quake",
+      "tide",
+      "film",
+      "fitness",
+      "fixit"
+    ],
+    "shape": 1031,
+    "tag": "A",
+    "visibleText": [
+      "progressive",
+      "directory"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[9]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 855,
+    "classList": [],
+    "href": "http://www.crh.noaa.gov/forecasts/CAZ006.php",
+    "id": "",
+    "idxpath": "//*[@id='sflinks']/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 57,
+      "x": 433,
+      "y": 721
+    },
+    "name": "",
+    "neighborText": [
+      "craig",
+      "connects",
+      "progressive",
+      "directory",
+      "quake"
+    ],
+    "shape": 380,
+    "tag": "A",
+    "visibleText": [
+      "weather"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 690,
+    "classList": [],
+    "href": "http://earthquake.usgs.gov/earthquakes/map/",
+    "id": "",
+    "idxpath": "//*[@id='sflinks']/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 46,
+      "x": 494,
+      "y": 721
+    },
+    "name": "",
+    "neighborText": [
+      "craig",
+      "connects",
+      "progressive",
+      "directory",
+      "tide",
+      "weather"
+    ],
+    "shape": 306,
+    "tag": "A",
+    "visibleText": [
+      "quake"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 465,
+    "classList": [],
+    "href": "http://tidesonline.nos.noaa.gov/plotcomp.shtml?station_info=9414290+San+Francisco,+CA",
+    "id": "",
+    "idxpath": "//*[@id='sflinks']/a[3]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 31,
+      "x": 544,
+      "y": 721
+    },
+    "name": "",
+    "neighborText": [
+      "craig",
+      "connects",
+      "progressive",
+      "directory",
+      "quake"
+    ],
+    "shape": 206,
+    "tag": "A",
+    "visibleText": [
+      "tide"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[3]"
+  },
+  {
+    "alt": "",
+    "area": 3420,
+    "classList": [
+      "ccc"
+    ],
+    "href": "http://sfbay.craigslist.org/search/ccc",
+    "id": "",
+    "idxpath": "//*[@id='ccc']/h4[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 190,
+      "x": 628,
+      "y": 81
+    },
+    "name": "",
+    "neighborText": [
+      "craigslist",
+      "SF",
+      "bay",
+      "areaw",
+      "sfc",
+      "sby",
+      "eby",
+      "pen",
+      "nby",
+      "scz",
+      "housing",
+      "my",
+      "account",
+      "search",
+      "craigslist",
+      "activities",
+      "artists",
+      "community",
+      "local",
+      "news",
+      "lost+found",
+      "apts",
+      "/",
+      "housing",
+      "housing",
+      "swap",
+      "post",
+      "to",
+      "classifieds"
+    ],
+    "shape": 1055,
+    "tag": "A",
+    "visibleText": [
+      "community"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/h4[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3852,
+    "classList": [
+      "hhh"
+    ],
+    "href": "http://sfbay.craigslist.org/search/hhh",
+    "id": "",
+    "idxpath": "//*[@id='hhh']/h4[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 214,
+      "x": 853,
+      "y": 81
+    },
+    "name": "",
+    "neighborText": [
+      "SF",
+      "bay",
+      "areaw",
+      "SF",
+      "bay",
+      "areaw",
+      "sfc",
+      "sby",
+      "eby",
+      "pen",
+      "nby",
+      "scz",
+      "jobs",
+      "community",
+      "apts",
+      "/",
+      "housing",
+      "housing",
+      "swap",
+      "housing",
+      "accounting+finance",
+      "admin",
+      "/",
+      "office"
+    ],
+    "shape": 1188,
+    "tag": "A",
+    "visibleText": [
+      "housing"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/h4[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2214,
+    "classList": [
+      "jjj"
+    ],
+    "href": "http://sfbay.craigslist.org/search/jjj",
+    "id": "",
+    "idxpath": "//*[@id='jjj']/h4[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 123,
+      "x": 1102,
+      "y": 81
+    },
+    "name": "",
+    "neighborText": [
+      "nby",
+      "SF",
+      "bay",
+      "areaw",
+      "sfc",
+      "sby",
+      "eby",
+      "pen",
+      "nby",
+      "scz",
+      "afrikaans",
+      "català",
+      "dansk",
+      "deutsch",
+      "english",
+      "español",
+      "filipino",
+      "français",
+      "italiano",
+      "nederlands",
+      "norsk",
+      "português",
+      "suomi",
+      "svenska",
+      "türkçe",
+      "nearby",
+      "cl",
+      "bakersfield",
+      "housing",
+      "apts",
+      "/",
+      "housing",
+      "housing",
+      "swap",
+      "accounting+finance",
+      "admin",
+      "/",
+      "office",
+      "jobs",
+      "chico",
+      "fresno",
+      "gold",
+      "country"
+    ],
+    "shape": 683,
+    "tag": "A",
+    "visibleText": [
+      "jobs"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/h4[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3852,
+    "classList": [
+      "sss"
+    ],
+    "href": "http://sfbay.craigslist.org/search/sss",
+    "id": "",
+    "idxpath": "//*[@id='sss']/h4[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 214,
+      "x": 853,
+      "y": 297
+    },
+    "name": "",
+    "neighborText": [
+      "personals",
+      "strictly",
+      "platonic",
+      "women",
+      "seek",
+      "women",
+      "sublets",
+      "/",
+      "temporary",
+      "vacation",
+      "rentals",
+      "food",
+      "/",
+      "bev",
+      "/",
+      "hosp",
+      "general",
+      "labor",
+      "government",
+      "human",
+      "resources",
+      "women",
+      "seeking",
+      "men",
+      "men",
+      "seeking",
+      "women",
+      "men",
+      "seeking",
+      "men",
+      "antiques",
+      "appliances",
+      "farm+garden",
+      "free",
+      "internet",
+      "engineers",
+      "legal",
+      "/",
+      "paralegal",
+      "manufacturing"
+    ],
+    "shape": 1188,
+    "tag": "A",
+    "visibleText": [
+      "for",
+      "sale"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/h4[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 3420,
+    "classList": [
+      "forums"
+    ],
+    "href": "http://sfbay.craigslist.org/forums",
+    "id": "",
+    "idxpath": "//*[@id='forums']/h4[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 190,
+      "x": 628,
+      "y": 443
+    },
+    "name": "",
+    "neighborText": [
+      "personal",
+      "safety",
+      "tips",
+      "terms",
+      "of",
+      "use",
+      "privacy",
+      "policy",
+      "missed",
+      "connections",
+      "rants",
+      "and",
+      "raves",
+      "auto",
+      "parts",
+      "baby+kid",
+      "barter",
+      "beauty+hlth",
+      "system",
+      "status",
+      "about",
+      "craigslist",
+      "apple",
+      "arts",
+      "atheist",
+      "help",
+      "history",
+      "housing",
+      "photo",
+      "p.o.c.",
+      "politics",
+      "bikes",
+      "boats",
+      "books"
+    ],
+    "shape": 1055,
+    "tag": "A",
+    "visibleText": [
+      "discussion",
+      "forums"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/h4[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 234,
+    "classList": [],
+    "href": "http://sfbay.craigslist.org/sby/",
+    "id": "",
+    "idxpath": "//*[@id='topban']/ul[1]/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 18,
+      "x": 932,
+      "y": 30
+    },
+    "name": "",
+    "neighborText": [
+      "eby",
+      "housing",
+      "sfc"
+    ],
+    "shape": 138,
+    "tag": "A",
+    "visibleText": [
+      "sby"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2214,
+    "classList": [
+      "ggg"
+    ],
+    "href": "http://sfbay.craigslist.org/search/ggg",
+    "id": "",
+    "idxpath": "//*[@id='ggg']/h4[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 123,
+      "x": 1102,
+      "y": 699
+    },
+    "name": "",
+    "neighborText": [
+      "services",
+      "[ETC]",
+      "[",
+      "part-time",
+      "]",
+      "cl",
+      "worldwide",
+      "computer",
+      "creative",
+      "gigs"
+    ],
+    "shape": 683,
+    "tag": "A",
+    "visibleText": [
+      "gigs"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/h4[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2214,
+    "classList": [
+      "rrr"
+    ],
+    "href": "http://sfbay.craigslist.org/search/rrr",
+    "id": "",
+    "idxpath": "//*[@id='rrr']/h4[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 18,
+      "width": 123,
+      "x": 1102,
+      "y": 880
+    },
+    "name": "",
+    "neighborText": [
+      "talent",
+      "writing",
+      "©",
+      "2016",
+      "craigslist",
+      "help",
+      "safety",
+      "privacy",
+      "feedback",
+      "cl",
+      "jobs",
+      "terms",
+      "about",
+      "mobile",
+      "resumes"
+    ],
+    "shape": 683,
+    "tag": "A",
+    "visibleText": [
+      "resumes"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[3]/h4[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1536,
+    "classList": [
+      "s"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='rightbar']/ul[1]/li[1]/ul[1]/li[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 96,
+      "x": 1259,
+      "y": 86
+    },
+    "name": null,
+    "neighborText": [
+      "SF",
+      "bay",
+      "areaw",
+      "sfc",
+      "sby",
+      "eby",
+      "pen",
+      "nby",
+      "scz",
+      "afrikaans",
+      "català",
+      "dansk",
+      "deutsch",
+      "english",
+      "español",
+      "filipino",
+      "français",
+      "italiano",
+      "nederlands",
+      "norsk",
+      "português",
+      "suomi",
+      "svenska",
+      "türkçe",
+      "nearby",
+      "cl",
+      "bakersfield",
+      "jobs",
+      "accounting+finance",
+      "admin",
+      "/",
+      "office",
+      "arch",
+      "/",
+      "engineering",
+      "chico",
+      "fresno",
+      "gold",
+      "country"
+    ],
+    "shape": 600,
+    "tag": "LI",
+    "visibleText": [
+      "bakersfield"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[1]"
+  },
+  {
+    "alt": "",
+    "area": 765,
+    "classList": [
+      "txt"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='ccc0']/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 51,
+      "x": 623,
+      "y": 105
+    },
+    "name": null,
+    "neighborText": [
+      "craigslist",
+      "post",
+      "to",
+      "classifieds",
+      "post",
+      "to",
+      "classifieds",
+      "my",
+      "account",
+      "SF",
+      "bay",
+      "areaw",
+      "sfc",
+      "sby",
+      "eby",
+      "pen",
+      "nby",
+      "scz",
+      "community",
+      "local",
+      "news",
+      "search",
+      "craigslist",
+      "getNeighborText",
+      "artists",
+      "childcare",
+      "classes",
+      "lost+found",
+      "musicians",
+      "pets"
+    ],
+    "shape": 340,
+    "tag": "SPAN",
+    "visibleText": [
+      "activities"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 800,
+    "classList": [],
+    "href": "https://forums.craigslist.org/?areaID=1&forumID=3232",
+    "id": "",
+    "idxpath": "//*[@id='forums0']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 16,
+      "width": 50,
+      "x": 623,
+      "y": 467
+    },
+    "name": "",
+    "neighborText": [
+      "terms",
+      "of",
+      "use",
+      "privacy",
+      "policy",
+      "system",
+      "status",
+      "rants",
+      "and",
+      "raves",
+      "discussion",
+      "forums",
+      "help",
+      "about",
+      "craigslist",
+      "craigslist",
+      "is",
+      "hiring",
+      "in",
+      "sf",
+      "arts",
+      "atheist",
+      "autos",
+      "history",
+      "housing",
+      "jobs"
+    ],
+    "shape": 312,
+    "tag": "A",
+    "visibleText": [
+      "apple"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1190,
+    "classList": [
+      "ata"
+    ],
+    "href": "http://sfbay.craigslist.org/search/ata",
+    "id": "",
+    "idxpath": "//*[@id='sss0']/li[1]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 70,
+      "x": 848,
+      "y": 321
+    },
+    "name": "",
+    "neighborText": [
+      "strictly",
+      "platonic",
+      "women",
+      "seek",
+      "women",
+      "women",
+      "seeking",
+      "men",
+      "vacation",
+      "rentals",
+      "for",
+      "sale",
+      "farm+garden",
+      "men",
+      "seeking",
+      "women",
+      "men",
+      "seeking",
+      "men",
+      "misc",
+      "romance",
+      "casual",
+      "encounters",
+      "appliances",
+      "arts+crafts",
+      "atv/utv/sno",
+      "free",
+      "furniture",
+      "garage",
+      "sale"
+    ],
+    "shape": 411,
+    "tag": "A",
+    "visibleText": [
+      "antiques"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 825,
+    "classList": [
+      "txt"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='ggg0']/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 55,
+      "x": 1097,
+      "y": 724
+    },
+    "name": null,
+    "neighborText": [
+      "services",
+      "[",
+      "part-time",
+      "]",
+      "gigs",
+      "creative",
+      "crew",
+      "domestic"
+    ],
+    "shape": 366,
+    "tag": "SPAN",
+    "visibleText": [
+      "computer"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 3808,
+    "classList": [
+      "swp"
+    ],
+    "href": "http://sfbay.craigslist.org/search/swp",
+    "id": "",
+    "idxpath": "//*[@id='hhh0']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 224,
+      "x": 848,
+      "y": 123
+    },
+    "name": "",
+    "neighborText": [
+      "community",
+      "housing",
+      "apts",
+      "/",
+      "housing",
+      "jobs",
+      "accounting+finance",
+      "admin",
+      "/",
+      "office",
+      "housing",
+      "wanted",
+      "office",
+      "/",
+      "commercial",
+      "parking",
+      "/",
+      "storage",
+      "arch",
+      "/",
+      "engineering",
+      "art",
+      "/",
+      "media",
+      "/",
+      "design",
+      "biotech",
+      "/",
+      "science"
+    ],
+    "shape": 1317,
+    "tag": "A",
+    "visibleText": [
+      "housing",
+      "swap"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2261,
+    "classList": [
+      "edu"
+    ],
+    "href": "http://sfbay.craigslist.org/search/edu",
+    "id": "",
+    "idxpath": "//*[@id='jjj0']/li[8]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 133,
+      "x": 1097,
+      "y": 228
+    },
+    "name": "",
+    "neighborText": [
+      "parking",
+      "/",
+      "storage",
+      "real",
+      "estate",
+      "for",
+      "sale",
+      "rooms",
+      "/",
+      "shared",
+      "biotech",
+      "/",
+      "science",
+      "business",
+      "/",
+      "mgmt",
+      "customer",
+      "service",
+      "humboldt",
+      "inland",
+      "empire",
+      "klamath",
+      "falls",
+      "las",
+      "vegas",
+      "los",
+      "angeles",
+      "rooms",
+      "wanted",
+      "sublets",
+      "/",
+      "temporary",
+      "vacation",
+      "rentals",
+      "food",
+      "/",
+      "bev",
+      "/",
+      "hosp",
+      "general",
+      "labor",
+      "government",
+      "medford",
+      "mendocino",
+      "co",
+      "merced"
+    ],
+    "shape": 782,
+    "tag": "A",
+    "visibleText": [
+      "education"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 901,
+    "classList": [
+      "ats"
+    ],
+    "href": "http://sfbay.craigslist.org/search/ats",
+    "id": "",
+    "idxpath": "//*[@id='ccc0']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 53,
+      "x": 623,
+      "y": 123
+    },
+    "name": "",
+    "neighborText": [
+      "post",
+      "to",
+      "classifieds",
+      "my",
+      "account",
+      "community",
+      "activities",
+      "local",
+      "news",
+      "lost+found",
+      "search",
+      "craigslist",
+      "getNeighborText",
+      "childcare",
+      "classes",
+      "events",
+      "musicians",
+      "pets",
+      "politics"
+    ],
+    "shape": 311,
+    "tag": "A",
+    "visibleText": [
+      "artists"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 247,
+    "classList": [],
+    "href": "http://sfbay.craigslist.org/eby/",
+    "id": "",
+    "idxpath": "//*[@id='topban']/ul[1]/li[3]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 19,
+      "x": 967,
+      "y": 30
+    },
+    "name": "",
+    "neighborText": [
+      "pen",
+      "sfc",
+      "housing",
+      "sby"
+    ],
+    "shape": 146,
+    "tag": "A",
+    "visibleText": [
+      "eby"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[3]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1245,
+    "classList": [
+      "txt"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='hhh0']/li[1]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 83,
+      "x": 848,
+      "y": 105
+    },
+    "name": null,
+    "neighborText": [
+      "SF",
+      "bay",
+      "areaw",
+      "community",
+      "housing",
+      "SF",
+      "bay",
+      "areaw",
+      "sfc",
+      "sby",
+      "eby",
+      "pen",
+      "nby",
+      "scz",
+      "housing",
+      "swap",
+      "housing",
+      "wanted",
+      "office",
+      "/",
+      "commercial"
+    ],
+    "shape": 553,
+    "tag": "SPAN",
+    "visibleText": [
+      "apts",
+      "/",
+      "housing"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 260,
+    "classList": [
+      "txt"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='forums0']/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 20,
+      "x": 623,
+      "y": 483
+    },
+    "name": null,
+    "neighborText": [
+      "privacy",
+      "policy",
+      "system",
+      "status",
+      "discussion",
+      "forums",
+      "apple",
+      "about",
+      "craigslist",
+      "craigslist",
+      "is",
+      "hiring",
+      "in",
+      "sf",
+      "atheist",
+      "autos",
+      "beauty"
+    ],
+    "shape": 153,
+    "tag": "SPAN",
+    "visibleText": [
+      "arts"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 986,
+    "classList": [
+      "lbg"
+    ],
+    "href": "http://sfbay.craigslist.org/search/lbg",
+    "id": "",
+    "idxpath": "//*[@id='ggg1']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 17,
+      "width": 58,
+      "x": 1097,
+      "y": 811
+    },
+    "name": "",
+    "neighborText": [
+      "crew",
+      "domestic",
+      "event",
+      "talent",
+      "writing"
+    ],
+    "shape": 341,
+    "tag": "A",
+    "visibleText": [
+      "labor"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 945,
+    "classList": [
+      "txt"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='sss0']/li[2]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 63,
+      "x": 848,
+      "y": 339
+    },
+    "name": null,
+    "neighborText": [
+      "women",
+      "seek",
+      "women",
+      "women",
+      "seeking",
+      "men",
+      "men",
+      "seeking",
+      "women",
+      "for",
+      "sale",
+      "antiques",
+      "farm+garden",
+      "free",
+      "men",
+      "seeking",
+      "men",
+      "misc",
+      "romance",
+      "casual",
+      "encounters",
+      "missed",
+      "connections",
+      "arts+crafts",
+      "atv/utv/sno",
+      "auto",
+      "parts",
+      "furniture",
+      "garage",
+      "sale",
+      "general"
+    ],
+    "shape": 420,
+    "tag": "SPAN",
+    "visibleText": [
+      "appliances"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 1155,
+    "classList": [
+      "txt"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='jjj0']/li[10]/a[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 77,
+      "x": 1097,
+      "y": 263
+    },
+    "name": null,
+    "neighborText": [
+      "rooms",
+      "/",
+      "shared",
+      "rooms",
+      "wanted",
+      "sublets",
+      "/",
+      "temporary",
+      "customer",
+      "service",
+      "education",
+      "food",
+      "/",
+      "bev",
+      "/",
+      "hosp",
+      "vacation",
+      "rentals",
+      "for",
+      "sale",
+      "government",
+      "human",
+      "resources",
+      "internet",
+      "engineers"
+    ],
+    "shape": 513,
+    "tag": "SPAN",
+    "visibleText": [
+      "general",
+      "labor"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 260,
+    "classList": [],
+    "href": "http://sfbay.craigslist.org/pen/",
+    "id": "",
+    "idxpath": "//*[@id='topban']/ul[1]/li[4]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 20,
+      "x": 1002,
+      "y": 30
+    },
+    "name": "",
+    "neighborText": [
+      "nby",
+      "sby",
+      "housing",
+      "eby"
+    ],
+    "shape": 153,
+    "tag": "A",
+    "visibleText": [
+      "pen"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[4]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 247,
+    "classList": [],
+    "href": "http://sfbay.craigslist.org/nby/",
+    "id": "",
+    "idxpath": "//*[@id='topban']/ul[1]/li[5]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 19,
+      "x": 1038,
+      "y": 30
+    },
+    "name": "",
+    "neighborText": [
+      "scz",
+      "eby",
+      "housing",
+      "pen"
+    ],
+    "shape": 146,
+    "tag": "A",
+    "visibleText": [
+      "nby"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[5]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 234,
+    "classList": [],
+    "href": "http://sfbay.craigslist.org/scz/",
+    "id": "",
+    "idxpath": "//*[@id='topban']/ul[1]/li[6]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 13,
+      "width": 18,
+      "x": 1073,
+      "y": 30
+    },
+    "name": "",
+    "neighborText": [
+      "pen",
+      "housing",
+      "nby",
+      "jobs"
+    ],
+    "shape": 138,
+    "tag": "A",
+    "visibleText": [
+      "scz"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[6]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 2242,
+    "classList": [],
+    "href": "https://post.craigslist.org/c/sfo",
+    "id": "post",
+    "idxpath": "//*[@id='post']",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 118,
+      "x": 445,
+      "y": 75
+    },
+    "name": "",
+    "neighborText": [
+      "craigslist",
+      "my",
+      "account"
+    ],
+    "shape": 621,
+    "tag": "A",
+    "visibleText": [
+      "post",
+      "to",
+      "classifieds"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[1]/li[1]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 1292,
+    "classList": [],
+    "href": "https://accounts.craigslist.org/login/home",
+    "id": "",
+    "idxpath": "//*[@id='postlks']/li[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 19,
+      "width": 68,
+      "x": 470,
+      "y": 98
+    },
+    "name": "",
+    "neighborText": [
+      "craigslist",
+      "post",
+      "to",
+      "classifieds",
+      "search",
+      "craigslist"
+    ],
+    "shape": 357,
+    "tag": "A",
+    "visibleText": [
+      "my",
+      "account"
+    ],
+    "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[1]/li[2]/a[1]"
+  }
+]
