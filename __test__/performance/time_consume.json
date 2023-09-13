@@ -1,0 +1,317 @@
+{
+  "Adobe": {
+    "targetCount": 2,
+    "candidateCount": 544,
+    "targetTimeList": [959, 920],
+    "averagePerTargetTime": 939
+  },
+  "Aliexpress": {
+    "targetCount": 39,
+    "candidateCount": 367,
+    "targetTimeList": [
+      220, 167, 294, 327, 343, 378, 309, 360, 358, 353, 328, 282, 175, 275, 169, 256, 271, 217, 206, 206, 205, 220, 261,
+      157, 207, 211, 222, 212, 213, 211, 133, 194, 164, 186, 183, 296, 297, 281, 205
+    ],
+    "averagePerTargetTime": 244
+  },
+  "Amazon": {
+    "targetCount": 10,
+    "candidateCount": 1769,
+    "targetTimeList": [1059, 1352, 1705, 1147, 2731, 1161, 1228, 1106, 1185, 1345],
+    "averagePerTargetTime": 1401
+  },
+  "Apple": {
+    "targetCount": 10,
+    "candidateCount": 344,
+    "targetTimeList": [116, 140, 140, 148, 139, 135, 146, 135, 115, 112],
+    "averagePerTargetTime": 132
+  },
+  "Bestbuy": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Bing": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Chase": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Cnn": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Craigslist": {
+    "targetCount": 45,
+    "candidateCount": 802,
+    "targetTimeList": [
+      312, 225, 275, 352, 349, 357, 379, 362, 376, 344, 328, 364, 333, 347, 314, 351, 330, 418, 362, 353, 369, 407, 355,
+      320, 350, 350, 323, 371, 434, 389, 367, 414, 398, 400, 335, 376, 390, 431, 387, 384, 313, 313, 324, 292, 328
+    ],
+    "averagePerTargetTime": 354
+  },
+  "Dropbox": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Ebay": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Espn": {
+    "targetCount": 23,
+    "candidateCount": 597,
+    "targetTimeList": [
+      408, 526, 667, 707, 785, 743, 867, 751, 745, 739, 805, 713, 903, 803, 866, 694, 680, 628, 725, 672, 726, 864, 881
+    ],
+    "averagePerTargetTime": 734
+  },
+  "Etsy": {
+    "targetCount": 12,
+    "candidateCount": 816,
+    "targetTimeList": [562, 571, 734, 566, 601, 583, 627, 637, 621, 578, 575, 641],
+    "averagePerTargetTime": 608
+  },
+  "Facebook": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Fidelity": {
+    "targetCount": 19,
+    "candidateCount": 502,
+    "targetTimeList": [336, 470, 373, 341, 534, 492, 482, 452, 429, 437, 360, 394, 407, 536, 401, 357, 368, 407, 352],
+    "averagePerTargetTime": 417
+  },
+  "Force": {
+    "targetCount": 17,
+    "candidateCount": 698,
+    "targetTimeList": [774, 745, 683, 716, 672, 673, 741, 780, 838, 718, 822, 752, 1717, 1179, 1652, 708, 1218],
+    "averagePerTargetTime": 905
+  },
+  "Foxnews": {
+    "targetCount": 28,
+    "candidateCount": 1916,
+    "targetTimeList": [
+      1445, 1640, 1754, 1728, 1995, 1851, 1975, 1736, 1908, 2618, 2515, 2068, 1501, 2021, 2262, 1933, 1924, 1819, 1775,
+      1815, 2113, 2540, 1605, 1747, 1524, 1608, 1536, 1551
+    ],
+    "averagePerTargetTime": 1875
+  },
+  "Google": {
+    "targetCount": 20,
+    "candidateCount": 81,
+    "targetTimeList": [24, 27, 30, 45, 44, 49, 50, 26, 29, 32, 30, 28, 30, 31, 30, 30, 30, 29, 32, 32],
+    "averagePerTargetTime": 32
+  },
+  "Hulu": {
+    "targetCount": 2,
+    "candidateCount": 372,
+    "targetTimeList": [191, 267],
+    "averagePerTargetTime": 229
+  },
+  "Imdb": {
+    "targetCount": 12,
+    "candidateCount": 372,
+    "targetTimeList": [224, 222, 440, 512, 233, 268, 197, 313, 378, 883, 539, 487],
+    "averagePerTargetTime": 391
+  },
+  "Indeed": {
+    "targetCount": 13,
+    "candidateCount": 167,
+    "targetTimeList": [149, 163, 85, 92, 90, 123, 124, 118, 101, 119, 116, 173, 137],
+    "averagePerTargetTime": 122
+  },
+  "Instagram": {
+    "targetCount": 15,
+    "candidateCount": 107,
+    "targetTimeList": [110, 146, 104, 107, 102, 83, 86, 118, 110, 99, 96, 108, 90, 90, 101],
+    "averagePerTargetTime": 103
+  },
+  "Instructure": {
+    "targetCount": 2,
+    "candidateCount": 314,
+    "targetTimeList": [190, 227],
+    "averagePerTargetTime": 208
+  },
+  "Intuit": {
+    "targetCount": 11,
+    "candidateCount": 520,
+    "targetTimeList": [920, 981, 1137, 1053, 1120, 1256, 1259, 1027, 999, 938, 861],
+    "averagePerTargetTime": 1050
+  },
+  "Linkedin": {
+    "targetCount": 4,
+    "candidateCount": 185,
+    "targetTimeList": [76, 92, 169, 77],
+    "averagePerTargetTime": 103
+  },
+  "Live": {
+    "targetCount": 3,
+    "candidateCount": 224,
+    "targetTimeList": [119, 141, 139],
+    "averagePerTargetTime": 133
+  },
+  "Microsoft": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Microsoftonline": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Myshopify": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Netflix": {
+    "targetCount": 2,
+    "candidateCount": 157,
+    "targetTimeList": [98, 117],
+    "averagePerTargetTime": 107
+  },
+  "Nytimes": {
+    "targetCount": 23,
+    "candidateCount": 611,
+    "targetTimeList": [
+      552, 543, 582, 750, 614, 706, 497, 605, 551, 552, 529, 585, 564, 642, 525, 716, 575, 576, 542, 548, 547, 549, 514
+    ],
+    "averagePerTargetTime": 581
+  },
+  "Office": {
+    "targetCount": 12,
+    "candidateCount": 235,
+    "targetTimeList": [179, 212, 149, 150, 225, 196, 219, 215, 223, 233, 206, 91],
+    "averagePerTargetTime": 191
+  },
+  "Okta": {
+    "targetCount": 10,
+    "candidateCount": 552,
+    "targetTimeList": [433, 519, 532, 654, 589, 616, 539, 458, 648, 349],
+    "averagePerTargetTime": 533
+  },
+  "Paypal": {
+    "targetCount": 22,
+    "candidateCount": 193,
+    "targetTimeList": [
+      79, 86, 86, 88, 93, 108, 114, 117, 118, 119, 108, 107, 104, 107, 128, 75, 83, 118, 104, 106, 98, 90
+    ],
+    "averagePerTargetTime": 101
+  },
+  "Reddit": {
+    "targetCount": 30,
+    "candidateCount": 1259,
+    "targetTimeList": [
+      492, 584, 473, 491, 326, 478, 439, 480, 711, 490, 474, 524, 649, 456, 480, 474, 470, 529, 510, 587, 554, 434, 391,
+      591, 355, 493, 453, 474, 477, 517
+    ],
+    "averagePerTargetTime": 495
+  },
+  "Spotify": {
+    "targetCount": 17,
+    "candidateCount": 84,
+    "targetTimeList": [34, 39, 37, 55, 42, 45, 47, 50, 49, 49, 44, 43, 55, 47, 35, 33, 35],
+    "averagePerTargetTime": 43
+  },
+  "Target": {
+    "targetCount": 17,
+    "candidateCount": 909,
+    "targetTimeList": [356, 381, 602, 463, 540, 518, 540, 524, 531, 397, 382, 384, 386, 644, 656, 568, 577],
+    "averagePerTargetTime": 497
+  },
+  "Twitch": {
+    "targetCount": 4,
+    "candidateCount": 125,
+    "targetTimeList": [53, 51, 52, 48],
+    "averagePerTargetTime": 51
+  },
+  "Twitter": {
+    "targetCount": 20,
+    "candidateCount": 68,
+    "targetTimeList": [24, 30, 21, 21, 21, 22, 21, 23, 22, 22, 22, 22, 35, 31, 21, 21, 22, 26, 28, 25],
+    "averagePerTargetTime": 24
+  },
+  "Ups": {
+    "targetCount": 29,
+    "candidateCount": 667,
+    "targetTimeList": [
+      426, 447, 653, 621, 580, 590, 592, 586, 613, 667, 628, 573, 518, 592, 630, 587, 569, 717, 559, 559, 631, 561, 513,
+      500, 519, 490, 505, 580, 613
+    ],
+    "averagePerTargetTime": 573
+  },
+  "Usps": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Walmart": {
+    "targetCount": 6,
+    "candidateCount": 423,
+    "targetTimeList": [475, 497, 518, 540, 392, 402],
+    "averagePerTargetTime": 470
+  },
+  "Wellsfargo": {
+    "targetCount": 35,
+    "candidateCount": 251,
+    "targetTimeList": [
+      118, 121, 75, 72, 90, 77, 75, 80, 95, 121, 111, 102, 99, 121, 107, 108, 111, 146, 132, 133, 87, 112, 97, 101, 97,
+      168, 168, 176, 125, 113, 136, 125, 110, 142, 143
+    ],
+    "averagePerTargetTime": 114
+  },
+  "Wikipedia": {
+    "targetCount": 39,
+    "candidateCount": 159,
+    "targetTimeList": [
+      33, 44, 55, 77, 77, 69, 80, 82, 66, 65, 68, 76, 41, 76, 65, 66, 69, 55, 48, 47, 55, 53, 66, 46, 60, 56, 54, 54,
+      58, 65, 63, 60, 54, 35, 35, 52, 61, 55, 62
+    ],
+    "averagePerTargetTime": 59
+  },
+  "Yahoo": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Youtube": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  },
+  "Zillow": {
+    "targetCount": 8,
+    "candidateCount": 150,
+    "targetTimeList": [125, 114, 113, 164, 138, 98, 105, 126],
+    "averagePerTargetTime": 122
+  },
+  "Zoom": {
+    "targetCount": 0,
+    "candidateCount": 0,
+    "targetTimeList": [],
+    "averagePerTargetTime": null
+  }
+}

@@ -19,6 +19,7 @@ function readJsonFile(filePath) {
 }
 
 const map = {};
+const time = {};
 website.forEach((oneSite) => {
   const { name, xpath } = oneSite;
   // if (!diffNames.includes(name)) {
@@ -28,6 +29,11 @@ website.forEach((oneSite) => {
   map[name] = {
     locatedSuccess: 0,
     locatedError: 0,
+  };
+  time[name] = {
+    targetCount: 0,
+    candidateCount: 0,
+    targetTimeList: [],
   };
 
   describe(`test ${name}`, () => {
@@ -50,8 +56,13 @@ website.forEach((oneSite) => {
         const candidateProperty = candidateProperties[candidatePropertyIndex];
 
         // 获取最相似的属性
+        const startTime = Date.now();
         const result = findSimilarProperty(targetProperty, candidateProperties);
-        const { similarProperty, scores, maxIndex, maxScore, scoreDetails, normalizedScores } = result;
+        const consume = Date.now() - startTime; // ms
+        time[name].targetCount += 1;
+        time[name].candidateCount = candidateProperties.length;
+        time[name].targetTimeList.push(consume);
+        const { similarProperty, scores, maxIndex, maxScore, scoreDetails } = result;
         if (maxIndex === candidatePropertyIndex) {
           map[name].locatedSuccess += 1;
         } else {
@@ -81,6 +92,14 @@ afterAll(() => {
     locatedSuccess: success,
     locatedError: error,
   };
+  Object.values(time).forEach((oneTime) => {
+    const { targetTimeList, candidateCount } = oneTime as any;
+    // @ts-ignore
+    oneTime.averagePerTargetTime = Math.floor(
+      targetTimeList.reduce((acc, cur) => acc + cur, 0) / targetTimeList.length,
+    );
+  });
 
   fs.writeFileSync(filepath, JSON.stringify(newMap, null, 2));
+  fs.writeFileSync(path.join(__dirname, './performance/time_consume.json'), JSON.stringify(time, null, 2));
 });
