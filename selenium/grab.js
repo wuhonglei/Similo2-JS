@@ -6,7 +6,7 @@ const { Builder, Browser, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 const cluster = require('cluster');
 
-const website = require('../test_data/our_data/website.json');
+const website = require('../test_data/website.json');
 const root = path.join(__dirname, '../test_data/our_data/apps');
 const recordedPath = path.join(__dirname, '../test_data/our_data/recorded.txt');
 const failedPath = path.join(__dirname, '../test_data/our_data/failed.txt');
@@ -26,7 +26,7 @@ function writeRecorded(recorded) {
 }
 
 const javascript = (function getJavascript() {
-  const filepath = path.join(__dirname, '../lib/bundle.js');
+  const filepath = path.join(__dirname, '../lib/property.js');
   return fs.readFileSync(filepath, 'utf8');
 })();
 
@@ -88,7 +88,7 @@ async function getScreenshotsOfNewSite(driver, site, targetProperties) {
   const targetList = xpath.map((oneTarget) => driver.findElement(By.xpath(oneTarget.new)).catch(() => null));
   const targetElements = await Promise.all(targetList);
   const targetScreenshots = targetElements.map((element, index) => {
-    const screenshotPath = path.join(root, site.name, `screenshot/old/target_${index}.jpeg`);
+    const screenshotPath = path.join(root, site.name, `screenshot/new/target_${index}.jpeg`);
     return getScreenshotOfElement(element, screenshotPath);
   });
   const positionScreenshots = targetProperties.map(async (targetProperty, index) => {

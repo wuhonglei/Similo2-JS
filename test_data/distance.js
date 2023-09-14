@@ -1,3 +1,7 @@
+/**
+ * 统计新网站和旧网址的时间差
+ */
+
 const fs = require('fs');
 const path = require('path');
 const dayjs = require('dayjs');
