@@ -2,6 +2,9 @@
  * 获取 element 的属性
  */
 import type { Property, ElementLocation } from './interface/property';
+export { getAusDomPath } from './utils/aus_selector';
+export { getRobustXPath } from './utils/robula';
+export { getElementByXPath } from './utils/index';
 /**
  * 获取元素周围 50px 的文本
  * @param location 元素区域

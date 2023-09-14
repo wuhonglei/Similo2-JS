@@ -19237,7 +19237,7 @@
   },
   {
     "alt": "",
-    "area": 2320,
+    "area": 2140,
     "classList": [
       "feds-navList-item"
     ],
@@ -19247,13 +19247,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 116,
+      "width": 107,
       "x": 196,
       "y": 2014
     },
     "name": null,
     "neighborText": [],
-    "shape": 580,
+    "shape": 535,
     "tag": "LI",
     "visibleText": [
       "Change",
@@ -19263,7 +19263,7 @@
   },
   {
     "alt": "",
-    "area": 2320,
+    "area": 2140,
     "classList": [
       "feds-navList-wrapper"
     ],
@@ -19273,13 +19273,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 116,
+      "width": 107,
       "x": 196,
       "y": 2014
     },
     "name": null,
     "neighborText": [],
-    "shape": 580,
+    "shape": 535,
     "tag": "DIV",
     "visibleText": [
       "Change",
@@ -19289,7 +19289,7 @@
   },
   {
     "alt": "",
-    "area": 2320,
+    "area": 2140,
     "classList": [
       "feds-navList-item"
     ],
@@ -19299,13 +19299,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 116,
+      "width": 107,
       "x": 196,
       "y": 2014
     },
     "name": null,
     "neighborText": [],
-    "shape": 580,
+    "shape": 535,
     "tag": "LI",
     "visibleText": [
       "Change",
@@ -19315,7 +19315,7 @@
   },
   {
     "alt": "",
-    "area": 2320,
+    "area": 2140,
     "classList": [
       "feds-regionPicker"
     ],
@@ -19325,13 +19325,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 116,
+      "width": 107,
       "x": 196,
       "y": 2014
     },
     "name": "",
     "neighborText": [],
-    "shape": 580,
+    "shape": 535,
     "tag": "A",
     "visibleText": [
       "Change",
@@ -19389,7 +19389,7 @@
   },
   {
     "alt": "",
-    "area": 840,
+    "area": 704,
     "classList": [
       "feds-regionPicker-text"
     ],
@@ -19398,14 +19398,14 @@
     "idxpath": "//*[@id='gnav_1019']/div[2]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 70,
+      "height": 11,
+      "width": 64,
       "x": 226,
-      "y": 2018
+      "y": 2019
     },
     "name": null,
     "neighborText": [],
-    "shape": 583,
+    "shape": 581,
     "tag": "DIV",
     "visibleText": [
       "Change",
@@ -19415,7 +19415,7 @@
   },
   {
     "alt": "",
-    "area": 15060,
+    "area": 13980,
     "classList": [
       "feds-navList-item"
     ],
@@ -19425,13 +19425,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 753,
-      "x": 842,
+      "width": 699,
+      "x": 896,
       "y": 2014
     },
     "name": null,
     "neighborText": [],
-    "shape": 3765,
+    "shape": 3495,
     "tag": "LI",
     "visibleText": [
       "Copyright",
@@ -19459,7 +19459,7 @@
   },
   {
     "alt": "",
-    "area": 15060,
+    "area": 13980,
     "classList": [
       "feds-navList-wrapper"
     ],
@@ -19469,13 +19469,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 753,
-      "x": 842,
+      "width": 699,
+      "x": 896,
       "y": 2014
     },
     "name": null,
     "neighborText": [],
-    "shape": 3765,
+    "shape": 3495,
     "tag": "DIV",
     "visibleText": [
       "Copyright",
@@ -19503,7 +19503,7 @@
   },
   {
     "alt": "",
-    "area": 2712,
+    "area": 2288,
     "classList": [
       "feds-navList-header"
     ],
@@ -19512,14 +19512,14 @@
     "idxpath": "//*[@id='gnav_1022']/h5[1]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 226,
-      "x": 842,
-      "y": 2018
+      "height": 11,
+      "width": 208,
+      "x": 896,
+      "y": 2019
     },
     "name": null,
     "neighborText": [],
-    "shape": 1883,
+    "shape": 1890,
     "tag": "H5",
     "visibleText": [
       "Copyright",
@@ -19534,7 +19534,7 @@
   },
   {
     "alt": "",
-    "area": 880,
+    "area": 765,
     "classList": [
       "feds-navList-item"
     ],
@@ -19543,14 +19543,14 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Privacy_UPDATED_']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 55,
-      "x": 1069,
-      "y": 2016
+      "height": 15,
+      "width": 51,
+      "x": 1105,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 343,
+    "shape": 340,
     "tag": "LI",
     "visibleText": [
       "Privacy"
@@ -19559,7 +19559,7 @@
   },
   {
     "alt": "",
-    "area": 560,
+    "area": 480,
     "classList": [
       "feds-navLink"
     ],
@@ -19568,14 +19568,14 @@
     "idxpath": "//*[@id='gnav_1028']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 35,
-      "x": 1069,
-      "y": 2016
+      "height": 15,
+      "width": 32,
+      "x": 1105,
+      "y": 2017
     },
     "name": "",
     "neighborText": [],
-    "shape": 218,
+    "shape": 213,
     "tag": "A",
     "visibleText": [
       "Privacy"
@@ -19584,7 +19584,7 @@
   },
   {
     "alt": "",
-    "area": 560,
+    "area": 480,
     "classList": [
       "feds-navLink-contentWrapper"
     ],
@@ -19593,14 +19593,14 @@
     "idxpath": "//*[@id='gnav_1028']/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 35,
-      "x": 1069,
-      "y": 2016
+      "height": 15,
+      "width": 32,
+      "x": 1105,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 218,
+    "shape": 213,
     "tag": "SPAN",
     "visibleText": [
       "Privacy"
@@ -19609,7 +19609,7 @@
   },
   {
     "alt": "",
-    "area": 560,
+    "area": 480,
     "classList": [
       "feds-navLink-content"
     ],
@@ -19618,14 +19618,14 @@
     "idxpath": "//*[@id='gnav_1028']/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 35,
-      "x": 1069,
-      "y": 2016
+      "height": 15,
+      "width": 32,
+      "x": 1105,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 218,
+    "shape": 213,
     "tag": "SPAN",
     "visibleText": [
       "Privacy"
@@ -19634,7 +19634,7 @@
   },
   {
     "alt": "",
-    "area": 560,
+    "area": 480,
     "classList": [
       "feds-navLink-text"
     ],
@@ -19643,14 +19643,14 @@
     "idxpath": "//*[@id='gnav_1028']/span[1]/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 35,
-      "x": 1069,
-      "y": 2016
+      "height": 15,
+      "width": 32,
+      "x": 1105,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 218,
+    "shape": 213,
     "tag": "SPAN",
     "visibleText": [
       "Privacy"
@@ -19659,7 +19659,7 @@
   },
   {
     "alt": "",
-    "area": 1312,
+    "area": 1140,
     "classList": [
       "feds-navList-item"
     ],
@@ -19668,14 +19668,14 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Terms_of_Use']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 82,
-      "x": 1124,
-      "y": 2016
+      "height": 15,
+      "width": 76,
+      "x": 1157,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 512,
+    "shape": 506,
     "tag": "LI",
     "visibleText": [
       "Terms",
@@ -19686,7 +19686,7 @@
   },
   {
     "alt": "",
-    "area": 992,
+    "area": 855,
     "classList": [
       "feds-navLink"
     ],
@@ -19695,14 +19695,14 @@
     "idxpath": "//*[@id='gnav_1034']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 62,
-      "x": 1124,
-      "y": 2016
+      "height": 15,
+      "width": 57,
+      "x": 1157,
+      "y": 2017
     },
     "name": "",
     "neighborText": [],
-    "shape": 387,
+    "shape": 380,
     "tag": "A",
     "visibleText": [
       "Terms",
@@ -19713,7 +19713,7 @@
   },
   {
     "alt": "",
-    "area": 992,
+    "area": 855,
     "classList": [
       "feds-navLink-contentWrapper"
     ],
@@ -19722,14 +19722,14 @@
     "idxpath": "//*[@id='gnav_1034']/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 62,
-      "x": 1124,
-      "y": 2016
+      "height": 15,
+      "width": 57,
+      "x": 1157,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 387,
+    "shape": 380,
     "tag": "SPAN",
     "visibleText": [
       "Terms",
@@ -19740,7 +19740,7 @@
   },
   {
     "alt": "",
-    "area": 992,
+    "area": 855,
     "classList": [
       "feds-navLink-content"
     ],
@@ -19749,14 +19749,14 @@
     "idxpath": "//*[@id='gnav_1034']/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 62,
-      "x": 1124,
-      "y": 2016
+      "height": 15,
+      "width": 57,
+      "x": 1157,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 387,
+    "shape": 380,
     "tag": "SPAN",
     "visibleText": [
       "Terms",
@@ -19767,7 +19767,7 @@
   },
   {
     "alt": "",
-    "area": 992,
+    "area": 855,
     "classList": [
       "feds-navLink-text"
     ],
@@ -19776,14 +19776,14 @@
     "idxpath": "//*[@id='gnav_1034']/span[1]/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 62,
-      "x": 1124,
-      "y": 2016
+      "height": 15,
+      "width": 57,
+      "x": 1157,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 387,
+    "shape": 380,
     "tag": "SPAN",
     "visibleText": [
       "Terms",
@@ -19794,7 +19794,7 @@
   },
   {
     "alt": "",
-    "area": 1808,
+    "area": 1575,
     "classList": [
       "feds-navList-item"
     ],
@@ -19803,14 +19803,14 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Cookies']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 113,
-      "x": 1207,
-      "y": 2016
+      "height": 15,
+      "width": 105,
+      "x": 1234,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 706,
+    "shape": 700,
     "tag": "LI",
     "visibleText": [
       "Cookie",
@@ -19820,7 +19820,7 @@
   },
   {
     "alt": "",
-    "area": 1488,
+    "area": 1275,
     "classList": [
       "feds-navLink"
     ],
@@ -19829,14 +19829,14 @@
     "idxpath": "//*[@id='gnav_1040']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 93,
-      "x": 1207,
-      "y": 2016
+      "height": 15,
+      "width": 85,
+      "x": 1234,
+      "y": 2017
     },
     "name": "",
     "neighborText": [],
-    "shape": 581,
+    "shape": 566,
     "tag": "A",
     "visibleText": [
       "Cookie",
@@ -19846,7 +19846,7 @@
   },
   {
     "alt": "",
-    "area": 1488,
+    "area": 1275,
     "classList": [
       "feds-navLink-contentWrapper"
     ],
@@ -19855,14 +19855,14 @@
     "idxpath": "//*[@id='gnav_1040']/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 93,
-      "x": 1207,
-      "y": 2016
+      "height": 15,
+      "width": 85,
+      "x": 1234,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 581,
+    "shape": 566,
     "tag": "SPAN",
     "visibleText": [
       "Cookie",
@@ -19872,7 +19872,7 @@
   },
   {
     "alt": "",
-    "area": 1488,
+    "area": 1275,
     "classList": [
       "feds-navLink-content"
     ],
@@ -19881,14 +19881,14 @@
     "idxpath": "//*[@id='gnav_1040']/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 93,
-      "x": 1207,
-      "y": 2016
+      "height": 15,
+      "width": 85,
+      "x": 1234,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 581,
+    "shape": 566,
     "tag": "SPAN",
     "visibleText": [
       "Cookie",
@@ -19898,7 +19898,7 @@
   },
   {
     "alt": "",
-    "area": 1488,
+    "area": 1275,
     "classList": [
       "feds-navLink-text"
     ],
@@ -19907,14 +19907,14 @@
     "idxpath": "//*[@id='gnav_1040']/span[1]/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 93,
-      "x": 1207,
-      "y": 2016
+      "height": 15,
+      "width": 85,
+      "x": 1234,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 581,
+    "shape": 566,
     "tag": "SPAN",
     "visibleText": [
       "Cookie",
@@ -19924,7 +19924,7 @@
   },
   {
     "alt": "",
-    "area": 3120,
+    "area": 2700,
     "classList": [
       "feds-navList-item"
     ],
@@ -19933,14 +19933,14 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.Do_not_sell_my_personal_information']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 195,
-      "x": 1320,
-      "y": 2016
+      "height": 15,
+      "width": 180,
+      "x": 1339,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 1218,
+    "shape": 1200,
     "tag": "LI",
     "visibleText": [
       "Do",
@@ -19954,7 +19954,7 @@
   },
   {
     "alt": "",
-    "area": 2800,
+    "area": 2400,
     "classList": [
       "feds-navLink"
     ],
@@ -19963,14 +19963,14 @@
     "idxpath": "//*[@id='gnav_1046']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 175,
-      "x": 1320,
-      "y": 2016
+      "height": 15,
+      "width": 160,
+      "x": 1339,
+      "y": 2017
     },
     "name": "",
     "neighborText": [],
-    "shape": 1093,
+    "shape": 1066,
     "tag": "A",
     "visibleText": [
       "Do",
@@ -19984,7 +19984,7 @@
   },
   {
     "alt": "",
-    "area": 2800,
+    "area": 2400,
     "classList": [
       "feds-navLink-contentWrapper"
     ],
@@ -19993,14 +19993,14 @@
     "idxpath": "//*[@id='gnav_1046']/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 175,
-      "x": 1320,
-      "y": 2016
+      "height": 15,
+      "width": 160,
+      "x": 1339,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 1093,
+    "shape": 1066,
     "tag": "SPAN",
     "visibleText": [
       "Do",
@@ -20014,7 +20014,7 @@
   },
   {
     "alt": "",
-    "area": 2800,
+    "area": 2400,
     "classList": [
       "feds-navLink-content"
     ],
@@ -20023,14 +20023,14 @@
     "idxpath": "//*[@id='gnav_1046']/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 175,
-      "x": 1320,
-      "y": 2016
+      "height": 15,
+      "width": 160,
+      "x": 1339,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 1093,
+    "shape": 1066,
     "tag": "SPAN",
     "visibleText": [
       "Do",
@@ -20044,7 +20044,7 @@
   },
   {
     "alt": "",
-    "area": 2800,
+    "area": 2400,
     "classList": [
       "feds-navLink-text"
     ],
@@ -20053,14 +20053,14 @@
     "idxpath": "//*[@id='gnav_1046']/span[1]/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 175,
-      "x": 1320,
-      "y": 2016
+      "height": 15,
+      "width": 160,
+      "x": 1339,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 1093,
+    "shape": 1066,
     "tag": "SPAN",
     "visibleText": [
       "Do",
@@ -20074,7 +20074,7 @@
   },
   {
     "alt": "",
-    "area": 1264,
+    "area": 1125,
     "classList": [
       "feds-navList-item"
     ],
@@ -20083,14 +20083,14 @@
     "idxpath": "//*[@id='Globalnav.Copyright_2020_Adobe_All_rights_reserved_.AdChoices']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 79,
-      "x": 1516,
-      "y": 2016
+      "height": 15,
+      "width": 75,
+      "x": 1520,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 493,
+    "shape": 500,
     "tag": "LI",
     "visibleText": [
       "AdChoices"
@@ -20099,7 +20099,7 @@
   },
   {
     "alt": "",
-    "area": 1264,
+    "area": 1125,
     "classList": [
       "feds-navLink"
     ],
@@ -20108,14 +20108,14 @@
     "idxpath": "//*[@id='gnav_1052']",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 79,
-      "x": 1516,
-      "y": 2016
+      "height": 15,
+      "width": 75,
+      "x": 1520,
+      "y": 2017
     },
     "name": "",
     "neighborText": [],
-    "shape": 493,
+    "shape": 500,
     "tag": "A",
     "visibleText": [
       "AdChoices"
@@ -20124,7 +20124,7 @@
   },
   {
     "alt": "",
-    "area": 864,
+    "area": 750,
     "classList": [
       "feds-navLink-contentWrapper"
     ],
@@ -20133,14 +20133,14 @@
     "idxpath": "//*[@id='gnav_1052']/span[2]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 54,
-      "x": 1541,
-      "y": 2016
+      "height": 15,
+      "width": 50,
+      "x": 1545,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 337,
+    "shape": 333,
     "tag": "SPAN",
     "visibleText": [
       "AdChoices"
@@ -20149,7 +20149,7 @@
   },
   {
     "alt": "",
-    "area": 800,
+    "area": 690,
     "classList": [
       "feds-navLink-content"
     ],
@@ -20158,14 +20158,14 @@
     "idxpath": "//*[@id='gnav_1052']/span[2]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 50,
-      "x": 1545,
-      "y": 2016
+      "height": 15,
+      "width": 46,
+      "x": 1549,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 312,
+    "shape": 306,
     "tag": "SPAN",
     "visibleText": [
       "AdChoices"
@@ -20174,7 +20174,7 @@
   },
   {
     "alt": "",
-    "area": 800,
+    "area": 690,
     "classList": [
       "feds-navLink-text"
     ],
@@ -20183,14 +20183,14 @@
     "idxpath": "//*[@id='gnav_1052']/span[2]/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 50,
-      "x": 1545,
-      "y": 2016
+      "height": 15,
+      "width": 46,
+      "x": 1549,
+      "y": 2017
     },
     "name": null,
     "neighborText": [],
-    "shape": 312,
+    "shape": 306,
     "tag": "SPAN",
     "visibleText": [
       "AdChoices"
