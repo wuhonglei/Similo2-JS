@@ -2,9 +2,7 @@
   {
     "alt": "",
     "area": 5354496,
-    "classList": [
-      "index-page"
-    ],
+    "classList": ["index-page"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]",
@@ -327,9 +325,7 @@
   {
     "alt": "",
     "area": 71680,
-    "classList": [
-      "top-lighthouse"
-    ],
+    "classList": ["top-lighthouse"],
     "href": "",
     "id": "top-lighthouse",
     "idxpath": "//*[@id='top-lighthouse']",
@@ -344,23 +340,13 @@
     "neighborText": [],
     "shape": 4480,
     "tag": "DIV",
-    "visibleText": [
-      "Help",
-      "Buyer",
-      "Protection",
-      "App",
-      "Wish",
-      "List",
-      "Account"
-    ],
+    "visibleText": ["Help", "Buyer", "Protection", "App", "Wish", "List", "Account"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]"
   },
   {
     "alt": "",
     "area": 18915,
-    "classList": [
-      "nav-global"
-    ],
+    "classList": ["nav-global"],
     "href": "",
     "id": "nav-global",
     "idxpath": "//*[@id='nav-global']",
@@ -420,24 +406,13 @@
     ],
     "shape": 1243,
     "tag": "DIV",
-    "visibleText": [
-      "Help",
-      "Buyer",
-      "Protection",
-      "App",
-      "Wish",
-      "List",
-      "Account"
-    ],
+    "visibleText": ["Help", "Buyer", "Protection", "App", "Wish", "List", "Account"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 9165,
-    "classList": [
-      "ng-item-wrap",
-      "ng-help-wrap"
-    ],
+    "classList": ["ng-item-wrap", "ng-help-wrap"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[2]",
@@ -471,22 +446,13 @@
     ],
     "shape": 602,
     "tag": "DIV",
-    "visibleText": [
-      "Help",
-      "Buyer",
-      "Protection",
-      "App"
-    ],
+    "visibleText": ["Help", "Buyer", "Protection", "App"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
   },
   {
     "alt": "",
     "area": 2301,
-    "classList": [
-      "ng-item",
-      "ng-help",
-      "ng-sub"
-    ],
+    "classList": ["ng-item", "ng-help", "ng-sub"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[2]/div[1]",
@@ -522,17 +488,13 @@
     ],
     "shape": 151,
     "tag": "DIV",
-    "visibleText": [
-      "Help"
-    ],
+    "visibleText": ["Help"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 2301,
-    "classList": [
-      "ng-sub-title"
-    ],
+    "classList": ["ng-sub-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[2]/div[1]/span[1]",
@@ -567,18 +529,13 @@
     ],
     "shape": 151,
     "tag": "SPAN",
-    "visibleText": [
-      "Help"
-    ],
+    "visibleText": ["Help"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/span[1]"
   },
   {
     "alt": "",
     "area": 4251,
-    "classList": [
-      "ng-item",
-      "ng-bp"
-    ],
+    "classList": ["ng-item", "ng-bp"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[2]/div[2]",
@@ -613,10 +570,7 @@
     ],
     "shape": 279,
     "tag": "DIV",
-    "visibleText": [
-      "Buyer",
-      "Protection"
-    ],
+    "visibleText": ["Buyer", "Protection"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]"
   },
   {
@@ -657,19 +611,13 @@
     ],
     "shape": 581,
     "tag": "A",
-    "visibleText": [
-      "Buyer",
-      "Protection"
-    ],
+    "visibleText": ["Buyer", "Protection"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/a[1]"
   },
   {
     "alt": "",
     "area": 2262,
-    "classList": [
-      "ng-item",
-      "ng-mobile"
-    ],
+    "classList": ["ng-item", "ng-mobile"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[2]/div[3]",
@@ -705,9 +653,7 @@
     ],
     "shape": 148,
     "tag": "DIV",
-    "visibleText": [
-      "App"
-    ],
+    "visibleText": ["App"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[3]"
   },
   {
@@ -749,19 +695,13 @@
     ],
     "shape": 233,
     "tag": "A",
-    "visibleText": [
-      "App"
-    ],
+    "visibleText": ["App"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[3]/a[1]"
   },
   {
     "alt": "",
     "area": 1755,
-    "classList": [
-      "ng-item-wrap",
-      "ng-item",
-      "ng-switcher"
-    ],
+    "classList": ["ng-item-wrap", "ng-item", "ng-switcher"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[3]",
@@ -799,9 +739,7 @@
     ],
     "shape": 115,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]"
   },
   {
@@ -845,18 +783,13 @@
     ],
     "shape": 115,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]"
   },
   {
     "alt": "",
     "area": 1443,
-    "classList": [
-      "switcher-info",
-      "notranslate"
-    ],
+    "classList": ["switcher-info", "notranslate"],
     "href": "javascript:void(0)",
     "id": "switcher-info",
     "idxpath": "//*[@id='switcher-info']",
@@ -893,18 +826,13 @@
     ],
     "shape": 94,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/a[1]"
   },
   {
     "alt": "",
     "area": 7956,
-    "classList": [
-      "ng-item-wrap",
-      "ng-personal-info"
-    ],
+    "classList": ["ng-item-wrap", "ng-personal-info"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[4]",
@@ -945,21 +873,13 @@
     ],
     "shape": 523,
     "tag": "DIV",
-    "visibleText": [
-      "Wish",
-      "List",
-      "Account"
-    ],
+    "visibleText": ["Wish", "List", "Account"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]"
   },
   {
     "alt": "",
     "area": 3315,
-    "classList": [
-      "ng-item",
-      "nav-pinfo-item",
-      "nav-wishlist"
-    ],
+    "classList": ["ng-item", "nav-pinfo-item", "nav-wishlist"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[4]/div[2]",
@@ -971,20 +891,10 @@
       "y": 0
     },
     "name": null,
-    "neighborText": [
-      "0",
-      "Account",
-      "Help",
-      "Buyer",
-      "Protection",
-      "App"
-    ],
+    "neighborText": ["0", "Account", "Help", "Buyer", "Protection", "App"],
     "shape": 217,
     "tag": "DIV",
-    "visibleText": [
-      "Wish",
-      "List"
-    ],
+    "visibleText": ["Wish", "List"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[2]"
   },
   {
@@ -1002,26 +912,16 @@
       "y": 11
     },
     "name": "",
-    "neighborText": [
-      "0",
-      "Account",
-      "Wish",
-      "List"
-    ],
+    "neighborText": ["0", "Account", "Wish", "List"],
     "shape": 431,
     "tag": "A",
-    "visibleText": [
-      "Wish",
-      "List"
-    ],
+    "visibleText": ["Wish", "List"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[2]/a[1]"
   },
   {
     "alt": "",
     "area": 784,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-global']/div[4]/div[2]/a[1]/span[1]",
@@ -1033,26 +933,16 @@
       "y": 11
     },
     "name": null,
-    "neighborText": [
-      "0",
-      "Account"
-    ],
+    "neighborText": ["0", "Account"],
     "shape": 306,
     "tag": "SPAN",
-    "visibleText": [
-      "Wish",
-      "List"
-    ],
+    "visibleText": ["Wish", "List"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[2]/a[1]/span[1]"
   },
   {
     "alt": "",
     "area": 4329,
-    "classList": [
-      "ng-item",
-      "nav-pinfo-item",
-      "nav-user-account"
-    ],
+    "classList": ["ng-item", "nav-pinfo-item", "nav-user-account"],
     "href": "",
     "id": "nav-user-account",
     "idxpath": "//*[@id='nav-user-account']",
@@ -1095,17 +985,13 @@
     ],
     "shape": 284,
     "tag": "DIV",
-    "visibleText": [
-      "Account"
-    ],
+    "visibleText": ["Account"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]"
   },
   {
     "alt": "",
     "area": 4329,
-    "classList": [
-      "user-account-port"
-    ],
+    "classList": ["user-account-port"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-user-account']/span[1]",
@@ -1147,9 +1033,7 @@
     ],
     "shape": 284,
     "tag": "SPAN",
-    "visibleText": [
-      "Account"
-    ],
+    "visibleText": ["Account"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]/span[1]"
   },
   {
@@ -1198,17 +1082,13 @@
     ],
     "shape": 593,
     "tag": "A",
-    "visibleText": [
-      "Account"
-    ],
+    "visibleText": ["Account"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]/span[1]/a[1]"
   },
   {
     "alt": "",
     "area": 944,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='nav-user-account']/span[1]/a[1]/span[1]",
@@ -1250,20 +1130,13 @@
     ],
     "shape": 368,
     "tag": "SPAN",
-    "visibleText": [
-      "Account"
-    ],
+    "visibleText": ["Account"],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]/span[1]/a[1]/span[1]"
   },
   {
     "alt": "",
     "area": 172032,
-    "classList": [
-      "header",
-      "header-outer-container",
-      "header-special-container",
-      "header-tag-home"
-    ],
+    "classList": ["header", "header-outer-container", "header-special-container", "header-tag-home"],
     "href": "",
     "id": "header",
     "idxpath": "//*[@id='header']",
@@ -1308,10 +1181,7 @@
   {
     "alt": "",
     "area": 115200,
-    "classList": [
-      "header-wrap",
-      "container"
-    ],
+    "classList": ["header-wrap", "container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]",
@@ -1356,10 +1226,7 @@
   {
     "alt": "",
     "area": 24576,
-    "classList": [
-      "hm-left",
-      "hm-left-store"
-    ],
+    "classList": ["hm-left", "hm-left-store"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[1]",
@@ -1406,21 +1273,13 @@
     ],
     "shape": 266,
     "tag": "DIV",
-    "visibleText": [
-      "AliExpress",
-      "Smarter",
-      "Shopping,",
-      "Better",
-      "Living!"
-    ],
+    "visibleText": ["AliExpress", "Smarter", "Shopping,", "Better", "Living!"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 23040,
-    "classList": [
-      "site-logo"
-    ],
+    "classList": ["site-logo"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[1]/div[2]",
@@ -1467,13 +1326,7 @@
     ],
     "shape": 250,
     "tag": "DIV",
-    "visibleText": [
-      "AliExpress",
-      "Smarter",
-      "Shopping,",
-      "Better",
-      "Living!"
-    ],
+    "visibleText": ["AliExpress", "Smarter", "Shopping,", "Better", "Living!"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]"
   },
   {
@@ -1526,21 +1379,13 @@
     ],
     "shape": 315,
     "tag": "A",
-    "visibleText": [
-      "AliExpress",
-      "Smarter",
-      "Shopping,",
-      "Better",
-      "Living!"
-    ],
+    "visibleText": ["AliExpress", "Smarter", "Shopping,", "Better", "Living!"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]"
   },
   {
     "alt": "",
     "area": 6640,
-    "classList": [
-      "logo-base"
-    ],
+    "classList": ["logo-base"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[1]/div[2]/a[1]/span[1]",
@@ -1568,17 +1413,13 @@
     ],
     "shape": 415,
     "tag": "SPAN",
-    "visibleText": [
-      "AliExpress"
-    ],
+    "visibleText": ["AliExpress"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]/span[1]"
   },
   {
     "alt": "",
     "area": 3600,
-    "classList": [
-      "logo-slogan"
-    ],
+    "classList": ["logo-slogan"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[1]/div[2]/a[1]/span[2]",
@@ -1617,20 +1458,13 @@
     ],
     "shape": 1600,
     "tag": "SPAN",
-    "visibleText": [
-      "Smarter",
-      "Shopping,",
-      "Better",
-      "Living!"
-    ],
+    "visibleText": ["Smarter", "Shopping,", "Better", "Living!"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]/span[2]"
   },
   {
     "alt": "",
     "area": 15600,
-    "classList": [
-      "hm-right"
-    ],
+    "classList": ["hm-right"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[2]",
@@ -1695,17 +1529,13 @@
     ],
     "shape": 433,
     "tag": "DIV",
-    "visibleText": [
-      "0"
-    ],
+    "visibleText": ["0"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]"
   },
   {
     "alt": "",
     "area": 8640,
-    "classList": [
-      "header-right-content"
-    ],
+    "classList": ["header-right-content"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[2]/div[1]",
@@ -1753,17 +1583,13 @@
     ],
     "shape": 666,
     "tag": "DIV",
-    "visibleText": [
-      "0"
-    ],
+    "visibleText": ["0"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 1024,
-    "classList": [
-      "right-shopcart"
-    ],
+    "classList": ["right-shopcart"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[2]/div[1]/div[1]",
@@ -1804,9 +1630,7 @@
     ],
     "shape": 100,
     "tag": "DIV",
-    "visibleText": [
-      "0"
-    ],
+    "visibleText": ["0"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[1]"
   },
   {
@@ -1854,17 +1678,13 @@
     ],
     "shape": 177,
     "tag": "A",
-    "visibleText": [
-      "0"
-    ],
+    "visibleText": ["0"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[1]/a[1]"
   },
   {
     "alt": "",
     "area": 400,
-    "classList": [
-      "right-cart-number"
-    ],
+    "classList": ["right-cart-number"],
     "href": "",
     "id": "right-cart-num",
     "idxpath": "//*[@id='right-cart-num']",
@@ -1902,17 +1722,13 @@
     ],
     "shape": 100,
     "tag": "SPAN",
-    "visibleText": [
-      "0"
-    ],
+    "visibleText": ["0"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]"
   },
   {
     "alt": "",
     "area": 94800,
-    "classList": [
-      "hm-middle"
-    ],
+    "classList": ["hm-middle"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[3]",
@@ -1951,9 +1767,7 @@
   {
     "alt": "",
     "area": 6444,
-    "classList": [
-      "searchbar-operate-box"
-    ],
+    "classList": ["searchbar-operate-box"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='form-searchbar']/div[1]",
@@ -2002,19 +1816,13 @@
     ],
     "shape": 497,
     "tag": "DIV",
-    "visibleText": [
-      "All",
-      "Categories"
-    ],
+    "visibleText": ["All", "Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]"
   },
   {
     "alt": "",
     "area": 5004,
-    "classList": [
-      "search-category",
-      "hidden-sm"
-    ],
+    "classList": ["search-category", "hidden-sm"],
     "href": "",
     "id": "search-cate",
     "idxpath": "//*[@id='search-cate']",
@@ -2063,18 +1871,13 @@
     ],
     "shape": 386,
     "tag": "DIV",
-    "visibleText": [
-      "All",
-      "Categories"
-    ],
+    "visibleText": ["All", "Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 5282,
-    "classList": [
-      "search-cate-title"
-    ],
+    "classList": ["search-cate-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search-cate']/div[1]",
@@ -2123,18 +1926,13 @@
     ],
     "shape": 365,
     "tag": "DIV",
-    "visibleText": [
-      "All",
-      "Categories"
-    ],
+    "visibleText": ["All", "Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 2340,
-    "classList": [
-      "search-category-value"
-    ],
+    "classList": ["search-category-value"],
     "href": "",
     "id": "search-category-value",
     "idxpath": "//*[@id='search-category-value']",
@@ -2175,18 +1973,13 @@
     ],
     "shape": 346,
     "tag": "SPAN",
-    "visibleText": [
-      "All",
-      "Categories"
-    ],
+    "visibleText": ["All", "Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/span[1]"
   },
   {
     "alt": "",
     "area": 1440,
-    "classList": [
-      "search-button"
-    ],
+    "classList": ["search-button"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='form-searchbar']/div[1]/input[1]",
@@ -2227,17 +2020,13 @@
     ],
     "shape": 111,
     "tag": "INPUT",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/input[1]"
   },
   {
     "alt": "",
     "area": 18180,
-    "classList": [
-      "search-key-box"
-    ],
+    "classList": ["search-key-box"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='form-searchbar']/div[2]",
@@ -2302,17 +2091,13 @@
     ],
     "shape": 1402,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[2]"
   },
   {
     "alt": "",
     "area": 15584,
-    "classList": [
-      "search-key"
-    ],
+    "classList": ["search-key"],
     "href": "",
     "id": "search-key",
     "idxpath": "//*[@id='search-key']",
@@ -2377,18 +2162,13 @@
     ],
     "shape": 1521,
     "tag": "INPUT",
-    "visibleText": [
-      "harry",
-      "potter"
-    ],
+    "visibleText": ["harry", "potter"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[2]/input[1]"
   },
   {
     "alt": "",
     "area": 15104,
-    "classList": [
-      "hot-words"
-    ],
+    "classList": ["hot-words"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header']/div[1]/div[3]/div[1]",
@@ -2455,10 +2235,7 @@
     ],
     "shape": 393,
     "tag": "A",
-    "visibleText": [
-      "peppa",
-      "pig"
-    ],
+    "visibleText": ["peppa", "pig"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[1]"
   },
   {
@@ -2476,24 +2253,10 @@
       "y": 103
     },
     "name": "",
-    "neighborText": [
-      "sweter",
-      "women",
-      "Flash",
-      "DealsLIVENew",
-      "User",
-      "Zone",
-      "peppa",
-      "pig"
-    ],
+    "neighborText": ["sweter", "women", "Flash", "DealsLIVENew", "User", "Zone", "peppa", "pig"],
     "shape": 781,
     "tag": "A",
-    "visibleText": [
-      "ajax",
-      "2020",
-      "2021",
-      "kids"
-    ],
+    "visibleText": ["ajax", "2020", "2021", "kids"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[2]"
   },
   {
@@ -2527,10 +2290,7 @@
     ],
     "shape": 612,
     "tag": "A",
-    "visibleText": [
-      "sweter",
-      "women"
-    ],
+    "visibleText": ["sweter", "women"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[3]"
   },
   {
@@ -2565,11 +2325,7 @@
     ],
     "shape": 737,
     "tag": "A",
-    "visibleText": [
-      "pyama",
-      "woman",
-      "set"
-    ],
+    "visibleText": ["pyama", "woman", "set"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[4]"
   },
   {
@@ -2587,33 +2343,16 @@
       "y": 103
     },
     "name": "",
-    "neighborText": [
-      "All",
-      "Categories",
-      "Flash",
-      "DealsLIVENew",
-      "User",
-      "Zone",
-      "pyama",
-      "woman",
-      "set"
-    ],
+    "neighborText": ["All", "Categories", "Flash", "DealsLIVENew", "User", "Zone", "pyama", "woman", "set"],
     "shape": 768,
     "tag": "A",
-    "visibleText": [
-      "apple",
-      "watch",
-      "serie",
-      "5"
-    ],
+    "visibleText": ["apple", "watch", "serie", "5"],
     "xpath": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/div[1]/a[5]"
   },
   {
     "alt": "",
     "area": 4562432,
-    "classList": [
-      "page-container"
-    ],
+    "classList": ["page-container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]",
@@ -2812,9 +2551,7 @@
   {
     "alt": "",
     "area": 924672,
-    "classList": [
-      "home-firstscreen"
-    ],
+    "classList": ["home-firstscreen"],
     "href": "",
     "id": "home-firstscreen",
     "idxpath": "//*[@id='home-firstscreen']",
@@ -2884,9 +2621,7 @@
   {
     "alt": "",
     "area": 71680,
-    "classList": [
-      "home-firstscreen-top-bar"
-    ],
+    "classList": ["home-firstscreen-top-bar"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[1]",
@@ -2901,17 +2636,13 @@
     "neighborText": [],
     "shape": 4480,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 571200,
-    "classList": [
-      "container"
-    ],
+    "classList": ["container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]",
@@ -2981,9 +2712,7 @@
   {
     "alt": "",
     "area": 619200,
-    "classList": [
-      "home-firstscreen-main"
-    ],
+    "classList": ["home-firstscreen-main"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]",
@@ -3053,9 +2782,7 @@
   {
     "alt": "",
     "area": 37760,
-    "classList": [
-      "channel-entrance"
-    ],
+    "classList": ["channel-entrance"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[1]",
@@ -3070,12 +2797,7 @@
     "neighborText": [],
     "shape": 2360,
     "tag": "DIV",
-    "visibleText": [
-      "Flash",
-      "DealsLIVENew",
-      "User",
-      "Zone"
-    ],
+    "visibleText": ["Flash", "DealsLIVENew", "User", "Zone"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]"
   },
   {
@@ -3131,10 +2853,7 @@
     ],
     "shape": 210,
     "tag": "A",
-    "visibleText": [
-      "Flash",
-      "Deals"
-    ],
+    "visibleText": ["Flash", "Deals"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/a[1]"
   },
   {
@@ -3190,9 +2909,7 @@
     ],
     "shape": 77,
     "tag": "A",
-    "visibleText": [
-      "LIVE"
-    ],
+    "visibleText": ["LIVE"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/a[2]"
   },
   {
@@ -3244,19 +2961,13 @@
     ],
     "shape": 282,
     "tag": "A",
-    "visibleText": [
-      "New",
-      "User",
-      "Zone"
-    ],
+    "visibleText": ["New", "User", "Zone"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/a[3]"
   },
   {
     "alt": "",
     "area": 123840,
-    "classList": [
-      "categories"
-    ],
+    "classList": ["categories"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]",
@@ -3322,11 +3033,7 @@
   {
     "alt": "",
     "area": 123360,
-    "classList": [
-      "categories-main",
-      "new-categories-main",
-      "categories-main-home"
-    ],
+    "classList": ["categories-main", "new-categories-main", "categories-main-home"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]",
@@ -3392,9 +3099,7 @@
   {
     "alt": "",
     "area": 9600,
-    "classList": [
-      "categories-content-title"
-    ],
+    "classList": ["categories-content-title"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[1]",
@@ -3439,9 +3144,7 @@
     ],
     "shape": 600,
     "tag": "DIV",
-    "visibleText": [
-      "Categories"
-    ],
+    "visibleText": ["Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]"
   },
   {
@@ -3492,9 +3195,7 @@
     ],
     "shape": 500,
     "tag": "A",
-    "visibleText": [
-      "Categories"
-    ],
+    "visibleText": ["Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]"
   },
   {
@@ -3541,17 +3242,13 @@
     ],
     "shape": 172,
     "tag": "SPAN",
-    "visibleText": [
-      "Categories"
-    ],
+    "visibleText": ["Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]"
   },
   {
     "alt": "",
     "area": 113760,
-    "classList": [
-      "categories-list-box"
-    ],
+    "classList": ["categories-list-box"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[2]/div[1]/div[2]",
@@ -3665,10 +3362,7 @@
     ],
     "shape": 558,
     "tag": "SPAN",
-    "visibleText": [
-      "Women's",
-      "Fashion"
-    ],
+    "visibleText": ["Women's", "Fashion"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]"
   },
   {
@@ -3686,17 +3380,10 @@
       "y": 188
     },
     "name": "",
-    "neighborText": [
-      "Categories",
-      "Men's",
-      "Fashion"
-    ],
+    "neighborText": ["Categories", "Men's", "Fashion"],
     "shape": 588,
     "tag": "A",
-    "visibleText": [
-      "Women's",
-      "Fashion"
-    ],
+    "visibleText": ["Women's", "Fashion"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]/a[1]"
   },
   {
@@ -3732,10 +3419,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Men's",
-      "Fashion"
-    ],
+    "visibleText": ["Men's", "Fashion"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]"
   },
   {
@@ -3753,19 +3437,10 @@
       "y": 226
     },
     "name": "",
-    "neighborText": [
-      "Women's",
-      "Fashion",
-      "Phones",
-      "&",
-      "Telecommunications"
-    ],
+    "neighborText": ["Women's", "Fashion", "Phones", "&", "Telecommunications"],
     "shape": 477,
     "tag": "A",
-    "visibleText": [
-      "Men's",
-      "Fashion"
-    ],
+    "visibleText": ["Men's", "Fashion"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]/a[1]"
   },
   {
@@ -3797,11 +3472,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Phones",
-      "&",
-      "Telecommunications"
-    ],
+    "visibleText": ["Phones", "&", "Telecommunications"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]"
   },
   {
@@ -3819,23 +3490,10 @@
       "y": 261
     },
     "name": "",
-    "neighborText": [
-      "Women's",
-      "Fashion",
-      "Men's",
-      "Fashion",
-      "Computer,",
-      "Office",
-      "&",
-      "Security"
-    ],
+    "neighborText": ["Women's", "Fashion", "Men's", "Fashion", "Computer,", "Office", "&", "Security"],
     "shape": 1033,
     "tag": "A",
-    "visibleText": [
-      "Phones",
-      "&",
-      "Telecommunications"
-    ],
+    "visibleText": ["Phones", "&", "Telecommunications"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]/a[1]"
   },
   {
@@ -3867,12 +3525,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Computer,",
-      "Office",
-      "&",
-      "Security"
-    ],
+    "visibleText": ["Computer,", "Office", "&", "Security"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]"
   },
   {
@@ -3890,21 +3543,10 @@
       "y": 296
     },
     "name": "",
-    "neighborText": [
-      "Men's",
-      "Fashion",
-      "Phones",
-      "&",
-      "Telecommunications",
-      "Office",
-      "Consumer",
-      "Electronics"
-    ],
+    "neighborText": ["Men's", "Fashion", "Phones", "&", "Telecommunications", "Office", "Consumer", "Electronics"],
     "shape": 338,
     "tag": "A",
-    "visibleText": [
-      "Computer"
-    ],
+    "visibleText": ["Computer"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]/a[1]"
   },
   {
@@ -3935,9 +3577,7 @@
     ],
     "shape": 194,
     "tag": "A",
-    "visibleText": [
-      "Office"
-    ],
+    "visibleText": ["Office"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]/a[2]"
   },
   {
@@ -3955,21 +3595,10 @@
       "y": 296
     },
     "name": "",
-    "neighborText": [
-      "Men's",
-      "Fashion",
-      "Phones",
-      "&",
-      "Telecommunications",
-      "Office",
-      "Consumer",
-      "Electronics"
-    ],
+    "neighborText": ["Men's", "Fashion", "Phones", "&", "Telecommunications", "Office", "Consumer", "Electronics"],
     "shape": 266,
     "tag": "A",
-    "visibleText": [
-      "Security"
-    ],
+    "visibleText": ["Security"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]/a[3]"
   },
   {
@@ -4005,10 +3634,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Consumer",
-      "Electronics"
-    ],
+    "visibleText": ["Consumer", "Electronics"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]"
   },
   {
@@ -4040,10 +3666,7 @@
     ],
     "shape": 727,
     "tag": "A",
-    "visibleText": [
-      "Consumer",
-      "Electronics"
-    ],
+    "visibleText": ["Consumer", "Electronics"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4078,11 +3701,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Jewelry",
-      "&",
-      "Watches"
-    ],
+    "visibleText": ["Jewelry", "&", "Watches"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]"
   },
   {
@@ -4115,9 +3734,7 @@
     ],
     "shape": 238,
     "tag": "A",
-    "visibleText": [
-      "Jewelry"
-    ],
+    "visibleText": ["Jewelry"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4150,9 +3767,7 @@
     ],
     "shape": 283,
     "tag": "A",
-    "visibleText": [
-      "Watches"
-    ],
+    "visibleText": ["Watches"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[2]"
   },
   {
@@ -4187,12 +3802,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Home,",
-      "Pet",
-      "&",
-      "Appliances"
-    ],
+    "visibleText": ["Home,", "Pet", "&", "Appliances"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]"
   },
   {
@@ -4210,22 +3820,10 @@
       "y": 401
     },
     "name": "",
-    "neighborText": [
-      "Consumer",
-      "Electronics",
-      "Jewelry",
-      "&",
-      "Watches",
-      "Pet",
-      "Bags",
-      "&",
-      "Shoes"
-    ],
+    "neighborText": ["Consumer", "Electronics", "Jewelry", "&", "Watches", "Pet", "Bags", "&", "Shoes"],
     "shape": 200,
     "tag": "A",
-    "visibleText": [
-      "Home"
-    ],
+    "visibleText": ["Home"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4243,23 +3841,10 @@
       "y": 401
     },
     "name": "",
-    "neighborText": [
-      "Consumer",
-      "Electronics",
-      "Jewelry",
-      "&",
-      "Watches",
-      "Appliances",
-      "Bags",
-      "&",
-      "Shoes",
-      "Home"
-    ],
+    "neighborText": ["Consumer", "Electronics", "Jewelry", "&", "Watches", "Appliances", "Bags", "&", "Shoes", "Home"],
     "shape": 105,
     "tag": "A",
-    "visibleText": [
-      "Pet"
-    ],
+    "visibleText": ["Pet"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[2]"
   },
   {
@@ -4277,23 +3862,10 @@
       "y": 401
     },
     "name": "",
-    "neighborText": [
-      "Consumer",
-      "Electronics",
-      "Jewelry",
-      "&",
-      "Watches",
-      "Home",
-      "Bags",
-      "&",
-      "Shoes",
-      "Pet"
-    ],
+    "neighborText": ["Consumer", "Electronics", "Jewelry", "&", "Watches", "Home", "Bags", "&", "Shoes", "Pet"],
     "shape": 361,
     "tag": "A",
-    "visibleText": [
-      "Appliances"
-    ],
+    "visibleText": ["Appliances"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[3]"
   },
   {
@@ -4331,11 +3903,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Bags",
-      "&",
-      "Shoes"
-    ],
+    "visibleText": ["Bags", "&", "Shoes"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]"
   },
   {
@@ -4370,9 +3938,7 @@
     ],
     "shape": 155,
     "tag": "A",
-    "visibleText": [
-      "Bags"
-    ],
+    "visibleText": ["Bags"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4407,9 +3973,7 @@
     ],
     "shape": 200,
     "tag": "A",
-    "visibleText": [
-      "Shoes"
-    ],
+    "visibleText": ["Shoes"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[2]"
   },
   {
@@ -4446,13 +4010,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Toys",
-      ",",
-      "Kids",
-      "&",
-      "Babies"
-    ],
+    "visibleText": ["Toys", ",", "Kids", "&", "Babies"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]"
   },
   {
@@ -4488,9 +4046,7 @@
     ],
     "shape": 144,
     "tag": "A",
-    "visibleText": [
-      "Toys"
-    ],
+    "visibleText": ["Toys"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4508,27 +4064,10 @@
       "y": 471
     },
     "name": "",
-    "neighborText": [
-      "Home,",
-      "Pet",
-      "&",
-      "Appliances",
-      "Bags",
-      "&",
-      "Shoes",
-      "Outdoor",
-      "Fun",
-      "&",
-      "Sports",
-      "Toys"
-    ],
+    "neighborText": ["Home,", "Pet", "&", "Appliances", "Bags", "&", "Shoes", "Outdoor", "Fun", "&", "Sports", "Toys"],
     "shape": 455,
     "tag": "A",
-    "visibleText": [
-      "Kids",
-      "&",
-      "Babies"
-    ],
+    "visibleText": ["Kids", "&", "Babies"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[2]"
   },
   {
@@ -4565,12 +4104,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Outdoor",
-      "Fun",
-      "&",
-      "Sports"
-    ],
+    "visibleText": ["Outdoor", "Fun", "&", "Sports"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]"
   },
   {
@@ -4588,28 +4122,10 @@
       "y": 506
     },
     "name": "",
-    "neighborText": [
-      "Bags",
-      "&",
-      "Shoes",
-      "Toys",
-      ",",
-      "Kids",
-      "&",
-      "Babies",
-      "Beauty,",
-      "Health",
-      "&",
-      "Hair"
-    ],
+    "neighborText": ["Bags", "&", "Shoes", "Toys", ",", "Kids", "&", "Babies", "Beauty,", "Health", "&", "Hair"],
     "shape": 738,
     "tag": "A",
-    "visibleText": [
-      "Outdoor",
-      "Fun",
-      "&",
-      "Sports"
-    ],
+    "visibleText": ["Outdoor", "Fun", "&", "Sports"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4647,12 +4163,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Beauty,",
-      "Health",
-      "&",
-      "Hair"
-    ],
+    "visibleText": ["Beauty,", "Health", "&", "Hair"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]"
   },
   {
@@ -4687,10 +4198,7 @@
     ],
     "shape": 488,
     "tag": "A",
-    "visibleText": [
-      "Beauty,",
-      "Health"
-    ],
+    "visibleText": ["Beauty,", "Health"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4726,9 +4234,7 @@
     ],
     "shape": 138,
     "tag": "A",
-    "visibleText": [
-      "Hair"
-    ],
+    "visibleText": ["Hair"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]/a[2]"
   },
   {
@@ -4762,11 +4268,7 @@
     ],
     "shape": 685,
     "tag": "SPAN",
-    "visibleText": [
-      "Automobiles",
-      "&",
-      "Motorcycles"
-    ],
+    "visibleText": ["Automobiles", "&", "Motorcycles"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]"
   },
   {
@@ -4800,11 +4302,7 @@
     ],
     "shape": 916,
     "tag": "A",
-    "visibleText": [
-      "Automobiles",
-      "&",
-      "Motorcycles"
-    ],
+    "visibleText": ["Automobiles", "&", "Motorcycles"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4822,23 +4320,10 @@
       "y": 602
     },
     "name": null,
-    "neighborText": [
-      "Beauty,",
-      "Health",
-      "&",
-      "Hair",
-      "Automobiles",
-      "&",
-      "Motorcycles"
-    ],
+    "neighborText": ["Beauty,", "Health", "&", "Hair", "Automobiles", "&", "Motorcycles"],
     "shape": 521,
     "tag": "SPAN",
-    "visibleText": [
-      "Home",
-      "Improvement",
-      "&",
-      "Tools"
-    ],
+    "visibleText": ["Home", "Improvement", "&", "Tools"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]"
   },
   {
@@ -4856,22 +4341,10 @@
       "y": 611
     },
     "name": "",
-    "neighborText": [
-      "Beauty,",
-      "Health",
-      "&",
-      "Hair",
-      "Automobiles",
-      "&",
-      "Motorcycles",
-      "Tools"
-    ],
+    "neighborText": ["Beauty,", "Health", "&", "Hair", "Automobiles", "&", "Motorcycles", "Tools"],
     "shape": 677,
     "tag": "A",
-    "visibleText": [
-      "Home",
-      "Improvement"
-    ],
+    "visibleText": ["Home", "Improvement"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]/a[1]"
   },
   {
@@ -4889,30 +4362,16 @@
       "y": 611
     },
     "name": "",
-    "neighborText": [
-      "Beauty,",
-      "Health",
-      "&",
-      "Hair",
-      "Automobiles",
-      "&",
-      "Motorcycles",
-      "Home",
-      "Improvement"
-    ],
+    "neighborText": ["Beauty,", "Health", "&", "Hair", "Automobiles", "&", "Motorcycles", "Home", "Improvement"],
     "shape": 172,
     "tag": "A",
-    "visibleText": [
-      "Tools"
-    ],
+    "visibleText": ["Tools"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]/a[2]"
   },
   {
     "alt": "",
     "area": 456960,
-    "classList": [
-      "advertise-main"
-    ],
+    "classList": ["advertise-main"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='home-firstscreen']/div[2]/div[1]/div[3]",
@@ -4927,18 +4386,13 @@
     "neighborText": [],
     "shape": 201,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]"
   },
   {
     "alt": "",
     "area": 221040,
-    "classList": [
-      "ui-banner-slider",
-      "key-visual-main"
-    ],
+    "classList": ["ui-banner-slider", "key-visual-main"],
     "href": "",
     "id": "key-visual-main",
     "idxpath": "//*[@id='key-visual-main']",
@@ -4953,17 +4407,13 @@
     "neighborText": [],
     "shape": 234,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]"
   },
   {
     "alt": "",
     "area": 567600,
-    "classList": [
-      "ui-banner-slider-wrap"
-    ],
+    "classList": ["ui-banner-slider-wrap"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='key-visual-main']/div[1]",
@@ -4978,17 +4428,13 @@
     "neighborText": [],
     "shape": 83,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 567600,
-    "classList": [
-      "ui-banner-slider-container"
-    ],
+    "classList": ["ui-banner-slider-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='key-visual-main']/div[1]/div[1]",
@@ -5003,9 +4449,7 @@
     "neighborText": [],
     "shape": 83,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]"
   },
   {
@@ -5026,9 +4470,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]"
   },
   {
@@ -5049,9 +4491,7 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
   },
   {
@@ -5072,9 +4512,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]"
   },
   {
@@ -5095,9 +4533,7 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
   },
   {
@@ -5118,9 +4554,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]"
   },
   {
@@ -5141,9 +4575,7 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
   },
   {
@@ -5164,9 +4596,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]"
   },
   {
@@ -5187,9 +4617,7 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]"
   },
   {
@@ -5210,9 +4638,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]"
   },
   {
@@ -5233,9 +4659,7 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]"
   },
   {
@@ -5256,9 +4680,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]"
   },
   {
@@ -5279,9 +4701,7 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]"
   },
   {
@@ -5302,9 +4722,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]"
   },
   {
@@ -5325,9 +4743,7 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[7]/a[1]"
   },
   {
@@ -5348,9 +4764,7 @@
     "neighborText": [],
     "shape": 250,
     "tag": "LI",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]"
   },
   {
@@ -5371,17 +4785,13 @@
     "neighborText": [],
     "shape": 4300,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[8]/a[1]"
   },
   {
     "alt": "",
     "area": 144000,
-    "classList": [
-      "crowd-entrance"
-    ],
+    "classList": ["crowd-entrance"],
     "href": "",
     "id": "redesign-crowd-entrance",
     "idxpath": "//*[@id='redesign-crowd-entrance']",
@@ -5396,17 +4806,13 @@
     "neighborText": [],
     "shape": 360,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[2]"
   },
   {
     "alt": "",
     "area": 137600,
-    "classList": [
-      "loading"
-    ],
+    "classList": ["loading"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-crowd-entrance']/div[1]",
@@ -5421,17 +4827,13 @@
     "neighborText": [],
     "shape": 344,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 110400,
-    "classList": [
-      "user-benefits"
-    ],
+    "classList": ["user-benefits"],
     "href": "",
     "id": "user-benefits",
     "idxpath": "//*[@id='user-benefits']",
@@ -5446,19 +4848,13 @@
     "neighborText": [],
     "shape": 52,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]"
   },
   {
     "alt": "",
     "area": 338400,
-    "classList": [
-      "container",
-      "flashdeals-entry",
-      "container-radius"
-    ],
+    "classList": ["container", "flashdeals-entry", "container-radius"],
     "href": "",
     "id": "redesign-flash-deals",
     "idxpath": "//*[@id='redesign-flash-deals']",
@@ -5473,20 +4869,13 @@
     "neighborText": [],
     "shape": 425,
     "tag": "DIV",
-    "visibleText": [
-      "Flash",
-      "Deals",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Flash", "Deals", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]"
   },
   {
     "alt": "",
     "area": 61568,
-    "classList": [
-      "title-container"
-    ],
+    "classList": ["title-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-flash-deals']/div[1]",
@@ -5501,20 +4890,13 @@
     "neighborText": [],
     "shape": 2276,
     "tag": "DIV",
-    "visibleText": [
-      "Flash",
-      "Deals",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Flash", "Deals", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[1]"
   },
   {
     "alt": "",
     "area": 61568,
-    "classList": [
-      "hot-zone"
-    ],
+    "classList": ["hot-zone"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-flash-deals']/div[1]/a[1]",
@@ -5529,17 +4911,13 @@
     "neighborText": [],
     "shape": 2276,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[1]/a[1]"
   },
   {
     "alt": "",
     "area": 2160,
-    "classList": [
-      "title-info"
-    ],
+    "classList": ["title-info"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-flash-deals']/div[1]/div[1]",
@@ -5551,18 +4929,10 @@
       "y": 683
     },
     "name": null,
-    "neighborText": [
-      "Home",
-      "Improvement",
-      "&",
-      "Tools"
-    ],
+    "neighborText": ["Home", "Improvement", "&", "Tools"],
     "shape": 540,
     "tag": "DIV",
-    "visibleText": [
-      "Flash",
-      "Deals"
-    ],
+    "visibleText": ["Flash", "Deals"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[1]/div[1]"
   },
   {
@@ -5580,26 +4950,16 @@
       "y": 683
     },
     "name": null,
-    "neighborText": [
-      "Home",
-      "Improvement",
-      "&",
-      "Tools"
-    ],
+    "neighborText": ["Home", "Improvement", "&", "Tools"],
     "shape": 440,
     "tag": "H3",
-    "visibleText": [
-      "Flash",
-      "Deals"
-    ],
+    "visibleText": ["Flash", "Deals"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[1]/div[1]/h3[1]"
   },
   {
     "alt": "",
     "area": 1392,
-    "classList": [
-      "view-more"
-    ],
+    "classList": ["view-more"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-flash-deals']/div[1]/span[1]",
@@ -5614,10 +4974,7 @@
     "neighborText": [],
     "shape": 241,
     "tag": "SPAN",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[1]/span[1]"
   },
   {
@@ -5638,17 +4995,13 @@
     "neighborText": [],
     "shape": 543,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[2]"
   },
   {
     "alt": "",
     "area": 258112,
-    "classList": [
-      "loading"
-    ],
+    "classList": ["loading"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-flash-deals']/div[2]/div[1]",
@@ -5663,19 +5016,13 @@
     "neighborText": [],
     "shape": 543,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[4]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 302400,
-    "classList": [
-      "container",
-      "rank-entry",
-      "container-radius"
-    ],
+    "classList": ["container", "rank-entry", "container-radius"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]",
@@ -5690,20 +5037,13 @@
     "neighborText": [],
     "shape": 476,
     "tag": "DIV",
-    "visibleText": [
-      "Top",
-      "Ranking",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Top", "Ranking", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]"
   },
   {
     "alt": "",
     "area": 62400,
-    "classList": [
-      "title-container"
-    ],
+    "classList": ["title-container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]",
@@ -5718,20 +5058,13 @@
     "neighborText": [],
     "shape": 2307,
     "tag": "DIV",
-    "visibleText": [
-      "Top",
-      "Ranking",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Top", "Ranking", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]"
   },
   {
     "alt": "",
     "area": 62400,
-    "classList": [
-      "hot-zone"
-    ],
+    "classList": ["hot-zone"],
     "href": "https://sale.aliexpress.com/rankings_list.htm",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/a[1]",
@@ -5746,17 +5079,13 @@
     "neighborText": [],
     "shape": 2307,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/a[1]"
   },
   {
     "alt": "",
     "area": 1960,
-    "classList": [
-      "title-info"
-    ],
+    "classList": ["title-info"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/div[1]",
@@ -5771,10 +5100,7 @@
     "neighborText": [],
     "shape": 490,
     "tag": "DIV",
-    "visibleText": [
-      "Top",
-      "Ranking"
-    ],
+    "visibleText": ["Top", "Ranking"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/div[1]"
   },
   {
@@ -5795,18 +5121,13 @@
     "neighborText": [],
     "shape": 475,
     "tag": "H3",
-    "visibleText": [
-      "Top",
-      "Ranking"
-    ],
+    "visibleText": ["Top", "Ranking"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/div[1]/h3[1]"
   },
   {
     "alt": "",
     "area": 1392,
-    "classList": [
-      "view-more"
-    ],
+    "classList": ["view-more"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/span[1]",
@@ -5821,19 +5142,13 @@
     "neighborText": [],
     "shape": 241,
     "tag": "SPAN",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[1]/span[1]"
   },
   {
     "alt": "",
     "area": 240000,
-    "classList": [
-      "ui-slidebox",
-      "clearfix"
-    ],
+    "classList": ["ui-slidebox", "clearfix"],
     "href": "",
     "id": "rank-slidebox",
     "idxpath": "//*[@id='rank-slidebox']",
@@ -5848,17 +5163,13 @@
     "neighborText": [],
     "shape": 600,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[2]"
   },
   {
     "alt": "",
     "area": 240000,
-    "classList": [
-      "loading"
-    ],
+    "classList": ["loading"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='rank-slidebox']/div[1]",
@@ -5873,18 +5184,13 @@
     "neighborText": [],
     "shape": 600,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[6]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 302400,
-    "classList": [
-      "container",
-      "topselection-newforyou"
-    ],
+    "classList": ["container", "topselection-newforyou"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[7]",
@@ -5899,20 +5205,13 @@
     "neighborText": [],
     "shape": 476,
     "tag": "DIV",
-    "visibleText": [
-      "New",
-      "Arrivals",
-      "View",
-      "more"
-    ],
+    "visibleText": ["New", "Arrivals", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]"
   },
   {
     "alt": "",
     "area": 148932,
-    "classList": [
-      "right-container"
-    ],
+    "classList": ["right-container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]",
@@ -5927,21 +5226,13 @@
     "neighborText": [],
     "shape": 234,
     "tag": "DIV",
-    "visibleText": [
-      "New",
-      "Arrivals",
-      "View",
-      "more"
-    ],
+    "visibleText": ["New", "Arrivals", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]"
   },
   {
     "alt": "",
     "area": 148932,
-    "classList": [
-      "new-for-you",
-      "container-radius"
-    ],
+    "classList": ["new-for-you", "container-radius"],
     "href": "",
     "id": "redesign-new-for-you",
     "idxpath": "//*[@id='redesign-new-for-you']",
@@ -5956,20 +5247,13 @@
     "neighborText": [],
     "shape": 234,
     "tag": "DIV",
-    "visibleText": [
-      "New",
-      "Arrivals",
-      "View",
-      "more"
-    ],
+    "visibleText": ["New", "Arrivals", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 30732,
-    "classList": [
-      "title-container"
-    ],
+    "classList": ["title-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-new-for-you']/div[1]",
@@ -5984,20 +5268,13 @@
     "neighborText": [],
     "shape": 1136,
     "tag": "DIV",
-    "visibleText": [
-      "New",
-      "Arrivals",
-      "View",
-      "more"
-    ],
+    "visibleText": ["New", "Arrivals", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 30732,
-    "classList": [
-      "hot-zone"
-    ],
+    "classList": ["hot-zone"],
     "href": "https://campaign.aliexpress.com/wow/gf/newarrivals20201/index?wh_weex=true&wx_navbar_hidden=true&wx_navbar_transparent=true&ignoreNavigationBar=true&wx_statusbar_hidden=true",
     "id": "",
     "idxpath": "//*[@id='redesign-new-for-you']/div[1]/a[1]",
@@ -6012,17 +5289,13 @@
     "neighborText": [],
     "shape": 1136,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]/a[1]"
   },
   {
     "alt": "",
     "area": 2340,
-    "classList": [
-      "title-info"
-    ],
+    "classList": ["title-info"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-new-for-you']/div[1]/div[1]",
@@ -6037,10 +5310,7 @@
     "neighborText": [],
     "shape": 585,
     "tag": "DIV",
-    "visibleText": [
-      "New",
-      "Arrivals"
-    ],
+    "visibleText": ["New", "Arrivals"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]/div[1]"
   },
   {
@@ -6061,18 +5331,13 @@
     "neighborText": [],
     "shape": 485,
     "tag": "H3",
-    "visibleText": [
-      "New",
-      "Arrivals"
-    ],
+    "visibleText": ["New", "Arrivals"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]/div[1]/h3[1]"
   },
   {
     "alt": "",
     "area": 1392,
-    "classList": [
-      "view-more"
-    ],
+    "classList": ["view-more"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-new-for-you']/div[1]/span[1]",
@@ -6087,18 +5352,13 @@
     "neighborText": [],
     "shape": 241,
     "tag": "SPAN",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[1]/span[1]"
   },
   {
     "alt": "",
     "area": 118200,
-    "classList": [
-      "new-for-you-slider"
-    ],
+    "classList": ["new-for-you-slider"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-new-for-you']/div[2]",
@@ -6113,17 +5373,13 @@
     "neighborText": [],
     "shape": 295,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[2]"
   },
   {
     "alt": "",
     "area": 118200,
-    "classList": [
-      "loading"
-    ],
+    "classList": ["loading"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-new-for-you']/div[2]/div[1]",
@@ -6138,18 +5394,13 @@
     "neighborText": [],
     "shape": 295,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[7]/div[1]/div[1]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 302400,
-    "classList": [
-      "container",
-      "featuredbrand-store"
-    ],
+    "classList": ["container", "featuredbrand-store"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[8]",
@@ -6164,21 +5415,13 @@
     "neighborText": [],
     "shape": 476,
     "tag": "DIV",
-    "visibleText": [
-      "Stores",
-      "You'll",
-      "Love",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Stores", "You'll", "Love", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]"
   },
   {
     "alt": "",
     "area": 148932,
-    "classList": [
-      "right-container"
-    ],
+    "classList": ["right-container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]",
@@ -6193,22 +5436,13 @@
     "neighborText": [],
     "shape": 234,
     "tag": "DIV",
-    "visibleText": [
-      "Stores",
-      "You'll",
-      "Love",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Stores", "You'll", "Love", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]"
   },
   {
     "alt": "",
     "area": 148932,
-    "classList": [
-      "store-your-love",
-      "container-radius"
-    ],
+    "classList": ["store-your-love", "container-radius"],
     "href": "",
     "id": "redesign-store-your-love",
     "idxpath": "//*[@id='redesign-store-your-love']",
@@ -6223,21 +5457,13 @@
     "neighborText": [],
     "shape": 234,
     "tag": "DIV",
-    "visibleText": [
-      "Stores",
-      "You'll",
-      "Love",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Stores", "You'll", "Love", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 30732,
-    "classList": [
-      "title-container"
-    ],
+    "classList": ["title-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-store-your-love']/div[1]",
@@ -6252,21 +5478,13 @@
     "neighborText": [],
     "shape": 1136,
     "tag": "DIV",
-    "visibleText": [
-      "Stores",
-      "You'll",
-      "Love",
-      "View",
-      "more"
-    ],
+    "visibleText": ["Stores", "You'll", "Love", "View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 30732,
-    "classList": [
-      "hot-zone"
-    ],
+    "classList": ["hot-zone"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-store-your-love']/div[1]/a[1]",
@@ -6281,17 +5499,13 @@
     "neighborText": [],
     "shape": 1136,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[1]/a[1]"
   },
   {
     "alt": "",
     "area": 3060,
-    "classList": [
-      "title-info"
-    ],
+    "classList": ["title-info"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-store-your-love']/div[1]/div[1]",
@@ -6306,11 +5520,7 @@
     "neighborText": [],
     "shape": 765,
     "tag": "DIV",
-    "visibleText": [
-      "Stores",
-      "You'll",
-      "Love"
-    ],
+    "visibleText": ["Stores", "You'll", "Love"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[1]/div[1]"
   },
   {
@@ -6331,19 +5541,13 @@
     "neighborText": [],
     "shape": 665,
     "tag": "H3",
-    "visibleText": [
-      "Stores",
-      "You'll",
-      "Love"
-    ],
+    "visibleText": ["Stores", "You'll", "Love"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[1]/div[1]/h3[1]"
   },
   {
     "alt": "",
     "area": 1392,
-    "classList": [
-      "view-more"
-    ],
+    "classList": ["view-more"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-store-your-love']/div[1]/span[1]",
@@ -6358,18 +5562,13 @@
     "neighborText": [],
     "shape": 241,
     "tag": "SPAN",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[1]/span[1]"
   },
   {
     "alt": "",
     "area": 118200,
-    "classList": [
-      "product-container"
-    ],
+    "classList": ["product-container"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-store-your-love']/div[2]",
@@ -6384,17 +5583,13 @@
     "neighborText": [],
     "shape": 295,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[2]"
   },
   {
     "alt": "",
     "area": 118200,
-    "classList": [
-      "loading"
-    ],
+    "classList": ["loading"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-store-your-love']/div[2]/div[1]",
@@ -6409,18 +5604,13 @@
     "neighborText": [],
     "shape": 295,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[8]/div[2]/div[1]/div[2]/div[1]"
   },
   {
     "alt": "",
     "area": 67200,
-    "classList": [
-      "container",
-      "featured-title"
-    ],
+    "classList": ["container", "featured-title"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[9]",
@@ -6435,18 +5625,13 @@
     "neighborText": [],
     "shape": 2142,
     "tag": "DIV",
-    "visibleText": [
-      "Featured",
-      "Categories"
-    ],
+    "visibleText": ["Featured", "Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[9]"
   },
   {
     "alt": "",
     "area": 67200,
-    "classList": [
-      "title-main"
-    ],
+    "classList": ["title-main"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[9]/h2[1]",
@@ -6461,19 +5646,13 @@
     "neighborText": [],
     "shape": 2142,
     "tag": "H2",
-    "visibleText": [
-      "Featured",
-      "Categories"
-    ],
+    "visibleText": ["Featured", "Categories"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[9]/h2[1]"
   },
   {
     "alt": "",
     "area": 240000,
-    "classList": [
-      "container",
-      "featured-category"
-    ],
+    "classList": ["container", "featured-category"],
     "href": "",
     "id": "redesign-featured-category",
     "idxpath": "//*[@id='redesign-featured-category']",
@@ -6488,17 +5667,13 @@
     "neighborText": [],
     "shape": 600,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[10]"
   },
   {
     "alt": "",
     "area": 240000,
-    "classList": [
-      "featured-category-slider"
-    ],
+    "classList": ["featured-category-slider"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-featured-category']/div[1]",
@@ -6513,17 +5688,13 @@
     "neighborText": [],
     "shape": 600,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[10]/div[1]"
   },
   {
     "alt": "",
     "area": 240000,
-    "classList": [
-      "loading"
-    ],
+    "classList": ["loading"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-featured-category']/div[1]/div[1]",
@@ -6538,18 +5709,13 @@
     "neighborText": [],
     "shape": 600,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[10]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 67200,
-    "classList": [
-      "container",
-      "just-for-title"
-    ],
+    "classList": ["container", "just-for-title"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[11]",
@@ -6564,19 +5730,13 @@
     "neighborText": [],
     "shape": 2142,
     "tag": "DIV",
-    "visibleText": [
-      "More",
-      "To",
-      "Love"
-    ],
+    "visibleText": ["More", "To", "Love"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[11]"
   },
   {
     "alt": "",
     "area": 67200,
-    "classList": [
-      "title-main"
-    ],
+    "classList": ["title-main"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[11]/h2[1]",
@@ -6591,20 +5751,13 @@
     "neighborText": [],
     "shape": 2142,
     "tag": "H2",
-    "visibleText": [
-      "More",
-      "To",
-      "Love"
-    ],
+    "visibleText": ["More", "To", "Love"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[11]/h2[1]"
   },
   {
     "alt": "",
     "area": 258000,
-    "classList": [
-      "container",
-      "just-for-you-entrance"
-    ],
+    "classList": ["container", "just-for-you-entrance"],
     "href": "",
     "id": "redesign-just-for-you",
     "idxpath": "//*[@id='redesign-just-for-you']",
@@ -6619,18 +5772,13 @@
     "neighborText": [],
     "shape": 558,
     "tag": "DIV",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[12]"
   },
   {
     "alt": "",
     "area": 258000,
-    "classList": [
-      "action-point"
-    ],
+    "classList": ["action-point"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-just-for-you']/div[1]",
@@ -6645,18 +5793,13 @@
     "neighborText": [],
     "shape": 558,
     "tag": "DIV",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[12]/div[1]"
   },
   {
     "alt": "",
     "area": 240000,
-    "classList": [
-      "loading"
-    ],
+    "classList": ["loading"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-just-for-you']/div[1]/div[1]",
@@ -6671,17 +5814,13 @@
     "neighborText": [],
     "shape": 600,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[12]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 18000,
-    "classList": [
-      "show-more"
-    ],
+    "classList": ["show-more"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-just-for-you']/div[1]/div[2]",
@@ -6696,18 +5835,13 @@
     "neighborText": [],
     "shape": 8000,
     "tag": "DIV",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[12]/div[1]/div[2]"
   },
   {
     "alt": "",
     "area": 928,
-    "classList": [
-      "text"
-    ],
+    "classList": ["text"],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='redesign-just-for-you']/div[1]/div[2]/span[1]",
@@ -6722,18 +5856,13 @@
     "neighborText": [],
     "shape": 362,
     "tag": "SPAN",
-    "visibleText": [
-      "View",
-      "more"
-    ],
+    "visibleText": ["View", "more"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[12]/div[1]/div[2]/span[1]"
   },
   {
     "alt": "",
     "area": 412160,
-    "classList": [
-      "site-server-box"
-    ],
+    "classList": ["site-server-box"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]",
@@ -6832,9 +5961,7 @@
   {
     "alt": "",
     "area": 273600,
-    "classList": [
-      "container"
-    ],
+    "classList": ["container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]",
@@ -6933,9 +6060,7 @@
   {
     "alt": "",
     "area": 45600,
-    "classList": [
-      "site-item"
-    ],
+    "classList": ["site-item"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[1]",
@@ -6985,10 +6110,7 @@
     "neighborText": [],
     "shape": 660,
     "tag": "H3",
-    "visibleText": [
-      "Great",
-      "Value"
-    ],
+    "visibleText": ["Great", "Value"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[1]/h3[1]"
   },
   {
@@ -7009,27 +6131,13 @@
     "neighborText": [],
     "shape": 300,
     "tag": "P",
-    "visibleText": [
-      "We",
-      "offer",
-      "competitive",
-      "prices",
-      "on",
-      "our",
-      "100",
-      "million",
-      "plus",
-      "product",
-      "range."
-    ],
+    "visibleText": ["We", "offer", "competitive", "prices", "on", "our", "100", "million", "plus", "product", "range."],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[1]/p[1]"
   },
   {
     "alt": "",
     "area": 45600,
-    "classList": [
-      "site-item"
-    ],
+    "classList": ["site-item"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[2]",
@@ -7081,10 +6189,7 @@
     "neighborText": [],
     "shape": 663,
     "tag": "H3",
-    "visibleText": [
-      "Worldwide",
-      "Delivery"
-    ],
+    "visibleText": ["Worldwide", "Delivery"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[2]/h3[1]"
   },
   {
@@ -7125,9 +6230,7 @@
   {
     "alt": "",
     "area": 45600,
-    "classList": [
-      "site-item"
-    ],
+    "classList": ["site-item"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[3]",
@@ -7176,10 +6279,7 @@
     "neighborText": [],
     "shape": 663,
     "tag": "H3",
-    "visibleText": [
-      "Safe",
-      "Payment"
-    ],
+    "visibleText": ["Safe", "Payment"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[3]/h3[1]"
   },
   {
@@ -7200,26 +6300,13 @@
     "neighborText": [],
     "shape": 301,
     "tag": "P",
-    "visibleText": [
-      "Pay",
-      "with",
-      "the",
-      "world’s",
-      "most",
-      "popular",
-      "and",
-      "secure",
-      "payment",
-      "methods."
-    ],
+    "visibleText": ["Pay", "with", "the", "world’s", "most", "popular", "and", "secure", "payment", "methods."],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[3]/p[1]"
   },
   {
     "alt": "",
     "area": 45600,
-    "classList": [
-      "site-item"
-    ],
+    "classList": ["site-item"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[4]",
@@ -7269,11 +6356,7 @@
     "neighborText": [],
     "shape": 663,
     "tag": "H3",
-    "visibleText": [
-      "Shop",
-      "with",
-      "Confidence"
-    ],
+    "visibleText": ["Shop", "with", "Confidence"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[4]/h3[1]"
   },
   {
@@ -7294,26 +6377,13 @@
     "neighborText": [],
     "shape": 301,
     "tag": "P",
-    "visibleText": [
-      "Our",
-      "Buyer",
-      "Protection",
-      "covers",
-      "your",
-      "purchase",
-      "from",
-      "click",
-      "to",
-      "delivery."
-    ],
+    "visibleText": ["Our", "Buyer", "Protection", "covers", "your", "purchase", "from", "click", "to", "delivery."],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[4]/p[1]"
   },
   {
     "alt": "",
     "area": 45600,
-    "classList": [
-      "site-item"
-    ],
+    "classList": ["site-item"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[5]",
@@ -7360,11 +6430,7 @@
     "neighborText": [],
     "shape": 663,
     "tag": "H3",
-    "visibleText": [
-      "24/7",
-      "Help",
-      "Center"
-    ],
+    "visibleText": ["24/7", "Help", "Center"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[5]/h3[1]"
   },
   {
@@ -7385,23 +6451,13 @@
     "neighborText": [],
     "shape": 301,
     "tag": "P",
-    "visibleText": [
-      "Round-the-clock",
-      "assistance",
-      "for",
-      "a",
-      "smooth",
-      "shopping",
-      "experience."
-    ],
+    "visibleText": ["Round-the-clock", "assistance", "for", "a", "smooth", "shopping", "experience."],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[5]/p[1]"
   },
   {
     "alt": "",
     "area": 45600,
-    "classList": [
-      "site-item"
-    ],
+    "classList": ["site-item"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[6]",
@@ -7452,10 +6508,7 @@
     "neighborText": [],
     "shape": 663,
     "tag": "H3",
-    "visibleText": [
-      "Shop",
-      "On-The-Go"
-    ],
+    "visibleText": ["Shop", "On-The-Go"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[6]/h3[1]"
   },
   {
@@ -7510,19 +6563,13 @@
     "neighborText": [],
     "shape": 637,
     "tag": "A",
-    "visibleText": [
-      "Download",
-      "the",
-      "app"
-    ],
+    "visibleText": ["Download", "the", "app"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[13]/div[1]/div[6]/p[1]/a[1]"
   },
   {
     "alt": "",
     "area": 249088,
-    "classList": [
-      "user-helper-footer"
-    ],
+    "classList": ["user-helper-footer"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]",
@@ -7572,9 +6619,7 @@
   {
     "alt": "",
     "area": 130800,
-    "classList": [
-      "container"
-    ],
+    "classList": ["container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]",
@@ -7624,11 +6669,7 @@
   {
     "alt": "",
     "area": 33120,
-    "classList": [
-      "col-sm-30",
-      "col-md-30",
-      "col-lg-24"
-    ],
+    "classList": ["col-sm-30", "col-md-30", "col-lg-24"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]",
@@ -7643,18 +6684,13 @@
     "neighborText": [],
     "shape": 695,
     "tag": "DIV",
-    "visibleText": [
-      "Stay",
-      "connected"
-    ],
+    "visibleText": ["Stay", "connected"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 33120,
-    "classList": [
-      "app-box"
-    ],
+    "classList": ["app-box"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]",
@@ -7669,18 +6705,13 @@
     "neighborText": [],
     "shape": 695,
     "tag": "DIV",
-    "visibleText": [
-      "Stay",
-      "connected"
-    ],
+    "visibleText": ["Stay", "connected"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]"
   },
   {
     "alt": "",
     "area": 16560,
-    "classList": [
-      "social-networks"
-    ],
+    "classList": ["social-networks"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]",
@@ -7695,10 +6726,7 @@
     "neighborText": [],
     "shape": 347,
     "tag": "DIV",
-    "visibleText": [
-      "Stay",
-      "connected"
-    ],
+    "visibleText": ["Stay", "connected"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]"
   },
   {
@@ -7719,18 +6747,13 @@
     "neighborText": [],
     "shape": 750,
     "tag": "H3",
-    "visibleText": [
-      "Stay",
-      "connected"
-    ],
+    "visibleText": ["Stay", "connected"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/h3[1]"
   },
   {
     "alt": "",
     "area": 7680,
-    "classList": [
-      "foot-sns-box"
-    ],
+    "classList": ["foot-sns-box"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]",
@@ -7745,17 +6768,13 @@
     "neighborText": [],
     "shape": 750,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]"
   },
   {
     "alt": "",
     "area": 1024,
-    "classList": [
-      "fb"
-    ],
+    "classList": ["fb"],
     "href": "https://www.facebook.com/aliexpress",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
@@ -7770,17 +6789,13 @@
     "neighborText": [],
     "shape": 100,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]"
   },
   {
     "alt": "",
     "area": 1024,
-    "classList": [
-      "twitter"
-    ],
+    "classList": ["twitter"],
     "href": "https://twitter.com/AliExpress_EN",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]",
@@ -7795,17 +6810,13 @@
     "neighborText": [],
     "shape": 100,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]"
   },
   {
     "alt": "",
     "area": 1024,
-    "classList": [
-      "instagram"
-    ],
+    "classList": ["instagram"],
     "href": "https://www.instagram.com/aliexpress",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]",
@@ -7820,17 +6831,13 @@
     "neighborText": [],
     "shape": 100,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[3]"
   },
   {
     "alt": "",
     "area": 1024,
-    "classList": [
-      "messenger"
-    ],
+    "classList": ["messenger"],
     "href": "https://m.me/AliExpress",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]",
@@ -7845,17 +6852,13 @@
     "neighborText": [],
     "shape": 100,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[4]"
   },
   {
     "alt": "",
     "area": 1024,
-    "classList": [
-      "whatapp"
-    ],
+    "classList": ["whatapp"],
     "href": "https://wa.me/8657186563839",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[5]",
@@ -7870,19 +6873,13 @@
     "neighborText": [],
     "shape": 100,
     "tag": "A",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[1]/div[2]/div[1]/div[1]/a[5]"
   },
   {
     "alt": "",
     "area": 26160,
-    "classList": [
-      "col-sm-15",
-      "col-md-15",
-      "col-lg-12"
-    ],
+    "classList": ["col-sm-15", "col-md-15", "col-lg-12"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]",
@@ -7897,25 +6894,13 @@
     "neighborText": [],
     "shape": 220,
     "tag": "DIV",
-    "visibleText": [
-      "Shopping",
-      "with",
-      "us",
-      "Making",
-      "payments",
-      "Delivery",
-      "options",
-      "Buyer",
-      "Protection"
-    ],
+    "visibleText": ["Shopping", "with", "us", "Making", "payments", "Delivery", "options", "Buyer", "Protection"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]"
   },
   {
     "alt": "",
     "area": 3840,
-    "classList": [
-      "f-link-header"
-    ],
+    "classList": ["f-link-header"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/h3[1]",
@@ -7930,11 +6915,7 @@
     "neighborText": [],
     "shape": 1500,
     "tag": "H3",
-    "visibleText": [
-      "Shopping",
-      "with",
-      "us"
-    ],
+    "visibleText": ["Shopping", "with", "us"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/h3[1]"
   },
   {
@@ -7955,10 +6936,7 @@
     "neighborText": [],
     "shape": 1000,
     "tag": "LI",
-    "visibleText": [
-      "Making",
-      "payments"
-    ],
+    "visibleText": ["Making", "payments"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[1]"
   },
   {
@@ -7979,10 +6957,7 @@
     "neighborText": [],
     "shape": 618,
     "tag": "A",
-    "visibleText": [
-      "Making",
-      "payments"
-    ],
+    "visibleText": ["Making", "payments"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[1]/a[1]"
   },
   {
@@ -8003,10 +6978,7 @@
     "neighborText": [],
     "shape": 1000,
     "tag": "LI",
-    "visibleText": [
-      "Delivery",
-      "options"
-    ],
+    "visibleText": ["Delivery", "options"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[2]"
   },
   {
@@ -8027,10 +6999,7 @@
     "neighborText": [],
     "shape": 562,
     "tag": "A",
-    "visibleText": [
-      "Delivery",
-      "options"
-    ],
+    "visibleText": ["Delivery", "options"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[2]/a[1]"
   },
   {
@@ -8051,10 +7020,7 @@
     "neighborText": [],
     "shape": 1000,
     "tag": "LI",
-    "visibleText": [
-      "Buyer",
-      "Protection"
-    ],
+    "visibleText": ["Buyer", "Protection"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[3]"
   },
   {
@@ -8075,20 +7041,13 @@
     "neighborText": [],
     "shape": 581,
     "tag": "A",
-    "visibleText": [
-      "Buyer",
-      "Protection"
-    ],
+    "visibleText": ["Buyer", "Protection"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[2]/ul[1]/li[3]/a[1]"
   },
   {
     "alt": "",
     "area": 26160,
-    "classList": [
-      "col-sm-15",
-      "col-md-15",
-      "col-lg-12"
-    ],
+    "classList": ["col-sm-15", "col-md-15", "col-lg-12"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]",
@@ -8121,9 +7080,7 @@
   {
     "alt": "",
     "area": 3840,
-    "classList": [
-      "f-link-header"
-    ],
+    "classList": ["f-link-header"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/h3[1]",
@@ -8138,10 +7095,7 @@
     "neighborText": [],
     "shape": 1500,
     "tag": "H3",
-    "visibleText": [
-      "Customer",
-      "service"
-    ],
+    "visibleText": ["Customer", "service"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/h3[1]"
   },
   {
@@ -8162,10 +7116,7 @@
     "neighborText": [],
     "shape": 1000,
     "tag": "LI",
-    "visibleText": [
-      "Customer",
-      "service"
-    ],
+    "visibleText": ["Customer", "service"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[1]"
   },
   {
@@ -8186,10 +7137,7 @@
     "neighborText": [],
     "shape": 600,
     "tag": "A",
-    "visibleText": [
-      "Customer",
-      "service"
-    ],
+    "visibleText": ["Customer", "service"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[1]/a[1]"
   },
   {
@@ -8210,11 +7158,7 @@
     "neighborText": [],
     "shape": 1000,
     "tag": "LI",
-    "visibleText": [
-      "Transaction",
-      "Services",
-      "Agreement"
-    ],
+    "visibleText": ["Transaction", "Services", "Agreement"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[2]"
   },
   {
@@ -8235,11 +7179,7 @@
     "neighborText": [],
     "shape": 1112,
     "tag": "A",
-    "visibleText": [
-      "Transaction",
-      "Services",
-      "Agreement"
-    ],
+    "visibleText": ["Transaction", "Services", "Agreement"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[2]/a[1]"
   },
   {
@@ -8260,12 +7200,7 @@
     "neighborText": [],
     "shape": 1000,
     "tag": "LI",
-    "visibleText": [
-      "Take",
-      "our",
-      "feedback",
-      "survey"
-    ],
+    "visibleText": ["Take", "our", "feedback", "survey"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[3]"
   },
   {
@@ -8286,22 +7221,13 @@
     "neighborText": [],
     "shape": 881,
     "tag": "A",
-    "visibleText": [
-      "Take",
-      "our",
-      "feedback",
-      "survey"
-    ],
+    "visibleText": ["Take", "our", "feedback", "survey"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[3]/ul[1]/li[3]/a[1]"
   },
   {
     "alt": "",
     "area": 90000,
-    "classList": [
-      "col-lg-12",
-      "hidden-md",
-      "hidden-sm"
-    ],
+    "classList": ["col-lg-12", "hidden-md", "hidden-sm"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]",
@@ -8316,22 +7242,13 @@
     "neighborText": [],
     "shape": 1600,
     "tag": "DIV",
-    "visibleText": [
-      "Collaborate",
-      "with",
-      "us",
-      "Partnerships",
-      "Affiliate",
-      "program"
-    ],
+    "visibleText": ["Collaborate", "with", "us", "Partnerships", "Affiliate", "program"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]"
   },
   {
     "alt": "",
     "area": 19200,
-    "classList": [
-      "f-link-header"
-    ],
+    "classList": ["f-link-header"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/h3[1]",
@@ -8346,11 +7263,7 @@
     "neighborText": [],
     "shape": 7500,
     "tag": "H3",
-    "visibleText": [
-      "Collaborate",
-      "with",
-      "us"
-    ],
+    "visibleText": ["Collaborate", "with", "us"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/h3[1]"
   },
   {
@@ -8371,9 +7284,7 @@
     "neighborText": [],
     "shape": 5000,
     "tag": "LI",
-    "visibleText": [
-      "Partnerships"
-    ],
+    "visibleText": ["Partnerships"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[1]"
   },
   {
@@ -8394,9 +7305,7 @@
     "neighborText": [],
     "shape": 443,
     "tag": "A",
-    "visibleText": [
-      "Partnerships"
-    ],
+    "visibleText": ["Partnerships"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[1]/a[1]"
   },
   {
@@ -8417,10 +7326,7 @@
     "neighborText": [],
     "shape": 5000,
     "tag": "LI",
-    "visibleText": [
-      "Affiliate",
-      "program"
-    ],
+    "visibleText": ["Affiliate", "program"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[2]"
   },
   {
@@ -8441,18 +7347,13 @@
     "neighborText": [],
     "shape": 581,
     "tag": "A",
-    "visibleText": [
-      "Affiliate",
-      "program"
-    ],
+    "visibleText": ["Affiliate", "program"],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[14]/div[1]/div[4]/ul[1]/li[2]/a[1]"
   },
   {
     "alt": "",
     "area": 55552,
-    "classList": [
-      "coupon-container"
-    ],
+    "classList": ["coupon-container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[15]",
@@ -8467,17 +7368,13 @@
     "neighborText": [],
     "shape": 5780,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[15]"
   },
   {
     "alt": "",
     "area": 1950,
-    "classList": [
-      "one-click-ticket"
-    ],
+    "classList": ["one-click-ticket"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[5]/div[15]/div[1]",
@@ -8492,17 +7389,13 @@
     "neighborText": [],
     "shape": 866,
     "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
+    "visibleText": [""],
     "xpath": "/html[1]/body[1]/div[1]/div[5]/div[15]/div[1]"
   },
   {
     "alt": "",
     "area": 489216,
-    "classList": [
-      "site-footer"
-    ],
+    "classList": ["site-footer"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]",
@@ -8595,9 +7488,7 @@
   {
     "alt": "",
     "area": 291600,
-    "classList": [
-      "container"
-    ],
+    "classList": ["container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]",
@@ -8690,10 +7581,7 @@
   {
     "alt": "",
     "area": 112800,
-    "classList": [
-      "sf-aliexpressInfo",
-      "clearfix"
-    ],
+    "classList": ["sf-aliexpressInfo", "clearfix"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]",
@@ -8744,12 +7632,7 @@
   {
     "alt": "",
     "area": 45600,
-    "classList": [
-      "sf-siteIntro",
-      "col-lg-30",
-      "col-md-30",
-      "col-sm-60"
-    ],
+    "classList": ["sf-siteIntro", "col-lg-30", "col-md-30", "col-sm-60"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
@@ -8797,10 +7680,7 @@
     "neighborText": [],
     "shape": 583,
     "tag": "A",
-    "visibleText": [
-      "Customer",
-      "Service"
-    ],
+    "visibleText": ["Customer", "Service"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/dl[1]/dd[1]/a[1]"
   },
   {
@@ -8821,11 +7701,7 @@
     "neighborText": [],
     "shape": 644,
     "tag": "A",
-    "visibleText": [
-      "Disputes",
-      "&",
-      "Reports"
-    ],
+    "visibleText": ["Disputes", "&", "Reports"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/dl[1]/dd[1]/a[2]"
   },
   {
@@ -8846,10 +7722,7 @@
     "neighborText": [],
     "shape": 561,
     "tag": "A",
-    "visibleText": [
-      "Buyer",
-      "Protection"
-    ],
+    "visibleText": ["Buyer", "Protection"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/dl[1]/dd[1]/a[3]"
   },
   {
@@ -8870,22 +7743,13 @@
     "neighborText": [],
     "shape": 805,
     "tag": "A",
-    "visibleText": [
-      "Report",
-      "IPR",
-      "infringement"
-    ],
+    "visibleText": ["Report", "IPR", "infringement"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[1]/dl[1]/dd[1]/a[4]"
   },
   {
     "alt": "",
     "area": 56400,
-    "classList": [
-      "sf-MultiLanguageSite",
-      "col-lg-30",
-      "col-md-30",
-      "col-sm-60"
-    ],
+    "classList": ["sf-MultiLanguageSite", "col-lg-30", "col-md-30", "col-sm-60"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]",
@@ -8940,9 +7804,7 @@
     "neighborText": [],
     "shape": 255,
     "tag": "A",
-    "visibleText": [
-      "Russian"
-    ],
+    "visibleText": ["Russian"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[1]"
   },
   {
@@ -8963,9 +7825,7 @@
     "neighborText": [],
     "shape": 383,
     "tag": "A",
-    "visibleText": [
-      "Portuguese"
-    ],
+    "visibleText": ["Portuguese"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[2]"
   },
   {
@@ -8986,9 +7846,7 @@
     "neighborText": [],
     "shape": 261,
     "tag": "A",
-    "visibleText": [
-      "Spanish"
-    ],
+    "visibleText": ["Spanish"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[3]"
   },
   {
@@ -9009,9 +7867,7 @@
     "neighborText": [],
     "shape": 227,
     "tag": "A",
-    "visibleText": [
-      "French"
-    ],
+    "visibleText": ["French"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[4]"
   },
   {
@@ -9032,9 +7888,7 @@
     "neighborText": [],
     "shape": 272,
     "tag": "A",
-    "visibleText": [
-      "German"
-    ],
+    "visibleText": ["German"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[5]"
   },
   {
@@ -9055,9 +7909,7 @@
     "neighborText": [],
     "shape": 205,
     "tag": "A",
-    "visibleText": [
-      "Italian"
-    ],
+    "visibleText": ["Italian"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[6]"
   },
   {
@@ -9078,9 +7930,7 @@
     "neighborText": [],
     "shape": 200,
     "tag": "A",
-    "visibleText": [
-      "Dutch"
-    ],
+    "visibleText": ["Dutch"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[7]"
   },
   {
@@ -9101,9 +7951,7 @@
     "neighborText": [],
     "shape": 244,
     "tag": "A",
-    "visibleText": [
-      "Turkish"
-    ],
+    "visibleText": ["Turkish"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[8]"
   },
   {
@@ -9124,9 +7972,7 @@
     "neighborText": [],
     "shape": 300,
     "tag": "A",
-    "visibleText": [
-      "Japanese"
-    ],
+    "visibleText": ["Japanese"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[9]"
   },
   {
@@ -9147,9 +7993,7 @@
     "neighborText": [],
     "shape": 238,
     "tag": "A",
-    "visibleText": [
-      "Korean"
-    ],
+    "visibleText": ["Korean"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[10]"
   },
   {
@@ -9170,9 +8014,7 @@
     "neighborText": [],
     "shape": 138,
     "tag": "A",
-    "visibleText": [
-      "Thai"
-    ],
+    "visibleText": ["Thai"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[11]"
   },
   {
@@ -9193,9 +8035,7 @@
     "neighborText": [],
     "shape": 394,
     "tag": "A",
-    "visibleText": [
-      "Vietnamese"
-    ],
+    "visibleText": ["Vietnamese"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[12]"
   },
   {
@@ -9216,9 +8056,7 @@
     "neighborText": [],
     "shape": 205,
     "tag": "A",
-    "visibleText": [
-      "Arabic"
-    ],
+    "visibleText": ["Arabic"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[13]"
   },
   {
@@ -9239,9 +8077,7 @@
     "neighborText": [],
     "shape": 255,
     "tag": "A",
-    "visibleText": [
-      "Hebrew"
-    ],
+    "visibleText": ["Hebrew"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[14]"
   },
   {
@@ -9262,20 +8098,13 @@
     "neighborText": [],
     "shape": 200,
     "tag": "A",
-    "visibleText": [
-      "Polish"
-    ],
+    "visibleText": ["Polish"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[1]/div[2]/dl[1]/dd[1]/a[15]"
   },
   {
     "alt": "",
     "area": 41400,
-    "classList": [
-      "sf-seoKeyword",
-      "col-lg-30",
-      "col-md-30",
-      "col-sm-60"
-    ],
+    "classList": ["sf-seoKeyword", "col-lg-30", "col-md-30", "col-sm-60"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]",
@@ -9365,10 +8194,7 @@
     "neighborText": [],
     "shape": 361,
     "tag": "A",
-    "visibleText": [
-      "All",
-      "Popular"
-    ],
+    "visibleText": ["All", "Popular"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[1]"
   },
   {
@@ -9389,9 +8215,7 @@
     "neighborText": [],
     "shape": 261,
     "tag": "A",
-    "visibleText": [
-      "Product"
-    ],
+    "visibleText": ["Product"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[2]"
   },
   {
@@ -9412,9 +8236,7 @@
     "neighborText": [],
     "shape": 355,
     "tag": "A",
-    "visibleText": [
-      "Promotion"
-    ],
+    "visibleText": ["Promotion"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[3]"
   },
   {
@@ -9435,10 +8257,7 @@
     "neighborText": [],
     "shape": 316,
     "tag": "A",
-    "visibleText": [
-      "Low",
-      "Price"
-    ],
+    "visibleText": ["Low", "Price"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[4]"
   },
   {
@@ -9459,10 +8278,7 @@
     "neighborText": [],
     "shape": 388,
     "tag": "A",
-    "visibleText": [
-      "Great",
-      "Value"
-    ],
+    "visibleText": ["Great", "Value"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[5]"
   },
   {
@@ -9483,9 +8299,7 @@
     "neighborText": [],
     "shape": 266,
     "tag": "A",
-    "visibleText": [
-      "Reviews"
-    ],
+    "visibleText": ["Reviews"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[6]"
   },
   {
@@ -9506,9 +8320,7 @@
     "neighborText": [],
     "shape": 144,
     "tag": "A",
-    "visibleText": [
-      "Blog"
-    ],
+    "visibleText": ["Blog"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[7]"
   },
   {
@@ -9529,10 +8341,7 @@
     "neighborText": [],
     "shape": 405,
     "tag": "A",
-    "visibleText": [
-      "Seller",
-      "Portal"
-    ],
+    "visibleText": ["Seller", "Portal"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[8]"
   },
   {
@@ -9553,21 +8362,13 @@
     "neighborText": [],
     "shape": 1513,
     "tag": "A",
-    "visibleText": [
-      "BLACK",
-      "FRIDAY"
-    ],
+    "visibleText": ["BLACK", "FRIDAY"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[2]/dl[1]/dd[1]/span[1]/a[9]"
   },
   {
     "alt": "",
     "area": 41400,
-    "classList": [
-      "sf-alibabaGroup",
-      "col-lg-30",
-      "col-md-30",
-      "col-sm-60"
-    ],
+    "classList": ["sf-alibabaGroup", "col-lg-30", "col-md-30", "col-sm-60"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]",
@@ -9626,11 +8427,7 @@
     "neighborText": [],
     "shape": 766,
     "tag": "A",
-    "visibleText": [
-      "Alibaba",
-      "Group",
-      "Website"
-    ],
+    "visibleText": ["Alibaba", "Group", "Website"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[1]"
   },
   {
@@ -9651,9 +8448,7 @@
     "neighborText": [],
     "shape": 338,
     "tag": "A",
-    "visibleText": [
-      "AliExpress"
-    ],
+    "visibleText": ["AliExpress"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[2]"
   },
   {
@@ -9674,9 +8469,7 @@
     "neighborText": [],
     "shape": 294,
     "tag": "A",
-    "visibleText": [
-      "Alimama"
-    ],
+    "visibleText": ["Alimama"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[3]"
   },
   {
@@ -9697,9 +8490,7 @@
     "neighborText": [],
     "shape": 200,
     "tag": "A",
-    "visibleText": [
-      "Alipay"
-    ],
+    "visibleText": ["Alipay"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[4]"
   },
   {
@@ -9720,9 +8511,7 @@
     "neighborText": [],
     "shape": 183,
     "tag": "A",
-    "visibleText": [
-      "Fliggy"
-    ],
+    "visibleText": ["Fliggy"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[5]"
   },
   {
@@ -9743,10 +8532,7 @@
     "neighborText": [],
     "shape": 461,
     "tag": "A",
-    "visibleText": [
-      "Alibaba",
-      "Cloud"
-    ],
+    "visibleText": ["Alibaba", "Cloud"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[6]"
   },
   {
@@ -9767,10 +8553,7 @@
     "neighborText": [],
     "shape": 700,
     "tag": "A",
-    "visibleText": [
-      "Alibaba",
-      "International"
-    ],
+    "visibleText": ["Alibaba", "International"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[7]"
   },
   {
@@ -9791,9 +8574,7 @@
     "neighborText": [],
     "shape": 361,
     "tag": "A",
-    "visibleText": [
-      "AliTelecom"
-    ],
+    "visibleText": ["AliTelecom"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[8]"
   },
   {
@@ -9814,9 +8595,7 @@
     "neighborText": [],
     "shape": 283,
     "tag": "A",
-    "visibleText": [
-      "DingTalk"
-    ],
+    "visibleText": ["DingTalk"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[9]"
   },
   {
@@ -9837,9 +8616,7 @@
     "neighborText": [],
     "shape": 355,
     "tag": "A",
-    "visibleText": [
-      "Juhuasuan"
-    ],
+    "visibleText": ["Juhuasuan"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[10]"
   },
   {
@@ -9860,10 +8637,7 @@
     "neighborText": [],
     "shape": 677,
     "tag": "A",
-    "visibleText": [
-      "Taobao",
-      "Marketplace"
-    ],
+    "visibleText": ["Taobao", "Marketplace"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[11]"
   },
   {
@@ -9884,9 +8658,7 @@
     "neighborText": [],
     "shape": 177,
     "tag": "A",
-    "visibleText": [
-      "Tmall"
-    ],
+    "visibleText": ["Tmall"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[12]"
   },
   {
@@ -9907,9 +8679,7 @@
     "neighborText": [],
     "shape": 183,
     "tag": "A",
-    "visibleText": [
-      "Xiami"
-    ],
+    "visibleText": ["Xiami"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[13]"
   },
   {
@@ -9930,9 +8700,7 @@
     "neighborText": [],
     "shape": 177,
     "tag": "A",
-    "visibleText": [
-      "AliOS"
-    ],
+    "visibleText": ["AliOS"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[14]"
   },
   {
@@ -9953,17 +8721,13 @@
     "neighborText": [],
     "shape": 161,
     "tag": "A",
-    "visibleText": [
-      "1688"
-    ],
+    "visibleText": ["1688"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[3]/dl[1]/dd[1]/a[15]"
   },
   {
     "alt": "",
     "area": 20800,
-    "classList": [
-      "sf-download-app"
-    ],
+    "classList": ["sf-download-app"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]",
@@ -9978,19 +8742,13 @@
     "neighborText": [],
     "shape": 325,
     "tag": "DIV",
-    "visibleText": [
-      "Google",
-      "PlayApp",
-      "Store"
-    ],
+    "visibleText": ["Google", "PlayApp", "Store"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]"
   },
   {
     "alt": "",
     "area": 3810,
-    "classList": [
-      "android-link"
-    ],
+    "classList": ["android-link"],
     "href": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[1]",
@@ -10005,18 +8763,13 @@
     "neighborText": [],
     "shape": 423,
     "tag": "A",
-    "visibleText": [
-      "Google",
-      "Play"
-    ],
+    "visibleText": ["Google", "Play"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[1]"
   },
   {
     "alt": "",
     "area": 3390,
-    "classList": [
-      "iphone-link"
-    ],
+    "classList": ["iphone-link"],
     "href": "https://itunes.apple.com/us/app/aliexpress/id436672029",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[2]",
@@ -10031,18 +8784,13 @@
     "neighborText": [],
     "shape": 376,
     "tag": "A",
-    "visibleText": [
-      "App",
-      "Store"
-    ],
+    "visibleText": ["App", "Store"],
     "xpath": "/html[1]/body[1]/div[1]/div[6]/div[1]/div[4]/a[2]"
   },
   {
     "alt": "",
     "area": 60928,
-    "classList": [
-      "footer-copywrite"
-    ],
+    "classList": ["footer-copywrite"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[7]",
@@ -10087,9 +8835,7 @@
   {
     "alt": "",
     "area": 21600,
-    "classList": [
-      "container"
-    ],
+    "classList": ["container"],
     "href": "",
     "id": "",
     "idxpath": "/html[1]/body[1]/div[1]/div[7]/div[1]",
@@ -10149,11 +8895,7 @@
     "neighborText": [],
     "shape": 1081,
     "tag": "A",
-    "visibleText": [
-      "Intellectual",
-      "Property",
-      "Protection"
-    ],
+    "visibleText": ["Intellectual", "Property", "Protection"],
     "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[1]"
   },
   {
@@ -10174,10 +8916,7 @@
     "neighborText": [],
     "shape": 468,
     "tag": "A",
-    "visibleText": [
-      "Privacy",
-      "Policy"
-    ],
+    "visibleText": ["Privacy", "Policy"],
     "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[2]"
   },
   {
@@ -10198,9 +8937,7 @@
     "neighborText": [],
     "shape": 281,
     "tag": "A",
-    "visibleText": [
-      "Sitemap"
-    ],
+    "visibleText": ["Sitemap"],
     "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[3]"
   },
   {
@@ -10221,11 +8958,7 @@
     "neighborText": [],
     "shape": 456,
     "tag": "A",
-    "visibleText": [
-      "Terms",
-      "of",
-      "Use"
-    ],
+    "visibleText": ["Terms", "of", "Use"],
     "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[4]"
   },
   {
@@ -10246,13 +8979,7 @@
     "neighborText": [],
     "shape": 1312,
     "tag": "A",
-    "visibleText": [
-      "User",
-      "Information",
-      "Legal",
-      "Enquiry",
-      "Guide"
-    ],
+    "visibleText": ["User", "Information", "Legal", "Enquiry", "Guide"],
     "xpath": "/html[1]/body[1]/div[1]/div[7]/div[1]/a[5]"
   }
 ]

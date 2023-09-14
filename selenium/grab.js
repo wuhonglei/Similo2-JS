@@ -4,7 +4,6 @@ const sharp = require('sharp');
 const { shuffle } = require('lodash');
 const { Builder, Browser, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
-const cluster = require('cluster');
 
 const website = require('../test_data/website.json');
 const root = path.join(__dirname, '../test_data/our_data/apps');
@@ -57,7 +56,14 @@ async function getScreenshotOfElement(element, filepath) {
     return;
   }
 
-  const base64 = await element.takeScreenshot();
+  const base64 = await element.takeScreenshot().catch((err) => {
+    console.info('element.takeScreenshot', err);
+    return undefined;
+  });
+  if (!base64) {
+    return;
+  }
+
   const buffer = Buffer.from(base64, 'base64');
   sharp(buffer)
     .jpeg({
@@ -121,10 +127,38 @@ function createDirectory(filepath) {
   }
 }
 
+function cleanDirectory(dirpath) {
+  if (fs.existsSync(dirpath)) {
+    fs.rmSync(dirpath, { recursive: true });
+  }
+}
+
 async function writeJson(data, filepath) {
   // 如果文件路径不存在，则创建一个
   createDirectory(filepath);
-  fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
+  const newData = data.map(({ roluSelector, ausSelector, ...restData }) => restData);
+  fs.writeFileSync(filepath, JSON.stringify(newData, null, 2));
+}
+
+/**
+ * 统计新网站上的元素 xpath 属性与旧网站上的元素 xpath 属性的是否一致
+ * @param {*} targetProperties
+ * @param {*} targetPropertiesInNewSite
+ */
+function compareSelector(targetProperties, targetPropertiesInNewSite, xpath) {
+  xpath.forEach((oneTarget, index) => {
+    oneTarget.result = oneTarget.result || {};
+    oneTarget.result.aus = {
+      old: targetProperties[index]?.ausSelector,
+      new: targetPropertiesInNewSite[index]?.ausSelector,
+      matched: targetProperties[index]?.ausSelector === targetPropertiesInNewSite[index]?.ausSelector,
+    };
+    oneTarget.result.robula = {
+      old: targetProperties[index]?.roluSelector,
+      new: targetPropertiesInNewSite[index]?.roluSelector,
+      matched: targetProperties[index]?.roluSelector === targetPropertiesInNewSite[index]?.roluSelector,
+    };
+  });
 }
 
 /**
@@ -136,7 +170,9 @@ async function getPropertyOfSite(driver, site) {
   // 访问旧站点
   await driver.get(url.old);
   await driver.sleep(2000);
-  await driver.executeScript(javascript); // 注入 selector 函数
+  await driver.executeScript(javascript).catch(() => {}); // 注入 selector 函数
+
+  cleanDirectory(path.join(root, site.name)); // 清空目录
 
   const promiseList = xpath.map((oneTarget) =>
     driver.executeScript(function getProperties(xpath) {
@@ -144,22 +180,44 @@ async function getPropertyOfSite(driver, site) {
         return {};
       }
 
-      return Silimon.getElementPropertiesByXpath(xpath);
+      const element = Silimon.getElementByXPath(xpath);
+
+      return {
+        ...Silimon.getElementPropertiesByXpath(xpath),
+        // ausSelector: Silimon.getAusDomPath(element),
+        // roluSelector: Silimon.getRobustXPath(element, document),
+      };
     }, oneTarget.old),
   );
   const targetProperties = await Promise.all(promiseList);
   await writeJson(targetProperties, path.join(root, site.name, 'properties/target.json')); // 旧网站上目标元素的属性
   await getScreenshotsOfOldSite(driver, site);
-
   await driver.sleep(3000);
   // 访问新站点
   await driver.get(url.new);
   await driver.sleep(2000);
-  await driver.executeScript(javascript); // 注入 selector 函数
+  await driver.executeScript(javascript).catch(() => {}); // 注入 selector 函数
+
+  // const promiseList1 = xpath.map((oneTarget) =>
+  //   driver.executeScript(function getProperties(xpath) {
+  //     if (!window.Silimon) {
+  //       return {};
+  //     }
+
+  //     const element = Silimon.getElementByXPath(xpath);
+
+  //     return {
+  //       ausSelector: Silimon.getAusDomPath(element),
+  //       roluSelector: Silimon.getRobustXPath(element, document),
+  //     };
+  //   }, oneTarget.new),
+  // );
+  // const targetPropertiesInNewSite = await Promise.all(promiseList1);
+  // compareSelector(targetProperties, targetPropertiesInNewSite, xpath);
   const elementsToExtract = 'input,textarea,button,select,a,h1,h2,h3,h4,h5,li,span,div,p,th,tr,td,label,svg';
   const candidateProperties = await driver.executeScript(function getProperties(selector) {
     if (!window.Silimon) {
-      return {};
+      return [];
     }
     return Silimon.getCandidateElementsPropertiesBySelector(selector);
   }, elementsToExtract);
@@ -169,13 +227,24 @@ async function getPropertyOfSite(driver, site) {
 
 async function startRecord(website) {
   // 创建 ChromeOptions 对象并禁用隐身模式
-  const chromeOptions = new chrome.Options();
+  const headless = true;
+  const chromeOptions = new chrome.Options().addArguments('--incognito');
+  headless && chromeOptions.addArguments('--headless');
   const driver = await new Builder().forBrowser(Browser.CHROME).setChromeOptions(chromeOptions).build();
   try {
-    await driver.manage().window().maximize(); // 最大化窗口
+    /**
+     * setRect 设置的是浏览器最外层的窗口大小
+     * 有头模式, 全屏窗口(outerWidth, outerHeight) window size 1792 1095
+     * 无头模式, 全屏窗口(outerWidth, outerHeight) window size 1792 965
+     * 无头模式不包含域名栏和状态栏, 为了保证显示一致，所以无头时的全屏等价于有头时的 window.innerWidth, window.innerHeight
+     */
+    await driver
+      .manage()
+      .window()
+      .setRect({ x: 0, y: 0, width: 1792, height: headless ? 965 : 1095 });
     for (const site of website) {
       const recorded = getRecorded();
-      if (!recorded.includes(site.name) && !getFailed().includes(site.name)) {
+      if (!recorded.includes(site.name)) {
         console.info('recording', site.name);
         await getPropertyOfSite(driver, site);
         recorded.push(site.name);
@@ -183,20 +252,10 @@ async function startRecord(website) {
         writeRecorded(recorded);
       }
     }
+    fs.writeFileSync(path.join(__dirname, '../test_data/website.json'), JSON.stringify(website, null, 2));
   } finally {
     await driver.quit();
   }
 }
 
-if (cluster.isMaster) {
-  const numWorkers = 1; // 设置线程数
-
-  // 创建多个子线程
-  for (let i = 0; i < numWorkers; i++) {
-    setTimeout(() => {
-      cluster.fork();
-    }, 5000 * i);
-  }
-} else {
-  startRecord(website);
-}
+startRecord(website);

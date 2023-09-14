@@ -26,6 +26,9 @@ website.forEach((oneSite) => {
   //   return;
   // }
 
+  if (!['Aliexpress'].includes(name)) {
+    return;
+  }
   map[name] = {
     locatedSuccess: 0,
     locatedError: 0,
