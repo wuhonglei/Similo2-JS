@@ -594,7 +594,7 @@
   },
   {
     "alt": "",
-    "area": 8000,
+    "area": 8096,
     "classList": [
       "_yb_1rk8q",
       "ybar-menu-hover-open"
@@ -605,8 +605,8 @@
     "isButton": false,
     "location": {
       "height": 32,
-      "width": 250,
-      "x": 1333,
+      "width": 253,
+      "x": 1330,
       "y": 24
     },
     "name": null,
@@ -647,7 +647,7 @@
       "More...",
       "More..."
     ],
-    "shape": 781,
+    "shape": 790,
     "tag": "DIV",
     "visibleText": [
       "Sign",
@@ -658,7 +658,7 @@
   },
   {
     "alt": "",
-    "area": 1742,
+    "area": 1820,
     "classList": [
       "_yb_ijmw3"
     ],
@@ -668,9 +668,9 @@
     "isButton": false,
     "location": {
       "height": 26,
-      "width": 67,
-      "x": 1365,
-      "y": 27
+      "width": 70,
+      "x": 1362,
+      "y": 26
     },
     "name": null,
     "neighborText": [
@@ -681,37 +681,9 @@
       "Premium",
       "Offers",
       "More...",
-      "More...",
-      "Mail",
-      "Mail",
-      "Coronavirus",
-      "Coronavirus",
-      "News",
-      "News",
-      "Finance",
-      "Finance",
-      "Sports",
-      "Sports",
-      "2020",
-      "Election",
-      "2020",
-      "Election",
-      "BLM",
-      "BLM",
-      "Entertainment",
-      "Entertainment",
-      "Life",
-      "Life",
-      "Shopping",
-      "Shopping",
-      "Premium",
-      "Offers",
-      "Premium",
-      "Offers",
-      "More...",
       "More..."
     ],
-    "shape": 257,
+    "shape": 269,
     "tag": "DIV",
     "visibleText": [
       "Sign",
@@ -721,7 +693,7 @@
   },
   {
     "alt": "",
-    "area": 1742,
+    "area": 1820,
     "classList": [
       "_yb_88p6w",
       "_yb_1rt7r",
@@ -733,9 +705,9 @@
     "isButton": false,
     "location": {
       "height": 26,
-      "width": 67,
-      "x": 1365,
-      "y": 27
+      "width": 70,
+      "x": 1362,
+      "y": 26
     },
     "name": null,
     "neighborText": [
@@ -746,37 +718,9 @@
       "Premium",
       "Offers",
       "More...",
-      "More...",
-      "Mail",
-      "Mail",
-      "Coronavirus",
-      "Coronavirus",
-      "News",
-      "News",
-      "Finance",
-      "Finance",
-      "Sports",
-      "Sports",
-      "2020",
-      "Election",
-      "2020",
-      "Election",
-      "BLM",
-      "BLM",
-      "Entertainment",
-      "Entertainment",
-      "Life",
-      "Life",
-      "Shopping",
-      "Shopping",
-      "Premium",
-      "Offers",
-      "Premium",
-      "Offers",
-      "More...",
       "More..."
     ],
-    "shape": 257,
+    "shape": 269,
     "tag": "DIV",
     "visibleText": [
       "Sign",
@@ -786,7 +730,7 @@
   },
   {
     "alt": "",
-    "area": 1742,
+    "area": 1820,
     "classList": [
       "_yb_119us"
     ],
@@ -796,9 +740,9 @@
     "isButton": false,
     "location": {
       "height": 26,
-      "width": 67,
-      "x": 1365,
-      "y": 27
+      "width": 70,
+      "x": 1362,
+      "y": 26
     },
     "name": "",
     "neighborText": [
@@ -807,37 +751,9 @@
       "Premium",
       "Offers",
       "More...",
-      "More...",
-      "Mail",
-      "Mail",
-      "Coronavirus",
-      "Coronavirus",
-      "News",
-      "News",
-      "Finance",
-      "Finance",
-      "Sports",
-      "Sports",
-      "2020",
-      "Election",
-      "2020",
-      "Election",
-      "BLM",
-      "BLM",
-      "Entertainment",
-      "Entertainment",
-      "Life",
-      "Life",
-      "Shopping",
-      "Shopping",
-      "Premium",
-      "Offers",
-      "Premium",
-      "Offers",
-      "More...",
       "More..."
     ],
-    "shape": 257,
+    "shape": 269,
     "tag": "A",
     "visibleText": [
       "Sign",
@@ -1104,6 +1020,8 @@
     "name": null,
     "neighborText": [
       "Mail",
+      "More...",
+      "More...",
       "Mail",
       "Mail",
       "Coronavirus",
@@ -1160,6 +1078,8 @@
     "name": null,
     "neighborText": [
       "Mail",
+      "More...",
+      "More...",
       "Mail",
       "Mail",
       "Coronavirus",
@@ -1215,6 +1135,8 @@
     "name": "",
     "neighborText": [
       "Mail",
+      "More...",
+      "More...",
       "Mail",
       "Mail",
       "Coronavirus",
@@ -1272,6 +1194,8 @@
     "name": null,
     "neighborText": [
       "Mail",
+      "More...",
+      "More...",
       "Mail",
       "Mail",
       "Coronavirus",
@@ -1470,7 +1394,7 @@
   },
   {
     "alt": "",
-    "area": 42466,
+    "area": 43214,
     "classList": [
       "ybar-mod-navigation",
       "_yb_i7hyr"
@@ -1481,13 +1405,13 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 1249,
+      "width": 1271,
       "x": 208,
       "y": 80
     },
     "name": null,
     "neighborText": [],
-    "shape": 3673,
+    "shape": 3738,
     "tag": "DIV",
     "visibleText": [
       "Mail",
@@ -1628,7 +1552,7 @@
   },
   {
     "alt": "",
-    "area": 4352,
+    "area": 4454,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -1638,7 +1562,7 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 128,
+      "width": 131,
       "x": 260,
       "y": 80
     },
@@ -1653,10 +1577,11 @@
       "Mail",
       "News",
       "News",
+      "Coronavirus",
       "Mail",
       "Mail"
     ],
-    "shape": 376,
+    "shape": 385,
     "tag": "LI",
     "visibleText": [
       "Coronavirus",
@@ -1666,7 +1591,7 @@
   },
   {
     "alt": "",
-    "area": 1326,
+    "area": 1377,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -1676,7 +1601,7 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 78,
+      "width": 81,
       "x": 285,
       "y": 90
     },
@@ -1694,7 +1619,7 @@
       "News",
       "News"
     ],
-    "shape": 458,
+    "shape": 476,
     "tag": "A",
     "visibleText": [
       "Coronavirus"
@@ -1703,7 +1628,7 @@
   },
   {
     "alt": "",
-    "area": 2890,
+    "area": 2958,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -1713,8 +1638,8 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 85,
-      "x": 388,
+      "width": 87,
+      "x": 392,
       "y": 80
     },
     "name": null,
@@ -1731,7 +1656,7 @@
       "Coronavirus",
       "Coronavirus"
     ],
-    "shape": 250,
+    "shape": 255,
     "tag": "LI",
     "visibleText": [
       "News",
@@ -1741,7 +1666,7 @@
   },
   {
     "alt": "",
-    "area": 595,
+    "area": 629,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -1751,8 +1676,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 35,
-      "x": 413,
+      "width": 37,
+      "x": 417,
       "y": 90
     },
     "name": "",
@@ -1769,7 +1694,7 @@
       "Finance",
       "Finance"
     ],
-    "shape": 205,
+    "shape": 217,
     "tag": "A",
     "visibleText": [
       "News"
@@ -1778,7 +1703,7 @@
   },
   {
     "alt": "",
-    "area": 3366,
+    "area": 3468,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -1788,14 +1713,12 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 99,
-      "x": 473,
+      "width": 102,
+      "x": 479,
       "y": 80
     },
     "name": null,
     "neighborText": [
-      "Yahoo",
-      "Home",
       "Yahoo",
       "Home",
       "Search",
@@ -1805,11 +1728,10 @@
       "Mail",
       "Sports",
       "Sports",
-      "Finance",
       "News",
       "News"
     ],
-    "shape": 291,
+    "shape": 300,
     "tag": "LI",
     "visibleText": [
       "Finance",
@@ -1819,7 +1741,7 @@
   },
   {
     "alt": "",
-    "area": 833,
+    "area": 884,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -1829,14 +1751,12 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 49,
-      "x": 498,
+      "width": 52,
+      "x": 504,
       "y": 90
     },
     "name": "",
     "neighborText": [
-      "Search",
-      "query",
       "Yahoo",
       "Home",
       "Search",
@@ -1849,7 +1769,7 @@
       "Sports",
       "Sports"
     ],
-    "shape": 288,
+    "shape": 305,
     "tag": "A",
     "visibleText": [
       "Finance"
@@ -1858,7 +1778,7 @@
   },
   {
     "alt": "",
-    "area": 3128,
+    "area": 3196,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -1868,8 +1788,8 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 92,
-      "x": 572,
+      "width": 94,
+      "x": 582,
       "y": 80
     },
     "name": null,
@@ -1885,11 +1805,12 @@
       "Election",
       "2020",
       "Election",
+      "Finance",
       "Sports",
       "Finance",
       "Finance"
     ],
-    "shape": 270,
+    "shape": 276,
     "tag": "LI",
     "visibleText": [
       "Sports",
@@ -1899,7 +1820,7 @@
   },
   {
     "alt": "",
-    "area": 714,
+    "area": 748,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -1909,8 +1830,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 42,
-      "x": 597,
+      "width": 44,
+      "x": 607,
       "y": 90
     },
     "name": "",
@@ -1929,7 +1850,7 @@
       "2020",
       "Election"
     ],
-    "shape": 247,
+    "shape": 258,
     "tag": "A",
     "visibleText": [
       "Sports"
@@ -1938,7 +1859,7 @@
   },
   {
     "alt": "",
-    "area": 4692,
+    "area": 4726,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -1948,8 +1869,8 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 138,
-      "x": 665,
+      "width": 139,
+      "x": 676,
       "y": 80
     },
     "name": null,
@@ -1968,7 +1889,7 @@
       "Sports",
       "Sports"
     ],
-    "shape": 405,
+    "shape": 408,
     "tag": "LI",
     "visibleText": [
       "2020",
@@ -1980,7 +1901,7 @@
   },
   {
     "alt": "",
-    "area": 1496,
+    "area": 1513,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -1990,8 +1911,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 88,
-      "x": 690,
+      "width": 89,
+      "x": 701,
       "y": 90
     },
     "name": "",
@@ -2008,7 +1929,7 @@
       "BLM",
       "BLM"
     ],
-    "shape": 517,
+    "shape": 523,
     "tag": "A",
     "visibleText": [
       "2020",
@@ -2018,7 +1939,7 @@
   },
   {
     "alt": "",
-    "area": 2652,
+    "area": 2720,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -2028,8 +1949,8 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 78,
-      "x": 803,
+      "width": 80,
+      "x": 815,
       "y": 80
     },
     "name": null,
@@ -2048,7 +1969,7 @@
       "2020",
       "Election"
     ],
-    "shape": 229,
+    "shape": 235,
     "tag": "LI",
     "visibleText": [
       "BLM",
@@ -2058,7 +1979,7 @@
   },
   {
     "alt": "",
-    "area": 476,
+    "area": 510,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -2068,8 +1989,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 28,
-      "x": 828,
+      "width": 30,
+      "x": 840,
       "y": 90
     },
     "name": "",
@@ -2088,7 +2009,7 @@
       "Entertainment",
       "Entertainment"
     ],
-    "shape": 164,
+    "shape": 176,
     "tag": "A",
     "visibleText": [
       "BLM"
@@ -2108,7 +2029,7 @@
     "location": {
       "height": 34,
       "width": 144,
-      "x": 882,
+      "x": 896,
       "y": 80
     },
     "name": null,
@@ -2146,7 +2067,7 @@
     "location": {
       "height": 17,
       "width": 94,
-      "x": 907,
+      "x": 921,
       "y": 90
     },
     "name": "",
@@ -2172,7 +2093,7 @@
   },
   {
     "alt": "",
-    "area": 2482,
+    "area": 2516,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -2182,8 +2103,8 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 73,
-      "x": 1026,
+      "width": 74,
+      "x": 1040,
       "y": 80
     },
     "name": null,
@@ -2200,7 +2121,7 @@
       "Entertainment",
       "Entertainment"
     ],
-    "shape": 214,
+    "shape": 217,
     "tag": "LI",
     "visibleText": [
       "Life",
@@ -2210,7 +2131,7 @@
   },
   {
     "alt": "",
-    "area": 391,
+    "area": 408,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -2220,8 +2141,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 23,
-      "x": 1051,
+      "width": 24,
+      "x": 1065,
       "y": 90
     },
     "name": "",
@@ -2238,7 +2159,7 @@
       "Shopping",
       "Shopping"
     ],
-    "shape": 135,
+    "shape": 141,
     "tag": "A",
     "visibleText": [
       "Life"
@@ -2247,7 +2168,7 @@
   },
   {
     "alt": "",
-    "area": 3740,
+    "area": 3842,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -2257,8 +2178,8 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 110,
-      "x": 1100,
+      "width": 113,
+      "x": 1115,
       "y": 80
     },
     "name": null,
@@ -2274,10 +2195,12 @@
       "Offers",
       "Premium",
       "Offers",
+      "Trending",
+      "Now",
       "Life",
       "Life"
     ],
-    "shape": 323,
+    "shape": 332,
     "tag": "LI",
     "visibleText": [
       "Shopping",
@@ -2287,7 +2210,7 @@
   },
   {
     "alt": "",
-    "area": 1020,
+    "area": 1071,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -2297,8 +2220,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 60,
-      "x": 1125,
+      "width": 63,
+      "x": 1140,
       "y": 90
     },
     "name": "",
@@ -2317,7 +2240,7 @@
       "Premium",
       "Offers"
     ],
-    "shape": 352,
+    "shape": 370,
     "tag": "A",
     "visibleText": [
       "Shopping"
@@ -2326,7 +2249,7 @@
   },
   {
     "alt": "",
-    "area": 5134,
+    "area": 5236,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -2336,8 +2259,8 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 151,
-      "x": 1210,
+      "width": 154,
+      "x": 1229,
       "y": 80
     },
     "name": null,
@@ -2357,7 +2280,7 @@
       "Shopping",
       "Shopping"
     ],
-    "shape": 444,
+    "shape": 452,
     "tag": "LI",
     "visibleText": [
       "Premium",
@@ -2369,7 +2292,7 @@
   },
   {
     "alt": "",
-    "area": 1717,
+    "area": 1768,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -2379,8 +2302,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 101,
-      "x": 1235,
+      "width": 104,
+      "x": 1254,
       "y": 90
     },
     "name": "",
@@ -2398,7 +2321,7 @@
       "More...",
       "More..."
     ],
-    "shape": 594,
+    "shape": 611,
     "tag": "A",
     "visibleText": [
       "Premium",
@@ -2408,7 +2331,7 @@
   },
   {
     "alt": "",
-    "area": 3196,
+    "area": 3264,
     "classList": [
       "_yb_u3cpc"
     ],
@@ -2418,12 +2341,15 @@
     "isButton": false,
     "location": {
       "height": 34,
-      "width": 94,
-      "x": 1362,
+      "width": 96,
+      "x": 1383,
       "y": 80
     },
     "name": null,
     "neighborText": [
+      "Sign",
+      "in",
+      "Mail",
       "Yahoo",
       "Home",
       "Search",
@@ -2439,7 +2365,7 @@
       "Premium",
       "Offers"
     ],
-    "shape": 276,
+    "shape": 282,
     "tag": "LI",
     "visibleText": [
       "More...",
@@ -2449,7 +2375,7 @@
   },
   {
     "alt": "",
-    "area": 748,
+    "area": 782,
     "classList": [
       "_yb_vsgqh"
     ],
@@ -2459,8 +2385,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 44,
-      "x": 1387,
+      "width": 46,
+      "x": 1408,
       "y": 90
     },
     "name": "",
@@ -2480,7 +2406,7 @@
       "Premium",
       "Offers"
     ],
-    "shape": 258,
+    "shape": 270,
     "tag": "A",
     "visibleText": [
       "More..."
@@ -5725,41 +5651,6 @@
       ""
     ],
     "xpath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[2]"
-  },
-  {
-    "alt": "",
-    "area": 274660,
-    "classList": [
-      "Pos(a)",
-      "Start(0)",
-      "Z(2)",
-      "T(0)",
-      "End(0)",
-      "B(0)",
-      "D(n)",
-      "Bgr(nr)",
-      "Bgp(end_c)",
-      "Bgz(cv)",
-      "ntk-img-crop"
-    ],
-    "href": "",
-    "id": "",
-    "idxpath": "//*[@id='applet_p_50000313']/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[2]/div[1]",
-    "isButton": false,
-    "location": {
-      "height": 443,
-      "width": 620,
-      "x": 714,
-      "y": 80
-    },
-    "name": null,
-    "neighborText": [],
-    "shape": 139,
-    "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
-    "xpath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[2]/div[1]"
   },
   {
     "alt": "",
@@ -10757,7 +10648,7 @@
   },
   {
     "alt": "",
-    "area": 66240,
+    "area": 67712,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -10767,14 +10658,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/li[2]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 90,
+      "height": 92,
       "width": 736,
       "x": 496,
       "y": 802
     },
     "name": null,
     "neighborText": [],
-    "shape": 817,
+    "shape": 800,
     "tag": "DIV",
     "visibleText": [
       "CelebrityYahoo",
@@ -12704,7 +12595,7 @@
   },
   {
     "alt": "",
-    "area": 51520,
+    "area": 52992,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -12714,14 +12605,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/li[4]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 70,
+      "height": 72,
       "width": 736,
       "x": 496,
       "y": 1136
     },
     "name": null,
     "neighborText": [],
-    "shape": 1051,
+    "shape": 1022,
     "tag": "DIV",
     "visibleText": [
       "CelebrityYahoo",
@@ -15408,7 +15299,7 @@
   },
   {
     "alt": "",
-    "area": 83168,
+    "area": 84640,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -15418,14 +15309,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/li[6]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 113,
+      "height": 115,
       "width": 736,
       "x": 496,
       "y": 1468
     },
     "name": null,
     "neighborText": [],
-    "shape": 651,
+    "shape": 640,
     "tag": "DIV",
     "visibleText": [
       "HealthThe",
@@ -18127,7 +18018,7 @@
   },
   {
     "alt": "",
-    "area": 68448,
+    "area": 69920,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -18137,14 +18028,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/div[1]/ul[1]/li[1]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 93,
+      "height": 95,
       "width": 736,
       "x": 496,
       "y": 1801
     },
     "name": null,
     "neighborText": [],
-    "shape": 791,
+    "shape": 774,
     "tag": "DIV",
     "visibleText": [
       "PoliticsHuffPost",
@@ -19606,7 +19497,7 @@
   },
   {
     "alt": "",
-    "area": 83168,
+    "area": 84640,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -19616,14 +19507,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/div[1]/ul[1]/li[3]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 113,
+      "height": 115,
       "width": 736,
       "x": 496,
       "y": 2133
     },
     "name": null,
     "neighborText": [],
-    "shape": 651,
+    "shape": 640,
     "tag": "DIV",
     "visibleText": [
       "SportsYahoo",
@@ -20444,7 +20335,7 @@
   },
   {
     "alt": "",
-    "area": 66240,
+    "area": 67712,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -20454,14 +20345,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/div[1]/ul[1]/li[4]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 90,
+      "height": 92,
       "width": 736,
       "x": 496,
       "y": 2299
     },
     "name": null,
     "neighborText": [],
-    "shape": 817,
+    "shape": 800,
     "tag": "DIV",
     "visibleText": [
       "SportsReuters",
@@ -21217,7 +21108,7 @@
   },
   {
     "alt": "",
-    "area": 83168,
+    "area": 84640,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -21227,14 +21118,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/div[1]/ul[1]/li[5]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 113,
+      "height": 115,
       "width": 736,
       "x": 496,
       "y": 2465
     },
     "name": null,
     "neighborText": [],
-    "shape": 651,
+    "shape": 640,
     "tag": "DIV",
     "visibleText": [
       "CelebrityE!",
@@ -21920,7 +21811,7 @@
   },
   {
     "alt": "",
-    "area": 68448,
+    "area": 69920,
     "classList": [
       "Ov(h)",
       "Mend(10px)--maw1024"
@@ -21930,14 +21821,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/div[1]/ul[1]/li[6]/div[2]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 93,
+      "height": 95,
       "width": 736,
       "x": 496,
       "y": 2631
     },
     "name": null,
     "neighborText": [],
-    "shape": 791,
+    "shape": 774,
     "tag": "DIV",
     "visibleText": [
       "TechnologyIn",
@@ -23614,7 +23505,7 @@
   },
   {
     "alt": "",
-    "area": 7595,
+    "area": 11515,
     "classList": [
       "C($c-fuji-grey-m)",
       "C($streamBrandHoverClass):h",
@@ -23628,14 +23519,14 @@
     "idxpath": "//*[@id='applet_p_50000314']/div[1]/ul[1]/div[1]/ul[1]/li[8]/div[2]/div[2]/ul[1]/li[1]/a[1]/h4[1]",
     "isButton": false,
     "location": {
-      "height": 31,
+      "height": 47,
       "width": 245,
       "x": 576,
       "y": 3058
     },
     "name": null,
     "neighborText": [],
-    "shape": 790,
+    "shape": 521,
     "tag": "H4",
     "visibleText": [
       "Historic",
@@ -23956,7 +23847,7 @@
   },
   {
     "alt": "",
-    "area": 539840,
+    "area": 541760,
     "classList": [
       "aside-sticky"
     ],
@@ -23965,7 +23856,7 @@
     "idxpath": "//*[@id='Aside']/div[1]",
     "isButton": false,
     "location": {
-      "height": 1687,
+      "height": 1693,
       "width": 320,
       "x": 1264,
       "y": 154
@@ -24230,7 +24121,7 @@
   },
   {
     "alt": "",
-    "area": 539840,
+    "area": 541760,
     "classList": [
       "aside-sticky-col"
     ],
@@ -24239,7 +24130,7 @@
     "idxpath": "//*[@id='Aside']/div[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 1687,
+      "height": 1693,
       "width": 320,
       "x": 1264,
       "y": 154
@@ -24691,6 +24582,8 @@
     },
     "name": null,
     "neighborText": [
+      "Shopping",
+      "Shopping",
       "Premium",
       "Offers",
       "Premium",
@@ -24770,6 +24663,8 @@
     },
     "name": null,
     "neighborText": [
+      "Shopping",
+      "Shopping",
       "Premium",
       "Offers",
       "Premium",
@@ -24911,7 +24806,7 @@
   },
   {
     "alt": "",
-    "area": 1728,
+    "area": 1792,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -24925,7 +24820,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 108,
+      "width": 112,
       "x": 1264,
       "y": 191
     },
@@ -24933,21 +24828,21 @@
     "neighborText": [
       "Trending",
       "Now",
-      "Emma",
-      "Portner",
       "1.",
       "2.",
       "Kathie",
       "Lee",
       "Gifford",
       "3.",
+      "Emma",
+      "Portner",
       "Willow",
       "Smith",
       "3.",
       "Willow",
       "Smith"
     ],
-    "shape": 675,
+    "shape": 700,
     "tag": "A",
     "visibleText": [
       "1.",
@@ -24999,7 +24894,7 @@
   },
   {
     "alt": "",
-    "area": 1335,
+    "area": 1395,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -25013,7 +24908,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 89,
+      "width": 93,
       "x": 1282,
       "y": 191
     },
@@ -25033,7 +24928,7 @@
       "Willow",
       "Smith"
     ],
-    "shape": 593,
+    "shape": 620,
     "tag": "SPAN",
     "visibleText": [
       "Emma",
@@ -25110,7 +25005,7 @@
   },
   {
     "alt": "",
-    "area": 2064,
+    "area": 2144,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -25124,7 +25019,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 129,
+      "width": 134,
       "x": 1264,
       "y": 218
     },
@@ -25158,7 +25053,7 @@
       "1500",
       "9."
     ],
-    "shape": 806,
+    "shape": 837,
     "tag": "A",
     "visibleText": [
       "2.",
@@ -25214,7 +25109,7 @@
   },
   {
     "alt": "",
-    "area": 1650,
+    "area": 1725,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -25228,7 +25123,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 110,
+      "width": 115,
       "x": 1282,
       "y": 218
     },
@@ -25259,7 +25154,7 @@
       "1500",
       "9."
     ],
-    "shape": 733,
+    "shape": 766,
     "tag": "SPAN",
     "visibleText": [
       "Kathie",
@@ -25344,7 +25239,7 @@
   },
   {
     "alt": "",
-    "area": 1584,
+    "area": 1632,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -25358,7 +25253,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 99,
+      "width": 102,
       "x": 1264,
       "y": 244
     },
@@ -25387,7 +25282,7 @@
       "Website",
       "Builder"
     ],
-    "shape": 618,
+    "shape": 637,
     "tag": "A",
     "visibleText": [
       "3.",
@@ -25443,7 +25338,7 @@
   },
   {
     "alt": "",
-    "area": 1200,
+    "area": 1245,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -25457,7 +25352,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 80,
+      "width": 83,
       "x": 1282,
       "y": 245
     },
@@ -25484,7 +25379,7 @@
       "Website",
       "Builder"
     ],
-    "shape": 533,
+    "shape": 553,
     "tag": "SPAN",
     "visibleText": [
       "Willow",
@@ -25562,7 +25457,7 @@
   },
   {
     "alt": "",
-    "area": 1600,
+    "area": 1648,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -25576,7 +25471,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 100,
+      "width": 103,
       "x": 1264,
       "y": 271
     },
@@ -25600,7 +25495,7 @@
       "Website",
       "Builder"
     ],
-    "shape": 625,
+    "shape": 643,
     "tag": "A",
     "visibleText": [
       "4.",
@@ -25653,7 +25548,7 @@
   },
   {
     "alt": "",
-    "area": 1215,
+    "area": 1275,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -25667,7 +25562,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 81,
+      "width": 85,
       "x": 1282,
       "y": 272
     },
@@ -25689,7 +25584,7 @@
       "Website",
       "Builder"
     ],
-    "shape": 540,
+    "shape": 566,
     "tag": "SPAN",
     "visibleText": [
       "Flynn",
@@ -25756,7 +25651,7 @@
   },
   {
     "alt": "",
-    "area": 1840,
+    "area": 1904,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -25770,7 +25665,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 115,
+      "width": 119,
       "x": 1264,
       "y": 298
     },
@@ -25789,7 +25684,7 @@
       "Builder",
       "5."
     ],
-    "shape": 718,
+    "shape": 743,
     "tag": "A",
     "visibleText": [
       "5.",
@@ -25838,7 +25733,7 @@
   },
   {
     "alt": "",
-    "area": 1440,
+    "area": 1500,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -25852,7 +25747,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 96,
+      "width": 100,
       "x": 1282,
       "y": 299
     },
@@ -25869,7 +25764,7 @@
       "Smith",
       "5."
     ],
-    "shape": 640,
+    "shape": 666,
     "tag": "SPAN",
     "visibleText": [
       "Website",
@@ -25937,7 +25832,7 @@
   },
   {
     "alt": "",
-    "area": 1648,
+    "area": 1712,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -25951,7 +25846,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 103,
+      "width": 107,
       "x": 1424,
       "y": 191
     },
@@ -25961,7 +25856,6 @@
       "Now",
       "Pat",
       "Patterson",
-      "1.",
       "Emma",
       "Portner",
       "2.",
@@ -25971,6 +25865,9 @@
       "3.",
       "Willow",
       "Smith",
+      "1.",
+      "Emma",
+      "Portner",
       "6.",
       "7.",
       "Glamorise",
@@ -25984,7 +25881,7 @@
       "Sierra",
       "1500"
     ],
-    "shape": 643,
+    "shape": 668,
     "tag": "A",
     "visibleText": [
       "6.",
@@ -26019,7 +25916,6 @@
       "Now",
       "Pat",
       "Patterson",
-      "1.",
       "Emma",
       "Portner",
       "2.",
@@ -26029,6 +25925,9 @@
       "3.",
       "Willow",
       "Smith",
+      "1.",
+      "Emma",
+      "Portner",
       "7.",
       "Glamorise",
       "Bras",
@@ -26046,7 +25945,7 @@
   },
   {
     "alt": "",
-    "area": 1260,
+    "area": 1320,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -26060,7 +25959,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 84,
+      "width": 88,
       "x": 1442,
       "y": 191
     },
@@ -26091,7 +25990,7 @@
       "Sierra",
       "1500"
     ],
-    "shape": 560,
+    "shape": 586,
     "tag": "SPAN",
     "visibleText": [
       "Pat",
@@ -26124,6 +26023,8 @@
     "neighborText": [
       "Trending",
       "Now",
+      "Emma",
+      "Portner",
       "1.",
       "Emma",
       "Portner",
@@ -26167,7 +26068,7 @@
   },
   {
     "alt": "",
-    "area": 1776,
+    "area": 1888,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -26181,7 +26082,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 111,
+      "width": 118,
       "x": 1424,
       "y": 218
     },
@@ -26195,8 +26096,6 @@
       "6.",
       "Pat",
       "Patterson",
-      "Glamorise",
-      "Bras",
       "2.",
       "Kathie",
       "Lee",
@@ -26221,7 +26120,7 @@
       "Bobby",
       "Brown"
     ],
-    "shape": 693,
+    "shape": 737,
     "tag": "A",
     "visibleText": [
       "7.",
@@ -26290,7 +26189,7 @@
   },
   {
     "alt": "",
-    "area": 1380,
+    "area": 1485,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -26304,7 +26203,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 92,
+      "width": 99,
       "x": 1442,
       "y": 218
     },
@@ -26345,7 +26244,7 @@
       "Bobby",
       "Brown"
     ],
-    "shape": 613,
+    "shape": 660,
     "tag": "SPAN",
     "visibleText": [
       "Glamorise",
@@ -26423,7 +26322,7 @@
   },
   {
     "alt": "",
-    "area": 1920,
+    "area": 2016,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -26437,19 +26336,21 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 120,
+      "width": 126,
       "x": 1424,
       "y": 244
     },
     "name": "",
     "neighborText": [
-      "1.",
       "Emma",
       "Portner",
       "2.",
       "Kathie",
       "Lee",
       "Gifford",
+      "1.",
+      "Emma",
+      "Portner",
       "6.",
       "7.",
       "Glamorise",
@@ -26485,7 +26386,7 @@
       "Rafer",
       "Johnson"
     ],
-    "shape": 750,
+    "shape": 787,
     "tag": "A",
     "visibleText": [
       "8.",
@@ -26517,13 +26418,15 @@
     },
     "name": null,
     "neighborText": [
-      "1.",
       "Emma",
       "Portner",
       "2.",
       "Kathie",
       "Lee",
       "Gifford",
+      "1.",
+      "Emma",
+      "Portner",
       "6.",
       "7.",
       "Glamorise",
@@ -26561,7 +26464,7 @@
   },
   {
     "alt": "",
-    "area": 1515,
+    "area": 1605,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -26575,7 +26478,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 101,
+      "width": 107,
       "x": 1442,
       "y": 245
     },
@@ -26618,7 +26521,7 @@
       "Rafer",
       "Johnson"
     ],
-    "shape": 673,
+    "shape": 713,
     "tag": "SPAN",
     "visibleText": [
       "GMC",
@@ -26692,7 +26595,7 @@
   },
   {
     "alt": "",
-    "area": 2176,
+    "area": 2272,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -26706,7 +26609,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 136,
+      "width": 142,
       "x": 1424,
       "y": 271
     },
@@ -26746,7 +26649,7 @@
       "Rafer",
       "Johnson"
     ],
-    "shape": 850,
+    "shape": 887,
     "tag": "A",
     "visibleText": [
       "9.",
@@ -26817,7 +26720,7 @@
   },
   {
     "alt": "",
-    "area": 1770,
+    "area": 1845,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -26831,7 +26734,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 118,
+      "width": 123,
       "x": 1442,
       "y": 272
     },
@@ -26868,7 +26771,7 @@
       "Rafer",
       "Johnson"
     ],
-    "shape": 786,
+    "shape": 820,
     "tag": "SPAN",
     "visibleText": [
       "Millie",
@@ -26930,7 +26833,7 @@
   },
   {
     "alt": "",
-    "area": 1712,
+    "area": 1808,
     "classList": [
       "Td(n):h",
       "Td(n)",
@@ -26944,7 +26847,7 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 107,
+      "width": 113,
       "x": 1424,
       "y": 298
     },
@@ -26968,16 +26871,16 @@
       "GMC",
       "Sierra",
       "1500",
-      "Rafer",
-      "Johnson",
       "Website",
       "Builder",
       "5.",
       "Website",
       "Builder",
-      "10."
+      "10.",
+      "Rafer",
+      "Johnson"
     ],
-    "shape": 668,
+    "shape": 706,
     "tag": "A",
     "visibleText": [
       "10.",
@@ -27039,7 +26942,7 @@
   },
   {
     "alt": "",
-    "area": 1320,
+    "area": 1410,
     "classList": [
       "Mstart(2px)",
       "C($c-fuji-grape-jelly):h",
@@ -27053,7 +26956,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 88,
+      "width": 94,
       "x": 1442,
       "y": 299
     },
@@ -27082,7 +26985,7 @@
       "Builder",
       "10."
     ],
-    "shape": 586,
+    "shape": 626,
     "tag": "SPAN",
     "visibleText": [
       "Rafer",
@@ -28154,7 +28057,7 @@
   },
   {
     "alt": "",
-    "area": 1280,
+    "area": 1408,
     "classList": [
       "Td(n)",
       "C($c-fuji-grey-n)",
@@ -28167,8 +28070,8 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 80,
-      "x": 1481,
+      "width": 88,
+      "x": 1473,
       "y": 620
     },
     "name": "",
@@ -28284,7 +28187,7 @@
       "°C).",
       "58°49°"
     ],
-    "shape": 500,
+    "shape": 550,
     "tag": "A",
     "visibleText": [
       "San",
@@ -28294,7 +28197,7 @@
   },
   {
     "alt": "",
-    "area": 1280,
+    "area": 1408,
     "classList": [
       "wafer-text",
       "M(0)",
@@ -28307,8 +28210,8 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 80,
-      "x": 1481,
+      "width": 88,
+      "x": 1473,
       "y": 620
     },
     "name": null,
@@ -28422,7 +28325,7 @@
       "°C).",
       "58°49°"
     ],
-    "shape": 500,
+    "shape": 550,
     "tag": "H4",
     "visibleText": [
       "San",
@@ -29149,9 +29052,8 @@
       "More",
       "»",
       "°",
-      "48°",
       "61°50°",
-      "49°"
+      "58°49°"
     ],
     "shape": 347,
     "tag": "DIV",
@@ -29266,7 +29168,7 @@
   },
   {
     "alt": "",
-    "area": 4048,
+    "area": 3772,
     "classList": [
       "D(f)",
       "Ai(c)",
@@ -29278,7 +29180,7 @@
     "isButton": false,
     "location": {
       "height": 92,
-      "width": 44,
+      "width": 41,
       "x": 1264,
       "y": 650
     },
@@ -29304,7 +29206,7 @@
       "More",
       "»"
     ],
-    "shape": 47,
+    "shape": 44,
     "tag": "DIV",
     "visibleText": [
       "Today",
@@ -29369,7 +29271,7 @@
     "location": {
       "height": 16,
       "width": 36,
-      "x": 1268,
+      "x": 1266,
       "y": 650
     },
     "name": null,
@@ -29409,18 +29311,12 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1285,
+      "x": 1284,
       "y": 650
     },
     "name": null,
     "neighborText": [
       "Weather",
-      "Weather",
-      "San",
-      "Francisco",
-      "View",
-      "your",
-      "Locations",
       "Today"
     ],
     "shape": 100,
@@ -29472,7 +29368,7 @@
   },
   {
     "alt": "",
-    "area": 660,
+    "area": 615,
     "classList": [
       "Fw(600)",
       "Fz(12px)"
@@ -29483,7 +29379,7 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 44,
+      "width": 41,
       "x": 1264,
       "y": 727
     },
@@ -29495,7 +29391,7 @@
       "»",
       "49°"
     ],
-    "shape": 293,
+    "shape": 273,
     "tag": "DIV",
     "visibleText": [
       "60°49°"
@@ -29504,7 +29400,7 @@
   },
   {
     "alt": "",
-    "area": 350,
+    "area": 322,
     "classList": [
       "C($c-fuji-grey-n)",
       "Pend(5px)"
@@ -29515,7 +29411,7 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 25,
+      "width": 23,
       "x": 1264,
       "y": 728
     },
@@ -29526,7 +29422,7 @@
       "More",
       "»"
     ],
-    "shape": 178,
+    "shape": 164,
     "tag": "SPAN",
     "visibleText": [
       "60°"
@@ -29535,7 +29431,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -29543,8 +29439,8 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
-      "x": 1279,
+      "width": 4,
+      "x": 1277,
       "y": 728
     },
     "name": null,
@@ -29555,7 +29451,7 @@
       "»",
       "49°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -29564,7 +29460,7 @@
   },
   {
     "alt": "",
-    "area": 266,
+    "area": 252,
     "classList": [
       "C($c-fuji-grey-o)"
     ],
@@ -29574,8 +29470,8 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 19,
-      "x": 1289,
+      "width": 18,
+      "x": 1287,
       "y": 728
     },
     "name": null,
@@ -29585,7 +29481,7 @@
       "More",
       "»"
     ],
-    "shape": 135,
+    "shape": 128,
     "tag": "SPAN",
     "visibleText": [
       "49°"
@@ -29594,7 +29490,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -29602,8 +29498,8 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
-      "x": 1303,
+      "width": 4,
+      "x": 1300,
       "y": 728
     },
     "name": null,
@@ -29613,7 +29509,7 @@
       "»",
       "60°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -29622,7 +29518,7 @@
   },
   {
     "alt": "",
-    "area": 3956,
+    "area": 3772,
     "classList": [
       "D(f)",
       "Ai(c)",
@@ -29634,8 +29530,8 @@
     "isButton": false,
     "location": {
       "height": 92,
-      "width": 43,
-      "x": 1357,
+      "width": 41,
+      "x": 1356,
       "y": 650
     },
     "name": null,
@@ -29651,52 +29547,9 @@
       "See",
       "More",
       "»",
-      "58°48°",
-      "Today",
-      "Day:",
-      "Mostly",
-      "cloudy",
-      "with",
-      "a",
-      "high",
-      "of",
-      "60",
-      "°F",
-      "(15.6",
-      "°C).",
-      "Winds",
-      "WNW",
-      "at",
-      "7",
-      "mph",
-      "(11.3",
-      "kph).",
-      "Night:",
-      "Mostly",
-      "cloudy.",
-      "Winds",
-      "variable",
-      "at",
-      "1",
-      "to",
-      "8",
-      "mph",
-      "(1.6",
-      "to",
-      "12.9",
-      "kph).",
-      "The",
-      "overnight",
-      "low",
-      "will",
-      "be",
-      "48",
-      "°F",
-      "(8.9",
-      "°C).",
-      "60°49°"
+      "58°48°"
     ],
-    "shape": 46,
+    "shape": 44,
     "tag": "DIV",
     "visibleText": [
       "Thu",
@@ -29725,7 +29578,7 @@
   },
   {
     "alt": "",
-    "area": 352,
+    "area": 368,
     "classList": [
       "Fw(600)",
       "Mb(10px)",
@@ -29738,8 +29591,8 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 22,
-      "x": 1368,
+      "width": 23,
+      "x": 1365,
       "y": 650
     },
     "name": null,
@@ -29752,7 +29605,7 @@
       "your",
       "Locations"
     ],
-    "shape": 137,
+    "shape": 143,
     "tag": "SPAN",
     "visibleText": [
       "Thu"
@@ -29772,7 +29625,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1379,
+      "x": 1377,
       "y": 650
     },
     "name": null,
@@ -29813,7 +29666,7 @@
   },
   {
     "alt": "",
-    "area": 645,
+    "area": 615,
     "classList": [
       "Fw(600)",
       "Fz(12px)"
@@ -29824,62 +29677,19 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 43,
-      "x": 1357,
+      "width": 41,
+      "x": 1356,
       "y": 727
     },
     "name": null,
     "neighborText": [
-      "Today",
-      "Day:",
-      "Mostly",
-      "cloudy",
-      "with",
-      "a",
-      "high",
-      "of",
-      "60",
-      "°F",
-      "(15.6",
-      "°C).",
-      "Winds",
-      "WNW",
-      "at",
-      "7",
-      "mph",
-      "(11.3",
-      "kph).",
-      "Night:",
-      "Mostly",
-      "cloudy.",
-      "Winds",
-      "variable",
-      "at",
-      "1",
-      "to",
-      "8",
-      "mph",
-      "(1.6",
-      "to",
-      "12.9",
-      "kph).",
-      "The",
-      "overnight",
-      "low",
-      "will",
-      "be",
-      "48",
-      "°F",
-      "(8.9",
-      "°C).",
-      "60°49°",
       "°",
       "See",
       "More",
       "»",
       "48°"
     ],
-    "shape": 286,
+    "shape": 273,
     "tag": "DIV",
     "visibleText": [
       "58°48°"
@@ -29900,55 +29710,11 @@
     "location": {
       "height": 14,
       "width": 23,
-      "x": 1357,
+      "x": 1356,
       "y": 728
     },
     "name": null,
     "neighborText": [
-      "Today",
-      "Day:",
-      "Mostly",
-      "cloudy",
-      "with",
-      "a",
-      "high",
-      "of",
-      "60",
-      "°F",
-      "(15.6",
-      "°C).",
-      "Winds",
-      "WNW",
-      "at",
-      "7",
-      "mph",
-      "(11.3",
-      "kph).",
-      "Night:",
-      "Mostly",
-      "cloudy.",
-      "Winds",
-      "variable",
-      "at",
-      "1",
-      "to",
-      "8",
-      "mph",
-      "(1.6",
-      "to",
-      "12.9",
-      "kph).",
-      "The",
-      "overnight",
-      "low",
-      "will",
-      "be",
-      "48",
-      "°F",
-      "(8.9",
-      "°C).",
-      "60°49°",
-      "°",
       "See",
       "More",
       "»",
@@ -29963,7 +29729,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -29971,8 +29737,8 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
-      "x": 1371,
+      "width": 4,
+      "x": 1370,
       "y": 728
     },
     "name": null,
@@ -29983,7 +29749,7 @@
       "»",
       "48°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -29992,7 +29758,7 @@
   },
   {
     "alt": "",
-    "area": 266,
+    "area": 252,
     "classList": [
       "C($c-fuji-grey-o)"
     ],
@@ -30002,15 +29768,18 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 19,
-      "x": 1381,
+      "width": 18,
+      "x": 1380,
       "y": 728
     },
     "name": null,
     "neighborText": [
-      "°"
+      "°",
+      "See",
+      "More",
+      "»"
     ],
-    "shape": 135,
+    "shape": 128,
     "tag": "SPAN",
     "visibleText": [
       "48°"
@@ -30019,7 +29788,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -30027,15 +29796,15 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
-      "x": 1395,
+      "width": 4,
+      "x": 1393,
       "y": 728
     },
     "name": null,
     "neighborText": [
       "58°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -30057,7 +29826,7 @@
     "location": {
       "height": 92,
       "width": 41,
-      "x": 1450,
+      "x": 1449,
       "y": 650
     },
     "name": null,
@@ -30069,28 +29838,7 @@
       "your",
       "Locations",
       "°",
-      "61°50°",
-      "Thu",
-      "Partly",
-      "cloudy",
-      "today",
-      "with",
-      "a",
-      "high",
-      "of",
-      "58",
-      "°F",
-      "(14.4",
-      "°C)",
-      "and",
-      "a",
-      "low",
-      "of",
-      "48",
-      "°F",
-      "(8.9",
-      "°C).",
-      "58°48°"
+      "61°50°"
     ],
     "shape": 44,
     "tag": "DIV",
@@ -30120,7 +29868,7 @@
   },
   {
     "alt": "",
-    "area": 240,
+    "area": 256,
     "classList": [
       "Fw(600)",
       "Mb(10px)",
@@ -30133,8 +29881,8 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 15,
-      "x": 1463,
+      "width": 16,
+      "x": 1462,
       "y": 650
     },
     "name": null,
@@ -30146,7 +29894,7 @@
       "your",
       "Locations"
     ],
-    "shape": 93,
+    "shape": 100,
     "tag": "SPAN",
     "visibleText": [
       "Fri"
@@ -30166,7 +29914,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1470,
+      "x": 1469,
       "y": 650
     },
     "name": null,
@@ -30216,32 +29964,11 @@
     "location": {
       "height": 15,
       "width": 41,
-      "x": 1450,
+      "x": 1449,
       "y": 727
     },
     "name": null,
     "neighborText": [
-      "Thu",
-      "Partly",
-      "cloudy",
-      "today",
-      "with",
-      "a",
-      "high",
-      "of",
-      "58",
-      "°F",
-      "(14.4",
-      "°C)",
-      "and",
-      "a",
-      "low",
-      "of",
-      "48",
-      "°F",
-      "(8.9",
-      "°C).",
-      "58°48°",
       "°",
       "50°"
     ],
@@ -30254,7 +29981,7 @@
   },
   {
     "alt": "",
-    "area": 308,
+    "area": 322,
     "classList": [
       "C($c-fuji-grey-n)",
       "Pend(5px)"
@@ -30265,36 +29992,15 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 22,
-      "x": 1450,
+      "width": 23,
+      "x": 1449,
       "y": 728
     },
     "name": null,
     "neighborText": [
-      "Thu",
-      "Partly",
-      "cloudy",
-      "today",
-      "with",
-      "a",
-      "high",
-      "of",
-      "58",
-      "°F",
-      "(14.4",
-      "°C)",
-      "and",
-      "a",
-      "low",
-      "of",
-      "48",
-      "°F",
-      "(8.9",
-      "°C).",
-      "58°48°",
       "50°"
     ],
-    "shape": 157,
+    "shape": 164,
     "tag": "SPAN",
     "visibleText": [
       "61°"
@@ -30303,7 +30009,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -30311,8 +30017,8 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
-      "x": 1462,
+      "width": 4,
+      "x": 1463,
       "y": 728
     },
     "name": null,
@@ -30320,7 +30026,7 @@
       "°",
       "50°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -30329,7 +30035,7 @@
   },
   {
     "alt": "",
-    "area": 266,
+    "area": 252,
     "classList": [
       "C($c-fuji-grey-o)"
     ],
@@ -30339,15 +30045,16 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 19,
+      "width": 18,
       "x": 1472,
       "y": 728
     },
     "name": null,
     "neighborText": [
-      "°"
+      "°",
+      "61°"
     ],
-    "shape": 135,
+    "shape": 128,
     "tag": "SPAN",
     "visibleText": [
       "50°"
@@ -30356,7 +30063,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -30364,7 +30071,7 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
+      "width": 4,
       "x": 1486,
       "y": 728
     },
@@ -30372,7 +30079,7 @@
     "neighborText": [
       "61°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -30381,7 +30088,7 @@
   },
   {
     "alt": "",
-    "area": 3864,
+    "area": 3772,
     "classList": [
       "D(f)",
       "Ai(c)",
@@ -30393,8 +30100,8 @@
     "isButton": false,
     "location": {
       "height": 92,
-      "width": 42,
-      "x": 1541,
+      "width": 41,
+      "x": 1542,
       "y": 650
     },
     "name": null,
@@ -30406,29 +30113,9 @@
       "your",
       "Locations",
       "°",
-      "58°49°",
-      "Fri",
-      "Sunny",
-      "today",
-      "with",
-      "a",
-      "high",
-      "of",
-      "61",
-      "°F",
-      "(16.1",
-      "°C)",
-      "and",
-      "a",
-      "low",
-      "of",
-      "50",
-      "°F",
-      "(10.0",
-      "°C).",
-      "61°50°"
+      "58°49°"
     ],
-    "shape": 45,
+    "shape": 44,
     "tag": "DIV",
     "visibleText": [
       "Sat",
@@ -30457,7 +30144,7 @@
   },
   {
     "alt": "",
-    "area": 304,
+    "area": 320,
     "classList": [
       "Fw(600)",
       "Mb(10px)",
@@ -30470,8 +30157,8 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 19,
-      "x": 1552,
+      "width": 20,
+      "x": 1553,
       "y": 650
     },
     "name": null,
@@ -30483,7 +30170,7 @@
       "your",
       "Locations"
     ],
-    "shape": 118,
+    "shape": 125,
     "tag": "SPAN",
     "visibleText": [
       "Sat"
@@ -30543,7 +30230,7 @@
   },
   {
     "alt": "",
-    "area": 630,
+    "area": 615,
     "classList": [
       "Fw(600)",
       "Fz(12px)"
@@ -30554,36 +30241,16 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 42,
-      "x": 1541,
+      "width": 41,
+      "x": 1542,
       "y": 727
     },
     "name": null,
     "neighborText": [
-      "Fri",
-      "Sunny",
-      "today",
-      "with",
-      "a",
-      "high",
-      "of",
-      "61",
-      "°F",
-      "(16.1",
-      "°C)",
-      "and",
-      "a",
-      "low",
-      "of",
-      "50",
-      "°F",
-      "(10.0",
-      "°C).",
-      "61°50°",
       "°",
       "49°"
     ],
-    "shape": 280,
+    "shape": 273,
     "tag": "DIV",
     "visibleText": [
       "58°49°"
@@ -30604,31 +30271,11 @@
     "location": {
       "height": 14,
       "width": 23,
-      "x": 1541,
+      "x": 1542,
       "y": 728
     },
     "name": null,
     "neighborText": [
-      "Fri",
-      "Sunny",
-      "today",
-      "with",
-      "a",
-      "high",
-      "of",
-      "61",
-      "°F",
-      "(16.1",
-      "°C)",
-      "and",
-      "a",
-      "low",
-      "of",
-      "50",
-      "°F",
-      "(10.0",
-      "°C).",
-      "61°50°",
       "49°"
     ],
     "shape": 164,
@@ -30640,7 +30287,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -30648,15 +30295,16 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
-      "x": 1554,
+      "width": 4,
+      "x": 1556,
       "y": 728
     },
     "name": null,
     "neighborText": [
-      "°"
+      "°",
+      "49°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -30665,7 +30313,7 @@
   },
   {
     "alt": "",
-    "area": 266,
+    "area": 252,
     "classList": [
       "C($c-fuji-grey-o)"
     ],
@@ -30675,15 +30323,16 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 19,
-      "x": 1564,
+      "width": 18,
+      "x": 1565,
       "y": 728
     },
     "name": null,
     "neighborText": [
-      "°"
+      "°",
+      "58°"
     ],
-    "shape": 135,
+    "shape": 128,
     "tag": "SPAN",
     "visibleText": [
       "49°"
@@ -30692,7 +30341,7 @@
   },
   {
     "alt": "",
-    "area": 70,
+    "area": 56,
     "classList": [],
     "href": "",
     "id": "",
@@ -30700,15 +30349,15 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 5,
-      "x": 1578,
+      "width": 4,
+      "x": 1579,
       "y": 728
     },
     "name": null,
     "neighborText": [
       "58°"
     ],
-    "shape": 35,
+    "shape": 28,
     "tag": "SPAN",
     "visibleText": [
       "°"
@@ -30717,7 +30366,7 @@
   },
   {
     "alt": "",
-    "area": 1088,
+    "area": 1156,
     "classList": [
       "D(ib)",
       "Lh(1.33)",
@@ -30736,7 +30385,7 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 64,
+      "width": 68,
       "x": 1264,
       "y": 747
     },
@@ -30892,7 +30541,7 @@
       "58°49°",
       "Scoreboard"
     ],
-    "shape": 376,
+    "shape": 400,
     "tag": "A",
     "visibleText": [
       "See",
@@ -31766,7 +31415,7 @@
   },
   {
     "alt": "",
-    "area": 1416,
+    "area": 1440,
     "classList": [
       "D(ib)",
       "Va(b)",
@@ -31781,7 +31430,7 @@
     "isButton": false,
     "location": {
       "height": 24,
-      "width": 59,
+      "width": 60,
       "x": 1264,
       "y": 820
     },
@@ -31793,7 +31442,7 @@
       "Baltimore",
       "Pittsburgh"
     ],
-    "shape": 245,
+    "shape": 250,
     "tag": "LI",
     "visibleText": [
       "Yesterday"
@@ -31802,7 +31451,7 @@
   },
   {
     "alt": "",
-    "area": 1180,
+    "area": 1200,
     "classList": [
       "Cur(p)",
       "Td(n)",
@@ -31837,7 +31486,7 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 59,
+      "width": 60,
       "x": 1264,
       "y": 820
     },
@@ -31851,7 +31500,7 @@
       "19",
       "Final"
     ],
-    "shape": 295,
+    "shape": 300,
     "tag": "A",
     "visibleText": [
       "Yesterday"
@@ -31880,7 +31529,7 @@
     "location": {
       "height": 24,
       "width": 36,
-      "x": 1343,
+      "x": 1344,
       "y": 820
     },
     "name": null,
@@ -31937,7 +31586,7 @@
     "location": {
       "height": 24,
       "width": 36,
-      "x": 1343,
+      "x": 1344,
       "y": 820
     },
     "name": "",
@@ -31957,7 +31606,7 @@
   },
   {
     "alt": "",
-    "area": 1464,
+    "area": 1488,
     "classList": [
       "D(ib)",
       "Va(b)",
@@ -31971,14 +31620,12 @@
     "isButton": false,
     "location": {
       "height": 24,
-      "width": 61,
-      "x": 1399,
+      "width": 62,
+      "x": 1401,
       "y": 820
     },
     "name": null,
     "neighborText": [
-      "14",
-      "19",
       "Scoreboard",
       "Change",
       "Sports",
@@ -32001,7 +31648,7 @@
       "19",
       "Final"
     ],
-    "shape": 254,
+    "shape": 258,
     "tag": "LI",
     "visibleText": [
       "Tomorrow"
@@ -32010,7 +31657,7 @@
   },
   {
     "alt": "",
-    "area": 1220,
+    "area": 1240,
     "classList": [
       "Cur(p)",
       "Td(n)",
@@ -32045,8 +31692,8 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 61,
-      "x": 1399,
+      "width": 62,
+      "x": 1401,
       "y": 820
     },
     "name": "",
@@ -32072,7 +31719,7 @@
       "19",
       "Final"
     ],
-    "shape": 305,
+    "shape": 310,
     "tag": "A",
     "visibleText": [
       "Tomorrow"
@@ -32408,6 +32055,7 @@
     "name": null,
     "neighborText": [
       "19",
+      "Today",
       "YesterdayTodayTomorrow",
       "NBA",
       "NFL",
@@ -33496,7 +33144,7 @@
   },
   {
     "alt": "",
-    "area": 1296,
+    "area": 1376,
     "classList": [
       "more-link",
       "D(ib)",
@@ -33514,13 +33162,13 @@
     "isButton": false,
     "location": {
       "height": 16,
-      "width": 81,
+      "width": 86,
       "x": 1264,
       "y": 1050
     },
     "name": "",
     "neighborText": [],
-    "shape": 506,
+    "shape": 537,
     "tag": "A",
     "visibleText": [
       "More",
@@ -33531,7 +33179,7 @@
   },
   {
     "alt": "",
-    "area": 44800,
+    "area": 50560,
     "classList": [
       "horoscopetdv2",
       "Mb(24px)",
@@ -33542,14 +33190,14 @@
     "idxpath": "//*[@id='applet_p_50000295']",
     "isButton": false,
     "location": {
-      "height": 140,
+      "height": 158,
       "width": 320,
       "x": 1264,
       "y": 1091
     },
     "name": null,
     "neighborText": [],
-    "shape": 228,
+    "shape": 202,
     "tag": "DIV",
     "visibleText": [
       "Horoscope",
@@ -33614,21 +33262,21 @@
   },
   {
     "alt": "",
-    "area": 44800,
+    "area": 50560,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='applet_p_50000295']/div[1]",
     "isButton": false,
     "location": {
-      "height": 140,
+      "height": 158,
       "width": 320,
       "x": 1264,
       "y": 1091
     },
     "name": null,
     "neighborText": [],
-    "shape": 228,
+    "shape": 202,
     "tag": "DIV",
     "visibleText": [
       "Horoscope",
@@ -33693,7 +33341,7 @@
   },
   {
     "alt": "",
-    "area": 44800,
+    "area": 50560,
     "classList": [
       "horoscope-container",
       "Mih(140px)",
@@ -33704,14 +33352,14 @@
     "idxpath": "//*[@id='applet_p_50000295']/div[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 140,
+      "height": 158,
       "width": 320,
       "x": 1264,
       "y": 1091
     },
     "name": null,
     "neighborText": [],
-    "shape": 228,
+    "shape": 202,
     "tag": "DIV",
     "visibleText": [
       "Horoscope",
@@ -33858,7 +33506,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1499,
+      "x": 1497,
       "y": 1091
     },
     "name": null,
@@ -33875,7 +33523,7 @@
   },
   {
     "alt": "",
-    "area": 1445,
+    "area": 1479,
     "classList": [
       "M(0)",
       "P(0)",
@@ -33895,13 +33543,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 85,
-      "x": 1499,
-      "y": 1094
+      "width": 87,
+      "x": 1497,
+      "y": 1092
     },
     "name": "config.selectedSign",
     "neighborText": [],
-    "shape": 500,
+    "shape": 511,
     "tag": "SELECT",
     "visibleText": [
       "Aries",
@@ -33921,21 +33569,21 @@
   },
   {
     "alt": "",
-    "area": 33920,
+    "area": 39680,
     "classList": [],
     "href": "",
     "id": "horoscope",
     "idxpath": "//*[@id='horoscope']",
     "isButton": false,
     "location": {
-      "height": 106,
+      "height": 124,
       "width": 320,
       "x": 1264,
       "y": 1124
     },
     "name": null,
     "neighborText": [],
-    "shape": 301,
+    "shape": 258,
     "tag": "DIV",
     "visibleText": [
       "December",
@@ -33983,21 +33631,21 @@
   },
   {
     "alt": "",
-    "area": 33920,
+    "area": 39680,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='horoscope']/div[1]",
     "isButton": false,
     "location": {
-      "height": 106,
+      "height": 124,
       "width": 320,
       "x": 1264,
       "y": 1124
     },
     "name": null,
     "neighborText": [],
-    "shape": 301,
+    "shape": 258,
     "tag": "DIV",
     "visibleText": [
       "December",
@@ -34045,7 +33693,7 @@
   },
   {
     "alt": "",
-    "area": 28800,
+    "area": 34560,
     "classList": [
       "Tren(auto)",
       "Va(t)",
@@ -34057,14 +33705,14 @@
     "idxpath": "//*[@id='horoscope']/div[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 90,
+      "height": 108,
       "width": 320,
       "x": 1264,
       "y": 1124
     },
     "name": null,
     "neighborText": [],
-    "shape": 355,
+    "shape": 296,
     "tag": "DIV",
     "visibleText": [
       "December",
@@ -34109,7 +33757,7 @@
   },
   {
     "alt": "",
-    "area": 7200,
+    "area": 8640,
     "classList": [
       "Mend(15px)"
     ],
@@ -34118,14 +33766,14 @@
     "idxpath": "//*[@id='horoscope']/div[1]/div[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 90,
+      "height": 108,
       "width": 80,
       "x": 1264,
       "y": 1124
     },
     "name": null,
     "neighborText": [],
-    "shape": 88,
+    "shape": 74,
     "tag": "DIV",
     "visibleText": [
       ""
@@ -34160,7 +33808,7 @@
   },
   {
     "alt": "",
-    "area": 20250,
+    "area": 24300,
     "classList": [
       "horoscope-overview",
       "Fz(12px)",
@@ -34173,14 +33821,14 @@
     "idxpath": "//*[@id='horoscope']/div[1]/div[1]/p[1]",
     "isButton": false,
     "location": {
-      "height": 90,
+      "height": 108,
       "width": 225,
       "x": 1359,
       "y": 1124
     },
     "name": null,
     "neighborText": [],
-    "shape": 250,
+    "shape": 208,
     "tag": "P",
     "visibleText": [
       "December",
@@ -34265,7 +33913,7 @@
       "height": 16,
       "width": 320,
       "x": 1264,
-      "y": 1214
+      "y": 1232
     },
     "name": null,
     "neighborText": [],
@@ -34280,7 +33928,7 @@
   },
   {
     "alt": "",
-    "area": 960,
+    "area": 1020,
     "classList": [
       "more-link",
       "Fw(600)",
@@ -34296,13 +33944,13 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 64,
+      "width": 68,
       "x": 1264,
-      "y": 1215
+      "y": 1233
     },
     "name": "",
     "neighborText": [],
-    "shape": 426,
+    "shape": 453,
     "tag": "A",
     "visibleText": [
       "See",
@@ -34327,7 +33975,7 @@
       "height": 250,
       "width": 320,
       "x": 1264,
-      "y": 1255
+      "y": 1273
     },
     "name": null,
     "neighborText": [],
@@ -34359,7 +34007,7 @@
       "height": 250,
       "width": 320,
       "x": 1264,
-      "y": 1255
+      "y": 1273
     },
     "name": null,
     "neighborText": [],
@@ -34382,7 +34030,7 @@
       "height": 250,
       "width": 320,
       "x": 1264,
-      "y": 1525
+      "y": 1543
     },
     "name": null,
     "neighborText": [],
@@ -34408,7 +34056,7 @@
       "height": 250,
       "width": 320,
       "x": 1264,
-      "y": 1525
+      "y": 1543
     },
     "name": null,
     "neighborText": [],
@@ -34436,7 +34084,7 @@
       "height": 250,
       "width": 320,
       "x": 1264,
-      "y": 1525
+      "y": 1543
     },
     "name": null,
     "neighborText": [],
@@ -34449,7 +34097,7 @@
   },
   {
     "alt": "",
-    "area": 21120,
+    "area": 16960,
     "classList": [
       "footertdv2wafer",
       "wafer-rapid-module"
@@ -34459,14 +34107,14 @@
     "idxpath": "//*[@id='applet_p_50000405']",
     "isButton": false,
     "location": {
-      "height": 66,
+      "height": 53,
       "width": 320,
       "x": 1264,
-      "y": 1775
+      "y": 1793
     },
     "name": null,
     "neighborText": [],
-    "shape": 484,
+    "shape": 603,
     "tag": "DIV",
     "visibleText": [
       "Terms",
@@ -34484,21 +34132,21 @@
   },
   {
     "alt": "",
-    "area": 21120,
+    "area": 16960,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='applet_p_50000405']/div[1]",
     "isButton": false,
     "location": {
-      "height": 66,
+      "height": 53,
       "width": 320,
       "x": 1264,
-      "y": 1775
+      "y": 1793
     },
     "name": null,
     "neighborText": [],
-    "shape": 484,
+    "shape": 603,
     "tag": "DIV",
     "visibleText": [
       "Terms",
@@ -34516,21 +34164,21 @@
   },
   {
     "alt": "",
-    "area": 21120,
+    "area": 16960,
     "classList": [],
     "href": "",
     "id": "footer-wrapper",
     "idxpath": "//*[@id='footer-wrapper']",
     "isButton": false,
     "location": {
-      "height": 66,
+      "height": 53,
       "width": 320,
       "x": 1264,
-      "y": 1775
+      "y": 1793
     },
     "name": null,
     "neighborText": [],
-    "shape": 484,
+    "shape": 603,
     "tag": "DIV",
     "visibleText": [
       "Terms",
@@ -34548,7 +34196,7 @@
   },
   {
     "alt": "",
-    "area": 2090,
+    "area": 1520,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34558,14 +34206,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 16,
       "width": 95,
       "x": 1318,
-      "y": 1775
+      "y": 1793
     },
     "name": null,
     "neighborText": [],
-    "shape": 431,
+    "shape": 593,
     "tag": "LI",
     "visibleText": [
       "Terms",
@@ -34589,7 +34237,7 @@
       "height": 15,
       "width": 95,
       "x": 1318,
-      "y": 1778
+      "y": 1794
     },
     "name": "",
     "neighborText": [],
@@ -34603,7 +34251,7 @@
   },
   {
     "alt": "",
-    "area": 2266,
+    "area": 1648,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34613,14 +34261,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 16,
       "width": 103,
       "x": 1420,
-      "y": 1775
+      "y": 1793
     },
     "name": null,
     "neighborText": [],
-    "shape": 468,
+    "shape": 643,
     "tag": "LI",
     "visibleText": [
       "Privacy",
@@ -34644,7 +34292,7 @@
       "height": 15,
       "width": 103,
       "x": 1420,
-      "y": 1778
+      "y": 1794
     },
     "name": "",
     "neighborText": [],
@@ -34658,7 +34306,7 @@
   },
   {
     "alt": "",
-    "area": 5104,
+    "area": 4620,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34668,14 +34316,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 22,
-      "width": 232,
-      "x": 1274,
-      "y": 1797
+      "height": 20,
+      "width": 231,
+      "x": 1275,
+      "y": 1810
     },
     "name": null,
     "neighborText": [],
-    "shape": 1054,
+    "shape": 1155,
     "tag": "LI",
     "visibleText": [
       "Do",
@@ -34689,7 +34337,7 @@
   },
   {
     "alt": "",
-    "area": 3480,
+    "area": 3465,
     "classList": [
       "Tt(c)",
       "C($c-fuji-grey-o)",
@@ -34701,13 +34349,13 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 232,
-      "x": 1274,
-      "y": 1800
+      "width": 231,
+      "x": 1275,
+      "y": 1811
     },
     "name": "",
     "neighborText": [],
-    "shape": 1546,
+    "shape": 1540,
     "tag": "A",
     "visibleText": [
       "Do",
@@ -34721,7 +34369,7 @@
   },
   {
     "alt": "",
-    "area": 315,
+    "area": 300,
     "classList": [],
     "href": "",
     "id": "",
@@ -34729,13 +34377,13 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 21,
-      "x": 1485,
-      "y": 1800
+      "width": 20,
+      "x": 1486,
+      "y": 1811
     },
     "name": null,
     "neighborText": [],
-    "shape": 140,
+    "shape": 133,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -34744,7 +34392,7 @@
   },
   {
     "alt": "",
-    "area": 1188,
+    "area": 864,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34754,14 +34402,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 16,
       "width": 54,
       "x": 1512,
-      "y": 1797
+      "y": 1810
     },
     "name": null,
     "neighborText": [],
-    "shape": 245,
+    "shape": 337,
     "tag": "LI",
     "visibleText": [
       "Advertise"
@@ -34784,7 +34432,7 @@
       "height": 15,
       "width": 54,
       "x": 1512,
-      "y": 1800
+      "y": 1811
     },
     "name": "",
     "neighborText": [],
@@ -34797,7 +34445,7 @@
   },
   {
     "alt": "",
-    "area": 1892,
+    "area": 1376,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34807,14 +34455,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 16,
       "width": 86,
       "x": 1304,
-      "y": 1819
+      "y": 1830
     },
     "name": null,
     "neighborText": [],
-    "shape": 390,
+    "shape": 537,
     "tag": "LI",
     "visibleText": [
       "About",
@@ -34839,7 +34487,7 @@
       "height": 15,
       "width": 86,
       "x": 1304,
-      "y": 1822
+      "y": 1830
     },
     "name": "",
     "neighborText": [],
@@ -34854,7 +34502,7 @@
   },
   {
     "alt": "",
-    "area": 990,
+    "area": 720,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34864,14 +34512,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[6]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 16,
       "width": 45,
       "x": 1396,
-      "y": 1819
+      "y": 1830
     },
     "name": null,
     "neighborText": [],
-    "shape": 204,
+    "shape": 281,
     "tag": "LI",
     "visibleText": [
       "Careers"
@@ -34894,7 +34542,7 @@
       "height": 15,
       "width": 45,
       "x": 1396,
-      "y": 1822
+      "y": 1830
     },
     "name": "",
     "neighborText": [],
@@ -34907,7 +34555,7 @@
   },
   {
     "alt": "",
-    "area": 572,
+    "area": 416,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34917,14 +34565,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[7]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 16,
       "width": 26,
       "x": 1447,
-      "y": 1819
+      "y": 1830
     },
     "name": null,
     "neighborText": [],
-    "shape": 118,
+    "shape": 162,
     "tag": "LI",
     "visibleText": [
       "Help"
@@ -34947,7 +34595,7 @@
       "height": 15,
       "width": 26,
       "x": 1447,
-      "y": 1822
+      "y": 1830
     },
     "name": "",
     "neighborText": [],
@@ -34960,7 +34608,7 @@
   },
   {
     "alt": "",
-    "area": 1254,
+    "area": 912,
     "classList": [
       "D(ib)",
       "Mend(6px)"
@@ -34970,14 +34618,14 @@
     "idxpath": "//*[@id='footer-wrapper']/ul[1]/li[8]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 16,
       "width": 57,
       "x": 1480,
-      "y": 1819
+      "y": 1830
     },
     "name": null,
     "neighborText": [],
-    "shape": 259,
+    "shape": 356,
     "tag": "LI",
     "visibleText": [
       "Feedback"
@@ -35000,7 +34648,7 @@
       "height": 15,
       "width": 57,
       "x": 1480,
-      "y": 1822
+      "y": 1830
     },
     "name": "",
     "neighborText": [],

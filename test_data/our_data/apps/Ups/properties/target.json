@@ -747,7 +747,7 @@
     "location": {
       "height": 12,
       "width": 52,
-      "x": 1218,
+      "x": 1222,
       "y": 15
     },
     "name": "",
@@ -770,7 +770,7 @@
   },
   {
     "alt": "",
-    "area": 1980,
+    "area": 1956,
     "classList": [
       "ups-menu_toggle",
       "ups-analytics"
@@ -781,8 +781,8 @@
     "isButton": false,
     "location": {
       "height": 12,
-      "width": 165,
-      "x": 1312,
+      "width": 163,
+      "x": 1315,
       "y": 15
     },
     "name": "",
@@ -794,7 +794,7 @@
       "Locations",
       "Search"
     ],
-    "shape": 1375,
+    "shape": 1358,
     "tag": "A",
     "visibleText": [
       "United",

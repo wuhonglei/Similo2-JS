@@ -1,7 +1,7 @@
 [
   {
     "alt": "",
-    "area": 2286,
+    "area": 1836,
     "classList": [
       "selected",
       "title"
@@ -12,7 +12,7 @@
     "isButton": false,
     "location": {
       "height": 18,
-      "width": 127,
+      "width": 102,
       "x": 0,
       "y": 0
     },
@@ -25,7 +25,7 @@
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted"
     ],
-    "shape": 705,
+    "shape": 566,
     "tag": "SPAN",
     "visibleText": [
       "MY",
@@ -35,7 +35,7 @@
   },
   {
     "alt": "",
-    "area": 882,
+    "area": 517,
     "classList": [
       "selected"
     ],
@@ -44,24 +44,24 @@
     "idxpath": "//*[@id='sr-header-area']/div[1]/div[3]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 63,
-      "x": 137,
-      "y": 1
+      "height": 11,
+      "width": 47,
+      "x": 112,
+      "y": 3
     },
     "name": null,
     "neighborText": [
       "POPULAR",
       "ALL",
-      "-RANDOM",
+      "RANDOM",
       "MY",
       "SUBREDDITS",
       "reddit.com",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
-      "-"
+      "-ALL"
     ],
-    "shape": 450,
+    "shape": 427,
     "tag": "LI",
     "visibleText": [
       "POPULAR"
@@ -70,7 +70,7 @@
   },
   {
     "alt": "",
-    "area": 672,
+    "area": 396,
     "classList": [
       "choice"
     ],
@@ -79,21 +79,21 @@
     "idxpath": "//*[@id='sr-bar']/li[9]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 48,
-      "x": 908,
-      "y": 1
+      "height": 11,
+      "width": 36,
+      "x": 690,
+      "y": 3
     },
     "name": "",
     "neighborText": [
       "AWW",
       "-",
+      "TODAYILEARNED",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
-      "GIFS",
-      "-AWW"
+      "GIFS"
     ],
-    "shape": 342,
+    "shape": 327,
     "tag": "A",
     "visibleText": [
       "MOVIES"
@@ -102,7 +102,7 @@
   },
   {
     "alt": "",
-    "area": 546,
+    "area": 319,
     "classList": [
       "choice"
     ],
@@ -111,30 +111,21 @@
     "idxpath": "//*[@id='sr-bar']/li[15]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 39,
-      "x": 1430,
-      "y": 1
+      "height": 11,
+      "width": 29,
+      "x": 1081,
+      "y": 3
     },
     "name": "",
     "neighborText": [
       "IAMA",
+      "-",
       "TELEVISION",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
-      "-IAMA",
-      "Want",
-      "to",
-      "join?",
-      "Log",
-      "in",
-      "or",
-      "sign",
-      "up",
-      "in",
-      "seconds.|English"
+      "-IAMA"
     ],
-    "shape": 278,
+    "shape": 263,
     "tag": "A",
     "visibleText": [
       "JOKES"
@@ -209,6 +200,7 @@
       "reddit.com",
       "POPULAR",
       "-ALL",
+      "RANDOM",
       "hot",
       "new",
       "get",
@@ -247,11 +239,11 @@
     },
     "name": null,
     "neighborText": [
-      "MY",
-      "SUBREDDITS",
       "POPULAR",
-      "-ALL",
       "-",
+      "ALL",
+      "RANDOM",
+      "|",
       "new",
       "rising",
       "get",
@@ -291,13 +283,11 @@
     },
     "name": null,
     "neighborText": [
-      "POPULAR",
-      "-",
-      "ALL",
+      "-ALL",
       "-RANDOM",
-      "POPULAR-ALL-RANDOM",
       "|",
-      "ASKREDDIT-FUNNY-GAMING-WORLDNEWS-NEWS-VIDEOS-TODAYILEARNED-GIFS-MOVIES-AWW-PICS-MILDLYINTERESTING-SHOWERTHOUGHTS-TELEVISION-JOKES-IAMA-NOTTHEONION-EXPLAINLIKEIMFIVE-TIFU-OLDSCHOOLCOOL-SPACE-SCIENCE-LIFEPROTIPS-DATAISBEAUTIFUL-FUTUROLOGY-UPLIFTINGNEWS-FOOD-DIY-PHOTOSHOPBATTLES-PERSONALFINANCE-MUSIC-DOCUMENTARIES-NOSLEEP-ART-BOOKS-EARTHPORN-TWOXCHROMOSOMES-HISTORY-GETMOTIVATED-WRITINGPROMPTS-GADGETS-CREEPY-SPORTS-ASKSCIENCE-LISTENTOTHIS-PHILOSOPHY-INTERNETISBEAUTIFUL-ANNOUNCEMENTS-BLOG",
+      "ASKREDDIT",
+      "-FUNNY",
       "rising",
       "controversial",
       "get",
@@ -337,12 +327,12 @@
     },
     "name": null,
     "neighborText": [
-      "ALL",
-      "-",
       "RANDOM",
-      "POPULAR-ALL-RANDOM",
       "|",
-      "ASKREDDIT-FUNNY-GAMING-WORLDNEWS-NEWS-VIDEOS-TODAYILEARNED-GIFS-MOVIES-AWW-PICS-MILDLYINTERESTING-SHOWERTHOUGHTS-TELEVISION-JOKES-IAMA-NOTTHEONION-EXPLAINLIKEIMFIVE-TIFU-OLDSCHOOLCOOL-SPACE-SCIENCE-LIFEPROTIPS-DATAISBEAUTIFUL-FUTUROLOGY-UPLIFTINGNEWS-FOOD-DIY-PHOTOSHOPBATTLES-PERSONALFINANCE-MUSIC-DOCUMENTARIES-NOSLEEP-ART-BOOKS-EARTHPORN-TWOXCHROMOSOMES-HISTORY-GETMOTIVATED-WRITINGPROMPTS-GADGETS-CREEPY-SPORTS-ASKSCIENCE-LISTENTOTHIS-PHILOSOPHY-INTERNETISBEAUTIFUL-ANNOUNCEMENTS-BLOG",
+      "ASKREDDIT",
+      "FUNNY",
+      "GAMING",
+      "-",
       "controversial",
       "top",
       "rising",
@@ -382,8 +372,9 @@
     },
     "name": null,
     "neighborText": [
-      "ASKREDDIT",
-      "-FUNNY",
+      "FUNNY",
+      "-GAMING",
+      "WORLDNEWS",
       "top",
       "gilded",
       "controversial",
@@ -423,9 +414,10 @@
     },
     "name": null,
     "neighborText": [
-      "ASKREDDIT",
-      "-FUNNY",
       "GAMING",
+      "WORLDNEWS",
+      "NEWS",
+      "-VIDEOS",
       "gilded",
       "wiki",
       "controversial",
@@ -466,9 +458,9 @@
     },
     "name": null,
     "neighborText": [
-      "FUNNY",
-      "GAMING",
-      "-WORLDNEWS",
+      "WORLDNEWS",
+      "NEWS",
+      "-VIDEOS",
       "promoted",
       "gilded",
       "get",
@@ -494,7 +486,7 @@
   },
   {
     "alt": "",
-    "area": 294,
+    "area": 176,
     "classList": [
       "choice"
     ],
@@ -503,20 +495,19 @@
     "idxpath": "//*[@id='sr-header-area']/div[1]/div[3]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 21,
-      "x": 216,
-      "y": 1
+      "height": 11,
+      "width": 16,
+      "x": 171,
+      "y": 3
     },
     "name": "",
     "neighborText": [
       "RANDOM",
       "POPULAR",
       "reddit.com",
-      "hotnewrisingcontroversialtopgildedwikipromoted",
-      "-"
+      "hotnewrisingcontroversialtopgildedwikipromoted"
     ],
-    "shape": 150,
+    "shape": 145,
     "tag": "A",
     "visibleText": [
       "ALL"
@@ -541,16 +532,6 @@
     "neighborText": [
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
-      "Want",
-      "to",
-      "join?",
-      "Log",
-      "in",
-      "or",
-      "sign",
-      "up",
-      "in",
-      "seconds.",
       "Want",
       "to",
       "join?",
@@ -588,14 +569,14 @@
   },
   {
     "alt": "",
-    "area": 3948,
+    "area": 3807,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='login_login-main']/input[2]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 27,
       "width": 141,
       "x": 1493,
       "y": 119
@@ -619,37 +600,11 @@
       "trending",
       "subredditsr/Patrigr/skateboardingr/redonkulousr/patches765r/unscriptedvideo34",
       "comments",
-      "Devil",
-      "gets",
-      "re-trapped",
-      "immediately",
-      "after",
-      "release",
-      "(i.imgur.com)",
-      "1",
-      "33.3k",
-      "Devil",
-      "gets",
-      "re-trapped",
-      "immediately",
-      "after",
-      "release",
-      "(i.imgur.com)",
-      "submitted",
-      "5",
-      "hours",
-      "ago",
-      "by",
-      "exxocet",
-      "to",
-      "r/funny",
-      "680",
-      "commentsshare",
       "remember",
       "mereset",
       "password"
     ],
-    "shape": 503,
+    "shape": 522,
     "tag": "INPUT",
     "visibleText": [
       "username"
@@ -658,14 +613,14 @@
   },
   {
     "alt": "",
-    "area": 3976,
+    "area": 3834,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='login_login-main']/input[3]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 27,
       "width": 142,
       "x": 1639,
       "y": 119
@@ -675,13 +630,11 @@
       "search",
       "username",
       "remember",
-      "me",
-      "remember",
       "mereset",
       "password",
       "login"
     ],
-    "shape": 507,
+    "shape": 525,
     "tag": "INPUT",
     "visibleText": [
       "password"
@@ -690,17 +643,17 @@
   },
   {
     "alt": "",
-    "area": 1530,
+    "area": 1136,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='remember-me']/label[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 85,
+      "height": 16,
+      "width": 71,
       "x": 1511,
-      "y": 165
+      "y": 166
     },
     "name": null,
     "neighborText": [
@@ -717,7 +670,6 @@
       "SUBSCRIBE",
       "×",
       "username",
-      "password",
       "reset",
       "password",
       "Devil",
@@ -763,7 +715,7 @@
       "comments",
       "on"
     ],
-    "shape": 472,
+    "shape": 443,
     "tag": "LABEL",
     "visibleText": [
       "remember",
@@ -773,7 +725,7 @@
   },
   {
     "alt": "",
-    "area": 1274,
+    "area": 912,
     "classList": [
       "recover-password"
     ],
@@ -782,16 +734,15 @@
     "idxpath": "//*[@id='remember-me']/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 91,
-      "x": 1611,
-      "y": 167
+      "height": 12,
+      "width": 76,
+      "x": 1597,
+      "y": 168
     },
     "name": "",
     "neighborText": [
       "username",
       "password",
-      "login",
       "remember",
       "me",
       "Submit",
@@ -799,7 +750,7 @@
       "new",
       "link"
     ],
-    "shape": 650,
+    "shape": 633,
     "tag": "A",
     "visibleText": [
       "reset",
@@ -821,13 +772,10 @@
       "height": 24,
       "width": 44,
       "x": 1737,
-      "y": 162
+      "y": 161
     },
     "name": "",
     "neighborText": [
-      "password",
-      "remember",
-      "mereset",
       "password",
       "Submit",
       "a",
@@ -856,7 +804,7 @@
       "height": 29,
       "width": 298,
       "x": 1488,
-      "y": 205
+      "y": 204
     },
     "name": "",
     "neighborText": [
@@ -972,7 +920,7 @@
       "height": 29,
       "width": 298,
       "x": 1488,
-      "y": 248
+      "y": 247
     },
     "name": "",
     "neighborText": [
@@ -983,16 +931,6 @@
       "after",
       "release",
       "(i.imgur.com)",
-      "submitted",
-      "5",
-      "hours",
-      "ago",
-      "by",
-      "exxocet",
-      "to",
-      "r/funny",
-      "680",
-      "commentsshare",
       "Devil",
       "gets",
       "re-trapped",
@@ -1070,7 +1008,7 @@
       "height": 13,
       "width": 13,
       "x": 1493,
-      "y": 168
+      "y": 167
     },
     "name": "rem",
     "neighborText": [
@@ -1104,6 +1042,8 @@
       "exxocet",
       "to",
       "r/funny",
+      "680",
+      "commentsshare",
       "1",
       "33.3k",
       "Devil",
@@ -1140,29 +1080,32 @@
   },
   {
     "alt": "",
-    "area": 686,
+    "area": 480,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='header-bottom-right']/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 49,
-      "x": 1738,
-      "y": 46
+      "height": 12,
+      "width": 40,
+      "x": 1747,
+      "y": 48
     },
     "name": null,
     "neighborText": [
-      "EXPLAINLIKEIMFIVE",
+      "DATAISBEAUTIFUL",
+      "MY",
+      "SUBREDDITS",
       "POPULAR-ALL-RANDOM",
       "|",
       "ASKREDDIT-FUNNY-GAMING-WORLDNEWS-NEWS-VIDEOS-TODAYILEARNED-GIFS-MOVIES-AWW-PICS-MILDLYINTERESTING-SHOWERTHOUGHTS-TELEVISION-JOKES-IAMA-NOTTHEONION-EXPLAINLIKEIMFIVE-TIFU-OLDSCHOOLCOOL-SPACE-SCIENCE-LIFEPROTIPS-DATAISBEAUTIFUL-FUTUROLOGY-UPLIFTINGNEWS-FOOD-DIY-PHOTOSHOPBATTLES-PERSONALFINANCE-MUSIC-DOCUMENTARIES-NOSLEEP-ART-BOOKS-EARTHPORN-TWOXCHROMOSOMES-HISTORY-GETMOTIVATED-WRITINGPROMPTS-GADGETS-CREEPY-SPORTS-ASKSCIENCE-LISTENTOTHIS-PHILOSOPHY-INTERNETISBEAUTIFUL-ANNOUNCEMENTS-BLOG",
-      "reddit.com",
-      "hotnewrisingcontroversialtopgildedwikipromoted",
       "MORE",
       "»",
+      "reddit.com",
+      "hotnewrisingcontroversialtopgildedwikipromoted",
       "English",
+      "search",
       "Want",
       "to",
       "join?",
@@ -1172,10 +1115,9 @@
       "sign",
       "up",
       "in",
-      "seconds.",
-      "search"
+      "seconds."
     ],
-    "shape": 350,
+    "shape": 333,
     "tag": "LI",
     "visibleText": [
       "English"
@@ -1184,7 +1126,7 @@
   },
   {
     "alt": "",
-    "area": 756,
+    "area": 440,
     "classList": [
       "random",
       "choice"
@@ -1194,20 +1136,21 @@
     "idxpath": "//*[@id='sr-header-area']/div[1]/div[3]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 54,
-      "x": 252,
-      "y": 1
+      "height": 11,
+      "width": 40,
+      "x": 198,
+      "y": 3
     },
     "name": "",
     "neighborText": [
       "ASKREDDIT",
-      "-ALL",
+      "POPULAR",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
+      "-ALL",
       "|"
     ],
-    "shape": 385,
+    "shape": 363,
     "tag": "A",
     "visibleText": [
       "RANDOM"
@@ -1216,17 +1159,17 @@
   },
   {
     "alt": "",
-    "area": 994,
+    "area": 583,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='sr-bar']/li[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 71,
-      "x": 329,
-      "y": 1
+      "height": 11,
+      "width": 53,
+      "x": 256,
+      "y": 3
     },
     "name": null,
     "neighborText": [
@@ -1237,7 +1180,7 @@
       "hotnewrisingcontroversialtopgildedwikipromoted",
       "|"
     ],
-    "shape": 507,
+    "shape": 481,
     "tag": "LI",
     "visibleText": [
       "ASKREDDIT"
@@ -1246,7 +1189,7 @@
   },
   {
     "alt": "",
-    "area": 574,
+    "area": 330,
     "classList": [
       "choice"
     ],
@@ -1255,20 +1198,19 @@
     "idxpath": "//*[@id='sr-bar']/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 41,
-      "x": 416,
-      "y": 1
+      "height": 11,
+      "width": 30,
+      "x": 321,
+      "y": 3
     },
     "name": "",
     "neighborText": [
-      "-GAMING",
+      "GAMING",
       "ASKREDDIT",
       "reddit.com",
-      "hotnewrisingcontroversialtopgildedwikipromoted",
-      "-"
+      "hotnewrisingcontroversialtopgildedwikipromoted"
     ],
-    "shape": 292,
+    "shape": 272,
     "tag": "A",
     "visibleText": [
       "FUNNY"
@@ -1277,7 +1219,7 @@
   },
   {
     "alt": "",
-    "area": 700,
+    "area": 418,
     "classList": [
       "choice"
     ],
@@ -1286,19 +1228,19 @@
     "idxpath": "//*[@id='sr-bar']/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 50,
-      "x": 471,
-      "y": 1
+      "height": 11,
+      "width": 38,
+      "x": 362,
+      "y": 3
     },
     "name": "",
     "neighborText": [
       "WORLDNEWS",
-      "FUNNY",
+      "-FUNNY",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted"
     ],
-    "shape": 357,
+    "shape": 345,
     "tag": "A",
     "visibleText": [
       "GAMING"
@@ -1307,7 +1249,7 @@
   },
   {
     "alt": "",
-    "area": 504,
+    "area": 297,
     "classList": [
       "choice"
     ],
@@ -1316,10 +1258,10 @@
     "idxpath": "//*[@id='sr-bar']/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 36,
-      "x": 634,
-      "y": 1
+      "height": 11,
+      "width": 27,
+      "x": 484,
+      "y": 3
     },
     "name": "",
     "neighborText": [
@@ -1327,10 +1269,9 @@
       "WORLDNEWS",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
-      "-",
       "-VIDEOS"
     ],
-    "shape": 257,
+    "shape": 245,
     "tag": "A",
     "visibleText": [
       "NEWS"
@@ -1339,7 +1280,7 @@
   },
   {
     "alt": "",
-    "area": 658,
+    "area": 385,
     "classList": [
       "choice"
     ],
@@ -1348,20 +1289,20 @@
     "idxpath": "//*[@id='sr-bar']/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 47,
-      "x": 685,
-      "y": 1
+      "height": 11,
+      "width": 35,
+      "x": 523,
+      "y": 3
     },
     "name": "",
     "neighborText": [
       "TODAYILEARNED",
-      "NEWS",
+      "WORLDNEWS",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
-      "-TODAYILEARNED"
+      "NEWS"
     ],
-    "shape": 335,
+    "shape": 318,
     "tag": "A",
     "visibleText": [
       "VIDEOS"
@@ -1370,7 +1311,7 @@
   },
   {
     "alt": "",
-    "area": 1428,
+    "area": 836,
     "classList": [
       "choice"
     ],
@@ -1379,21 +1320,20 @@
     "idxpath": "//*[@id='sr-bar']/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 102,
-      "x": 747,
-      "y": 1
+      "height": 11,
+      "width": 76,
+      "x": 569,
+      "y": 3
     },
     "name": "",
     "neighborText": [
       "GIFS",
-      "VIDEOS",
+      "-",
       "reddit.com",
       "hotnewrisingcontroversialtopgildedwikipromoted",
-      "-",
-      "-MOVIES"
+      "VIDEOS"
     ],
-    "shape": 728,
+    "shape": 690,
     "tag": "A",
     "visibleText": [
       "TODAYILEARNED"

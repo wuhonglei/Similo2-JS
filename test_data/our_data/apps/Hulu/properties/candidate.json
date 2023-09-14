@@ -2607,7 +2607,7 @@
   },
   {
     "alt": "",
-    "area": 852,
+    "area": 590,
     "classList": [
       "Ribbon__legal_modal"
     ],
@@ -2616,17 +2616,17 @@
     "idxpath": "//*[@id='masthead']/div[3]/div[1]/div[3]/div[1]/div[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 71,
-      "x": 1527,
-      "y": 670
+      "height": 10,
+      "width": 59,
+      "x": 1533,
+      "y": 672
     },
     "name": "view-ribbon-terms",
     "neighborText": [
       "GET",
       "BUNDLE"
     ],
-    "shape": 591,
+    "shape": 590,
     "tag": "A",
     "visibleText": [
       "Terms",
@@ -3434,7 +3434,7 @@
   },
   {
     "alt": "",
-    "area": 6720,
+    "area": 6272,
     "classList": [
       "plan-head__card-badge"
     ],
@@ -3443,14 +3443,14 @@
     "idxpath": "//*[@id='plans']/div[1]/div[2]/div[2]/div[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 30,
+      "height": 28,
       "width": 224,
       "x": 801,
       "y": 1668
     },
     "name": null,
     "neighborText": [],
-    "shape": 746,
+    "shape": 800,
     "tag": "DIV",
     "visibleText": [
       "MOST",
@@ -3460,21 +3460,21 @@
   },
   {
     "alt": "",
-    "area": 4110,
+    "area": 3612,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='plans']/div[1]/div[2]/div[2]/div[1]/div[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 30,
-      "width": 137,
-      "x": 844,
+      "height": 28,
+      "width": 129,
+      "x": 848,
       "y": 1668
     },
     "name": null,
     "neighborText": [],
-    "shape": 456,
+    "shape": 460,
     "tag": "SPAN",
     "visibleText": [
       "MOST",
@@ -3496,7 +3496,7 @@
       "height": 47,
       "width": 224,
       "x": 801,
-      "y": 1698
+      "y": 1697
     },
     "name": null,
     "neighborText": [],
@@ -3521,7 +3521,7 @@
       "height": 17,
       "width": 224,
       "x": 801,
-      "y": 1745
+      "y": 1744
     },
     "name": null,
     "neighborText": [],
@@ -3549,7 +3549,7 @@
       "height": 48,
       "width": 224,
       "x": 801,
-      "y": 1778
+      "y": 1777
     },
     "name": null,
     "neighborText": [],
@@ -3579,7 +3579,7 @@
       "height": 48,
       "width": 224,
       "x": 801,
-      "y": 1778
+      "y": 1777
     },
     "name": "",
     "neighborText": [],
@@ -7757,21 +7757,21 @@
   },
   {
     "alt": "",
-    "area": 3792,
+    "area": 2630,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='plans']/div[1]/div[4]/div[1]/div[1]/div[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 316,
+      "height": 10,
+      "width": 263,
       "x": 286,
-      "y": 2646
+      "y": 2647
     },
     "name": null,
     "neighborText": [],
-    "shape": 2633,
+    "shape": 2630,
     "tag": "SPAN",
     "visibleText": [
       "*For",
@@ -7903,21 +7903,21 @@
   },
   {
     "alt": "",
-    "area": 4776,
+    "area": 3310,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='plans']/div[1]/div[4]/div[2]/div[1]/div[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 398,
+      "height": 10,
+      "width": 331,
       "x": 286,
-      "y": 2663
+      "y": 2664
     },
     "name": null,
     "neighborText": [],
-    "shape": 3316,
+    "shape": 3310,
     "tag": "SPAN",
     "visibleText": [
       "**Switches",
@@ -8046,21 +8046,21 @@
   },
   {
     "alt": "",
-    "area": 4560,
+    "area": 3170,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='plans']/div[1]/div[4]/div[3]/div[1]/div[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 380,
+      "height": 10,
+      "width": 317,
       "x": 286,
-      "y": 2680
+      "y": 2681
     },
     "name": null,
     "neighborText": [],
-    "shape": 3166,
+    "shape": 3170,
     "tag": "SPAN",
     "visibleText": [
       "***Hulu",

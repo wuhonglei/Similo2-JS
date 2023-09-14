@@ -39,15 +39,15 @@
   },
   {
     "alt": "",
-    "area": 1905,
+    "area": 1638,
     "classList": [],
     "href": "https://www.fidelity.com/customer-service/overview",
     "id": "",
     "idxpath": "//*[@id='pgnb']/div[1]/div[3]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 127,
+      "height": 14,
+      "width": 117,
       "x": 159,
       "y": 18
     },
@@ -62,7 +62,7 @@
       "&",
       "Trade"
     ],
-    "shape": 846,
+    "shape": 835,
     "tag": "A",
     "visibleText": [
       "CUSTOMER",
@@ -484,16 +484,16 @@
   },
   {
     "alt": "",
-    "area": 1890,
+    "area": 1624,
     "classList": [],
     "href": "http://www.fidelity.com/open-account/overview",
     "id": "",
     "idxpath": "//*[@id='pgnb']/div[1]/div[3]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 126,
-      "x": 302,
+      "height": 14,
+      "width": 116,
+      "x": 292,
       "y": 18
     },
     "name": "",
@@ -509,7 +509,7 @@
       "CUSTOMER",
       "SERVICE"
     ],
-    "shape": 840,
+    "shape": 828,
     "tag": "A",
     "visibleText": [
       "OPEN",
@@ -520,16 +520,16 @@
   },
   {
     "alt": "",
-    "area": 1515,
+    "area": 1302,
     "classList": [],
     "href": "https://www.fidelity.com/customer-service/friendsandfamily3a",
     "id": "",
     "idxpath": "//*[@id='pgnb']/div[1]/div[3]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 101,
-      "x": 444,
+      "height": 14,
+      "width": 93,
+      "x": 425,
       "y": 18
     },
     "name": "",
@@ -543,7 +543,7 @@
       "AN",
       "ACCOUNT"
     ],
-    "shape": 673,
+    "shape": 664,
     "tag": "A",
     "visibleText": [
       "REFER",
@@ -554,16 +554,16 @@
   },
   {
     "alt": "",
-    "area": 660,
+    "area": 560,
     "classList": [],
     "href": "https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Init?AuthRedUrl=https://oltx.fidelity.com/ftgw/fbc/ofsummary/defaultPage",
     "id": "",
     "idxpath": "//*[@id='pgnb']/div[1]/div[3]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 44,
-      "x": 562,
+      "height": 14,
+      "width": 40,
+      "x": 535,
       "y": 18
     },
     "name": "",
@@ -575,7 +575,7 @@
       "A",
       "FRIEND"
     ],
-    "shape": 293,
+    "shape": 285,
     "tag": "A",
     "visibleText": [
       "LOG",

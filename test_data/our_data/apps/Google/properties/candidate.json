@@ -2034,21 +2034,21 @@
   },
   {
     "alt": "",
-    "area": 86016,
+    "area": 84224,
     "classList": [],
     "href": "",
     "id": "footer",
     "idxpath": "//*[@id='footer']",
     "isButton": false,
     "location": {
-      "height": 48,
+      "height": 47,
       "width": 1792,
       "x": 0,
       "y": 415
     },
     "name": null,
     "neighborText": [],
-    "shape": 3733,
+    "shape": 3812,
     "tag": "SPAN",
     "visibleText": [
       "Advertising",
@@ -2220,21 +2220,21 @@
   },
   {
     "alt": "",
-    "area": 25088,
+    "area": 21504,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='footer']/p[1]",
     "isButton": false,
     "location": {
-      "height": 14,
+      "height": 12,
       "width": 1792,
       "x": 0,
       "y": 449
     },
     "name": null,
     "neighborText": [],
-    "shape": 12800,
+    "shape": 14933,
     "tag": "P",
     "visibleText": [
       "©",
@@ -2248,16 +2248,16 @@
   },
   {
     "alt": "",
-    "area": 507,
+    "area": 408,
     "classList": [],
     "href": "https://www.google.com/intl/en/policies/privacy/",
     "id": "",
     "idxpath": "//*[@id='footer']/p[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 13,
-      "width": 39,
-      "x": 879,
+      "height": 12,
+      "width": 34,
+      "x": 881,
       "y": 449
     },
     "name": "",
@@ -2270,7 +2270,7 @@
       "Google",
       "Terms"
     ],
-    "shape": 300,
+    "shape": 283,
     "tag": "A",
     "visibleText": [
       "Privacy"
@@ -2279,16 +2279,16 @@
   },
   {
     "alt": "",
-    "area": 416,
+    "area": 348,
     "classList": [],
     "href": "https://www.google.com/intl/en/policies/terms/",
     "id": "",
     "idxpath": "//*[@id='footer']/p[1]/a[2]",
     "isButton": false,
     "location": {
-      "height": 13,
-      "width": 32,
-      "x": 929,
+      "height": 12,
+      "width": 29,
+      "x": 925,
       "y": 449
     },
     "name": "",
@@ -2301,7 +2301,7 @@
       "Google",
       "Privacy"
     ],
-    "shape": 246,
+    "shape": 241,
     "tag": "A",
     "visibleText": [
       "Terms"

@@ -1,7 +1,7 @@
 [
   {
     "alt": "",
-    "area": 8280,
+    "area": 6600,
     "classList": [
       "text-input",
       "email-input"
@@ -12,17 +12,50 @@
     "isButton": false,
     "location": {
       "height": 30,
-      "width": 276,
-      "x": 1027,
-      "y": 238
+      "width": 220,
+      "x": 14,
+      "y": 665
     },
     "name": "session[username_or_email]",
     "neighborText": [
+      "1",
+      "National",
+      "moment",
+      "of",
+      "silence",
+      "happening",
+      "now.",
+      "#Ferguson",
+      "#JusticeForMikeBrown",
+      "Tweet",
+      "and",
+      "photo",
+      "by",
+      "@Thursday_Neal",
+      "National",
+      "moment",
+      "of",
+      "silence",
+      "happening",
+      "now.",
+      "#Ferguson",
+      "#JusticeForMikeBrown",
+      "Tweet",
+      "and",
+      "photo",
+      "by",
+      "@Thursday_Neal",
+      "5:24",
+      "PM",
+      "-",
+      "14",
+      "Aug",
+      "2014",
       "Password",
-      "Log",
-      "in"
+      "Remember",
+      "me"
     ],
-    "shape": 920,
+    "shape": 733,
     "tag": "INPUT",
     "visibleText": [
       "Phone,",
@@ -34,7 +67,7 @@
   },
   {
     "alt": "",
-    "area": 5730,
+    "area": 58905,
     "classList": [
       "text-input",
       "flex-table-input"
@@ -44,31 +77,14 @@
     "idxpath": "//*[@id='signin-password']",
     "isButton": false,
     "location": {
-      "height": 30,
-      "width": 191,
-      "x": 1027,
-      "y": 283
+      "height": 35,
+      "width": 1683,
+      "x": 14,
+      "y": 695
     },
     "name": "session[password]",
-    "neighborText": [
-      "1",
-      "Phone,",
-      "email",
-      "or",
-      "username",
-      "Log",
-      "in",
-      "Remember",
-      "me",
-      "Forgot",
-      "password?",
-      "Remember",
-      "me",
-      "·",
-      "Forgot",
-      "password?"
-    ],
-    "shape": 636,
+    "neighborText": [],
+    "shape": 4808,
     "tag": "INPUT",
     "visibleText": [
       "Password"
@@ -77,250 +93,419 @@
   },
   {
     "alt": "",
-    "area": 448,
+    "area": 720,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[6]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 32,
-      "x": 675,
-      "y": 751
+      "height": 16,
+      "width": 45,
+      "x": 284,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Terms",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Privacy",
       "policy",
-      "Status",
-      "Jobs"
+      "Jobs",
+      "Terms"
     ],
-    "shape": 228,
+    "shape": 281,
     "tag": "LI",
     "visibleText": [
-      "Terms"
+      "Terms",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[6]"
   },
   {
     "alt": "",
-    "area": 602,
+    "area": 928,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[8]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 43,
-      "x": 801,
-      "y": 751
+      "height": 16,
+      "width": 58,
+      "x": 432,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Cookies",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Ads",
       "info",
       "Privacy",
-      "policy"
+      "policy",
+      "Cookies"
     ],
-    "shape": 307,
+    "shape": 362,
     "tag": "LI",
     "visibleText": [
-      "Cookies"
+      "Cookies",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[8]"
   },
   {
     "alt": "",
-    "area": 616,
+    "area": 944,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[9]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 44,
-      "x": 854,
-      "y": 751
+      "height": 16,
+      "width": 59,
+      "x": 495,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Ads",
-      "info",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Brand",
-      "Cookies"
+      "Cookies",
+      "Ads",
+      "info"
     ],
-    "shape": 314,
+    "shape": 368,
     "tag": "LI",
     "visibleText": [
       "Ads",
-      "info"
+      "info",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[9]"
   },
   {
     "alt": "",
-    "area": 448,
+    "area": 720,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[10]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 32,
-      "x": 907,
-      "y": 751
+      "height": 16,
+      "width": 45,
+      "x": 558,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Brand",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Advertise",
       "Ads",
-      "info"
+      "info",
+      "Brand"
     ],
-    "shape": 228,
+    "shape": 281,
     "tag": "LI",
     "visibleText": [
-      "Brand"
+      "Brand",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[10]"
   },
   {
     "alt": "",
-    "area": 700,
+    "area": 1056,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[11]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 50,
-      "x": 949,
-      "y": 751
+      "height": 16,
+      "width": 66,
+      "x": 607,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Advertise",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Businesses",
-      "Brand"
+      "Brand",
+      "Advertise"
     ],
-    "shape": 357,
+    "shape": 412,
     "tag": "LI",
     "visibleText": [
-      "Advertise"
+      "Advertise",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[11]"
   },
   {
     "alt": "",
-    "area": 854,
+    "area": 1264,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[12]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 61,
-      "x": 1009,
-      "y": 751
+      "height": 16,
+      "width": 79,
+      "x": 678,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Businesses",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
       "Developers",
-      "Advertise"
+      "Advertise",
+      "·",
+      "Businesses"
     ],
-    "shape": 435,
+    "shape": 493,
     "tag": "LI",
     "visibleText": [
-      "Businesses"
+      "Businesses",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[12]"
   },
   {
     "alt": "",
-    "area": 840,
+    "area": 1248,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[13]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 60,
-      "x": 1079,
-      "y": 751
+      "height": 16,
+      "width": 78,
+      "x": 761,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Developers",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Directory",
-      "Businesses"
+      "Businesses",
+      "Developers"
     ],
-    "shape": 428,
+    "shape": 487,
     "tag": "LI",
     "visibleText": [
-      "Developers"
+      "Developers",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[13]"
   },
   {
     "alt": "",
-    "area": 672,
+    "area": 1024,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[14]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 48,
-      "x": 1149,
-      "y": 751
+      "height": 16,
+      "width": 64,
+      "x": 843,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Directory",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Settings",
-      "Developers"
+      "Developers",
+      "Directory"
     ],
-    "shape": 342,
+    "shape": 400,
     "tag": "LI",
     "visibleText": [
-      "Directory"
+      "Directory",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[14]"
   },
   {
     "alt": "",
-    "area": 616,
+    "area": 816,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[15]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 44,
-      "x": 1207,
-      "y": 751
+      "height": 16,
+      "width": 51,
+      "x": 911,
+      "y": 931
     },
     "name": null,
     "neighborText": [
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
       "Settings",
       "©",
       "2017",
       "Twitter",
-      "Directory"
+      "Directory",
+      "·"
     ],
-    "shape": 314,
+    "shape": 318,
     "tag": "LI",
     "visibleText": [
       "Settings"
@@ -329,26 +514,43 @@
   },
   {
     "alt": "",
-    "area": 1092,
+    "area": 1456,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[16]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 78,
-      "x": 1260,
-      "y": 751
+      "height": 16,
+      "width": 91,
+      "x": 966,
+      "y": 931
     },
     "name": null,
     "neighborText": [
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
       "©",
       "2017",
       "Twitter",
       "Settings"
     ],
-    "shape": 557,
+    "shape": 568,
     "tag": "LI",
     "visibleText": [
       "©",
@@ -359,7 +561,7 @@
   },
   {
     "alt": "",
-    "area": 2250,
+    "area": 2625,
     "classList": [
       "flex-table-secondary"
     ],
@@ -368,29 +570,44 @@
     "idxpath": "//*[@id='front-container']/div[2]/div[2]/form[1]/table[1]/tbody[1]/tr[1]/td[2]",
     "isButton": false,
     "location": {
-      "height": 30,
+      "height": 35,
       "width": 75,
-      "x": 1227,
-      "y": 283
+      "x": 1702,
+      "y": 695
     },
     "name": null,
     "neighborText": [
-      "Phone,",
-      "email",
-      "or",
-      "username",
+      "National",
+      "moment",
+      "of",
+      "silence",
+      "happening",
+      "now.",
+      "#Ferguson",
+      "#JusticeForMikeBrown",
+      "Tweet",
+      "and",
+      "photo",
+      "by",
+      "@Thursday_Neal",
+      "5:24",
+      "PM",
+      "-",
+      "14",
+      "Aug",
+      "2014",
       "Log",
       "in",
-      "Forgot",
-      "password?",
+      "Password",
+      "Remember",
+      "me",
       "Remember",
       "me",
       "·",
       "Forgot",
-      "password?",
-      "Password"
+      "password?"
     ],
-    "shape": 250,
+    "shape": 214,
     "tag": "TD",
     "visibleText": [
       "Log",
@@ -400,7 +617,7 @@
   },
   {
     "alt": "",
-    "area": 1358,
+    "area": 1808,
     "classList": [
       "forgot"
     ],
@@ -409,25 +626,23 @@
     "idxpath": "//*[@id='front-container']/div[2]/div[2]/form[1]/div[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 97,
-      "x": 1136,
-      "y": 320
+      "height": 16,
+      "width": 113,
+      "x": 21,
+      "y": 757
     },
     "name": "",
     "neighborText": [
       "Password",
-      "Log",
-      "in",
       "Remember",
       "me",
       "New",
       "to",
       "Twitter?",
-      "Sign",
-      "up"
+      "Full",
+      "name"
     ],
-    "shape": 692,
+    "shape": 706,
     "tag": "A",
     "visibleText": [
       "Forgot",
@@ -437,170 +652,288 @@
   },
   {
     "alt": "",
-    "area": 448,
+    "area": 720,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 32,
-      "x": 447,
-      "y": 751
+      "height": 16,
+      "width": 45,
+      "x": 14,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "About",
+      "Password",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Help",
-      "Center"
+      "Center",
+      "About"
     ],
-    "shape": 228,
+    "shape": 281,
     "tag": "LI",
     "visibleText": [
-      "About"
+      "About",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[1]"
   },
   {
     "alt": "",
-    "area": 896,
+    "area": 1312,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 64,
-      "x": 488,
-      "y": 751
+      "height": 16,
+      "width": 82,
+      "x": 63,
+      "y": 931
     },
     "name": null,
     "neighborText": [
+      "Password",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
+      "Blog",
+      "About",
       "Help",
       "Center",
-      "Blog",
-      "About"
+      "Status"
     ],
-    "shape": 457,
+    "shape": 512,
     "tag": "LI",
     "visibleText": [
       "Help",
-      "Center"
+      "Center",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[2]"
   },
   {
     "alt": "",
-    "area": 336,
+    "area": 576,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 24,
-      "x": 562,
-      "y": 751
+      "height": 16,
+      "width": 36,
+      "x": 149,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Blog",
+      "Password",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Status",
       "Help",
-      "Center"
+      "Center",
+      "Blog"
     ],
-    "shape": 171,
+    "shape": 225,
     "tag": "LI",
     "visibleText": [
-      "Blog"
+      "Blog",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[3]"
   },
   {
     "alt": "",
-    "area": 476,
+    "area": 752,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 34,
-      "x": 596,
-      "y": 751
+      "height": 16,
+      "width": 47,
+      "x": 190,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Status",
+      "Password",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Jobs",
-      "Help",
-      "Center",
-      "Blog"
+      "Blog",
+      "Status"
     ],
-    "shape": 242,
+    "shape": 293,
     "tag": "LI",
     "visibleText": [
-      "Status"
+      "Status",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[4]"
   },
   {
     "alt": "",
-    "area": 364,
+    "area": 608,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 26,
-      "x": 640,
-      "y": 751
+      "height": 16,
+      "width": 38,
+      "x": 242,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Jobs",
+      "Password",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Terms",
-      "Status"
+      "Status",
+      "Jobs"
     ],
-    "shape": 185,
+    "shape": 237,
     "tag": "LI",
     "visibleText": [
-      "Jobs"
+      "Jobs",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[5]"
   },
   {
     "alt": "",
-    "area": 1036,
+    "area": 1504,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='front-container']/div[4]/ul[1]/li[7]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 74,
-      "x": 717,
-      "y": 751
+      "height": 16,
+      "width": 94,
+      "x": 333,
+      "y": 931
     },
     "name": null,
     "neighborText": [
-      "Privacy",
-      "policy",
+      "Twitter.com",
+      "makes",
+      "heavy",
+      "use",
+      "of",
+      "browser",
+      "cookies",
+      "Please",
+      "enable",
+      "cookies",
+      "in",
+      "your",
+      "browser",
+      "preferences",
+      "before",
+      "signing",
+      "in.",
+      "·",
       "Cookies",
-      "Terms"
+      "Terms",
+      "Privacy",
+      "policy"
     ],
-    "shape": 528,
+    "shape": 587,
     "tag": "LI",
     "visibleText": [
       "Privacy",
-      "policy"
+      "policy",
+      "·"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/ul[1]/li[7]"
   }

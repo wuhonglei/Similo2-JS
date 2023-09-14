@@ -3791,7 +3791,7 @@
   },
   {
     "alt": "",
-    "area": 912,
+    "area": 611,
     "classList": [
       "Anchor-hn4bge-0",
       "eckaZc"
@@ -3801,14 +3801,14 @@
     "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 57,
-      "x": 1029,
-      "y": 1554
+      "height": 13,
+      "width": 47,
+      "x": 870,
+      "y": 1556
     },
     "name": "",
     "neighborText": [],
-    "shape": 356,
+    "shape": 361,
     "tag": "A",
     "visibleText": [
       "contact",
@@ -3875,7 +3875,7 @@
   },
   {
     "alt": "",
-    "area": 400,
+    "area": 273,
     "classList": [
       "Anchor-hn4bge-0",
       "eckaZc"
@@ -3885,14 +3885,14 @@
     "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 25,
-      "x": 1181,
-      "y": 1593
+      "height": 13,
+      "width": 21,
+      "x": 1134,
+      "y": 1595
     },
     "name": "",
     "neighborText": [],
-    "shape": 156,
+    "shape": 161,
     "tag": "A",
     "visibleText": [
       "here"
@@ -3901,7 +3901,7 @@
   },
   {
     "alt": "",
-    "area": 3360,
+    "area": 2275,
     "classList": [
       "Anchor-hn4bge-0",
       "eckaZc"
@@ -3911,14 +3911,14 @@
     "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[2]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 210,
-      "x": 726,
-      "y": 1608
+      "height": 13,
+      "width": 175,
+      "x": 754,
+      "y": 1610
     },
     "name": "",
     "neighborText": [],
-    "shape": 1312,
+    "shape": 1346,
     "tag": "A",
     "visibleText": [
       "Information",
@@ -3930,7 +3930,7 @@
   },
   {
     "alt": "",
-    "area": 2496,
+    "area": 1690,
     "classList": [
       "Anchor-hn4bge-0",
       "eckaZc"
@@ -3940,14 +3940,14 @@
     "idxpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]/div[2]/div[2]/a[3]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 156,
-      "x": 943,
-      "y": 1608
+      "height": 13,
+      "width": 130,
+      "x": 935,
+      "y": 1610
     },
     "name": "",
     "neighborText": [],
-    "shape": 975,
+    "shape": 1000,
     "tag": "A",
     "visibleText": [
       "Consumer",

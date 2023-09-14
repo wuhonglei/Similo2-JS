@@ -1,7 +1,7 @@
 [
   {
     "alt": "",
-    "area": 5630464,
+    "area": 5628672,
     "classList": [
       "iw_viewport-wrapper"
     ],
@@ -10,7 +10,7 @@
     "idxpath": "/html[1]/body[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 3142,
+      "height": 3141,
       "width": 1792,
       "x": 0,
       "y": 0
@@ -4004,7 +4004,7 @@
   },
   {
     "alt": "",
-    "area": 3500,
+    "area": 3360,
     "classList": [
       "ups-analytics"
     ],
@@ -4013,14 +4013,14 @@
     "idxpath": "//*[@id='ups-skipNav']",
     "isButton": false,
     "location": {
-      "height": 25,
+      "height": 24,
       "width": 140,
       "x": 826,
       "y": -100
     },
     "name": "",
     "neighborText": [],
-    "shape": 560,
+    "shape": 583,
     "tag": "A",
     "visibleText": [
       "Skip",
@@ -4185,7 +4185,7 @@
   },
   {
     "alt": "",
-    "area": 37450,
+    "area": 37240,
     "classList": [
       "ups-utilities_menu"
     ],
@@ -4195,8 +4195,8 @@
     "isButton": false,
     "location": {
       "height": 70,
-      "width": 535,
-      "x": 1060,
+      "width": 532,
+      "x": 1063,
       "y": 42
     },
     "name": null,
@@ -4257,7 +4257,7 @@
       "Customer",
       "Support"
     ],
-    "shape": 764,
+    "shape": 760,
     "tag": "LI",
     "visibleText": [
       "Locations",
@@ -4299,7 +4299,7 @@
     "location": {
       "height": 17,
       "width": 68,
-      "x": 1060,
+      "x": 1063,
       "y": 74
     },
     "name": null,
@@ -4344,7 +4344,7 @@
     "location": {
       "height": 17,
       "width": 68,
-      "x": 1060,
+      "x": 1063,
       "y": 74
     },
     "name": "",
@@ -4391,7 +4391,7 @@
     "location": {
       "height": 15,
       "width": 18,
-      "x": 1060,
+      "x": 1063,
       "y": 76
     },
     "name": null,
@@ -4422,7 +4422,7 @@
   },
   {
     "alt": "",
-    "area": 3383,
+    "area": 3332,
     "classList": [
       "ups-language",
       "ups-menu",
@@ -4435,8 +4435,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 199,
-      "x": 1133,
+      "width": 196,
+      "x": 1135,
       "y": 74
     },
     "name": null,
@@ -4464,7 +4464,7 @@
       "Services",
       "Locations"
     ],
-    "shape": 1170,
+    "shape": 1152,
     "tag": "LI",
     "visibleText": [
       "United",
@@ -4476,7 +4476,7 @@
   },
   {
     "alt": "",
-    "area": 2754,
+    "area": 2703,
     "classList": [
       "ups-menu_toggle",
       "ups-analytics"
@@ -4487,8 +4487,8 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 162,
-      "x": 1170,
+      "width": 159,
+      "x": 1172,
       "y": 74
     },
     "name": "",
@@ -4516,7 +4516,7 @@
       "Services",
       "Locations"
     ],
-    "shape": 952,
+    "shape": 935,
     "tag": "A",
     "visibleText": [
       "United",
@@ -4540,7 +4540,7 @@
     "location": {
       "height": 15,
       "width": 20,
-      "x": 1170,
+      "x": 1172,
       "y": 76
     },
     "name": null,
@@ -4588,7 +4588,7 @@
     "location": {
       "height": 14,
       "width": 120,
-      "x": 1190,
+      "x": 1192,
       "y": 74
     },
     "name": null,
@@ -4627,7 +4627,7 @@
   },
   {
     "alt": "",
-    "area": 330,
+    "area": 285,
     "classList": [
       "icon",
       "ups-icon-chevrondown"
@@ -4638,8 +4638,8 @@
     "isButton": false,
     "location": {
       "height": 15,
-      "width": 22,
-      "x": 1310,
+      "width": 19,
+      "x": 1313,
       "y": 74
     },
     "name": null,
@@ -4670,7 +4670,7 @@
       "-",
       "English"
     ],
-    "shape": 146,
+    "shape": 126,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -4841,7 +4841,11 @@
       "Start",
       "Tracking",
       "Shipping",
-      "Services"
+      "Services",
+      "United",
+      "States",
+      "-",
+      "English"
     ],
     "shape": 605,
     "tag": "A",
@@ -4888,7 +4892,11 @@
       "Start",
       "Tracking",
       "Shipping",
-      "Services"
+      "Services",
+      "United",
+      "States",
+      "-",
+      "English"
     ],
     "shape": 126,
     "tag": "SPAN",
@@ -31575,7 +31583,7 @@
   },
   {
     "alt": "",
-    "area": 1547,
+    "area": 1530,
     "classList": [
       "ups-news_all",
       "ups-body-link",
@@ -31587,13 +31595,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 91,
+      "width": 90,
       "x": 432,
       "y": 1976
     },
     "name": "",
     "neighborText": [],
-    "shape": 535,
+    "shape": 529,
     "tag": "A",
     "visibleText": [
       "Show",
@@ -31968,7 +31976,7 @@
   },
   {
     "alt": "",
-    "area": 2091,
+    "area": 2074,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -31979,13 +31987,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 123,
+      "width": 122,
       "x": 216,
       "y": 2173
     },
     "name": "",
     "neighborText": [],
-    "shape": 723,
+    "shape": 717,
     "tag": "A",
     "visibleText": [
       "Visit",
@@ -32003,7 +32011,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -32013,14 +32021,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 322,
-      "y": 2175
+      "y": 2176
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -32040,7 +32048,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 339,
+      "x": 338,
       "y": 2173
     },
     "name": null,
@@ -32368,7 +32376,7 @@
   },
   {
     "alt": "",
-    "area": 2788,
+    "area": 2771,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -32379,13 +32387,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 164,
+      "width": 163,
       "x": 599,
       "y": 2287
     },
     "name": "",
     "neighborText": [],
-    "shape": 964,
+    "shape": 958,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -32404,7 +32412,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -32414,14 +32422,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 746,
-      "y": 2289
+      "y": 2290
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -32441,7 +32449,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 763,
+      "x": 762,
       "y": 2287
     },
     "name": null,
@@ -32714,7 +32722,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -32724,14 +32732,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 1059,
-      "y": 2212
+      "y": 2213
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -32751,7 +32759,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1076,
+      "x": 1075,
       "y": 2210
     },
     "name": null,
@@ -33075,7 +33083,7 @@
   },
   {
     "alt": "",
-    "area": 3468,
+    "area": 3451,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -33086,13 +33094,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 204,
+      "width": 203,
       "x": 1365,
       "y": 2300
     },
     "name": "",
     "neighborText": [],
-    "shape": 1200,
+    "shape": 1194,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -33111,7 +33119,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -33121,14 +33129,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 1552,
-      "y": 2302
+      "y": 2303
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -33148,7 +33156,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1569,
+      "x": 1568,
       "y": 2300
     },
     "name": null,
@@ -33703,7 +33711,7 @@
   },
   {
     "alt": "",
-    "area": 4437,
+    "area": 4420,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -33714,13 +33722,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 261,
+      "width": 260,
       "x": 2131,
       "y": 2280
     },
     "name": "",
     "neighborText": [],
-    "shape": 1535,
+    "shape": 1529,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -33740,7 +33748,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -33750,14 +33758,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[6]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 2375,
-      "y": 2282
+      "y": 2283
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -33777,7 +33785,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 2392,
+      "x": 2391,
       "y": 2280
     },
     "name": null,
@@ -34109,7 +34117,7 @@
   },
   {
     "alt": "",
-    "area": 3162,
+    "area": 3145,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -34120,13 +34128,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 186,
+      "width": 185,
       "x": 2514,
       "y": 2294
     },
     "name": "",
     "neighborText": [],
-    "shape": 1094,
+    "shape": 1088,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -34146,7 +34154,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -34156,14 +34164,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[7]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 2683,
-      "y": 2296
+      "y": 2297
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -34183,7 +34191,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 2700,
+      "x": 2699,
       "y": 2294
     },
     "name": null,
@@ -34486,7 +34494,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -34496,14 +34504,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[8]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 3094,
-      "y": 2242
+      "y": 2243
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -34868,7 +34876,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -34878,14 +34886,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[9]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 3321,
-      "y": 2313
+      "y": 2314
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -35202,7 +35210,7 @@
   },
   {
     "alt": "",
-    "area": 2550,
+    "area": 2533,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -35213,13 +35221,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 150,
+      "width": 149,
       "x": 3663,
       "y": 2334
     },
     "name": "",
     "neighborText": [],
-    "shape": 882,
+    "shape": 876,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -35238,7 +35246,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -35248,14 +35256,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[10]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 3796,
-      "y": 2336
+      "y": 2337
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -35275,7 +35283,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 3813,
+      "x": 3812,
       "y": 2334
     },
     "name": null,
@@ -35565,7 +35573,7 @@
   },
   {
     "alt": "",
-    "area": 3740,
+    "area": 3723,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -35576,13 +35584,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 220,
+      "width": 219,
       "x": 4046,
       "y": 2341
     },
     "name": "",
     "neighborText": [],
-    "shape": 1294,
+    "shape": 1288,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -35602,7 +35610,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -35612,14 +35620,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[11]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 4249,
-      "y": 2343
+      "y": 2344
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -35639,7 +35647,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 4266,
+      "x": 4265,
       "y": 2341
     },
     "name": null,
@@ -35876,7 +35884,7 @@
       "height": 80,
       "width": 300,
       "x": 4429,
-      "y": 2248
+      "y": 2247
     },
     "name": null,
     "neighborText": [],
@@ -35958,7 +35966,7 @@
   },
   {
     "alt": "",
-    "area": 3468,
+    "area": 3451,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -35969,13 +35977,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 204,
+      "width": 203,
       "x": 4429,
-      "y": 2328
+      "y": 2327
     },
     "name": "",
     "neighborText": [],
-    "shape": 1200,
+    "shape": 1194,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -35994,7 +36002,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -36004,14 +36012,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[12]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 4616,
       "y": 2330
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -36031,8 +36039,8 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 4633,
-      "y": 2328
+      "x": 4632,
+      "y": 2327
     },
     "name": null,
     "neighborText": [],
@@ -36580,7 +36588,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -36590,14 +36598,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[14]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 5265,
-      "y": 2202
+      "y": 2203
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -36977,7 +36985,7 @@
   },
   {
     "alt": "",
-    "area": 3468,
+    "area": 3451,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -36988,13 +36996,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 204,
+      "width": 203,
       "x": 5578,
       "y": 2307
     },
     "name": "",
     "neighborText": [],
-    "shape": 1200,
+    "shape": 1194,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -37013,7 +37021,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -37023,14 +37031,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[15]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 5765,
-      "y": 2309
+      "y": 2310
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -37050,7 +37058,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 5782,
+      "x": 5781,
       "y": 2307
     },
     "name": null,
@@ -37333,7 +37341,7 @@
   },
   {
     "alt": "",
-    "area": 3468,
+    "area": 3451,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -37344,13 +37352,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 204,
+      "width": 203,
       "x": 5961,
       "y": 2220
     },
     "name": "",
     "neighborText": [],
-    "shape": 1200,
+    "shape": 1194,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -37369,7 +37377,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -37379,14 +37387,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[16]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 6148,
-      "y": 2222
+      "y": 2223
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -37406,7 +37414,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 6165,
+      "x": 6164,
       "y": 2220
     },
     "name": null,
@@ -37915,7 +37923,7 @@
   },
   {
     "alt": "",
-    "area": 3468,
+    "area": 3451,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -37926,13 +37934,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 204,
+      "width": 203,
       "x": 6727,
       "y": 2200
     },
     "name": "",
     "neighborText": [],
-    "shape": 1200,
+    "shape": 1194,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -37951,7 +37959,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -37961,14 +37969,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[18]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 6914,
-      "y": 2202
+      "y": 2203
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -37988,7 +37996,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 6931,
+      "x": 6930,
       "y": 2200
     },
     "name": null,
@@ -38329,7 +38337,7 @@
   },
   {
     "alt": "",
-    "area": 4777,
+    "area": 4760,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -38340,13 +38348,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 281,
+      "width": 280,
       "x": 7110,
       "y": 2240
     },
     "name": "",
     "neighborText": [],
-    "shape": 1652,
+    "shape": 1647,
     "tag": "A",
     "visibleText": [
       "Learn",
@@ -38369,7 +38377,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -38379,14 +38387,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[19]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 7374,
-      "y": 2242
+      "y": 2243
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -38406,7 +38414,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 7391,
+      "x": 7390,
       "y": 2240
     },
     "name": null,
@@ -38723,7 +38731,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -38733,14 +38741,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[20]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 7586,
-      "y": 2192
+      "y": 2193
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -38760,7 +38768,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 7603,
+      "x": 7602,
       "y": 2190
     },
     "name": null,
@@ -39038,7 +39046,7 @@
   },
   {
     "alt": "",
-    "area": 4437,
+    "area": 4420,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -39049,13 +39057,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 261,
+      "width": 260,
       "x": 7876,
       "y": 2260
     },
     "name": "",
     "neighborText": [],
-    "shape": 1535,
+    "shape": 1529,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -39075,7 +39083,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -39085,14 +39093,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[21]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 8120,
-      "y": 2262
+      "y": 2263
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -39112,7 +39120,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 8137,
+      "x": 8136,
       "y": 2260
     },
     "name": null,
@@ -39376,7 +39384,7 @@
   },
   {
     "alt": "",
-    "area": 3468,
+    "area": 3451,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -39387,13 +39395,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 204,
+      "width": 203,
       "x": 8259,
       "y": 2294
     },
     "name": "",
     "neighborText": [],
-    "shape": 1200,
+    "shape": 1194,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -39412,7 +39420,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -39422,14 +39430,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[22]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 8446,
-      "y": 2296
+      "y": 2297
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -39449,7 +39457,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 8463,
+      "x": 8462,
       "y": 2294
     },
     "name": null,
@@ -39676,7 +39684,7 @@
   },
   {
     "alt": "",
-    "area": 3145,
+    "area": 3128,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -39687,13 +39695,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 185,
+      "width": 184,
       "x": 8642,
       "y": 2254
     },
     "name": "",
     "neighborText": [],
-    "shape": 1088,
+    "shape": 1082,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -39713,7 +39721,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -39723,14 +39731,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[23]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 8810,
-      "y": 2256
+      "y": 2257
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -39750,7 +39758,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 8827,
+      "x": 8826,
       "y": 2254
     },
     "name": null,
@@ -39969,7 +39977,7 @@
   },
   {
     "alt": "",
-    "area": 3468,
+    "area": 3451,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -39980,13 +39988,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 204,
+      "width": 203,
       "x": 9025,
       "y": 2200
     },
     "name": "",
     "neighborText": [],
-    "shape": 1200,
+    "shape": 1194,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -40005,7 +40013,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -40015,14 +40023,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[24]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 9212,
-      "y": 2202
+      "y": 2203
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -40042,7 +40050,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 9229,
+      "x": 9228,
       "y": 2200
     },
     "name": null,
@@ -40510,7 +40518,7 @@
   },
   {
     "alt": "",
-    "area": 3978,
+    "area": 3961,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -40521,13 +40529,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 234,
+      "width": 233,
       "x": 9791,
       "y": 2227
     },
     "name": "",
     "neighborText": [],
-    "shape": 1376,
+    "shape": 1370,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -40546,7 +40554,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -40556,14 +40564,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[26]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 10008,
-      "y": 2229
+      "y": 2230
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -40583,7 +40591,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 10025,
+      "x": 10024,
       "y": 2227
     },
     "name": null,
@@ -40854,7 +40862,7 @@
   },
   {
     "alt": "",
-    "area": 2346,
+    "area": 2329,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -40865,13 +40873,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 138,
+      "width": 137,
       "x": 10174,
       "y": 2287
     },
     "name": "",
     "neighborText": [],
-    "shape": 811,
+    "shape": 805,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -40889,7 +40897,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -40899,14 +40907,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[27]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 10295,
-      "y": 2289
+      "y": 2290
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -40926,7 +40934,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 10312,
+      "x": 10311,
       "y": 2287
     },
     "name": null,
@@ -41155,7 +41163,7 @@
   },
   {
     "alt": "",
-    "area": 2465,
+    "area": 2448,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -41166,13 +41174,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 145,
+      "width": 144,
       "x": 10557,
       "y": 2173
     },
     "name": "",
     "neighborText": [],
-    "shape": 852,
+    "shape": 847,
     "tag": "A",
     "visibleText": [
       "Watch",
@@ -41190,7 +41198,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -41200,14 +41208,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[28]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 10685,
-      "y": 2175
+      "y": 2176
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -41227,7 +41235,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 10702,
+      "x": 10701,
       "y": 2173
     },
     "name": null,
@@ -41453,7 +41461,7 @@
   },
   {
     "alt": "",
-    "area": 2465,
+    "area": 2448,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -41464,13 +41472,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 145,
+      "width": 144,
       "x": 10940,
       "y": 2227
     },
     "name": "",
     "neighborText": [],
-    "shape": 852,
+    "shape": 847,
     "tag": "A",
     "visibleText": [
       "Watch",
@@ -41488,7 +41496,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -41498,14 +41506,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[29]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 11068,
-      "y": 2229
+      "y": 2230
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -41525,7 +41533,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 11085,
+      "x": 11084,
       "y": 2227
     },
     "name": null,
@@ -41765,7 +41773,7 @@
   },
   {
     "alt": "",
-    "area": 3077,
+    "area": 3060,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -41776,13 +41784,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 181,
+      "width": 180,
       "x": 11323,
       "y": 2274
     },
     "name": "",
     "neighborText": [],
-    "shape": 1064,
+    "shape": 1058,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -41801,7 +41809,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -41811,14 +41819,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[30]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 11487,
-      "y": 2276
+      "y": 2277
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -41838,7 +41846,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 11504,
+      "x": 11503,
       "y": 2274
     },
     "name": null,
@@ -42098,7 +42106,7 @@
   },
   {
     "alt": "",
-    "area": 3757,
+    "area": 3740,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -42109,13 +42117,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 221,
+      "width": 220,
       "x": 11706,
       "y": 2220
     },
     "name": "",
     "neighborText": [],
-    "shape": 1300,
+    "shape": 1294,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -42135,7 +42143,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -42145,14 +42153,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[31]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 11910,
-      "y": 2222
+      "y": 2223
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -42172,7 +42180,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 11927,
+      "x": 11926,
       "y": 2220
     },
     "name": null,
@@ -42701,7 +42709,7 @@
   },
   {
     "alt": "",
-    "area": 2805,
+    "area": 2788,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -42712,13 +42720,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 165,
+      "width": 164,
       "x": 12472,
       "y": 2274
     },
     "name": "",
     "neighborText": [],
-    "shape": 970,
+    "shape": 964,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -42737,7 +42745,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -42747,14 +42755,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[33]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 12620,
-      "y": 2276
+      "y": 2277
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -42774,7 +42782,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 12637,
+      "x": 12636,
       "y": 2274
     },
     "name": null,
@@ -43035,7 +43043,7 @@
   },
   {
     "alt": "",
-    "area": 2703,
+    "area": 2686,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -43046,13 +43054,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 159,
+      "width": 158,
       "x": 12855,
       "y": 2301
     },
     "name": "",
     "neighborText": [],
-    "shape": 935,
+    "shape": 929,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -43071,7 +43079,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -43081,14 +43089,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[34]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 12997,
-      "y": 2303
+      "y": 2304
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -43108,7 +43116,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 13014,
+      "x": 13013,
       "y": 2301
     },
     "name": null,
@@ -43336,7 +43344,7 @@
   },
   {
     "alt": "",
-    "area": 2975,
+    "area": 2958,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -43347,13 +43355,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 175,
+      "width": 174,
       "x": 13238,
       "y": 2240
     },
     "name": "",
     "neighborText": [],
-    "shape": 1029,
+    "shape": 1023,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -43372,7 +43380,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -43382,14 +43390,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[35]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 13396,
-      "y": 2242
+      "y": 2243
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -43409,7 +43417,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 13413,
+      "x": 13412,
       "y": 2240
     },
     "name": null,
@@ -43646,7 +43654,7 @@
   },
   {
     "alt": "",
-    "area": 3111,
+    "area": 3094,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -43657,13 +43665,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 183,
+      "width": 182,
       "x": 13621,
       "y": 2254
     },
     "name": "",
     "neighborText": [],
-    "shape": 1076,
+    "shape": 1070,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -43682,7 +43690,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -43692,14 +43700,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[36]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 13787,
-      "y": 2256
+      "y": 2257
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -43719,7 +43727,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 13804,
+      "x": 13803,
       "y": 2254
     },
     "name": null,
@@ -43998,7 +44006,7 @@
   },
   {
     "alt": "",
-    "area": 3247,
+    "area": 3230,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -44009,13 +44017,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 191,
+      "width": 190,
       "x": 14004,
       "y": 2341
     },
     "name": "",
     "neighborText": [],
-    "shape": 1123,
+    "shape": 1117,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -44034,7 +44042,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -44044,14 +44052,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[37]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 14178,
-      "y": 2343
+      "y": 2344
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -44071,7 +44079,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 14195,
+      "x": 14194,
       "y": 2341
     },
     "name": null,
@@ -44355,7 +44363,7 @@
   },
   {
     "alt": "",
-    "area": 3774,
+    "area": 3757,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -44366,13 +44374,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 222,
+      "width": 221,
       "x": 14387,
       "y": 2247
     },
     "name": "",
     "neighborText": [],
-    "shape": 1305,
+    "shape": 1300,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -44392,7 +44400,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -44402,14 +44410,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[38]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 14592,
-      "y": 2249
+      "y": 2250
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -44429,7 +44437,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 14609,
+      "x": 14608,
       "y": 2247
     },
     "name": null,
@@ -44664,7 +44672,7 @@
   },
   {
     "alt": "",
-    "area": 16986,
+    "area": 16929,
     "classList": [],
     "href": "",
     "id": "",
@@ -44672,13 +44680,13 @@
     "isButton": false,
     "location": {
       "height": 57,
-      "width": 298,
+      "width": 297,
       "x": 14770,
       "y": 2222
     },
     "name": null,
     "neighborText": [],
-    "shape": 522,
+    "shape": 521,
     "tag": "SPAN",
     "visibleText": [
       "Solutions",
@@ -44740,7 +44748,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -44750,14 +44758,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[39]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 15018,
-      "y": 2283
+      "y": 2284
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -45052,7 +45060,7 @@
   },
   {
     "alt": "",
-    "area": 3587,
+    "area": 3570,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -45063,13 +45071,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 211,
+      "width": 210,
       "x": 15153,
       "y": 2301
     },
     "name": "",
     "neighborText": [],
-    "shape": 1241,
+    "shape": 1235,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -45089,7 +45097,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -45099,14 +45107,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[40]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 15347,
-      "y": 2303
+      "y": 2304
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -45126,7 +45134,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 15364,
+      "x": 15363,
       "y": 2301
     },
     "name": null,
@@ -45316,7 +45324,7 @@
   },
   {
     "alt": "",
-    "area": 3995,
+    "area": 3978,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -45327,13 +45335,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 235,
+      "width": 234,
       "x": 15536,
       "y": 2180
     },
     "name": "",
     "neighborText": [],
-    "shape": 1382,
+    "shape": 1376,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -45354,7 +45362,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -45364,14 +45372,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[41]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 15754,
-      "y": 2182
+      "y": 2183
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -45391,7 +45399,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 15771,
+      "x": 15770,
       "y": 2180
     },
     "name": null,
@@ -45611,7 +45619,7 @@
       "height": 60,
       "width": 300,
       "x": 15919,
-      "y": 2248
+      "y": 2247
     },
     "name": null,
     "neighborText": [],
@@ -45653,7 +45661,7 @@
       "height": 17,
       "width": 155,
       "x": 15919,
-      "y": 2308
+      "y": 2307
     },
     "name": "",
     "neighborText": [],
@@ -45676,7 +45684,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -45686,14 +45694,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[42]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 16057,
       "y": 2310
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -45714,7 +45722,7 @@
       "height": 1,
       "width": 1,
       "x": 16074,
-      "y": 2308
+      "y": 2307
     },
     "name": null,
     "neighborText": [],
@@ -46088,7 +46096,7 @@
   },
   {
     "alt": "",
-    "area": 3213,
+    "area": 3196,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -46099,13 +46107,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 189,
+      "width": 188,
       "x": 16302,
       "y": 2401
     },
     "name": "",
     "neighborText": [],
-    "shape": 1111,
+    "shape": 1105,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -46124,7 +46132,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -46134,14 +46142,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[43]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 16474,
-      "y": 2403
+      "y": 2404
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -46161,7 +46169,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 16491,
+      "x": 16490,
       "y": 2401
     },
     "name": null,
@@ -46370,7 +46378,7 @@
   },
   {
     "alt": "",
-    "area": 3570,
+    "area": 3553,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -46381,13 +46389,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 210,
+      "width": 209,
       "x": 16685,
       "y": 2200
     },
     "name": "",
     "neighborText": [],
-    "shape": 1235,
+    "shape": 1229,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -46407,7 +46415,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -46417,14 +46425,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[44]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 16878,
-      "y": 2202
+      "y": 2203
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -46444,7 +46452,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 16895,
+      "x": 16894,
       "y": 2200
     },
     "name": null,
@@ -46711,7 +46719,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -46721,14 +46729,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[45]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 17073,
-      "y": 2219
+      "y": 2220
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -46748,7 +46756,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 17090,
+      "x": 17089,
       "y": 2217
     },
     "name": null,
@@ -46952,7 +46960,7 @@
       "height": 60,
       "width": 300,
       "x": 17451,
-      "y": 2248
+      "y": 2247
     },
     "name": null,
     "neighborText": [],
@@ -46989,7 +46997,7 @@
       "height": 17,
       "width": 154,
       "x": 17451,
-      "y": 2308
+      "y": 2307
     },
     "name": "",
     "neighborText": [],
@@ -47012,7 +47020,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -47022,14 +47030,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[46]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 17588,
       "y": 2310
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -47050,7 +47058,7 @@
       "height": 1,
       "width": 1,
       "x": 17605,
-      "y": 2308
+      "y": 2307
     },
     "name": null,
     "neighborText": [],
@@ -47295,7 +47303,7 @@
   },
   {
     "alt": "",
-    "area": 3111,
+    "area": 3094,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -47306,13 +47314,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 183,
+      "width": 182,
       "x": 17834,
       "y": 2274
     },
     "name": "",
     "neighborText": [],
-    "shape": 1076,
+    "shape": 1070,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -47331,7 +47339,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -47341,14 +47349,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[47]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 18000,
-      "y": 2276
+      "y": 2277
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -47368,7 +47376,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 18017,
+      "x": 18016,
       "y": 2274
     },
     "name": null,
@@ -47461,7 +47469,7 @@
   },
   {
     "alt": "",
-    "area": 116280,
+    "area": 115900,
     "classList": [
       "ups-news_content"
     ],
@@ -47470,7 +47478,7 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[48]/div[1]",
     "isButton": false,
     "location": {
-      "height": 306,
+      "height": 305,
       "width": 380,
       "x": 18197,
       "y": 2041
@@ -47588,7 +47596,7 @@
       "height": 40,
       "width": 300,
       "x": 18217,
-      "y": 2275
+      "y": 2274
     },
     "name": null,
     "neighborText": [],
@@ -47610,7 +47618,7 @@
   },
   {
     "alt": "",
-    "area": 3332,
+    "area": 3315,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -47621,13 +47629,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 196,
+      "width": 195,
       "x": 18217,
-      "y": 2315
+      "y": 2314
     },
     "name": "",
     "neighborText": [],
-    "shape": 1152,
+    "shape": 1147,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -47647,7 +47655,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -47657,14 +47665,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[48]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 18396,
       "y": 2317
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -47684,8 +47692,8 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 18413,
-      "y": 2315
+      "x": 18412,
+      "y": 2314
     },
     "name": null,
     "neighborText": [],
@@ -47960,7 +47968,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -47970,14 +47978,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[49]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 18764,
-      "y": 2222
+      "y": 2223
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -48246,7 +48254,7 @@
   },
   {
     "alt": "",
-    "area": 2550,
+    "area": 2533,
     "classList": [
       "ups-news_more",
       "ups-analytics"
@@ -48257,13 +48265,13 @@
     "isButton": false,
     "location": {
       "height": 17,
-      "width": 150,
+      "width": 149,
       "x": 18983,
       "y": 2274
     },
     "name": "",
     "neighborText": [],
-    "shape": 882,
+    "shape": 876,
     "tag": "A",
     "visibleText": [
       "Read",
@@ -48282,7 +48290,7 @@
   },
   {
     "alt": "",
-    "area": 180,
+    "area": 154,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -48292,14 +48300,14 @@
     "idxpath": "//*[@id='iw_comp1591868117622']/div[1]/div[1]/div[1]/ul[1]/li[50]/div[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 12,
+      "height": 14,
+      "width": 11,
       "x": 19116,
-      "y": 2276
+      "y": 2277
     },
     "name": null,
     "neighborText": [],
-    "shape": 80,
+    "shape": 78,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -48319,7 +48327,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 19133,
+      "x": 19132,
       "y": 2274
     },
     "name": null,
@@ -50725,7 +50733,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -50735,14 +50743,14 @@
     "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[2]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1012,
-      "y": 2626
+      "y": 2627
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -50762,7 +50770,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1029,
+      "x": 1028,
       "y": 2623
     },
     "name": null,
@@ -50869,7 +50877,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -50879,14 +50887,14 @@
     "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[3]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1026,
-      "y": 2667
+      "y": 2668
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -51011,7 +51019,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -51021,14 +51029,14 @@
     "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[4]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 962,
-      "y": 2708
+      "y": 2709
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -51048,7 +51056,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 979,
+      "x": 978,
       "y": 2705
     },
     "name": null,
@@ -51159,7 +51167,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -51169,14 +51177,14 @@
     "idxpath": "//*[@id='ups-footer_companyInfoLinks']/li[5]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1165,
-      "y": 2749
+      "y": 2750
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -51411,7 +51419,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -51421,14 +51429,14 @@
     "idxpath": "//*[@id='ups-footer_otherSitesLinks']/li[1]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1005,
-      "y": 2850
+      "y": 2851
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -51448,7 +51456,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1022,
+      "x": 1021,
       "y": 2848
     },
     "name": null,
@@ -51553,7 +51561,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -51563,14 +51571,14 @@
     "idxpath": "//*[@id='ups-footer_otherSitesLinks']/li[2]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 987,
-      "y": 2891
+      "y": 2892
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -51590,7 +51598,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1004,
+      "x": 1003,
       "y": 2889
     },
     "name": null,
@@ -51695,7 +51703,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -51705,14 +51713,14 @@
     "idxpath": "//*[@id='ups-footer_otherSitesLinks']/li[3]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 963,
-      "y": 2932
+      "y": 2933
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -51732,7 +51740,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 980,
+      "x": 979,
       "y": 2930
     },
     "name": null,
@@ -51992,7 +52000,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -52002,14 +52010,14 @@
     "idxpath": "//*[@id='ups-footer_connectLinks']/li[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1359,
-      "y": 2585
+      "y": 2586
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -52029,7 +52037,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1376,
+      "x": 1375,
       "y": 2582
     },
     "name": null,
@@ -52111,7 +52119,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -52121,14 +52129,14 @@
     "idxpath": "//*[@id='ups-footer_connectLinks']/li[2]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1343,
-      "y": 2626
+      "y": 2627
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -52148,7 +52156,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1360,
+      "x": 1359,
       "y": 2623
     },
     "name": null,
@@ -52230,7 +52238,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -52240,14 +52248,14 @@
     "idxpath": "//*[@id='ups-footer_connectLinks']/li[3]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1354,
-      "y": 2667
+      "y": 2668
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -52267,7 +52275,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1371,
+      "x": 1370,
       "y": 2664
     },
     "name": null,
@@ -52349,7 +52357,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 176,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -52359,14 +52367,14 @@
     "idxpath": "//*[@id='ups-footer_connectLinks']/li[4]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
+      "height": 16,
+      "width": 11,
       "x": 1353,
-      "y": 2708
+      "y": 2709
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 68,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -52608,21 +52616,21 @@
   },
   {
     "alt": "",
-    "area": 1566,
+    "area": 1479,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[1]",
     "isButton": false,
     "location": {
-      "height": 18,
+      "height": 17,
       "width": 87,
       "x": 176,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 483,
+    "shape": 511,
     "tag": "LI",
     "visibleText": [
       "Global",
@@ -52681,21 +52689,21 @@
   },
   {
     "alt": "",
-    "area": 2394,
+    "area": 2244,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 133,
-      "x": 267,
+      "height": 17,
+      "width": 132,
+      "x": 266,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 738,
+    "shape": 776,
     "tag": "LI",
     "visibleText": [
       "Protect",
@@ -52706,7 +52714,7 @@
   },
   {
     "alt": "",
-    "area": 1582,
+    "area": 1568,
     "classList": [
       "ups-analytics"
     ],
@@ -52716,13 +52724,13 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 113,
-      "x": 287,
+      "width": 112,
+      "x": 286,
       "y": 3016
     },
     "name": "",
     "neighborText": [],
-    "shape": 807,
+    "shape": 800,
     "tag": "A",
     "visibleText": [
       "Protect",
@@ -52742,7 +52750,7 @@
     "location": {
       "height": 14,
       "width": 0,
-      "x": 401,
+      "x": 399,
       "y": 3016
     },
     "name": null,
@@ -52756,21 +52764,21 @@
   },
   {
     "alt": "",
-    "area": 3150,
+    "area": 2958,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[3]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 175,
-      "x": 404,
+      "height": 17,
+      "width": 174,
+      "x": 403,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 972,
+    "shape": 1023,
     "tag": "LI",
     "visibleText": [
       "Service",
@@ -52782,7 +52790,7 @@
   },
   {
     "alt": "",
-    "area": 2170,
+    "area": 2156,
     "classList": [
       "ups-analytics"
     ],
@@ -52792,13 +52800,13 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 155,
-      "x": 424,
+      "width": 154,
+      "x": 423,
       "y": 3016
     },
     "name": "",
     "neighborText": [],
-    "shape": 1107,
+    "shape": 1100,
     "tag": "A",
     "visibleText": [
       "Service",
@@ -52819,7 +52827,7 @@
     "location": {
       "height": 14,
       "width": 0,
-      "x": 580,
+      "x": 577,
       "y": 3016
     },
     "name": null,
@@ -52833,21 +52841,21 @@
   },
   {
     "alt": "",
-    "area": 2412,
+    "area": 2261,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[4]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 134,
-      "x": 584,
+      "height": 17,
+      "width": 133,
+      "x": 581,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 744,
+    "shape": 782,
     "tag": "LI",
     "visibleText": [
       "Website",
@@ -52859,7 +52867,7 @@
   },
   {
     "alt": "",
-    "area": 1596,
+    "area": 1582,
     "classList": [
       "ups-analytics"
     ],
@@ -52869,13 +52877,13 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 114,
-      "x": 604,
+      "width": 113,
+      "x": 601,
       "y": 3016
     },
     "name": "",
     "neighborText": [],
-    "shape": 814,
+    "shape": 807,
     "tag": "A",
     "visibleText": [
       "Website",
@@ -52896,7 +52904,7 @@
     "location": {
       "height": 14,
       "width": 0,
-      "x": 719,
+      "x": 715,
       "y": 3016
     },
     "name": null,
@@ -52910,21 +52918,21 @@
   },
   {
     "alt": "",
-    "area": 3528,
+    "area": 3264,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[5]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 196,
-      "x": 722,
+      "height": 17,
+      "width": 192,
+      "x": 719,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 1088,
+    "shape": 1129,
     "tag": "LI",
     "visibleText": [
       "Your",
@@ -52943,7 +52951,7 @@
   },
   {
     "alt": "",
-    "area": 2464,
+    "area": 2408,
     "classList": [
       "ups-analytics"
     ],
@@ -52953,13 +52961,13 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 176,
-      "x": 742,
+      "width": 172,
+      "x": 739,
       "y": 3016
     },
     "name": "",
     "neighborText": [],
-    "shape": 1257,
+    "shape": 1228,
     "tag": "A",
     "visibleText": [
       "Your",
@@ -52987,7 +52995,7 @@
     "location": {
       "height": 14,
       "width": 0,
-      "x": 897,
+      "x": 892,
       "y": 3016
     },
     "name": null,
@@ -53001,7 +53009,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 126,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -53011,14 +53019,14 @@
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[5]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
-      "x": 902,
-      "y": 3014
+      "height": 14,
+      "width": 9,
+      "x": 897,
+      "y": 3017
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 64,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -53038,7 +53046,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 919,
+      "x": 911,
       "y": 3014
     },
     "name": null,
@@ -53058,21 +53066,21 @@
   },
   {
     "alt": "",
-    "area": 2088,
+    "area": 1921,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[6]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 116,
-      "x": 923,
+      "height": 17,
+      "width": 113,
+      "x": 915,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 644,
+    "shape": 664,
     "tag": "LI",
     "visibleText": [
       "Privacy",
@@ -53089,7 +53097,7 @@
   },
   {
     "alt": "",
-    "area": 1344,
+    "area": 1302,
     "classList": [
       "ups-analytics"
     ],
@@ -53099,13 +53107,13 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 96,
-      "x": 943,
+      "width": 93,
+      "x": 935,
       "y": 3016
     },
     "name": "",
     "neighborText": [],
-    "shape": 685,
+    "shape": 664,
     "tag": "A",
     "visibleText": [
       "Privacy",
@@ -53131,7 +53139,7 @@
     "location": {
       "height": 14,
       "width": 0,
-      "x": 1017,
+      "x": 1008,
       "y": 3016
     },
     "name": null,
@@ -53145,7 +53153,7 @@
   },
   {
     "alt": "",
-    "area": 216,
+    "area": 126,
     "classList": [
       "icon",
       "ups-link_newwindow"
@@ -53155,14 +53163,14 @@
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[6]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 12,
-      "x": 1022,
-      "y": 3014
+      "height": 14,
+      "width": 9,
+      "x": 1013,
+      "y": 3017
     },
     "name": null,
     "neighborText": [],
-    "shape": 66,
+    "shape": 64,
     "tag": "SPAN",
     "visibleText": [
       ""
@@ -53182,7 +53190,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1039,
+      "x": 1028,
       "y": 3014
     },
     "name": null,
@@ -53202,21 +53210,21 @@
   },
   {
     "alt": "",
-    "area": 1818,
+    "area": 1700,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[7]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 101,
-      "x": 1043,
+      "height": 17,
+      "width": 100,
+      "x": 1032,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 561,
+    "shape": 588,
     "tag": "LI",
     "visibleText": [
       "Cookie",
@@ -53226,7 +53234,7 @@
   },
   {
     "alt": "",
-    "area": 1134,
+    "area": 1120,
     "classList": [
       "ups-analytics"
     ],
@@ -53236,13 +53244,13 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 81,
-      "x": 1063,
+      "width": 80,
+      "x": 1052,
       "y": 3016
     },
     "name": "",
     "neighborText": [],
-    "shape": 578,
+    "shape": 571,
     "tag": "A",
     "visibleText": [
       "Cookie",
@@ -53261,7 +53269,7 @@
     "location": {
       "height": 14,
       "width": 0,
-      "x": 1144,
+      "x": 1132,
       "y": 3016
     },
     "name": null,
@@ -53275,21 +53283,21 @@
   },
   {
     "alt": "",
-    "area": 2214,
+    "area": 2074,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='ups-footer_legalLinks']/li[8]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 123,
-      "x": 1148,
+      "height": 17,
+      "width": 122,
+      "x": 1136,
       "y": 3014
     },
     "name": null,
     "neighborText": [],
-    "shape": 683,
+    "shape": 717,
     "tag": "LI",
     "visibleText": [
       "Do",
@@ -53302,7 +53310,7 @@
   },
   {
     "alt": "",
-    "area": 1442,
+    "area": 1428,
     "classList": [
       "ups-analytics"
     ],
@@ -53312,13 +53320,13 @@
     "isButton": false,
     "location": {
       "height": 14,
-      "width": 103,
-      "x": 1168,
+      "width": 102,
+      "x": 1156,
       "y": 3016
     },
     "name": "",
     "neighborText": [],
-    "shape": 735,
+    "shape": 728,
     "tag": "A",
     "visibleText": [
       "Do",
@@ -53340,7 +53348,7 @@
     "location": {
       "height": 14,
       "width": 0,
-      "x": 1271,
+      "x": 1259,
       "y": 3016
     },
     "name": null,
@@ -53354,7 +53362,7 @@
   },
   {
     "alt": "",
-    "area": 20730,
+    "area": 19348,
     "classList": [
       "ups-footer_disclaimer"
     ],
@@ -53363,14 +53371,14 @@
     "idxpath": "//*[@id='ups-footer']/div[2]/div[1]/p[1]",
     "isButton": false,
     "location": {
-      "height": 15,
+      "height": 14,
       "width": 1382,
       "x": 196,
       "y": 3051
     },
     "name": null,
     "neighborText": [],
-    "shape": 9213,
+    "shape": 9871,
     "tag": "P",
     "visibleText": [
       "Copyright",
@@ -53452,7 +53460,7 @@
       "Cookie",
       "Settings."
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]"
   },
   {
     "alt": "",
@@ -53477,7 +53485,7 @@
     "visibleText": [
       "Close"
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/button[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/button[1]"
   },
   {
     "alt": "",
@@ -53503,7 +53511,7 @@
     "visibleText": [
       ""
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/button[1]/span[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/button[1]/span[1]"
   },
   {
     "alt": "",
@@ -53528,7 +53536,7 @@
     "visibleText": [
       "Close"
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/button[1]/span[2]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/button[1]/span[2]"
   },
   {
     "alt": "",
@@ -53592,7 +53600,7 @@
       "Cookie",
       "Settings."
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]"
   },
   {
     "alt": "",
@@ -53620,7 +53628,7 @@
       "uses",
       "cookies"
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/h2[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/h2[1]"
   },
   {
     "alt": "",
@@ -53680,7 +53688,7 @@
       "Cookie",
       "Settings."
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
@@ -53740,7 +53748,7 @@
       "Cookie",
       "Settings."
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
@@ -53798,7 +53806,7 @@
       "Cookie",
       "Settings."
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/p[1]"
   },
   {
     "alt": "",
@@ -53827,7 +53835,7 @@
       "Privacy",
       "Notice"
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/a[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/p[1]/a[1]"
   },
   {
     "alt": "",
@@ -53858,105 +53866,6 @@
       "Cookie",
       "Settings"
     ],
-    "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/a[2]"
-  },
-  {
-    "alt": "",
-    "area": 3952,
-    "classList": [
-      "_acs",
-      "_acsbadge--default",
-      "_acsbadge--medium",
-      "_acsmiddleright",
-      "_acsVertical_right",
-      "_acsAnimate"
-    ],
-    "href": "",
-    "id": "",
-    "idxpath": "/html[1]/body[1]/a[1]",
-    "isButton": false,
-    "location": {
-      "height": 104,
-      "width": 38,
-      "x": 1745,
-      "y": 328
-    },
-    "name": "",
-    "neighborText": [],
-    "shape": 36,
-    "tag": "A",
-    "visibleText": [
-      "Feedback"
-    ],
-    "xpath": "/html[1]/body[1]/a[1]"
-  },
-  {
-    "alt": "",
-    "area": 168,
-    "classList": [
-      "_acsBadgeImg",
-      "_acsBadgeImg__aspark",
-      "_acsBadgeImg__aspark--medium"
-    ],
-    "href": "",
-    "id": "",
-    "idxpath": "/html[1]/body[1]/a[1]/*[local-name() = 'svg'][1]",
-    "isButton": false,
-    "location": {
-      "height": 12,
-      "width": 14,
-      "x": 1758,
-      "y": 410
-    },
-    "name": null,
-    "neighborText": [
-      "Feedback"
-    ],
-    "shape": 116,
-    "tag": "svg",
-    "visibleText": [
-      ""
-    ],
-    "xpath": "/html[1]/body[1]/a[1]/*[local-name() = 'svg'][1]"
-  },
-  {
-    "alt": "",
-    "area": 1280,
-    "classList": [
-      "_acsBadgeLabel"
-    ],
-    "href": "",
-    "id": "",
-    "idxpath": "/html[1]/body[1]/a[1]/span[1]",
-    "isButton": false,
-    "location": {
-      "height": 80,
-      "width": 16,
-      "x": 1756,
-      "y": 325
-    },
-    "name": null,
-    "neighborText": [
-      "Track",
-      "a",
-      "Package",
-      "Ship",
-      "Now",
-      "Change",
-      "My",
-      "Delivery",
-      "Schedule",
-      "a",
-      "Pickup",
-      "Order",
-      "Free",
-      "Supplies"
-    ],
-    "shape": 20,
-    "tag": "SPAN",
-    "visibleText": [
-      "Feedback"
-    ],
-    "xpath": "/html[1]/body[1]/a[1]/span[1]"
+    "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/p[1]/a[2]"
   }
 ]

@@ -300,16 +300,16 @@
   },
   {
     "alt": "",
-    "area": 507,
+    "area": 408,
     "classList": [],
     "href": "https://www.google.com/intl/en/policies/privacy/",
     "id": "",
     "idxpath": "//*[@id='footer']/p[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 13,
-      "width": 39,
-      "x": 879,
+      "height": 12,
+      "width": 34,
+      "x": 881,
       "y": 479
     },
     "name": "",
@@ -322,7 +322,7 @@
       "Google",
       "Terms"
     ],
-    "shape": 300,
+    "shape": 283,
     "tag": "A",
     "visibleText": [
       "Privacy"
@@ -331,16 +331,16 @@
   },
   {
     "alt": "",
-    "area": 416,
+    "area": 348,
     "classList": [],
     "href": "https://www.google.com/intl/en/policies/terms/",
     "id": "",
     "idxpath": "//*[@id='footer']/p[1]/a[2]",
     "isButton": false,
     "location": {
-      "height": 13,
-      "width": 32,
-      "x": 929,
+      "height": 12,
+      "width": 29,
+      "x": 925,
       "y": 479
     },
     "name": "",
@@ -353,7 +353,7 @@
       "Google",
       "Privacy"
     ],
-    "shape": 246,
+    "shape": 241,
     "tag": "A",
     "visibleText": [
       "Terms"

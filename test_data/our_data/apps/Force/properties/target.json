@@ -13,7 +13,7 @@
       "height": 44,
       "width": 95,
       "x": 367,
-      "y": 129
+      "y": 65
     },
     "name": null,
     "neighborText": [
@@ -45,7 +45,7 @@
       "height": 44,
       "width": 99,
       "x": 462,
-      "y": 129
+      "y": 65
     },
     "name": null,
     "neighborText": [
@@ -78,7 +78,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 570
+      "y": 506
     },
     "name": null,
     "neighborText": [
@@ -106,7 +106,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 615
+      "y": 551
     },
     "name": null,
     "neighborText": [
@@ -135,7 +135,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 660
+      "y": 596
     },
     "name": null,
     "neighborText": [
@@ -165,7 +165,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 705
+      "y": 641
     },
     "name": null,
     "neighborText": [
@@ -195,7 +195,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 795
+      "y": 731
     },
     "name": null,
     "neighborText": [
@@ -223,7 +223,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 750
+      "y": 686
     },
     "name": null,
     "neighborText": [
@@ -249,8 +249,7 @@
       "btn",
       "btn-lg",
       "btn-dark",
-      "salesforce-sans-regular",
-      "invocaTelLink"
+      "salesforce-sans-regular"
     ],
     "href": "https://www.salesforce.com/form/app-cloud/guided-tour.jsp?d=7010M000001yJAi",
     "id": "",
@@ -260,7 +259,7 @@
       "height": 42,
       "width": 134,
       "x": 584,
-      "y": 437
+      "y": 373
     },
     "name": "",
     "neighborText": [
@@ -291,23 +290,7 @@
       "mobile,",
       "connected,",
       "and",
-      "secure.",
-      "No",
-      "problem.",
-      "Chat",
-      "with",
-      "our",
-      "sales",
-      "experts",
-      "or",
-      "call",
-      "us",
-      "at",
-      "1-800-667-6389.",
-      "CONTACT",
-      "US",
-      "NO",
-      "THANKS"
+      "secure."
     ],
     "shape": 319,
     "tag": "A",
@@ -332,7 +315,7 @@
       "height": 44,
       "width": 168,
       "x": 561,
-      "y": 129
+      "y": 65
     },
     "name": null,
     "neighborText": [
@@ -359,8 +342,7 @@
     "alt": "",
     "area": 3432,
     "classList": [
-      "globalnavbar-expander",
-      "invocaTelLink"
+      "globalnavbar-expander"
     ],
     "href": "https://www.salesforce.com/events/",
     "id": "",
@@ -370,7 +352,7 @@
       "height": 44,
       "width": 78,
       "x": 730,
-      "y": 129
+      "y": 65
     },
     "name": "",
     "neighborText": [
@@ -405,7 +387,7 @@
       "height": 44,
       "width": 98,
       "x": 973,
-      "y": 129
+      "y": 65
     },
     "name": null,
     "neighborText": [
@@ -427,8 +409,7 @@
     "area": 1620,
     "classList": [
       "dropdown-toggle",
-      "disabled",
-      "invocaTelLink"
+      "disabled"
     ],
     "href": "https://www.salesforce.com/products/platform/products/force/?d=70130000000f27V&internal=true#",
     "id": "",
@@ -438,60 +419,10 @@
       "height": 20,
       "width": 81,
       "x": 1297,
-      "y": 80
+      "y": 16
     },
     "name": "",
     "neighborText": [
-      "We",
-      "use",
-      "cookies",
-      "to",
-      "make",
-      "interactions",
-      "with",
-      "our",
-      "websites",
-      "and",
-      "services",
-      "easy",
-      "and",
-      "meaningful,",
-      "to",
-      "better",
-      "understand",
-      "how",
-      "they",
-      "are",
-      "used",
-      "and",
-      "to",
-      "tailor",
-      "advertising.",
-      "You",
-      "can",
-      "read",
-      "more",
-      "and",
-      "make",
-      "your",
-      "cookie",
-      "choices",
-      "here.",
-      "By",
-      "continuing",
-      "to",
-      "use",
-      "this",
-      "site",
-      "you",
-      "are",
-      "giving",
-      "us",
-      "your",
-      "consent",
-      "to",
-      "do",
-      "this.",
       "1-855-382-6558",
       "TRY",
       "FOR",
@@ -510,8 +441,7 @@
     "area": 2220,
     "classList": [
       "dropdown-toggle",
-      "disabled",
-      "invocaTelLink"
+      "disabled"
     ],
     "href": "https://login.salesforce.com/",
     "id": "",
@@ -521,60 +451,10 @@
       "height": 30,
       "width": 74,
       "x": 1461,
-      "y": 76
+      "y": 12
     },
     "name": "",
     "neighborText": [
-      "We",
-      "use",
-      "cookies",
-      "to",
-      "make",
-      "interactions",
-      "with",
-      "our",
-      "websites",
-      "and",
-      "services",
-      "easy",
-      "and",
-      "meaningful,",
-      "to",
-      "better",
-      "understand",
-      "how",
-      "they",
-      "are",
-      "used",
-      "and",
-      "to",
-      "tailor",
-      "advertising.",
-      "You",
-      "can",
-      "read",
-      "more",
-      "and",
-      "make",
-      "your",
-      "cookie",
-      "choices",
-      "here.",
-      "By",
-      "continuing",
-      "to",
-      "use",
-      "this",
-      "site",
-      "you",
-      "are",
-      "giving",
-      "us",
-      "your",
-      "consent",
-      "to",
-      "do",
-      "this.",
       "TRY",
       "FOR",
       "FREE"
@@ -593,8 +473,7 @@
       "btn",
       "btn-lg",
       "btn-nav",
-      "salesforce-sans-regular",
-      "invocaTelLink"
+      "salesforce-sans-regular"
     ],
     "href": "https://www.salesforce.com/form/signup/freetrial-platform/?d=cta-glob-nav-1",
     "id": "",
@@ -604,7 +483,7 @@
       "height": 42,
       "width": 130,
       "x": 1405,
-      "y": 116
+      "y": 52
     },
     "name": "",
     "neighborText": [
@@ -634,7 +513,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 480
+      "y": 416
     },
     "name": null,
     "neighborText": [
@@ -662,7 +541,7 @@
       "height": 45,
       "width": 148,
       "x": 286,
-      "y": 525
+      "y": 461
     },
     "name": null,
     "neighborText": [

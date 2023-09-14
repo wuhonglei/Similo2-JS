@@ -1192,7 +1192,7 @@
       "artigos",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -1323,7 +1323,7 @@
       "Português",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -1459,7 +1459,7 @@
       "voci",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -1686,7 +1686,7 @@
       "Search",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -1912,7 +1912,7 @@
       "Search",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -2040,7 +2040,7 @@
       "條目",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -2180,7 +2180,7 @@
       "language",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -2278,7 +2278,7 @@
     "visibleText": [
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -2503,7 +2503,7 @@
     "visibleText": [
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -2762,7 +2762,7 @@
   },
   {
     "alt": "",
-    "area": 1200,
+    "area": 1176,
     "classList": [
       "styled-select",
       "js-enabled"
@@ -2773,8 +2773,8 @@
     "isButton": false,
     "location": {
       "height": 24,
-      "width": 50,
-      "x": 1002,
+      "width": 49,
+      "x": 1003,
       "y": 479
     },
     "name": null,
@@ -2876,10 +2876,10 @@
       "한국어",
       "Search"
     ],
-    "shape": 208,
+    "shape": 204,
     "tag": "DIV",
     "visibleText": [
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -2975,7 +2975,7 @@
   },
   {
     "alt": "",
-    "area": 1200,
+    "area": 1176,
     "classList": [
       "hide-arrow"
     ],
@@ -2985,8 +2985,8 @@
     "isButton": false,
     "location": {
       "height": 24,
-      "width": 50,
-      "x": 1002,
+      "width": 49,
+      "x": 1003,
       "y": 479
     },
     "name": null,
@@ -3088,10 +3088,10 @@
       "한국어",
       "Search"
     ],
-    "shape": 208,
+    "shape": 204,
     "tag": "DIV",
     "visibleText": [
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -3187,7 +3187,7 @@
   },
   {
     "alt": "",
-    "area": 432,
+    "area": 408,
     "classList": [
       "js-langpicker-label"
     ],
@@ -3197,8 +3197,8 @@
     "isButton": false,
     "location": {
       "height": 24,
-      "width": 18,
-      "x": 1010,
+      "width": 17,
+      "x": 1011,
       "y": 479
     },
     "name": null,
@@ -3300,10 +3300,10 @@
       "한국어",
       "Search"
     ],
-    "shape": 75,
+    "shape": 70,
     "tag": "LABEL",
     "visibleText": [
-      "ZH"
+      "EN"
     ],
     "xpath": "/html[1]/body[1]/div[3]/form[1]/fieldset[1]/div[1]/div[1]/div[1]/label[1]"
   },
@@ -3318,7 +3318,7 @@
     "location": {
       "height": 24,
       "width": 110,
-      "x": 1002,
+      "x": 1003,
       "y": 479
     },
     "name": "language",
@@ -3602,7 +3602,7 @@
     "neighborText": [
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -3727,7 +3727,7 @@
     "neighborText": [
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",
@@ -3856,7 +3856,7 @@
       "language",
       "Search",
       "Wikipedia",
-      "ZH",
+      "EN",
       "العربية",
       "Asturianu",
       "Azərbaycanca",

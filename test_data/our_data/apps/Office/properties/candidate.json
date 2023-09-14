@@ -4323,7 +4323,7 @@
   },
   {
     "alt": "",
-    "area": 912,
+    "area": 0,
     "classList": [
       "social-media__link"
     ],
@@ -4333,13 +4333,13 @@
     "isButton": false,
     "location": {
       "height": 48,
-      "width": 19,
+      "width": 0,
       "x": 203,
       "y": 2096
     },
     "name": "",
     "neighborText": [],
-    "shape": 39,
+    "shape": 0,
     "tag": "A",
     "visibleText": [
       ""
@@ -4348,7 +4348,7 @@
   },
   {
     "alt": "",
-    "area": 528,
+    "area": 0,
     "classList": [
       "social-media__link"
     ],
@@ -4358,13 +4358,13 @@
     "isButton": false,
     "location": {
       "height": 48,
-      "width": 11,
-      "x": 238,
+      "width": 0,
+      "x": 219,
       "y": 2096
     },
     "name": "",
     "neighborText": [],
-    "shape": 22,
+    "shape": 0,
     "tag": "A",
     "visibleText": [
       ""
@@ -4373,7 +4373,7 @@
   },
   {
     "alt": "",
-    "area": 960,
+    "area": 0,
     "classList": [
       "social-media__link"
     ],
@@ -4383,13 +4383,13 @@
     "isButton": false,
     "location": {
       "height": 48,
-      "width": 20,
-      "x": 265,
+      "width": 0,
+      "x": 235,
       "y": 2096
     },
     "name": "",
     "neighborText": [],
-    "shape": 41,
+    "shape": 0,
     "tag": "A",
     "visibleText": [
       ""
@@ -4398,7 +4398,7 @@
   },
   {
     "alt": "",
-    "area": 960,
+    "area": 0,
     "classList": [
       "social-media__link"
     ],
@@ -4408,13 +4408,13 @@
     "isButton": false,
     "location": {
       "height": 48,
-      "width": 20,
-      "x": 301,
+      "width": 0,
+      "x": 251,
       "y": 2096
     },
     "name": "",
     "neighborText": [],
-    "shape": 41,
+    "shape": 0,
     "tag": "A",
     "visibleText": [
       ""
@@ -4423,7 +4423,7 @@
   },
   {
     "alt": "",
-    "area": 960,
+    "area": 0,
     "classList": [
       "social-media__link"
     ],
@@ -4433,13 +4433,13 @@
     "isButton": false,
     "location": {
       "height": 48,
-      "width": 20,
-      "x": 337,
+      "width": 0,
+      "x": 267,
       "y": 2096
     },
     "name": "",
     "neighborText": [],
-    "shape": 41,
+    "shape": 0,
     "tag": "A",
     "visibleText": [
       ""
@@ -5296,7 +5296,7 @@
   },
   {
     "alt": "",
-    "area": 1024,
+    "area": 885,
     "classList": [
       "c-uhff-link"
     ],
@@ -5305,14 +5305,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 64,
+      "height": 15,
+      "width": 59,
       "x": 95,
       "y": 2260
     },
     "name": "",
     "neighborText": [],
-    "shape": 400,
+    "shape": 393,
     "tag": "A",
     "visibleText": [
       "Surface",
@@ -5347,7 +5347,7 @@
   },
   {
     "alt": "",
-    "area": 1552,
+    "area": 1335,
     "classList": [
       "c-uhff-link"
     ],
@@ -5356,14 +5356,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 97,
+      "height": 15,
+      "width": 89,
       "x": 95,
       "y": 2292
     },
     "name": "",
     "neighborText": [],
-    "shape": 606,
+    "shape": 593,
     "tag": "A",
     "visibleText": [
       "Surface",
@@ -5399,7 +5399,7 @@
   },
   {
     "alt": "",
-    "area": 1120,
+    "area": 960,
     "classList": [
       "c-uhff-link"
     ],
@@ -5408,14 +5408,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 70,
+      "height": 15,
+      "width": 64,
       "x": 95,
       "y": 2324
     },
     "name": "",
     "neighborText": [],
-    "shape": 437,
+    "shape": 426,
     "tag": "A",
     "visibleText": [
       "Surface",
@@ -5451,7 +5451,7 @@
   },
   {
     "alt": "",
-    "area": 1072,
+    "area": 915,
     "classList": [
       "c-uhff-link"
     ],
@@ -5460,14 +5460,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 67,
+      "height": 15,
+      "width": 61,
       "x": 95,
       "y": 2356
     },
     "name": "",
     "neighborText": [],
-    "shape": 418,
+    "shape": 406,
     "tag": "A",
     "visibleText": [
       "Surface",
@@ -5503,7 +5503,7 @@
   },
   {
     "alt": "",
-    "area": 1248,
+    "area": 1080,
     "classList": [
       "c-uhff-link"
     ],
@@ -5512,14 +5512,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 78,
+      "height": 15,
+      "width": 72,
       "x": 95,
       "y": 2388
     },
     "name": "",
     "neighborText": [],
-    "shape": 487,
+    "shape": 480,
     "tag": "A",
     "visibleText": [
       "Surface",
@@ -5554,7 +5554,7 @@
   },
   {
     "alt": "",
-    "area": 1168,
+    "area": 990,
     "classList": [
       "c-uhff-link"
     ],
@@ -5563,14 +5563,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 73,
+      "height": 15,
+      "width": 66,
       "x": 95,
       "y": 2420
     },
     "name": "",
     "neighborText": [],
-    "shape": 456,
+    "shape": 440,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -5605,7 +5605,7 @@
   },
   {
     "alt": "",
-    "area": 1488,
+    "area": 1275,
     "classList": [
       "c-uhff-link"
     ],
@@ -5614,14 +5614,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 93,
+      "height": 15,
+      "width": 85,
       "x": 95,
       "y": 2452
     },
     "name": "",
     "neighborText": [],
-    "shape": 581,
+    "shape": 566,
     "tag": "A",
     "visibleText": [
       "Windows",
@@ -5656,7 +5656,7 @@
   },
   {
     "alt": "",
-    "area": 944,
+    "area": 810,
     "classList": [
       "c-uhff-link"
     ],
@@ -5665,14 +5665,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[1]/ul[1]/li[8]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 59,
+      "height": 15,
+      "width": 54,
       "x": 95,
       "y": 2484
     },
     "name": "",
     "neighborText": [],
-    "shape": 368,
+    "shape": 360,
     "tag": "A",
     "visibleText": [
       "HoloLens",
@@ -5776,7 +5776,7 @@
   },
   {
     "alt": "",
-    "area": 1280,
+    "area": 1110,
     "classList": [
       "c-uhff-link"
     ],
@@ -5785,14 +5785,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 80,
+      "height": 15,
+      "width": 74,
       "x": 374,
       "y": 2260
     },
     "name": "",
     "neighborText": [],
-    "shape": 500,
+    "shape": 493,
     "tag": "A",
     "visibleText": [
       "Account",
@@ -5826,7 +5826,7 @@
   },
   {
     "alt": "",
-    "area": 1472,
+    "area": 1260,
     "classList": [
       "c-uhff-link"
     ],
@@ -5835,14 +5835,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 92,
+      "height": 15,
+      "width": 84,
       "x": 374,
       "y": 2292
     },
     "name": "",
     "neighborText": [],
-    "shape": 575,
+    "shape": 560,
     "tag": "A",
     "visibleText": [
       "Download",
@@ -5877,7 +5877,7 @@
   },
   {
     "alt": "",
-    "area": 2016,
+    "area": 1725,
     "classList": [
       "c-uhff-link"
     ],
@@ -5886,14 +5886,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 126,
+      "height": 15,
+      "width": 115,
       "x": 374,
       "y": 2324
     },
     "name": "",
     "neighborText": [],
-    "shape": 787,
+    "shape": 766,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -5927,7 +5927,7 @@
   },
   {
     "alt": "",
-    "area": 640,
+    "area": 555,
     "classList": [
       "c-uhff-link"
     ],
@@ -5936,14 +5936,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 40,
+      "height": 15,
+      "width": 37,
       "x": 374,
       "y": 2356
     },
     "name": "",
     "neighborText": [],
-    "shape": 250,
+    "shape": 246,
     "tag": "A",
     "visibleText": [
       "Returns"
@@ -5976,7 +5976,7 @@
   },
   {
     "alt": "",
-    "area": 1216,
+    "area": 1050,
     "classList": [
       "c-uhff-link"
     ],
@@ -5985,14 +5985,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 76,
+      "height": 15,
+      "width": 70,
       "x": 374,
       "y": 2388
     },
     "name": "",
     "neighborText": [],
-    "shape": 475,
+    "shape": 466,
     "tag": "A",
     "visibleText": [
       "Order",
@@ -6028,7 +6028,7 @@
   },
   {
     "alt": "",
-    "area": 2576,
+    "area": 2220,
     "classList": [
       "c-uhff-link"
     ],
@@ -6037,14 +6037,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 161,
+      "height": 15,
+      "width": 148,
       "x": 374,
       "y": 2420
     },
     "name": "",
     "neighborText": [],
-    "shape": 1006,
+    "shape": 986,
     "tag": "A",
     "visibleText": [
       "Virtual",
@@ -6081,7 +6081,7 @@
   },
   {
     "alt": "",
-    "area": 2032,
+    "area": 1740,
     "classList": [
       "c-uhff-link"
     ],
@@ -6090,14 +6090,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 127,
+      "height": 15,
+      "width": 116,
       "x": 374,
       "y": 2452
     },
     "name": "",
     "neighborText": [],
-    "shape": 793,
+    "shape": 773,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -6131,7 +6131,7 @@
   },
   {
     "alt": "",
-    "area": 800,
+    "area": 690,
     "classList": [
       "c-uhff-link"
     ],
@@ -6140,14 +6140,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[2]/ul[1]/li[8]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 50,
+      "height": 15,
+      "width": 46,
       "x": 374,
       "y": 2484
     },
     "name": "",
     "neighborText": [],
-    "shape": 312,
+    "shape": 306,
     "tag": "A",
     "visibleText": [
       "Financing"
@@ -6250,7 +6250,7 @@
   },
   {
     "alt": "",
-    "area": 1904,
+    "area": 1635,
     "classList": [
       "c-uhff-link"
     ],
@@ -6259,14 +6259,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 119,
+      "height": 15,
+      "width": 109,
       "x": 641,
       "y": 2260
     },
     "name": "",
     "neighborText": [],
-    "shape": 743,
+    "shape": 726,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -6302,7 +6302,7 @@
   },
   {
     "alt": "",
-    "area": 1568,
+    "area": 1335,
     "classList": [
       "c-uhff-link"
     ],
@@ -6311,14 +6311,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 98,
+      "height": 15,
+      "width": 89,
       "x": 641,
       "y": 2292
     },
     "name": "",
     "neighborText": [],
-    "shape": 612,
+    "shape": 593,
     "tag": "A",
     "visibleText": [
       "Office",
@@ -6355,7 +6355,7 @@
   },
   {
     "alt": "",
-    "area": 1840,
+    "area": 1575,
     "classList": [
       "c-uhff-link"
     ],
@@ -6364,14 +6364,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 115,
+      "height": 15,
+      "width": 105,
       "x": 641,
       "y": 2324
     },
     "name": "",
     "neighborText": [],
-    "shape": 718,
+    "shape": 700,
     "tag": "A",
     "visibleText": [
       "Office",
@@ -6410,7 +6410,7 @@
   },
   {
     "alt": "",
-    "area": 2416,
+    "area": 2070,
     "classList": [
       "c-uhff-link"
     ],
@@ -6419,14 +6419,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 151,
+      "height": 15,
+      "width": 138,
       "x": 641,
       "y": 2356
     },
     "name": "",
     "neighborText": [],
-    "shape": 943,
+    "shape": 920,
     "tag": "A",
     "visibleText": [
       "Deals",
@@ -6465,7 +6465,7 @@
   },
   {
     "alt": "",
-    "area": 2432,
+    "area": 2100,
     "classList": [
       "c-uhff-link"
     ],
@@ -6474,14 +6474,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 152,
+      "height": 15,
+      "width": 140,
       "x": 641,
       "y": 2388
     },
     "name": "",
     "neighborText": [],
-    "shape": 950,
+    "shape": 933,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -6575,7 +6575,7 @@
   },
   {
     "alt": "",
-    "area": 480,
+    "area": 405,
     "classList": [
       "c-uhff-link"
     ],
@@ -6584,14 +6584,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 30,
+      "height": 15,
+      "width": 27,
       "x": 895,
       "y": 2260
     },
     "name": "",
     "neighborText": [],
-    "shape": 187,
+    "shape": 180,
     "tag": "A",
     "visibleText": [
       "Azure"
@@ -6623,7 +6623,7 @@
   },
   {
     "alt": "",
-    "area": 928,
+    "area": 795,
     "classList": [
       "c-uhff-link"
     ],
@@ -6632,14 +6632,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 58,
+      "height": 15,
+      "width": 53,
       "x": 895,
       "y": 2292
     },
     "name": "",
     "neighborText": [],
-    "shape": 362,
+    "shape": 353,
     "tag": "A",
     "visibleText": [
       "AppSource"
@@ -6671,7 +6671,7 @@
   },
   {
     "alt": "",
-    "area": 976,
+    "area": 840,
     "classList": [
       "c-uhff-link"
     ],
@@ -6680,14 +6680,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 61,
+      "height": 15,
+      "width": 56,
       "x": 895,
       "y": 2324
     },
     "name": "",
     "neighborText": [],
-    "shape": 381,
+    "shape": 373,
     "tag": "A",
     "visibleText": [
       "Automotive"
@@ -6719,7 +6719,7 @@
   },
   {
     "alt": "",
-    "area": 1040,
+    "area": 900,
     "classList": [
       "c-uhff-link"
     ],
@@ -6728,14 +6728,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 65,
+      "height": 15,
+      "width": 60,
       "x": 895,
       "y": 2356
     },
     "name": "",
     "neighborText": [],
-    "shape": 406,
+    "shape": 400,
     "tag": "A",
     "visibleText": [
       "Government"
@@ -6767,7 +6767,7 @@
   },
   {
     "alt": "",
-    "area": 896,
+    "area": 780,
     "classList": [
       "c-uhff-link"
     ],
@@ -6776,14 +6776,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 56,
+      "height": 15,
+      "width": 52,
       "x": 895,
       "y": 2388
     },
     "name": "",
     "neighborText": [],
-    "shape": 350,
+    "shape": 346,
     "tag": "A",
     "visibleText": [
       "Healthcare"
@@ -6815,7 +6815,7 @@
   },
   {
     "alt": "",
-    "area": 1232,
+    "area": 1065,
     "classList": [
       "c-uhff-link"
     ],
@@ -6824,14 +6824,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 77,
+      "height": 15,
+      "width": 71,
       "x": 895,
       "y": 2420
     },
     "name": "",
     "neighborText": [],
-    "shape": 481,
+    "shape": 473,
     "tag": "A",
     "visibleText": [
       "Manufacturing"
@@ -6864,7 +6864,7 @@
   },
   {
     "alt": "",
-    "area": 1440,
+    "area": 1230,
     "classList": [
       "c-uhff-link"
     ],
@@ -6873,14 +6873,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 90,
+      "height": 15,
+      "width": 82,
       "x": 895,
       "y": 2452
     },
     "name": "",
     "neighborText": [],
-    "shape": 562,
+    "shape": 546,
     "tag": "A",
     "visibleText": [
       "Financial",
@@ -6913,7 +6913,7 @@
   },
   {
     "alt": "",
-    "area": 464,
+    "area": 390,
     "classList": [
       "c-uhff-link"
     ],
@@ -6922,14 +6922,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[1]/ul[1]/li[8]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 29,
+      "height": 15,
+      "width": 26,
       "x": 895,
       "y": 2484
     },
     "name": "",
     "neighborText": [],
-    "shape": 181,
+    "shape": 173,
     "tag": "A",
     "visibleText": [
       "Retail"
@@ -7031,7 +7031,7 @@
   },
   {
     "alt": "",
-    "area": 1952,
+    "area": 1680,
     "classList": [
       "c-uhff-link"
     ],
@@ -7040,14 +7040,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 122,
+      "height": 15,
+      "width": 112,
       "x": 1174,
       "y": 2260
     },
     "name": "",
     "neighborText": [],
-    "shape": 762,
+    "shape": 746,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -7083,7 +7083,7 @@
   },
   {
     "alt": "",
-    "area": 1760,
+    "area": 1515,
     "classList": [
       "c-uhff-link"
     ],
@@ -7092,14 +7092,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 110,
+      "height": 15,
+      "width": 101,
       "x": 1174,
       "y": 2292
     },
     "name": "",
     "neighborText": [],
-    "shape": 687,
+    "shape": 673,
     "tag": "A",
     "visibleText": [
       "Windows",
@@ -7134,7 +7134,7 @@
   },
   {
     "alt": "",
-    "area": 1472,
+    "area": 1260,
     "classList": [
       "c-uhff-link"
     ],
@@ -7143,14 +7143,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 92,
+      "height": 15,
+      "width": 84,
       "x": 1174,
       "y": 2324
     },
     "name": "",
     "neighborText": [],
-    "shape": 575,
+    "shape": 560,
     "tag": "A",
     "visibleText": [
       "Developer",
@@ -7185,7 +7185,7 @@
   },
   {
     "alt": "",
-    "area": 2480,
+    "area": 2130,
     "classList": [
       "c-uhff-link"
     ],
@@ -7194,14 +7194,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 155,
+      "height": 15,
+      "width": 142,
       "x": 1174,
       "y": 2356
     },
     "name": "",
     "neighborText": [],
-    "shape": 968,
+    "shape": 946,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -7236,7 +7236,7 @@
   },
   {
     "alt": "",
-    "area": 832,
+    "area": 720,
     "classList": [
       "c-uhff-link"
     ],
@@ -7245,14 +7245,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 52,
+      "height": 15,
+      "width": 48,
       "x": 1174,
       "y": 2388
     },
     "name": "",
     "neighborText": [],
-    "shape": 325,
+    "shape": 320,
     "tag": "A",
     "visibleText": [
       "Channel",
@@ -7287,7 +7287,7 @@
   },
   {
     "alt": "",
-    "area": 1488,
+    "area": 1275,
     "classList": [
       "c-uhff-link"
     ],
@@ -7296,14 +7296,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 93,
+      "height": 15,
+      "width": 85,
       "x": 1174,
       "y": 2420
     },
     "name": "",
     "neighborText": [],
-    "shape": 581,
+    "shape": 566,
     "tag": "A",
     "visibleText": [
       "Office",
@@ -7338,7 +7338,7 @@
   },
   {
     "alt": "",
-    "area": 1456,
+    "area": 1245,
     "classList": [
       "c-uhff-link"
     ],
@@ -7347,14 +7347,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[2]/ul[1]/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 91,
+      "height": 15,
+      "width": 83,
       "x": 1174,
       "y": 2452
     },
     "name": "",
     "neighborText": [],
-    "shape": 568,
+    "shape": 553,
     "tag": "A",
     "visibleText": [
       "Microsoft",
@@ -7451,7 +7451,7 @@
   },
   {
     "alt": "",
-    "area": 624,
+    "area": 540,
     "classList": [
       "c-uhff-link"
     ],
@@ -7460,14 +7460,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 39,
+      "height": 15,
+      "width": 36,
       "x": 1441,
       "y": 2260
     },
     "name": "",
     "neighborText": [],
-    "shape": 243,
+    "shape": 240,
     "tag": "A",
     "visibleText": [
       "Careers"
@@ -7500,7 +7500,7 @@
   },
   {
     "alt": "",
-    "area": 1376,
+    "area": 1185,
     "classList": [
       "c-uhff-link"
     ],
@@ -7509,14 +7509,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 86,
+      "height": 15,
+      "width": 79,
       "x": 1441,
       "y": 2292
     },
     "name": "",
     "neighborText": [],
-    "shape": 537,
+    "shape": 526,
     "tag": "A",
     "visibleText": [
       "About",
@@ -7550,7 +7550,7 @@
   },
   {
     "alt": "",
-    "area": 1280,
+    "area": 1095,
     "classList": [
       "c-uhff-link"
     ],
@@ -7559,14 +7559,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 80,
+      "height": 15,
+      "width": 73,
       "x": 1441,
       "y": 2324
     },
     "name": "",
     "neighborText": [],
-    "shape": 500,
+    "shape": 486,
     "tag": "A",
     "visibleText": [
       "Company",
@@ -7601,7 +7601,7 @@
   },
   {
     "alt": "",
-    "area": 1664,
+    "area": 1425,
     "classList": [
       "c-uhff-link"
     ],
@@ -7610,14 +7610,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 104,
+      "height": 15,
+      "width": 95,
       "x": 1441,
       "y": 2356
     },
     "name": "",
     "neighborText": [],
-    "shape": 650,
+    "shape": 633,
     "tag": "A",
     "visibleText": [
       "Privacy",
@@ -7651,7 +7651,7 @@
   },
   {
     "alt": "",
-    "area": 752,
+    "area": 645,
     "classList": [
       "c-uhff-link"
     ],
@@ -7660,14 +7660,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 47,
+      "height": 15,
+      "width": 43,
       "x": 1441,
       "y": 2388
     },
     "name": "",
     "neighborText": [],
-    "shape": 293,
+    "shape": 286,
     "tag": "A",
     "visibleText": [
       "Investors"
@@ -7701,7 +7701,7 @@
   },
   {
     "alt": "",
-    "area": 1888,
+    "area": 1620,
     "classList": [
       "c-uhff-link"
     ],
@@ -7710,14 +7710,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 118,
+      "height": 15,
+      "width": 108,
       "x": 1441,
       "y": 2420
     },
     "name": "",
     "neighborText": [],
-    "shape": 737,
+    "shape": 720,
     "tag": "A",
     "visibleText": [
       "Diversity",
@@ -7751,7 +7751,7 @@
   },
   {
     "alt": "",
-    "area": 1008,
+    "area": 870,
     "classList": [
       "c-uhff-link"
     ],
@@ -7760,14 +7760,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 63,
+      "height": 15,
+      "width": 58,
       "x": 1441,
       "y": 2452
     },
     "name": "",
     "neighborText": [],
-    "shape": 393,
+    "shape": 386,
     "tag": "A",
     "visibleText": [
       "Accessibility"
@@ -7799,7 +7799,7 @@
   },
   {
     "alt": "",
-    "area": 656,
+    "area": 570,
     "classList": [
       "c-uhff-link"
     ],
@@ -7808,14 +7808,14 @@
     "idxpath": "//*[@id='uhf-footer']/nav[1]/div[2]/div[3]/ul[1]/li[8]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 41,
+      "height": 15,
+      "width": 38,
       "x": 1441,
       "y": 2484
     },
     "name": "",
     "neighborText": [],
-    "shape": 256,
+    "shape": 253,
     "tag": "A",
     "visibleText": [
       "Security"
@@ -7868,7 +7868,7 @@
   },
   {
     "alt": "",
-    "area": 4128,
+    "area": 3888,
     "classList": [
       "c-uhff-link",
       "c-uhff-lang-selector",
@@ -7881,13 +7881,13 @@
     "isButton": false,
     "location": {
       "height": 24,
-      "width": 172,
+      "width": 162,
       "x": 95,
       "y": 2538
     },
     "name": "",
     "neighborText": [],
-    "shape": 716,
+    "shape": 675,
     "tag": "A",
     "visibleText": [
       "English",
@@ -7898,7 +7898,7 @@
   },
   {
     "alt": "",
-    "area": 1340,
+    "area": 1260,
     "classList": [],
     "href": "",
     "id": "c-uhff-footer_sitemap",
@@ -7906,13 +7906,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 67,
-      "x": 940,
+      "width": 63,
+      "x": 987,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 335,
+    "shape": 315,
     "tag": "LI",
     "visibleText": [
       "Sitemap"
@@ -7921,7 +7921,7 @@
   },
   {
     "alt": "",
-    "area": 688,
+    "area": 585,
     "classList": [
       "c-uhff-link"
     ],
@@ -7930,14 +7930,14 @@
     "idxpath": "//*[@id='c-uhff-footer_sitemap']/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 43,
-      "x": 940,
+      "height": 15,
+      "width": 39,
+      "x": 987,
       "y": 2541
     },
     "name": "",
     "neighborText": [],
-    "shape": 268,
+    "shape": 260,
     "tag": "A",
     "visibleText": [
       "Sitemap"
@@ -7946,7 +7946,7 @@
   },
   {
     "alt": "",
-    "area": 2360,
+    "area": 2200,
     "classList": [],
     "href": "",
     "id": "c-uhff-footer_contactus",
@@ -7954,13 +7954,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 118,
-      "x": 1010,
+      "width": 110,
+      "x": 1053,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 590,
+    "shape": 550,
     "tag": "LI",
     "visibleText": [
       "Contact",
@@ -7970,7 +7970,7 @@
   },
   {
     "alt": "",
-    "area": 1504,
+    "area": 1290,
     "classList": [
       "c-uhff-link"
     ],
@@ -7979,14 +7979,14 @@
     "idxpath": "//*[@id='c-uhff-footer_contactus']/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 94,
-      "x": 1010,
+      "height": 15,
+      "width": 86,
+      "x": 1053,
       "y": 2541
     },
     "name": "",
     "neighborText": [],
-    "shape": 587,
+    "shape": 573,
     "tag": "A",
     "visibleText": [
       "Contact",
@@ -7996,7 +7996,7 @@
   },
   {
     "alt": "",
-    "area": 1220,
+    "area": 1140,
     "classList": [],
     "href": "",
     "id": "c-uhff-footer_privacyandcookies",
@@ -8004,13 +8004,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 61,
-      "x": 1132,
+      "width": 57,
+      "x": 1167,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 305,
+    "shape": 285,
     "tag": "LI",
     "visibleText": [
       "Privacy"
@@ -8019,7 +8019,7 @@
   },
   {
     "alt": "",
-    "area": 592,
+    "area": 495,
     "classList": [
       "c-uhff-link"
     ],
@@ -8028,14 +8028,14 @@
     "idxpath": "//*[@id='c-uhff-footer_privacyandcookies']/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 37,
-      "x": 1132,
+      "height": 15,
+      "width": 33,
+      "x": 1167,
       "y": 2541
     },
     "name": "",
     "neighborText": [],
-    "shape": 231,
+    "shape": 220,
     "tag": "A",
     "visibleText": [
       "Privacy"
@@ -8044,7 +8044,7 @@
   },
   {
     "alt": "",
-    "area": 1820,
+    "area": 1720,
     "classList": [],
     "href": "",
     "id": "c-uhff-footer_termsofuse",
@@ -8052,13 +8052,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 91,
-      "x": 1197,
+      "width": 86,
+      "x": 1228,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 455,
+    "shape": 430,
     "tag": "LI",
     "visibleText": [
       "Terms",
@@ -8069,7 +8069,7 @@
   },
   {
     "alt": "",
-    "area": 1072,
+    "area": 930,
     "classList": [
       "c-uhff-link"
     ],
@@ -8078,14 +8078,14 @@
     "idxpath": "//*[@id='c-uhff-footer_termsofuse']/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 67,
-      "x": 1197,
+      "height": 15,
+      "width": 62,
+      "x": 1228,
       "y": 2541
     },
     "name": "",
     "neighborText": [],
-    "shape": 418,
+    "shape": 413,
     "tag": "A",
     "visibleText": [
       "Terms",
@@ -8096,7 +8096,7 @@
   },
   {
     "alt": "",
-    "area": 1700,
+    "area": 1600,
     "classList": [],
     "href": "",
     "id": "c-uhff-footer_trademarks",
@@ -8104,13 +8104,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 85,
-      "x": 1292,
+      "width": 80,
+      "x": 1317,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 425,
+    "shape": 400,
     "tag": "LI",
     "visibleText": [
       "Trademarks"
@@ -8119,7 +8119,7 @@
   },
   {
     "alt": "",
-    "area": 976,
+    "area": 840,
     "classList": [
       "c-uhff-link"
     ],
@@ -8128,14 +8128,14 @@
     "idxpath": "//*[@id='c-uhff-footer_trademarks']/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 61,
-      "x": 1292,
+      "height": 15,
+      "width": 56,
+      "x": 1317,
       "y": 2541
     },
     "name": "",
     "neighborText": [],
-    "shape": 381,
+    "shape": 373,
     "tag": "A",
     "visibleText": [
       "Trademarks"
@@ -8144,7 +8144,7 @@
   },
   {
     "alt": "",
-    "area": 1820,
+    "area": 1700,
     "classList": [],
     "href": "",
     "id": "c-uhff-footer_safetyandeco",
@@ -8152,13 +8152,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 91,
-      "x": 1380,
+      "width": 85,
+      "x": 1401,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 455,
+    "shape": 425,
     "tag": "LI",
     "visibleText": [
       "Safety",
@@ -8169,7 +8169,7 @@
   },
   {
     "alt": "",
-    "area": 1072,
+    "area": 915,
     "classList": [
       "c-uhff-link"
     ],
@@ -8178,14 +8178,14 @@
     "idxpath": "//*[@id='c-uhff-footer_safetyandeco']/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 67,
-      "x": 1380,
+      "height": 15,
+      "width": 61,
+      "x": 1401,
       "y": 2541
     },
     "name": "",
     "neighborText": [],
-    "shape": 418,
+    "shape": 406,
     "tag": "A",
     "visibleText": [
       "Safety",
@@ -8196,7 +8196,7 @@
   },
   {
     "alt": "",
-    "area": 1980,
+    "area": 1860,
     "classList": [],
     "href": "",
     "id": "c-uhff-footer_aboutourads",
@@ -8204,13 +8204,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 99,
-      "x": 1475,
+      "width": 93,
+      "x": 1490,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 495,
+    "shape": 465,
     "tag": "LI",
     "visibleText": [
       "About",
@@ -8221,7 +8221,7 @@
   },
   {
     "alt": "",
-    "area": 1200,
+    "area": 1035,
     "classList": [
       "c-uhff-link"
     ],
@@ -8230,14 +8230,14 @@
     "idxpath": "//*[@id='c-uhff-footer_aboutourads']/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 75,
-      "x": 1475,
+      "height": 15,
+      "width": 69,
+      "x": 1490,
       "y": 2541
     },
     "name": "",
     "neighborText": [],
-    "shape": 468,
+    "shape": 460,
     "tag": "A",
     "visibleText": [
       "About",
@@ -8248,7 +8248,7 @@
   },
   {
     "alt": "",
-    "area": 2340,
+    "area": 2180,
     "classList": [],
     "href": "",
     "id": "",
@@ -8256,13 +8256,13 @@
     "isButton": false,
     "location": {
       "height": 20,
-      "width": 117,
-      "x": 1578,
+      "width": 109,
+      "x": 1586,
       "y": 2541
     },
     "name": null,
     "neighborText": [],
-    "shape": 585,
+    "shape": 545,
     "tag": "LI",
     "visibleText": [
       "©",
