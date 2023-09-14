@@ -1,7 +1,13 @@
 /**
  * 获取 element 的属性
  */
-import type { Property } from './interface/property';
+import type { Property, ElementLocation } from './interface/property';
+/**
+ * 获取元素周围 50px 的文本
+ * @param location 元素区域
+ * @returns string
+ */
+export declare function getNeighborText(element: Element, location: ElementLocation): string[];
 /**
  * 获取单个元素的属性定位参数
  * @param element

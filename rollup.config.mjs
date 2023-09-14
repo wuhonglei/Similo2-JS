@@ -1,31 +1,49 @@
+// @ts-check
+
 import { defineConfig } from 'rollup';
 import { nodeResolve } from '@rollup/plugin-node-resolve';
 import typescript from '@rollup/plugin-typescript';
 import commonjs from 'rollup-plugin-commonjs';
+import { cleandir } from 'rollup-plugin-cleandir';
 
-export default defineConfig({
-  input: ['src/property.ts', 'src/similarity.ts'],
-  output: [
-    {
-      dir: 'lib',
-      format: 'esm',
+/** @type {import('rollup').InputPluginOption} */
+const plugins = [
+  nodeResolve(),
+  typescript(),
+  commonjs({
+    include: /node_modules/, // 指定要处理的模块范围
+  }),
+];
+
+export default defineConfig([
+  {
+    input: 'src/index.ts',
+    output: {
+      file: 'lib/index.js',
+      format: 'umd',
       name: 'Silimon',
       sourcemap: true, // Enable source map generation
     },
-    {
-      dir: 'lib',
-      format: 'esm',
+    plugins: [cleandir('lib'), ...plugins],
+  },
+  {
+    input: 'src/property.ts',
+    output: {
+      file: 'lib/property.js',
+      format: 'umd',
       name: 'Silimon',
       sourcemap: true, // Enable source map generation
     },
-  ],
-  plugins: [
-    nodeResolve(),
-    typescript({
-      tsconfig: './tsconfig.json',
-    }),
-    commonjs({
-      include: /node_modules/, // 指定要处理的模块范围
-    }),
-  ],
-});
+    plugins,
+  },
+  {
+    input: 'src/similarity.ts',
+    output: {
+      file: 'lib/similarity.js',
+      format: 'umd',
+      name: 'Silimon',
+      sourcemap: true, // Enable source map generation
+    },
+    plugins,
+  },
+]);

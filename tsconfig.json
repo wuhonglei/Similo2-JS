@@ -8,6 +8,6 @@
     "declarationDir": "lib/types" // 类型声明文件的输出目录
   },
   "lib": ["ESNext", "DOM", "Node"], // 编译过程中需要引入的库文件的列表
-  "include": ["src/**/*", "rollup.config.*"], // TypeScript 源代码文件夹
+  "include": ["src/**/*"], // TypeScript 源代码文件夹
   "exclude": ["node_modules"] // 排除的文件夹
 }
