@@ -1,10 +1,10 @@
 {
   "Adobe": {
-    "locatedSuccess": 2,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Aliexpress": {
-    "locatedSuccess": 39,
+    "locatedSuccess": 34,
     "locatedError": 0
   },
   "Amazon": {
@@ -28,8 +28,8 @@
     "locatedError": 0
   },
   "Cnn": {
-    "locatedSuccess": 0,
-    "locatedError": 0
+    "locatedSuccess": 7,
+    "locatedError": 7
   },
   "Craigslist": {
     "locatedSuccess": 45,
@@ -148,8 +148,8 @@
     "locatedError": 6
   },
   "Twitch": {
-    "locatedSuccess": 1,
-    "locatedError": 3
+    "locatedSuccess": 3,
+    "locatedError": 1
   },
   "Twitter": {
     "locatedSuccess": 20,
@@ -168,7 +168,7 @@
     "locatedError": 1
   },
   "Wellsfargo": {
-    "locatedSuccess": 35,
+    "locatedSuccess": 37,
     "locatedError": 0
   },
   "Wikipedia": {
@@ -192,7 +192,7 @@
     "locatedError": 0
   },
   "Total": {
-    "locatedSuccess": 517,
-    "locatedError": 44
+    "locatedSuccess": 521,
+    "locatedError": 49
   }
 }

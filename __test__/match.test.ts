@@ -39,19 +39,19 @@ website.forEach((oneSite) => {
   describe(`test ${name}`, () => {
     xpath.forEach((oneXpath) => {
       const { old: oldPath, new: newPath } = oneXpath;
+      const targetProperties = readJsonFile(path.join(appPath, name, 'properties/target.json'));
+      const candidateProperties = readJsonFile(path.join(appPath, name, 'properties/candidate.json'));
+      if (!targetProperties || !candidateProperties) {
+        return;
+      }
+
+      const targetPropertyIndex = findPropertyIndexByXpath(oldPath, targetProperties);
+      const candidatePropertyIndex = findPropertyIndexByXpath(newPath, candidateProperties);
+      if (targetPropertyIndex === -1 || candidatePropertyIndex === -1) {
+        return;
+      }
+
       test(`expect ${name} ${oldPath} ${newPath}`, () => {
-        const targetProperties = readJsonFile(path.join(appPath, name, 'properties/target.json'));
-        const candidateProperties = readJsonFile(path.join(appPath, name, 'properties/candidate.json'));
-        if (!targetProperties || !candidateProperties) {
-          return;
-        }
-
-        const targetPropertyIndex = findPropertyIndexByXpath(oldPath, targetProperties);
-        const candidatePropertyIndex = findPropertyIndexByXpath(newPath, candidateProperties);
-        if (targetPropertyIndex === -1 || candidatePropertyIndex === -1) {
-          return;
-        }
-
         const targetProperty = targetProperties[targetPropertyIndex];
         const candidateProperty = candidateProperties[candidatePropertyIndex];
 
