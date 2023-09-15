@@ -26,159 +26,549 @@
     "xpath": [
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "//span[text()=\"AliExpress\"]",
+            "new": "//span[text()=\"AliExpress\"]"
+          },
+          "robula": {
+            "old": "//*[@class='logo-base']",
+            "new": "//*[@class='logo-base']"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/form[1]/div[2]/input[1]",
-        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[2]/input[1]"
+        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[2]/input[1]",
+        "result": {
+          "aus": {
+            "old": "#search-key",
+            "new": "#search-key"
+          },
+          "robula": {
+            "old": "//*[@id='search-key']",
+            "new": "//*[@id='search-key']"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Consumer Electronics\"]",
+            "new": "//a[text()=\"Consumer Electronics\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Consumer Electronics\")]",
+            "new": "//*[contains(text(),\"Consumer Electronics\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Jewelry\"]",
+            "new": "//a[text()=\"Jewelry\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Jewelry\")]",
+            "new": "//*[contains(text(),\"Jewelry\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[2]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[2]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]/a[2]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Watches\"]",
+            "new": "//a[text()=\"Watches\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Watches\")]",
+            "new": "//*[contains(text(),\"Watches\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Bags\"]",
+            "new": "//a[text()=\"Bags\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Bags\")]",
+            "new": "//*[contains(text(),\"Bags\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[2]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[2]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]/a[2]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Shoes\"]",
+            "new": "//a[text()=\"Shoes\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Shoes\")]",
+            "new": "//*[contains(text(),\"Shoes\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Toys\"]",
+            "new": "//a[text()=\"Toys\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Toys\")]",
+            "new": "//a[contains(text(),\"Toys\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[2]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[2]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]/a[2]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Kids & Baby\"]",
+            "new": "//a[text()=\"Kids & Babies\"]"
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Kids & Baby\")]",
+            "new": "//*[contains(text(),\"Kids & Babies\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Sports & Outdoors\"]",
+            "new": "//a[text()=\"Outdoor Fun & Sports\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Sports & Outdoors\")]",
+            "new": "//*[contains(text(),\"Outdoor Fun & Sports\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Health & Beauty\"]",
+            "new": "//a[text()=\"Beauty, Health\"]"
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Health & Beauty\")]",
+            "new": "//*[contains(text(),\"Beauty, Health\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\" Automobiles & Motorcycles\"]",
+            "new": "//a[text()=\"Automobiles & Motorcycles\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Automobiles & Motorcycles\")]",
+            "new": "//*[contains(text(),\"Automobiles & Motorcycles\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/div[1]/div[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "//span[text()=\"All Categories\"]",
+            "new": "//span[text()=\"All Categories\"]"
+          },
+          "robula": {
+            "old": "//*[@id='search-category-value']",
+            "new": "//*[@id='search-category-value']"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[13]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Home Improvement\"]",
+            "new": "//a[text()=\"Home Improvement\"]"
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Home Improvement\")]",
+            "new": "//*[contains(text(),\"Home Improvement\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen a.new-channel-menus",
+            "new": "//a[text()=\"Flash Deals \"]"
+          },
+          "robula": {
+            "old": "//*[@class='new-channel-menus']",
+            "new": "//a[contains(text(),\"Flash Deals\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/span[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/span[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#nav-user-account span > a[data-role=\"sign-link\"]:nth-child(1)",
+            "new": "#user-benefits a[data-role=\"sign-link\"]"
+          },
+          "robula": {
+            "old": "//span/*[contains(text(),\"Sign in\")]",
+            "new": "//*[@class='register-btn']/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/span[1]/a[2]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Join\"]",
+            "new": "#user-benefits a[data-role=\"join-link\"]"
+          },
+          "robula": {
+            "old": "//span/*[contains(text(),\"Join\")]",
+            "new": "//*[@class='join-btn']/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-women > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-women > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-women']/*/*",
+            "new": "//*[@class='cl-item cl-item-women']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-men > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-men > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-men']/*/*",
+            "new": "//*[@class='cl-item cl-item-men']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-phones > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-phones > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-phones']/*/*",
+            "new": "//*[@class='cl-item cl-item-phones']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[5]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-electronics > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-electronics > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-electronics']/*/*",
+            "new": "//*[@class='cl-item cl-item-electronics']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[6]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-jewelry > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-jewelry > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-jewelry']/*/*",
+            "new": "//*[@class='cl-item cl-item-jewelry']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Home & Garden\"]",
+            "new": "//a[text()=\"Home\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Home & Garden\")]",
+            "new": "//*[@class='cl-item cl-item-garden']/*/*/*[contains(text(),\"Home\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/form[1]/div[1]/input[1]",
-        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/input[1]"
+        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[3]/form[1]/div[1]/input[1]",
+        "result": {
+          "aus": {
+            "old": "input.search-button",
+            "new": "input.search-button"
+          },
+          "robula": {
+            "old": "//*[@class='search-button']",
+            "new": "//*[@class='search-button']"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[7]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-garden > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-garden > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-garden']/*/*",
+            "new": "//*[@class='cl-item cl-item-garden']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[8]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-shoes > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-shoes > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-shoes']/*/*",
+            "new": "//*[@class='cl-item cl-item-shoes']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[9]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-toys > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-toys > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-toys']/*/*",
+            "new": "//*[@class='cl-item cl-item-toys']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[10]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-sports > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-sports > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-sports']/*/*",
+            "new": "//*[@class='cl-item cl-item-sports']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[11]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-beauty > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-beauty > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-beauty']/*/*",
+            "new": "//*[@class='cl-item cl-item-beauty']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[12]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-autoParts > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-autoParts > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-autoParts']/*/*",
+            "new": "//*[@class='cl-item cl-item-autoParts']/*/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "//span[text()=\"Help\"]",
+            "new": "//span[text()=\"Help\"]"
+          },
+          "robula": {
+            "old": "//*[@class='ng-sub-title']",
+            "new": "//span[contains(text(),\"Help\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#header div.nav-wishlist > a:nth-child(1)",
+            "new": "#nav-global div.ng-item.nav-pinfo-item.nav-wishlist > a:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='nav-wishlist']/a",
+            "new": "//*[@class='ng-item nav-pinfo-item nav-wishlist']/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#nav-global div.ng-item.ng-bp > a:nth-child(1)",
+            "new": "#nav-global div.ng-item.ng-bp > a:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='ng-item ng-bp']/*",
+            "new": "//*[@class='ng-item ng-bp']/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#header div.nav-cart > a:nth-child(1)",
+            "new": "#header div.right-shopcart > a:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='nav-cart nav-cart-box']/a",
+            "new": "//*[@class='right-shopcart']/*"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "//span[text()=\"CATEGORIES\"]",
+            "new": "//span[text()=\"Categories\"]"
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"CATEGORIES\")]",
+            "new": "//a/*[contains(text(),\"Categories\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[1]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\" Women’s Clothing\"]",
+            "new": "//a[text()=\"Women's Fashion\"]"
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Women’s Clothing\")]",
+            "new": "//*[contains(text(),\"Women's Fashion\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[2]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Men’s Clothing\"]",
+            "new": "//a[text()=\"Men's Fashion\"]"
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Men’s Clothing\")]",
+            "new": "//*[contains(text(),\"Men's Fashion\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[3]/dt[1]/span[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Phones & Accessories\"]",
+            "new": "//a[text()=\"Phones & Telecommunications\"]"
+          },
+          "robula": {
+            "old": "//a[contains(text(),\"Phones & Accessories\")]",
+            "new": "//*[contains(text(),\"Phones & Telecommunications\")]"
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/dl[4]/dt[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#home-firstscreen dl.cl-item.cl-item-computer > dt.cate-name > span:nth-child(1)",
+            "new": "#home-firstscreen dl.cl-item.cl-item-computer > dt.cate-name > span:nth-child(1)"
+          },
+          "robula": {
+            "old": "//*[@class='cl-item cl-item-computer']/*/*",
+            "new": "//*[@class='cl-item cl-item-computer']/*/*"
+          }
+        }
       }
     ],
     "diffMonth": 44
@@ -192,43 +582,163 @@
     "xpath": [
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "//span[text()=\"Amazon\"]",
+            "new": "#nav-logo-sprites span.nav-sprite.nav-logo-base",
+            "matched": false
+          },
+          "robula": {
+            "old": "//span[@class='nav-logo-base nav-sprite']",
+            "new": "//*[@class='nav-sprite nav-logo-base']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[3]/div[1]/input[1]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[2]/div[1]/input[1]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[2]/div[1]/input[1]",
+        "result": {
+          "aus": {
+            "old": "#twotabsearchtextbox",
+            "new": "#twotabsearchtextbox",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='twotabsearchtextbox']",
+            "new": "//*[@id='twotabsearchtextbox']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/form[1]/div[2]/div[1]/input[1]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]",
+        "result": {
+          "aus": {
+            "old": "input[value=\"Go\"]",
+            "new": "input[value=\"Go\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@value='Go']",
+            "new": "//*[@value='Go']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#icp-nav-flyout span.icp-nav-link-inner",
+            "new": "#icp-nav-flyout span.icp-nav-link-inner",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='icp-nav-link-inner']",
+            "new": "//*[@class='icp-nav-link-inner']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[2]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[2]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[2]",
+        "result": {
+          "aus": {
+            "old": "#nav-link-accountList",
+            "new": "#nav-link-accountList",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='nav-link-accountList']",
+            "new": "//*[@id='nav-link-accountList']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[3]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[3]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[3]",
+        "result": {
+          "aus": {
+            "old": "#nav-orders",
+            "new": "#nav-orders",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='nav-orders']",
+            "new": "//*[@id='nav-orders']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[4]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[4]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[4]",
+        "result": {
+          "aus": {
+            "old": "#nav-link-prime",
+            "new": "#nav-link-prime",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='nav-link-prime']",
+            "new": "//*[@id='nav-link-prime']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[1]/a[5]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[5]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[3]/div[1]/a[5]",
+        "result": {
+          "aus": {
+            "old": "#nav-cart",
+            "new": "#nav-cart",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='nav-cart']",
+            "new": "//*[@id='nav-cart']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[2]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[4]/div[2]/div[2]/div[1]/a[8]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[4]/div[2]/div[2]/div[1]/a[8]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Today's Deals\"]",
+            "new": "//a[text()=\"Today's Deals\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Today's Deals\")]",
+            "new": "//*[contains(text(),\"Today's Deals\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[4]",
-        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[4]/div[2]/div[2]/div[1]/a[9]"
+        "new": "/html[1]/body[1]/div[1]/header[1]/div[1]/div[4]/div[2]/div[2]/div[1]/a[9]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Sell\"]",
+            "new": "//a[text()=\"Sell\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='nav-a'][contains(text(),\"Sell\")]",
+            "new": "//*[@data-csa-c-slot-id='nav_cs_8']",
+            "matched": false
+          }
+        }
       }
     ],
     "diffMonth": 43
@@ -242,43 +752,163 @@
     "xpath": [
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-gn-firstfocus",
+            "new": "#ac-gn-firstfocus",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='ac-gn-firstfocus']",
+            "new": "//*[@id='ac-gn-firstfocus']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav a.ac-gn-link.ac-gn-link-mac",
+            "new": "#ac-globalnav a.ac-gn-link.ac-gn-link-mac",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-link ac-gn-link-mac']",
+            "new": "//*[@class='ac-gn-link ac-gn-link-mac']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav a.ac-gn-link.ac-gn-link-ipad",
+            "new": "#ac-globalnav a.ac-gn-link.ac-gn-link-ipad",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-link ac-gn-link-ipad']",
+            "new": "//*[@class='ac-gn-link ac-gn-link-ipad']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav a.ac-gn-link.ac-gn-link-iphone",
+            "new": "#ac-globalnav a.ac-gn-link.ac-gn-link-iphone",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-link ac-gn-link-iphone']",
+            "new": "//*[@class='ac-gn-link ac-gn-link-iphone']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[5]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav a.ac-gn-link.ac-gn-link-watch",
+            "new": "#ac-globalnav a.ac-gn-link.ac-gn-link-watch",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-link ac-gn-link-watch']",
+            "new": "//*[@class='ac-gn-link ac-gn-link-watch']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[6]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav a.ac-gn-link.ac-gn-link-tv",
+            "new": "#ac-globalnav a.ac-gn-link.ac-gn-link-tv",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-link ac-gn-link-tv']",
+            "new": "//*[@class='ac-gn-link ac-gn-link-tv']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[7]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav a.ac-gn-link.ac-gn-link-music",
+            "new": "#ac-globalnav a.ac-gn-link.ac-gn-link-music",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-link ac-gn-link-music']",
+            "new": "//*[@class='ac-gn-link ac-gn-link-music']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[8]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav a.ac-gn-link.ac-gn-link-support",
+            "new": "#ac-globalnav a.ac-gn-link.ac-gn-link-support",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-link ac-gn-link-support']",
+            "new": "//*[@class='ac-gn-link ac-gn-link-support']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[9]",
+        "result": {
+          "aus": {
+            "old": "#ac-globalnav li.ac-gn-item.ac-gn-item-menu.ac-gn-search",
+            "new": "#ac-globalnav li.ac-gn-item.ac-gn-item-menu.ac-gn-search",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ac-gn-item ac-gn-item-menu ac-gn-search']",
+            "new": "//*[@class='ac-gn-item ac-gn-item-menu ac-gn-search']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/a[1]",
-        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/nav[1]/div[1]/ul[2]/li[10]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ac-gn-bag a",
+            "new": "#ac-gn-bag a",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='ac-gn-bag']/a",
+            "new": "//*[@data-string-badge='Shopping Bag with item count : {%BAGITEMCOUNT%}']",
+            "matched": false
+          }
+        }
       }
     ],
     "diffMonth": 37
@@ -646,67 +1276,259 @@
     "xpath": [
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/a[1]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/*[local-name() = \"svg\"][1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[1]/a[1]/*[local-name() = \"svg\"][1]",
+        "result": {
+          "aus": {
+            "old": "#logo",
+            "new": "#header-nav-container svg.cnn-badge-icon",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@id='logo']",
+            "new": "//*[@data-analytics='header_top-nav']/*",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[1]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#nav div.nav-menu-links > a:nth-child(1)",
+            "new": "a[name=\"us\"][type=\"collapsed\"]",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_us']",
+            "new": "//*[@name='us' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[11]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[10]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[10]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Sports\"]",
+            "new": "a[name=\"bleacher\"][type=\"collapsed\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_bleacher']",
+            "new": "//*[@name='bleacher' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/form[1]/div[1]/button[1]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "//button[text()=\"Search »\"]",
+            "new": "#edition-picker-toggle-desktop span",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@id='submit-button']",
+            "new": "//*[@id='edition-picker-toggle-desktop']/span",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[3]/div[1]/span[1]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/*[local-name() = \"svg\"][1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/*[local-name() = \"svg\"][1]",
+        "result": {
+          "aus": {
+            "old": "#nav div.edition-picker__current-edition > span.nav-section__expand-icon",
+            "new": "#edition-picker-toggle-desktop svg",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[6]/*/span",
+            "new": "//*[@id='edition-picker-toggle-desktop']/*[@class='sc-jDwBTQ gmEVQv caret-down-10-icon']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/form[1]/div[2]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[4]/button[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[4]/button[1]",
+        "result": {
+          "aus": {
+            "old": "#search-button",
+            "new": "#header-nav-container div.Flex-sc-1sqrs56-0 > button.sc-jhAzac.sc-gisBJw.hioqcg",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@id='search-button']",
+            "new": "//*[@data-test='searchButton']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[4]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/button[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/button[1]",
+        "result": {
+          "aus": {
+            "old": "#menu",
+            "new": "#menuButton",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@id='menu']",
+            "new": "//*[@id='menuButton']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[12]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[11]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[11]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#nav a:nth-child(0)",
+            "new": "a[name=\"videos\"][type=\"collapsed\"]",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_videos']",
+            "new": "//*[@name='videos' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[2]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#nav a:nth-child(0)",
+            "new": "a[name=\"world\"][type=\"collapsed\"]",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_world']",
+            "new": "//*[@name='world' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[3]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Politics\"]",
+            "new": "a[name=\"politics\"][type=\"collapsed\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_politics']",
+            "new": "//*[@name='politics' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[4]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Money\"]",
+            "new": "a[name=\"business\"][type=\"collapsed\"]",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_money']",
+            "new": "//*[@name='business' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[5]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[5]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[5]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#nav a:nth-child(0)",
+            "new": "a[name=\"opinions\"][type=\"collapsed\"]",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_opinions']",
+            "new": "//*[@name='opinions' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[6]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[6]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[6]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Health\"]",
+            "new": "a[name=\"health\"][type=\"collapsed\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_health']",
+            "new": "//*[@name='health' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[7]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[7]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[7]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Entertainment\"]",
+            "new": "a[name=\"entertainment\"][type=\"collapsed\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_entertainment']",
+            "new": "//*[@name='entertainment' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[9]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[8]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[8]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Style\"]",
+            "new": "a[name=\"style\"][type=\"collapsed\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_style']",
+            "new": "//*[@name='style' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[10]",
-        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[9]/a[1]"
+        "new": "/html[1]/body[1]/div[5]/div[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/ul[1]/li[9]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Travel\"]",
+            "new": "a[name=\"travel\"][type=\"collapsed\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@data-analytics-header='main-menu_travel']",
+            "new": "//*[@name='travel' and @class='sc-fjdhpX sc-chPdSV lcJwCV']",
+            "matched": false
+          }
+        }
       }
     ],
     "diffMonth": 31
@@ -720,183 +1542,723 @@
     "xpath": [
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/h1[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/h1[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"craigslist\"]",
+            "new": "//a[text()=\"craigslist\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='logo']/*",
+            "new": "//h1/*",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/nav[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "#topban h2",
+            "new": "//h2[text()=\"SF bay area\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//h2",
+            "new": "//h2",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/form[1]/input[2]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/form[1]/input[5]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/form[1]/input[5]",
+        "result": {
+          "aus": {
+            "old": "#query",
+            "new": "#query",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='query']",
+            "new": "//*[@id='query']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"help, faq, abuse, legal\"]",
+            "new": "//a[text()=\"help, faq, abuse, legal\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"help, faq, abuse, legal\")]",
+            "new": "//*[contains(text(),\"help, faq, abuse, legal\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"avoid scams & fraud\"]",
+            "new": "//a[text()=\"avoid scams & fraud\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"avoid scams & fraud\")]",
+            "new": "//*[contains(text(),\"avoid scams & fraud\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[3]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"personal safety tips\"]",
+            "new": "//a[text()=\"personal safety tips\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"personal safety tips\")]",
+            "new": "//*[contains(text(),\"personal safety tips\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[4]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[5]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[5]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"terms of use\"]",
+            "new": "//a[text()=\"terms of use\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"terms of use\")]",
+            "new": "//*[contains(text(),\"terms of use\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[5]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[6]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[6]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"privacy policy\"]",
+            "new": "#user_resources li:nth-child(0) > a:nth-child(1)",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"privacy policy\")]",
+            "new": "//*[@id='user_resources']/*[6]/*",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[2]/li[6]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[7]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[2]/li[7]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"system status\"]",
+            "new": "//a[text()=\"system status\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"system status\")]",
+            "new": "//*[contains(text(),\"system status\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"about craigslist\"]",
+            "new": "//a[text()=\"about craigslist\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"about craigslist\")]",
+            "new": "//*[contains(text(),\"about craigslist\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[4]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"craigslist blog\"]",
+            "new": "//a[text()=\"craigslist blog\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"craigslist blog\")]",
+            "new": "//*[contains(text(),\"craigslist blog\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[3]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"craigslist open source\"]",
+            "new": "//a[text()=\"craigslist open source\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"craigslist open source\")]",
+            "new": "//*[contains(text(),\"craigslist open source\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"sfc\"]",
+            "new": "//a[text()=\"sfc\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"sfc\")]",
+            "new": "//*[contains(text(),\"sfc\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[5]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"best-of-craigslist\"]",
+            "new": "//a[text()=\"best-of-craigslist\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"best-of-craigslist\")]",
+            "new": "//*[contains(text(),\"best-of-craigslist\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[9]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[7]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[7]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"progressive directory\"]",
+            "new": "//a[text()=\"progressive directory\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"progressive directory\")]",
+            "new": "//*[contains(text(),\"progressive directory\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[8]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[8]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"weather\"]",
+            "new": "//a[text()=\"weather\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"weather\")]",
+            "new": "//*[contains(text(),\"weather\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[2]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[8]/a[2]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[8]/a[2]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"quake\"]",
+            "new": "//a[text()=\"quake\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"quake\")]",
+            "new": "//*[contains(text(),\"quake\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[3]/li[10]/a[3]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[8]/a[3]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[3]/li[8]/a[3]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"tide\"]",
+            "new": "//a[text()=\"tide\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"tide\")]",
+            "new": "//*[contains(text(),\"tide\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/h4[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[1]/h3[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[1]/h3[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ccc a.ccc",
+            "new": "#ccc a.ccc",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ccc']",
+            "new": "//*[@class='ccc']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/h4[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[1]/h3[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[1]/h3[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#hhh a.hhh",
+            "new": "#hhh a.hhh",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='hhh']",
+            "new": "//*[@class='hhh']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/h4[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[1]/h3[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[1]/h3[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#jjj a.jjj",
+            "new": "#jjj a.jjj",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='jjj']",
+            "new": "//*[@class='jjj']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/h4[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[2]/h3[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[2]/h3[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#sss a.sss",
+            "new": "#sss a.sss",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='sss']",
+            "new": "//*[@class='sss']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/h4[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[3]/h3[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[3]/h3[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#forums a.forums",
+            "new": "#forums a.forums",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='forums']",
+            "new": "//*[@class='forums']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"sby\"]",
+            "new": "//a[text()=\"sby\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"sby\")]",
+            "new": "//*[contains(text(),\"sby\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/h4[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[2]/h3[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[2]/h3[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ggg a.ggg",
+            "new": "#ggg a.ggg",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ggg']",
+            "new": "//*[@class='ggg']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[3]/h4[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[3]/h3[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[3]/h3[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#rrr a",
+            "new": "#rrr a",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='rrr']",
+            "new": "//*[@class='rrr']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[4]/ul[1]/li[1]/ul[1]/li[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[5]/ul[1]/li[1]/ul[1]/li[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[5]/ul[1]/li[1]/ul[1]/li[1]",
+        "result": {
+          "aus": {
+            "old": "#rightbar li.expand > ul.acitem > li:nth-child(1)",
+            "new": "#rightbar li.expand > ul.acitem > li:nth-child(1)",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='expand s']/*/*[1]",
+            "new": "//*[@class='expand s']/*/*[1]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#ccc0 a.act > span.txt",
+            "new": "#ccc0 a.act > span.txt",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"activities\")]",
+            "new": "//*[contains(text(),\"activities\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#forums0 li:nth-child(0) > a:nth-child(1)",
+            "new": "#forums0 li:nth-child(0) > a:nth-child(1)",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@id='forums0']/*[1]/*",
+            "new": "//*[@id='forums0']/*[2]/*",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#sss0 a.ata",
+            "new": "#sss0 a.ata",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ata']",
+            "new": "//*[@class='ata']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[2]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#ggg0 a.cpg > span.txt",
+            "new": "#ggg0 a.cpg > span.txt",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='cpg']/*",
+            "new": "//*[@class='cpg']/*",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#hhh0 a.swp",
+            "new": "#hhh0 a.swp",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='swp']",
+            "new": "//*[@class='swp']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[1]/div[1]/ul[1]/li[8]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#jjj0 a.edu",
+            "new": "#jjj0 a.edu",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='edu']",
+            "new": "//*[@class='edu']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ccc0 a.ats",
+            "new": "#ccc0 a.ats",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='ats']",
+            "new": "//*[@class='ats']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[3]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"eby\"]",
+            "new": "//a[text()=\"eby\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"eby\")]",
+            "new": "//*[contains(text(),\"eby\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#hhh0 a.apa > span.txt",
+            "new": "#hhh0 a.apa > span.txt",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"apts / housing\")]",
+            "new": "//*[contains(text(),\"apts / housing\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#forums0 li:nth-child(0) > a:nth-child(1) > span.txt",
+            "new": "#forums0 li:nth-child(0) > a:nth-child(1) > span.txt",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@class='']/*[contains(text(),\"arts\")]",
+            "new": "//*[@id='forums0']/*/*/*[contains(text(),\"arts\")]",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[2]/div[1]/ul[2]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[2]/div[1]/ul[2]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[2]/div[1]/ul[2]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#ggg1 a.lbg",
+            "new": "#ggg1 a.lbg",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='lbg']",
+            "new": "//*[@class='lbg']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#sss0 a.ppa > span.txt",
+            "new": "#sss0 a.ppa > span.txt",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"appliances\")]",
+            "new": "//*[contains(text(),\"appliances\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[3]/div[3]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[1]/div[1]/ul[1]/li[11]/a[1]/span[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[4]/div[3]/div[1]/div[1]/ul[1]/li[11]/a[1]/span[1]",
+        "result": {
+          "aus": {
+            "old": "#jjj0 a.lab > span.txt",
+            "new": "#jjj0 a.lab > span.txt",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"general labor\")]",
+            "new": "//*[contains(text(),\"general labor\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[4]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"pen\"]",
+            "new": "//a[text()=\"pen\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@title='peninsula']",
+            "new": "//*[@title='peninsula']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[5]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[5]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[5]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"nby\"]",
+            "new": "//a[text()=\"nby\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"nby\")]",
+            "new": "//*[contains(text(),\"nby\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/nav[1]/ul[1]/li[6]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[6]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/nav[1]/div[1]/ul[1]/li[6]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"scz\"]",
+            "new": "//a[text()=\"scz\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"scz\")]",
+            "new": "//*[contains(text(),\"scz\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"post to classifieds\"]",
+            "new": "//a[text()=\"create a posting\"]",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@id='post']",
+            "new": "//*[@id='post']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[1]/section[1]/div[2]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/section[1]/div[3]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"my account\"]",
+            "new": "//a[text()=\"my account\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"my account\")]",
+            "new": "//*[contains(text(),\"my account\")]",
+            "matched": true
+          }
+        }
       }
     ],
     "diffMonth": 56
@@ -1074,95 +2436,371 @@
     "xpath": [
       {
         "old": "/html[1]/body[1]/div[5]/div[2]/header[1]/div[2]/h1[1]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/div[2]/header[1]/div[2]/h1[1]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/div[2]/header[1]/div[2]/h1[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"ESPN\"]",
+            "new": "//a[text()=\"ESPN\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@name='&lpos=sitenavdefault&lid=sitenav_main-logo']",
+            "new": "//*[@name='&lpos=sitenavdefault&lid=sitenav_main-logo']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
-        "new": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/button[1]"
+        "new": "/html[1]/body[1]/div[4]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+        "result": {
+          "aus": {
+            "old": "//button[text()=\"Top Events\"]",
+            "new": "//button[text()=\"Top Events\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='button button-filter sm dropdown-toggle current-league-name']",
+            "new": "//*[@class='button button-filter sm dropdown-toggle current-league-name']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(2) > a[name=\"&lpos=fp:sites:2:theundefeated\"].quicklinks_list__link.external",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(2) > a[name=\"&lpos=fp:sites:2:theundefeated\"].quicklinks_list__link.external",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:2:theundefeated']",
+            "new": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:2:theundefeated']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(3) > a[name=\"&lpos=fp:sites:3:espnw\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(3) > a[name=\"&lpos=fp:sites:3:espnw\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:3:espnw']",
+            "new": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:3:espnw']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(4) > a[name=\"&lpos=fp:sites:4:espnfc\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(4) > a[name=\"&lpos=fp:sites:4:espnfc\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:4:espnfc']",
+            "new": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:4:espnfc']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[5]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(5) > a[name=\"&lpos=fp:sites:5:xgames\"].quicklinks_list__link.external",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(5) > a[name=\"&lpos=fp:sites:5:xgames\"].quicklinks_list__link.external",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:5:xgames']",
+            "new": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:5:xgames']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[6]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(6) > a[name=\"&lpos=fp:sites:6:secnetwork\"].quicklinks_list__link.external",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(6) > a[name=\"&lpos=fp:sites:6:secnetwork\"].quicklinks_list__link.external",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:6:secnetwork']",
+            "new": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:6:secnetwork']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/header[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/header[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/header[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "#main-container article:nth-child(0) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "new": "#main-container article:nth-child(0) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[6]/*/*/*[contains(text(),\"ESPN Apps\")]",
+            "new": "//*[6]/*/*/*[contains(text(),\"ESPN Apps\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(1) > a[name=\"&lpos=fp:apps:1:espn\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(1) > a[name=\"&lpos=fp:apps:1:espn\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[6]/*/*/*/*[@name='&lpos=fp:apps:1:espn']",
+            "new": "//*[6]/*/*/*/*[@name='&lpos=fp:apps:1:espn']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[6]/div[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(2) > a[name=\"&lpos=fp:apps:2:espnfantasy\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(2) > a[name=\"&lpos=fp:apps:2:espnfantasy\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[6]/*/*/*/*[@name='&lpos=fp:apps:2:espnfantasy']",
+            "new": "//*[6]/*/*/*/*[@name='&lpos=fp:apps:2:espnfantasy']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(1) > a[name=\"&lpos=fp:followespn:1:facebook\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(1) > a[name=\"&lpos=fp:followespn:1:facebook\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:1:facebook']",
+            "new": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:1:facebook']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(2) > a[name=\"&lpos=fp:followespn:2:twitter\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(2) > a[name=\"&lpos=fp:followespn:2:twitter\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:2:twitter']",
+            "new": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:2:twitter']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/header[1]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"SUBSCRIBE NOW\"]",
+            "new": "//a[text()=\"SUBSCRIBE NOW\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"SUBSCRIBE NOW\")]",
+            "new": "//*[contains(text(),\"SUBSCRIBE NOW\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(3) > a[name=\"&lpos=fp:followespn:3:instagram\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(3) > a[name=\"&lpos=fp:followespn:3:instagram\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:3:instagram']",
+            "new": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:3:instagram']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/ul[1]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(4) > a[name=\"&lpos=fp:followespn:4:snapchat\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(4) > a[name=\"&lpos=fp:followespn:4:snapchat\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:4:snapchat']",
+            "new": "//*[7]/*/*/*/*[@name='&lpos=fp:followespn:4:snapchat']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/header[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/header[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[7]/div[1]/header[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "#main-container article:nth-child(0) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "new": "#main-container article:nth-child(0) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[7]/*/*/*[contains(text(),\"Follow ESPN\")]",
+            "new": "//*[7]/*/*/*[contains(text(),\"Follow ESPN\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/header[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/header[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[1]/div[1]/header[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "#main-container section > article:nth-child(1) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "new": "#main-container header.quicklinks__header.quicklinks__header--eplus > h2.quicklinks__heading",
+            "matched": true
+          },
+          "robula": {
+            "old": "//section/*[1]/*/*/h2",
+            "new": "//*[@class='quicklinks__header quicklinks__header--eplus']/*",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[3]/div[1]/header[1]/h1[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/div[1]/header[1]/h1[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[3]/div[1]/header[1]/h1[1]",
+        "result": {
+          "aus": {
+            "old": "//h1[text()=\" Top Headlines\"]",
+            "new": "//h1[text()=\" Top Headlines\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='module__header']",
+            "new": "//*[contains(text(),\"Top Headlines\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/header[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/header[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[2]/div[1]/header[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "#main-container section > article:nth-child(2) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "new": "#main-container section > article:nth-child(2) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "matched": true
+          },
+          "robula": {
+            "old": "//section/*/*/*/*[contains(text(),\"Quick Links\")]",
+            "new": "//section/*/*/*/*[contains(text(),\"Quick Links\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/header[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/header[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/header[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "//h2[text()=\"Favorites\"]",
+            "new": "//h2[text()=\"Favorites\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//h2[contains(text(),\"Favorites\")]",
+            "new": "//h2[contains(text(),\"Favorites\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/footer[1]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/footer[1]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[3]/div[1]/footer[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#main-container footer.quicklinks__footer > a.open-favs",
+            "new": "#main-container footer.quicklinks__footer > a.open-favs",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='quicklinks__footer']/*",
+            "new": "//*[@class='quicklinks__footer']/*",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/header[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/header[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/header[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "#main-container section > article:nth-child(5) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "new": "#main-container section > article:nth-child(5) > div.quicklinks__container > header.quicklinks__header > h2.quicklinks__heading",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[5]/*/*/*[contains(text(),\"ESPN Sites\")]",
+            "new": "//*[5]/*/*/*[contains(text(),\"ESPN Sites\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[5]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[4]/section[1]/section[1]/div[1]/section[1]/article[5]/div[1]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(1) > a[name=\"&lpos=fp:sites:1:espndeportes\"].quicklinks_list__link",
+            "new": "article:nth-child(0) > div.quicklinks__container > ul.quicklinks_list > li:nth-child(1) > a[name=\"&lpos=fp:sites:1:espndeportes\"].quicklinks_list__link",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:1:espndeportes']",
+            "new": "//*[5]/*/*/*/*[@name='&lpos=fp:sites:1:espndeportes']",
+            "matched": true
+          }
+        }
       }
     ],
     "diffMonth": 12
@@ -1348,79 +2986,307 @@
     "xpath": [
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#pgnb div.pnld > a:nth-child(1)",
+            "new": "#pgnb div.pnld > a:nth-child(1)",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='pnld']/*",
+            "new": "//*[@class='pnld']/*",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#pgnb div.pntlt > ul.pntl.pnlogout > li:nth-child(1) > a:nth-child(1)",
+            "new": "#pgnb div.pntlt > ul.pntl.pnlogout > li:nth-child(1) > a:nth-child(1)",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='pntlt']/*[@class='pntl pnlogout']/*/*[contains(text(),\"Customer Service\")]",
+            "new": "//*[@class='pntlt']/*[@class='pntl pnlogout']/*/*[contains(text(),\"Customer Service\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Investment Products\"]",
+            "new": "//a[text()=\"Investment Products\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Investment Products\")]",
+            "new": "//*[contains(text(),\"Investment Products\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[5]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[5]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[5]",
+        "result": {
+          "aus": {
+            "old": "#pnmm ul.pnl1 > li:nth-child(5)",
+            "new": "#pnmm ul.pnl1 > li:nth-child(5)",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='pnhs'][5]",
+            "new": "//*[@class='pnhs'][5]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
-        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+        "result": {
+          "aus": {
+            "old": "//h1[text()=\" Achieve more when you pay less \"]",
+            "new": "#hero00WhyFidelityPricingADefaultH00PRO h1",
+            "matched": false
+          },
+          "robula": {
+            "old": "//h1",
+            "new": "//h1",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Find out more\"]",
+            "new": "//a[text()=\"Find out more\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='Link_1476122135908']",
+            "new": "//*[@id='Link_1476122135908']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
-        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]"
+        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "//h2[text()=\"Why invest with Fidelity\"]",
+            "new": "//h2[text()=\"Why invest with Fidelity\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Why invest with Fidelity\")]",
+            "new": "//*[contains(text(),\"Why invest with Fidelity\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/p[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/p[2]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/p[2]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Get your score now\"]",
+            "new": "//a[text()=\"Get your score now\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='Link_1482434357234']",
+            "new": "//*[@id='Link_1482434357234']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Need Help?\"]",
+            "new": "//a[text()=\"Need Help?\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='Link_1426132559014']",
+            "new": "//*[@id='Link_1426132559014']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "div[id=\"homepage-container\"] > div.login-widget-homepage--cta.scl-button-component.scl-button--primary.scl-button--primary-open-account > a[id=\"Link_1482509192388\"][name=\"Link_1482509192388\"]:nth-child(1)",
+            "new": "div[id=\"homepage-container\"] > div.login-widget-homepage--cta.scl-button-component.scl-button--primary.scl-button--primary-open-account > a[id=\"Link_1482509192388\"][name=\"Link_1482509192388\"]:nth-child(1)",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[3]/*[@id='Link_1482509192388']",
+            "new": "//*[3]/*[@id='Link_1482509192388']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h2[1]",
-        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h2[1]"
+        "new": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/h2[1]",
+        "result": {
+          "aus": {
+            "old": "//h2[text()=\"Get your retirement score in 60 seconds\"]",
+            "new": "//h2[text()=\"Get your retirement score in 60 seconds\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Get your retirement score in 60 seconds\")]",
+            "new": "//*[contains(text(),\"Get your retirement score in 60 seconds\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#pgnb div.pntlt > ul.pntl.pnlogout > li:nth-child(2) > a:nth-child(1)",
+            "new": "#pgnb div.pntlt > ul.pntl.pnlogout > li:nth-child(3) > a:nth-child(1)",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@class='pntlt']/*[@class='pntl pnlogout']/*/*[contains(text(),\"Open An Account\")]",
+            "new": "//*[@class='pntlt']/*[@class='pntl pnlogout']/*[3]/*",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#pgnb div.pntlt > ul.pntl.pnlogout > li:nth-child(3) > a:nth-child(1)",
+            "new": "#pgnb div.pntlt > ul.pntl.pnlogout > li:nth-child(4) > a:nth-child(1)",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@class='pntlt']/*[@class='pntl pnlogout']/*[3]/*",
+            "new": "//*[@class='pntlt']/*[@class='pntl pnlogout']/*[4]/*",
+            "matched": false
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#pgnb div.pntlt > ul.pntl.pnlogout > li.pnls.last-child > a:nth-child(1)",
+            "new": "#pgnb div.pntlt > ul.pntl.pnlogout > li.pnls.last-child > a:nth-child(1)",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='pntlt']/*/*/*[contains(text(),\"Log In\")]",
+            "new": "//*[@class='pntlt']/*/*/*[contains(text(),\"Log In\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/div[1]/input[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/div[1]/input[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/div[1]/input[1]",
+        "result": {
+          "aus": {
+            "old": "#nav-search-mobile",
+            "new": "#nav-search-mobile",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@id='nav-search-mobile']",
+            "new": "//*[@id='nav-search-mobile']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/input[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/input[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[1]/div[4]/form[1]/input[1]",
+        "result": {
+          "aus": {
+            "old": "input.pnss",
+            "new": "input.pnss",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[@class='pnss']",
+            "new": "//*[@class='pnss']",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[1]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"Accounts & Trade\"]",
+            "new": "//a[text()=\"Accounts & Trade\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"Accounts & Trade\")]",
+            "new": "//*[contains(text(),\"Accounts & Trade\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[2]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "#pnmm li:nth-child(0) > div.pnsh > a.pnshl",
+            "new": "#pnmm li:nth-child(0) > div.pnsh > a.pnshl",
+            "matched": false
+          },
+          "robula": {
+            "old": "//*[@class='pnshl'][contains(text(),\"Planning & Advice\")]",
+            "new": "//*[@class='pnshl'][contains(text(),\"Planning & Advice\")]",
+            "matched": true
+          }
+        }
       },
       {
         "old": "/html[1]/body[1]/div[4]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/div[1]/a[1]",
-        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/div[1]/a[1]"
+        "new": "/html[1]/body[1]/div[1]/div[1]/div[1]/nav[1]/div[1]/div[1]/div[3]/ul[1]/li[3]/div[1]/a[1]",
+        "result": {
+          "aus": {
+            "old": "//a[text()=\"News & Research\"]",
+            "new": "//a[text()=\"News & Research\"]",
+            "matched": true
+          },
+          "robula": {
+            "old": "//*[contains(text(),\"News & Research\")]",
+            "new": "//*[contains(text(),\"News & Research\")]",
+            "matched": true
+          }
+        }
       }
     ],
     "diffMonth": 34

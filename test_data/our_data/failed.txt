@@ -11,3 +11,6 @@ Usps
 Yahoo
 Youtube
 Zoom
+Adobe
+Aliexpress
+Etsy
