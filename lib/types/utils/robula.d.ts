@@ -1,2 +1,2 @@
-export declare const getElementByXPath: (xPath: string, document: Document) => Element;
-export declare const getRobustXPath: (element: Element, document: Document) => string;
+export declare const getElementByXPath: any;
+export declare const getRobustXPath: any;
