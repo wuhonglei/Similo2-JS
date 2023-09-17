@@ -1,6 +1,6 @@
 {
   "Adobe": {
-    "locatedSuccess": 2,
+    "locatedSuccess": 0,
     "locatedError": 0
   },
   "Aliexpress": {
@@ -192,7 +192,7 @@
     "locatedError": 0
   },
   "Total": {
-    "locatedSuccess": 523,
+    "locatedSuccess": 521,
     "locatedError": 49
   }
 }

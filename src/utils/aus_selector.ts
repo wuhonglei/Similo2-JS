@@ -150,20 +150,20 @@ function getSelectorElement(target, rootNode, relativePath, childPath, isAllDom)
   let relativeClass = null;
   const classValue = target?.getAttribute('class') || '';
   const cacheClassNameList = [];
-  const validClassNameList = classValue.split(/\s+/);
+  const validClassNameList = classValue.split(/\s+/).filter(Boolean);
   for (let index = 0, len = validClassNameList.length; index < len; index++) {
     const className = validClassNameList[index];
     cacheClassNameList.push(className);
-    const unionClassName = cacheClassNameList.join('.');
-    tempPath = `${elementPath}.${unionClassName}${childPath ? ` > ${childPath}` : ''}`;
+    const unionClassName = cacheClassNameList.length ? '.' + cacheClassNameList.join('.') : '';
+    tempPath = `${elementPath}${unionClassName}${childPath ? ` > ${childPath}` : ''}`;
     if (checkUniqueSelector(rootNode, relativePath + tempPath, isAllDom)) {
       return `!${tempPath}`;
     }
 
     // 无法绝对定位,再次测试是否可以在父节点中相对定位自身
     const parent = target.parentNode;
-    if (parent) {
-      const element = parent.querySelectorAll(`:scope > .${unionClassName}`);
+    if (parent && unionClassName) {
+      const element = parent.querySelectorAll(`:scope > ${unionClassName}`);
       if (element.length === 1) {
         relativeClass = unionClassName;
       }
@@ -187,7 +187,7 @@ function getSelectorElement(target, rootNode, relativePath, childPath, isAllDom)
   let fixedElementPath = elementPath;
   // 父元素定位
   if (relativeClass) {
-    elementPath += `.${relativeClass}`;
+    elementPath += `${relativeClass}`;
     fixedElementPath = elementPath;
   } else {
     const { index, fixedIndex } = getChildIndex(target);

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
-const { shuffle } = require('lodash');
+const { shuffle, sampleSize } = require('lodash');
 const { Builder, Browser, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 
@@ -141,6 +141,19 @@ async function writeJson(data, filepath) {
 }
 
 /**
+ * 如果 xpathList 中一半以上的元素都已经出现在页面上，则认为页面已经加载完成
+ * @param {*} driver
+ * @param {*} xpathList
+ */
+async function isDocumentReady(driver, xpathList) {
+  const candidateList = sampleSize(shuffle(xpathList), Math.floor((xpathList.length + 1) / 2));
+  const promiseList = candidateList.map((xpath) =>
+    driver.wait(until.elementLocated(By.xpath(xpath)), 120000).catch(() => null),
+  );
+  return Promise.all(promiseList);
+}
+
+/**
  * 统计新网站上的元素 xpath 属性与旧网站上的元素 xpath 属性的是否一致
  * @param {*} targetProperties
  * @param {*} targetPropertiesInNewSite
@@ -151,14 +164,18 @@ function compareSelector(targetProperties, targetPropertiesInNewSite, xpath) {
     oneTarget.result.aus = {
       old: targetProperties[index]?.ausSelector,
       new: targetPropertiesInNewSite[index]?.ausSelector,
-      matched: targetProperties[index]?.ausSelector === targetPropertiesInNewSite[index]?.ausSelector,
+      matched: targetPropertiesInNewSite[index].ausMatched,
     };
     oneTarget.result.robula = {
       old: targetProperties[index]?.roluSelector,
       new: targetPropertiesInNewSite[index]?.roluSelector,
-      matched: targetProperties[index]?.roluSelector === targetPropertiesInNewSite[index]?.roluSelector,
+      matched: targetPropertiesInNewSite[index].roluMatched,
     };
   });
+}
+
+function isEmptyProperties(properties) {
+  return !properties || properties.length === 0 || properties.every((property) => Object.keys(property).length === 0);
 }
 
 /**
@@ -167,12 +184,17 @@ function compareSelector(targetProperties, targetPropertiesInNewSite, xpath) {
 async function getPropertyOfSite(driver, site) {
   const { url, xpath } = site;
 
-  // 访问旧站点
-  await driver.get(url.old);
-  await driver.sleep(2000);
-  await driver.executeScript(javascript).catch(() => {}); // 注入 selector 函数
+  console.time(`open old page`);
 
-  cleanDirectory(path.join(root, site.name)); // 清空目录
+  // 访问旧站点
+  driver.get(url.old);
+  await isDocumentReady(
+    driver,
+    xpath.map((oneTarget) => oneTarget.old),
+  );
+  console.timeEnd(`open old page`);
+  await driver.executeScript(javascript).catch(() => {}); // 注入 selector 函数
+  // cleanDirectory(path.join(root, site.name)); // 清空目录
 
   const promiseList = xpath.map((oneTarget) =>
     driver.executeScript(function getProperties(xpath) {
@@ -183,52 +205,76 @@ async function getPropertyOfSite(driver, site) {
       const element = Silimon.getElementByXPath(xpath);
 
       return {
-        ...Silimon.getElementPropertiesByXpath(xpath),
-        // ausSelector: Silimon.getAusDomPath(element),
-        // roluSelector: Silimon.getRobustXPath(element, document),
+        // ...Silimon.getElementPropertiesByXpath(xpath),
+        ausSelector: Silimon.getAusDomPath(element),
+        roluSelector: Silimon.getRobustXPath(element, document).replace("@class=' ", "@class='"),
       };
     }, oneTarget.old),
   );
   const targetProperties = await Promise.all(promiseList);
-  await writeJson(targetProperties, path.join(root, site.name, 'properties/target.json')); // 旧网站上目标元素的属性
-  await getScreenshotsOfOldSite(driver, site);
-  await driver.sleep(3000);
+  if (isEmptyProperties(targetProperties)) {
+    throw new Error('targetProperties is empty');
+  }
+
+  // await writeJson(targetProperties, path.join(root, site.name, 'properties/target.json')); // 旧网站上目标元素的属性
+  // await getScreenshotsOfOldSite(driver, site);
   // 访问新站点
-  await driver.get(url.new);
-  await driver.sleep(2000);
+  console.time(`open new page`);
+  driver.get(url.new);
+  await isDocumentReady(
+    driver,
+    xpath.map((oneTarget) => oneTarget.new),
+  );
+  console.timeEnd(`open new page`);
   await driver.executeScript(javascript).catch(() => {}); // 注入 selector 函数
 
-  // const promiseList1 = xpath.map((oneTarget) =>
-  //   driver.executeScript(function getProperties(xpath) {
-  //     if (!window.Silimon) {
-  //       return {};
-  //     }
+  console.info('targetProperties', targetProperties);
 
-  //     const element = Silimon.getElementByXPath(xpath);
+  const promiseList1 = xpath.map((oneTarget, index) =>
+    driver.executeScript(
+      function getProperties(xpath, ausSelector, roluSelector) {
+        if (!window.Silimon) {
+          return {};
+        }
 
-  //     return {
-  //       ausSelector: Silimon.getAusDomPath(element),
-  //       roluSelector: Silimon.getRobustXPath(element, document),
-  //     };
-  //   }, oneTarget.new),
-  // );
-  // const targetPropertiesInNewSite = await Promise.all(promiseList1);
-  // compareSelector(targetProperties, targetPropertiesInNewSite, xpath);
-  const elementsToExtract = 'input,textarea,button,select,a,h1,h2,h3,h4,h5,li,span,div,p,th,tr,td,label,svg';
-  const candidateProperties = await driver.executeScript(function getProperties(selector) {
-    if (!window.Silimon) {
-      return [];
-    }
-    return Silimon.getCandidateElementsPropertiesBySelector(selector);
-  }, elementsToExtract);
-  await writeJson(candidateProperties, path.join(root, site.name, 'properties/candidate.json')); // 旧网站上目标元素的属性
-  await getScreenshotsOfNewSite(driver, site, targetProperties);
+        const correctElement = Silimon.getElementByXPath(xpath);
+        const ausElement = ausSelector.startsWith('//')
+          ? Silimon.getElementByXPath(ausSelector)
+          : document.querySelector(ausSelector);
+        const roluElement = Silimon.getElementByXPath(roluSelector);
+
+        return {
+          ausSelector: Silimon.getAusDomPath(correctElement),
+          roluSelector: Silimon.getRobustXPath(correctElement, document),
+          ausMatched: correctElement === ausElement,
+          roluMatched: correctElement === roluElement,
+        };
+      },
+      oneTarget.new,
+      targetProperties[index].ausSelector,
+      targetProperties[index].roluSelector,
+    ),
+  );
+  const targetPropertiesInNewSite = await Promise.all(promiseList1);
+  compareSelector(targetProperties, targetPropertiesInNewSite, xpath);
+  // const elementsToExtract = 'input,textarea,button,select,a,h1,h2,h3,h4,h5,li,span,div,p,th,tr,td,label,svg';
+  // const candidateProperties = await driver.executeScript(function getProperties(selector) {
+  //   if (!window.Silimon) {
+  //     return [];
+  //   }
+  //   return Silimon.getCandidateElementsPropertiesBySelector(selector);
+  // }, elementsToExtract);
+  // if (isEmptyProperties(candidateProperties)) {
+  // throw new Error('candidateProperties is empty');
+  // }
+  // await writeJson(candidateProperties, path.join(root, site.name, 'properties/candidate.json')); // 旧网站上目标元素的属性
+  // await getScreenshotsOfNewSite(driver, site, targetProperties);
 }
 
 async function startRecord(website) {
   // 创建 ChromeOptions 对象并禁用隐身模式
   const headless = true;
-  const chromeOptions = new chrome.Options().addArguments('--incognito');
+  const chromeOptions = new chrome.Options();
   headless && chromeOptions.addArguments('--headless');
   const driver = await new Builder().forBrowser(Browser.CHROME).setChromeOptions(chromeOptions).build();
   try {
@@ -246,10 +292,16 @@ async function startRecord(website) {
       const recorded = getRecorded();
       if (!recorded.includes(site.name)) {
         console.info('recording', site.name);
-        await getPropertyOfSite(driver, site);
-        recorded.push(site.name);
-        console.info(`recorded: ${site.name}`);
-        writeRecorded(recorded);
+        try {
+          await getPropertyOfSite(driver, site);
+          recorded.push(site.name);
+          console.info(`recorded success: ${site.name}`);
+          writeRecorded(recorded);
+          fs.writeFileSync(path.join(__dirname, '../test_data/website.json'), JSON.stringify(website, null, 2));
+        } catch (error) {
+          console.info(`recorded error: ${site.name}`, error);
+          fs.appendFileSync(failedPath, `${site.name}\n`);
+        }
       }
     }
     fs.writeFileSync(path.join(__dirname, '../test_data/website.json'), JSON.stringify(website, null, 2));
