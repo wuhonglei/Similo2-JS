@@ -290,7 +290,7 @@ async function startRecord(website) {
       .setRect({ x: 0, y: 0, width: 1792, height: headless ? 965 : 1095 });
     for (const site of website) {
       const recorded = getRecorded();
-      if (!recorded.includes(site.name)) {
+      if (!recorded.includes(site.name) && !getFailed().includes(site.name)) {
         console.info('recording', site.name);
         try {
           await getPropertyOfSite(driver, site);
@@ -310,4 +310,4 @@ async function startRecord(website) {
   }
 }
 
-startRecord(website);
+startRecord(shuffle(website));
