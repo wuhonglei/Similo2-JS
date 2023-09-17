@@ -338,7 +338,7 @@
   },
   {
     "alt": "",
-    "area": 3600,
+    "area": 3420,
     "classList": [
       "button",
       "button-filter",
@@ -352,7 +352,7 @@
     "isButton": true,
     "location": {
       "height": 30,
-      "width": 120,
+      "width": 114,
       "x": 206,
       "y": 18
     },
@@ -361,7 +361,7 @@
       "NFL",
       "ESPN"
     ],
-    "shape": 400,
+    "shape": 380,
     "tag": "BUTTON",
     "visibleText": [
       "TOP",

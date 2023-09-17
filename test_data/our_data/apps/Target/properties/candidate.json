@@ -20475,7 +20475,7 @@
   },
   {
     "alt": "",
-    "area": 4994,
+    "area": 4950,
     "classList": [],
     "href": "",
     "id": "",
@@ -20483,13 +20483,13 @@
     "isButton": false,
     "location": {
       "height": 22,
-      "width": 227,
+      "width": 225,
       "x": 341,
       "y": 2361
     },
     "name": null,
     "neighborText": [],
-    "shape": 1031,
+    "shape": 1022,
     "tag": "SPAN",
     "visibleText": [
       "Target",
@@ -20503,7 +20503,7 @@
   },
   {
     "alt": "",
-    "area": 4994,
+    "area": 4950,
     "classList": [],
     "href": "",
     "id": "",
@@ -20511,13 +20511,13 @@
     "isButton": false,
     "location": {
       "height": 22,
-      "width": 227,
+      "width": 225,
       "x": 341,
       "y": 2361
     },
     "name": null,
     "neighborText": [],
-    "shape": 1031,
+    "shape": 1022,
     "tag": "SPAN",
     "visibleText": [
       "Target",
@@ -20603,21 +20603,21 @@
   },
   {
     "alt": "",
-    "area": 105,
+    "area": 55,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='mainContainer']/div[9]/div[1]/a[1]/div[2]/h2[1]/span[1]/span[2]/span[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 15,
-      "width": 7,
+      "height": 11,
+      "width": 5,
       "x": 405,
-      "y": 2361
+      "y": 2364
     },
     "name": null,
     "neighborText": [],
-    "shape": 46,
+    "shape": 45,
     "tag": "SPAN",
     "visibleText": [
       "™"
@@ -20637,7 +20637,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 567,
+      "x": 565,
       "y": 2346
     },
     "name": null,
@@ -29629,7 +29629,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 682,
+      "x": 677,
       "y": 4659
     },
     "name": null,
@@ -30262,7 +30262,7 @@
     "location": {
       "height": 1,
       "width": 1,
-      "x": 1247,
+      "x": 1242,
       "y": 4659
     },
     "name": null,

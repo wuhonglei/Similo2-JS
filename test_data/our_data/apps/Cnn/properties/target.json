@@ -1,18 +1,515 @@
 [
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+    "alt": "",
+    "area": 3600,
+    "classList": [
+      "nav__logo"
+    ],
+    "href": "https://www.cnn.com/",
+    "id": "logo",
+    "idxpath": "//*[@id='logo']",
+    "isButton": false,
+    "location": {
+      "height": 60,
+      "width": 60,
+      "x": 346,
+      "y": 0
+    },
+    "name": "",
+    "neighborText": [
+      "U.S.WorldPoliticsMoneyOpinionHealthEntertainmentTechStyleTravelSportsVideoVR",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker"
+    ],
+    "shape": 100,
+    "tag": "A",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 510,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/us",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[1]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 34,
+      "x": 416,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "World",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker"
+    ],
+    "shape": 226,
+    "tag": "A",
+    "visibleText": [
+      "U.S."
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[1]"
+  },
+  {
+    "alt": "",
+    "area": 795,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "http://bleacherreport.com/",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[11]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 53,
+      "x": 1021,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Video",
+      "Travel"
+    ],
+    "shape": 353,
+    "tag": "A",
+    "visibleText": [
+      "Sports"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[11]"
+  },
+  {
+    "alt": "",
+    "area": 3000,
+    "classList": [
+      "search__submit-button"
+    ],
+    "href": "",
+    "id": "submit-button",
+    "idxpath": "//*[@id='submit-button']",
+    "isButton": true,
+    "location": {
+      "height": 30,
+      "width": 100,
+      "x": 1276,
+      "y": 10
+    },
+    "name": "",
+    "neighborText": [
+      "U.S.",
+      "Edition+",
+      "Top",
+      "stories",
+      "Live",
+      "TV"
+    ],
+    "shape": 333,
+    "tag": "BUTTON",
+    "visibleText": [
+      "Search",
+      "»"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/form[1]/div[1]/button[1]"
+  },
+  {
+    "alt": "",
+    "area": 400,
+    "classList": [
+      "nav-section__expand-icon"
+    ],
+    "href": "",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[3]/div[1]/span[1]",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 8,
+      "x": 1368,
+      "y": -1
+    },
+    "name": null,
+    "neighborText": [
+      "Top",
+      "stories"
+    ],
+    "shape": 16,
+    "tag": "SPAN",
+    "visibleText": [
+      "+"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[3]/div[1]/span[1]"
+  },
+  {
+    "alt": "",
+    "area": 2500,
+    "classList": [
+      "search__button"
+    ],
+    "href": "",
+    "id": "search-button",
+    "idxpath": "//*[@id='search-button']",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 50,
+      "x": 1376,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Top",
+      "stories",
+      "U.S.",
+      "Edition+"
+    ],
+    "shape": 100,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/form[1]/div[2]"
+  },
+  {
+    "alt": "",
+    "area": 950,
+    "classList": [
+      "nav-menu",
+      "js-navigation-hamburger"
+    ],
+    "href": "",
+    "id": "menu",
+    "idxpath": "//*[@id='menu']",
+    "isButton": false,
+    "location": {
+      "height": 50,
+      "width": 19,
+      "x": 1426,
+      "y": 0
+    },
+    "name": null,
+    "neighborText": [
+      "Top",
+      "stories",
+      "+"
+    ],
+    "shape": 38,
+    "tag": "DIV",
+    "visibleText": [
+      ""
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[4]"
+  },
+  {
+    "alt": "",
+    "area": 690,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/videos",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[12]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 46,
+      "x": 1081,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "VR",
+      "Sports",
+      "Top",
+      "stories"
+    ],
+    "shape": 306,
+    "tag": "A",
+    "visibleText": [
+      "Video"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[12]"
+  },
+  {
+    "alt": "",
+    "area": 705,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/world",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[2]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 47,
+      "x": 456,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Politics",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker",
+      "U.S."
+    ],
+    "shape": 313,
+    "tag": "A",
+    "visibleText": [
+      "World"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[2]"
+  },
+  {
+    "alt": "",
+    "area": 855,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/politics",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[3]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 57,
+      "x": 510,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Money",
+      "World",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker"
+    ],
+    "shape": 380,
+    "tag": "A",
+    "visibleText": [
+      "Politics"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[3]"
+  },
+  {
+    "alt": "",
+    "area": 795,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "http://money.cnn.com/",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[4]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 53,
+      "x": 573,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Opinion",
+      "Politics",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker"
+    ],
+    "shape": 353,
+    "tag": "A",
+    "visibleText": [
+      "Money"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[4]"
+  },
+  {
+    "alt": "",
+    "area": 915,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/opinions",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[5]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 61,
+      "x": 633,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Health",
+      "Money",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker"
+    ],
+    "shape": 406,
+    "tag": "A",
+    "visibleText": [
+      "Opinion"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[5]"
+  },
+  {
+    "alt": "",
+    "area": 780,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/health",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[6]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 52,
+      "x": 700,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Entertainment",
+      "Opinion",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker"
+    ],
+    "shape": 346,
+    "tag": "A",
+    "visibleText": [
+      "Health"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[6]"
+  },
+  {
+    "alt": "",
+    "area": 1620,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/entertainment",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[7]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 108,
+      "x": 759,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Tech",
+      "Health",
+      "Author:",
+      "Conway",
+      "is",
+      "the",
+      "No.",
+      "1",
+      "leaker"
+    ],
+    "shape": 720,
+    "tag": "A",
+    "visibleText": [
+      "Entertainment"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[7]"
+  },
+  {
+    "alt": "",
+    "area": 615,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/style",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[9]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 41,
+      "x": 920,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Travel",
+      "Tech"
+    ],
+    "shape": 273,
+    "tag": "A",
+    "visibleText": [
+      "Style"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[9]"
+  },
+  {
+    "alt": "",
+    "area": 705,
+    "classList": [
+      "nav-menu-links__link"
+    ],
+    "href": "https://www.cnn.com/travel",
+    "id": "",
+    "idxpath": "//*[@id='nav']/div[2]/div[2]/a[10]",
+    "isButton": false,
+    "location": {
+      "height": 15,
+      "width": 47,
+      "x": 967,
+      "y": 17
+    },
+    "name": "",
+    "neighborText": [
+      "Sports",
+      "Style"
+    ],
+    "shape": 313,
+    "tag": "A",
+    "visibleText": [
+      "Travel"
+    ],
+    "xpath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/a[10]"
+  }
 ]

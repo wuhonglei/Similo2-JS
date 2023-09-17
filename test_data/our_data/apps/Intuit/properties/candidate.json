@@ -4476,7 +4476,7 @@
     "location": {
       "height": 650,
       "width": 1792,
-      "x": -1792,
+      "x": -10752,
       "y": 98
     },
     "name": null,
@@ -4576,7 +4576,7 @@
     "location": {
       "height": 650,
       "width": 1792,
-      "x": -1792,
+      "x": 0,
       "y": 98
     },
     "name": null,
@@ -4625,7 +4625,7 @@
     "location": {
       "height": 650,
       "width": 1792,
-      "x": -1792,
+      "x": 0,
       "y": 98
     },
     "name": null,
@@ -4652,7 +4652,7 @@
     "location": {
       "height": 650,
       "width": 1200,
-      "x": -1496,
+      "x": 296,
       "y": 98
     },
     "name": null,
@@ -4698,7 +4698,7 @@
     "location": {
       "height": 242,
       "width": 1152,
-      "x": -1472,
+      "x": 320,
       "y": 193
     },
     "name": null,
@@ -4726,7 +4726,7 @@
     "location": {
       "height": 242,
       "width": 1152,
-      "x": -1472,
+      "x": 320,
       "y": 193
     },
     "name": null,
@@ -4758,7 +4758,7 @@
     "location": {
       "height": 152,
       "width": 640,
-      "x": -1462,
+      "x": 330,
       "y": 253
     },
     "name": null,
@@ -4787,7 +4787,7 @@
     "location": {
       "height": 84,
       "width": 1152,
-      "x": -1472,
+      "x": 320,
       "y": 435
     },
     "name": null,
@@ -4820,7 +4820,7 @@
     "location": {
       "height": 84,
       "width": 1152,
-      "x": -1472,
+      "x": 320,
       "y": 435
     },
     "name": null,
@@ -4857,7 +4857,7 @@
     "location": {
       "height": 64,
       "width": 350,
-      "x": -1462,
+      "x": 330,
       "y": 435
     },
     "name": null,
@@ -4891,7 +4891,7 @@
     "location": {
       "height": 133,
       "width": 1152,
-      "x": -1472,
+      "x": 320,
       "y": 519
     },
     "name": null,
@@ -4924,7 +4924,7 @@
     "location": {
       "height": 53,
       "width": 1152,
-      "x": -1472,
+      "x": 320,
       "y": 539
     },
     "name": null,
@@ -4957,11 +4957,21 @@
     "location": {
       "height": 53,
       "width": 230,
-      "x": -1462,
+      "x": 330,
       "y": 539
     },
     "name": null,
-    "neighborText": [],
+    "neighborText": [
+      "File",
+      "for",
+      "$0",
+      "with",
+      "TurboTax",
+      "Save",
+      "70%",
+      "off",
+      "QuickBooks"
+    ],
     "shape": 433,
     "tag": "DIV",
     "visibleText": [
@@ -4991,11 +5001,16 @@
     "location": {
       "height": 53,
       "width": 230,
-      "x": -1462,
+      "x": 330,
       "y": 539
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "Save",
+      "70%",
+      "off",
+      "QuickBooks"
+    ],
     "shape": 433,
     "tag": "A",
     "visibleText": [
@@ -5020,11 +5035,16 @@
     "location": {
       "height": 21,
       "width": 202,
-      "x": -1448,
+      "x": 344,
       "y": 555
     },
     "name": null,
-    "neighborText": [],
+    "neighborText": [
+      "Save",
+      "70%",
+      "off",
+      "QuickBooks"
+    ],
     "shape": 961,
     "tag": "SPAN",
     "visibleText": [
@@ -5049,11 +5069,21 @@
     "location": {
       "height": 53,
       "width": 239,
-      "x": -1222,
+      "x": 570,
       "y": 539
     },
     "name": null,
-    "neighborText": [],
+    "neighborText": [
+      "Save",
+      "70%",
+      "off",
+      "QuickBooks",
+      "File",
+      "for",
+      "$0",
+      "with",
+      "TurboTax"
+    ],
     "shape": 450,
     "tag": "DIV",
     "visibleText": [
@@ -5082,11 +5112,17 @@
     "location": {
       "height": 53,
       "width": 239,
-      "x": -1222,
+      "x": 570,
       "y": 539
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "File",
+      "for",
+      "$0",
+      "with",
+      "TurboTax"
+    ],
     "shape": 450,
     "tag": "A",
     "visibleText": [
@@ -5110,11 +5146,17 @@
     "location": {
       "height": 21,
       "width": 211,
-      "x": -1208,
+      "x": 584,
       "y": 555
     },
     "name": null,
-    "neighborText": [],
+    "neighborText": [
+      "File",
+      "for",
+      "$0",
+      "with",
+      "TurboTax"
+    ],
     "shape": 1004,
     "tag": "SPAN",
     "visibleText": [
@@ -5141,7 +5183,7 @@
     "location": {
       "height": 650,
       "width": 1792,
-      "x": 0,
+      "x": -3584,
       "y": 98
     },
     "name": null,
@@ -5188,7 +5230,7 @@
     "location": {
       "height": 650,
       "width": 1792,
-      "x": 0,
+      "x": -3584,
       "y": 98
     },
     "name": null,
@@ -5215,7 +5257,7 @@
     "location": {
       "height": 650,
       "width": 1200,
-      "x": 296,
+      "x": -3288,
       "y": 98
     },
     "name": null,
@@ -5259,7 +5301,7 @@
     "location": {
       "height": 182,
       "width": 1180,
-      "x": 306,
+      "x": -3278,
       "y": 239
     },
     "name": null,
@@ -5289,7 +5331,7 @@
     "location": {
       "height": 182,
       "width": 1180,
-      "x": 306,
+      "x": -3278,
       "y": 239
     },
     "name": null,
@@ -5323,7 +5365,7 @@
     "location": {
       "height": 152,
       "width": 640,
-      "x": 316,
+      "x": -3268,
       "y": 239
     },
     "name": null,
@@ -5354,7 +5396,7 @@
     "location": {
       "height": 116,
       "width": 1180,
-      "x": 306,
+      "x": -3278,
       "y": 421
     },
     "name": null,
@@ -5390,7 +5432,7 @@
     "location": {
       "height": 116,
       "width": 1180,
-      "x": 306,
+      "x": -3278,
       "y": 421
     },
     "name": null,
@@ -5430,14 +5472,11 @@
     "location": {
       "height": 96,
       "width": 350,
-      "x": 316,
+      "x": -3268,
       "y": 421
     },
     "name": null,
-    "neighborText": [
-      "Learn",
-      "More"
-    ],
+    "neighborText": [],
     "shape": 364,
     "tag": "H2",
     "visibleText": [
@@ -5470,7 +5509,7 @@
     "location": {
       "height": 70,
       "width": 1180,
-      "x": 306,
+      "x": -3278,
       "y": 537
     },
     "name": null,
@@ -5496,7 +5535,7 @@
     "location": {
       "height": 50,
       "width": 1180,
-      "x": 306,
+      "x": -3278,
       "y": 557
     },
     "name": null,
@@ -5522,14 +5561,11 @@
     "location": {
       "height": 50,
       "width": 122,
-      "x": 316,
+      "x": -3268,
       "y": 557
     },
     "name": null,
-    "neighborText": [
-      "Learn",
-      "More"
-    ],
+    "neighborText": [],
     "shape": 244,
     "tag": "DIV",
     "visibleText": [
@@ -5555,7 +5591,7 @@
     "location": {
       "height": 50,
       "width": 122,
-      "x": 316,
+      "x": -3268,
       "y": 557
     },
     "name": "",
@@ -5581,7 +5617,7 @@
     "location": {
       "height": 21,
       "width": 94,
-      "x": 330,
+      "x": -3254,
       "y": 571
     },
     "name": null,
@@ -5610,7 +5646,7 @@
     "location": {
       "height": 650,
       "width": 1792,
-      "x": 1792,
+      "x": -1792,
       "y": 98
     },
     "name": null,
@@ -5668,7 +5704,7 @@
     "location": {
       "height": 650,
       "width": 1792,
-      "x": 1792,
+      "x": -1792,
       "y": 98
     },
     "name": null,
@@ -5695,7 +5731,7 @@
     "location": {
       "height": 650,
       "width": 1200,
-      "x": 2088,
+      "x": -1496,
       "y": 98
     },
     "name": null,
@@ -5750,7 +5786,7 @@
     "location": {
       "height": 258,
       "width": 1180,
-      "x": 2098,
+      "x": -1486,
       "y": 169
     },
     "name": null,
@@ -5778,7 +5814,7 @@
     "location": {
       "height": 258,
       "width": 1180,
-      "x": 2098,
+      "x": -1486,
       "y": 169
     },
     "name": null,
@@ -5810,7 +5846,7 @@
     "location": {
       "height": 228,
       "width": 640,
-      "x": 2108,
+      "x": -1476,
       "y": 169
     },
     "name": null,
@@ -5839,7 +5875,7 @@
     "location": {
       "height": 180,
       "width": 1180,
-      "x": 2098,
+      "x": -1486,
       "y": 427
     },
     "name": null,
@@ -5885,7 +5921,7 @@
     "location": {
       "height": 180,
       "width": 1180,
-      "x": 2098,
+      "x": -1486,
       "y": 427
     },
     "name": null,
@@ -5935,7 +5971,7 @@
     "location": {
       "height": 160,
       "width": 350,
-      "x": 2108,
+      "x": -1476,
       "y": 427
     },
     "name": null,
@@ -5982,7 +6018,7 @@
     "location": {
       "height": 70,
       "width": 1180,
-      "x": 2098,
+      "x": -1486,
       "y": 607
     },
     "name": null,
@@ -6011,7 +6047,7 @@
     "location": {
       "height": 50,
       "width": 1180,
-      "x": 2098,
+      "x": -1486,
       "y": 627
     },
     "name": null,
@@ -6040,7 +6076,7 @@
     "location": {
       "height": 50,
       "width": 268,
-      "x": 2108,
+      "x": -1476,
       "y": 627
     },
     "name": null,
@@ -6073,7 +6109,7 @@
     "location": {
       "height": 50,
       "width": 268,
-      "x": 2108,
+      "x": -1476,
       "y": 627
     },
     "name": "",
@@ -6102,7 +6138,7 @@
     "location": {
       "height": 21,
       "width": 240,
-      "x": 2122,
+      "x": -1462,
       "y": 641
     },
     "name": null,
@@ -6294,7 +6330,8 @@
     "area": 100,
     "classList": [
       "pagination-circle",
-      "js-pagination-action"
+      "js-pagination-action",
+      "active"
     ],
     "href": "",
     "id": "circle-0",
@@ -6320,8 +6357,7 @@
     "area": 100,
     "classList": [
       "pagination-circle",
-      "js-pagination-action",
-      "active"
+      "js-pagination-action"
     ],
     "href": "",
     "id": "circle-1",

@@ -17,7 +17,17 @@
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 90,
     "tag": "A",
     "visibleText": [
@@ -43,7 +53,15 @@
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 109,
     "tag": "A",
     "visibleText": [
@@ -69,7 +87,15 @@
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 104,
     "tag": "A",
     "visibleText": [
@@ -91,11 +117,19 @@
     "location": {
       "height": 44,
       "width": 64,
-      "x": 698,
+      "x": 699,
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 145,
     "tag": "A",
     "visibleText": [
@@ -117,11 +151,19 @@
     "location": {
       "height": 44,
       "width": 59,
-      "x": 818,
+      "x": 819,
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 134,
     "tag": "A",
     "visibleText": [
@@ -143,11 +185,19 @@
     "location": {
       "height": 44,
       "width": 37,
-      "x": 934,
+      "x": 935,
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 84,
     "tag": "A",
     "visibleText": [
@@ -169,11 +219,19 @@
     "location": {
       "height": 44,
       "width": 57,
-      "x": 1028,
+      "x": 1029,
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 129,
     "tag": "A",
     "visibleText": [
@@ -195,11 +253,19 @@
     "location": {
       "height": 44,
       "width": 72,
-      "x": 1141,
+      "x": 1142,
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 163,
     "tag": "A",
     "visibleText": [
@@ -222,11 +288,19 @@
     "location": {
       "height": 44,
       "width": 36,
-      "x": 1269,
+      "x": 1270,
       "y": 0
     },
     "name": null,
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 81,
     "tag": "LI",
     "visibleText": [
@@ -248,11 +322,19 @@
     "location": {
       "height": 44,
       "width": 34,
-      "x": 1361,
+      "x": 1362,
       "y": 0
     },
     "name": "",
-    "neighborText": [],
+    "neighborText": [
+      "iPhone",
+      "8",
+      "A",
+      "new",
+      "generation",
+      "of",
+      "iPhone."
+    ],
     "shape": 77,
     "tag": "A",
     "visibleText": [

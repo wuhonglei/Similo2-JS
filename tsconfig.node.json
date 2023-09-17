@@ -6,6 +6,6 @@
     "allowSyntheticDefaultImports": true // 允许从没有设置默认导出的模块中默认导入
   },
   "lib": ["ESNext", "DOM", "Node"], // 编译过程中需要引入的库文件的列表
-  "include": ["__test__"], // TypeScript 源代码文件夹
+  "include": ["__test__", "rollup.config.*", "selenium/*"], // TypeScript 源代码文件夹
   "exclude": ["node_modules"] // 排除的文件夹
 }

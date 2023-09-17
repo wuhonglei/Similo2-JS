@@ -33,7 +33,7 @@
   },
   {
     "alt": "",
-    "area": 5040,
+    "area": 5000,
     "classList": [],
     "href": "",
     "id": "",
@@ -41,8 +41,8 @@
     "isButton": false,
     "location": {
       "height": 40,
-      "width": 126,
-      "x": 754,
+      "width": 125,
+      "x": 755,
       "y": 17
     },
     "name": null,
@@ -52,7 +52,7 @@
       "community",
       "housing"
     ],
-    "shape": 315,
+    "shape": 312,
     "tag": "H2",
     "visibleText": [
       "SF",
@@ -67,9 +67,7 @@
     "classList": [
       "querybox",
       "flatinput",
-      "ui-autocomplete-input",
-      "ui-autocomplete-loading",
-      "updating-results"
+      "ui-autocomplete-input"
     ],
     "href": "",
     "id": "query",
@@ -98,7 +96,7 @@
     "shape": 709,
     "tag": "INPUT",
     "visibleText": [
-      "getNeighborText"
+      "search"
     ],
     "xpath": "/html[1]/body[1]/div[1]/section[1]/div[2]/form[1]/input[2]"
   },
@@ -502,12 +500,13 @@
       "beauty",
       "bikes",
       "celebs",
+      "comp",
       "best-of-craigslist",
       "craigslist",
       "TV",
-      "comp",
       "crafts",
-      "diet"
+      "diet",
+      "divorce"
     ],
     "shape": 1031,
     "tag": "A",
@@ -572,7 +571,7 @@
     "location": {
       "height": 13,
       "width": 15,
-      "x": 901,
+      "x": 900,
       "y": 30
     },
     "name": "",
@@ -1079,11 +1078,14 @@
     "location": {
       "height": 13,
       "width": 18,
-      "x": 932,
+      "x": 931,
       "y": 30
     },
     "name": "",
     "neighborText": [
+      "SF",
+      "bay",
+      "areaw",
       "eby",
       "housing",
       "sfc"
@@ -1278,7 +1280,7 @@
       "news",
       "search",
       "craigslist",
-      "getNeighborText",
+      "search",
       "artists",
       "childcare",
       "classes",
@@ -1295,14 +1297,14 @@
   },
   {
     "alt": "",
-    "area": 800,
+    "area": 750,
     "classList": [],
     "href": "https://forums.craigslist.org/?areaID=1&forumID=3232",
     "id": "",
     "idxpath": "//*[@id='forums0']/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 16,
+      "height": 15,
       "width": 50,
       "x": 623,
       "y": 467
@@ -1336,7 +1338,7 @@
       "housing",
       "jobs"
     ],
-    "shape": 312,
+    "shape": 333,
     "tag": "A",
     "visibleText": [
       "apple"
@@ -1591,7 +1593,7 @@
       "lost+found",
       "search",
       "craigslist",
-      "getNeighborText",
+      "search",
       "childcare",
       "classes",
       "events",
@@ -1617,7 +1619,7 @@
     "location": {
       "height": 13,
       "width": 19,
-      "x": 967,
+      "x": 966,
       "y": 30
     },
     "name": "",
@@ -1685,7 +1687,7 @@
   },
   {
     "alt": "",
-    "area": 260,
+    "area": 247,
     "classList": [
       "txt"
     ],
@@ -1695,7 +1697,7 @@
     "isButton": false,
     "location": {
       "height": 13,
-      "width": 20,
+      "width": 19,
       "x": 623,
       "y": 483
     },
@@ -1719,7 +1721,7 @@
       "autos",
       "beauty"
     ],
-    "shape": 153,
+    "shape": 146,
     "tag": "SPAN",
     "visibleText": [
       "arts"
@@ -1877,7 +1879,7 @@
     "location": {
       "height": 13,
       "width": 20,
-      "x": 1002,
+      "x": 1001,
       "y": 30
     },
     "name": "",
@@ -1905,7 +1907,7 @@
     "location": {
       "height": 13,
       "width": 19,
-      "x": 1038,
+      "x": 1037,
       "y": 30
     },
     "name": "",

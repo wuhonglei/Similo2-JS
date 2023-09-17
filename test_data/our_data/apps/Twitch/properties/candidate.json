@@ -22,17 +22,33 @@
     "visibleText": [
       "Skip",
       "navigation",
-      "浏览",
-      "登录",
-      "注册",
-      "加入",
+      "Browse",
+      "Log",
+      "In",
+      "Sign",
+      "Up",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册",
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up",
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]"
   },
@@ -67,17 +83,33 @@
     "visibleText": [
       "Skip",
       "navigation",
-      "浏览",
-      "登录",
-      "注册",
-      "加入",
+      "Browse",
+      "Log",
+      "In",
+      "Sign",
+      "Up",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册",
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up",
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]"
   },
@@ -107,17 +139,33 @@
     "visibleText": [
       "Skip",
       "navigation",
-      "浏览",
-      "登录",
-      "注册",
-      "加入",
+      "Browse",
+      "Log",
+      "In",
+      "Sign",
+      "Up",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册",
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up",
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
   },
@@ -150,9 +198,11 @@
     "visibleText": [
       "Skip",
       "navigation",
-      "浏览",
-      "登录",
-      "注册"
+      "Browse",
+      "Log",
+      "In",
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]"
   },
@@ -180,16 +230,17 @@
     },
     "name": null,
     "neighborText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 1194,
     "tag": "DIV",
     "visibleText": [
       "Skip",
       "navigation",
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]"
   },
@@ -212,10 +263,11 @@
     },
     "name": "",
     "neighborText": [
-      "浏览",
-      "加入",
+      "Browse",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "A",
@@ -244,10 +296,11 @@
     },
     "name": null,
     "neighborText": [
-      "浏览",
-      "加入",
+      "Browse",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -275,7 +328,7 @@
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "svg",
@@ -303,10 +356,11 @@
     },
     "name": "",
     "neighborText": [
-      "浏览",
-      "加入",
+      "Browse",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 0,
     "tag": "A",
@@ -334,7 +388,7 @@
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -346,7 +400,7 @@
   },
   {
     "alt": "",
-    "area": 3800,
+    "area": 5050,
     "classList": [],
     "href": "",
     "id": "",
@@ -354,26 +408,27 @@
     "isButton": false,
     "location": {
       "height": 50,
-      "width": 76,
+      "width": 101,
       "x": 50,
       "y": 0
     },
     "name": null,
     "neighborText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
-    "shape": 152,
+    "shape": 202,
     "tag": "DIV",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 3800,
+    "area": 5050,
     "classList": [
       "tw-flex",
       "tw-flex-row",
@@ -386,26 +441,27 @@
     "isButton": false,
     "location": {
       "height": 50,
-      "width": 76,
+      "width": 101,
       "x": 50,
       "y": 0
     },
     "name": null,
     "neighborText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
-    "shape": 152,
+    "shape": 202,
     "tag": "DIV",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 3800,
+    "area": 5050,
     "classList": [
       "tw-flex",
       "tw-flex-column",
@@ -419,26 +475,27 @@
     "isButton": false,
     "location": {
       "height": 50,
-      "width": 76,
+      "width": 101,
       "x": 50,
       "y": 0
     },
     "name": null,
     "neighborText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
-    "shape": 152,
+    "shape": 202,
     "tag": "DIV",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 1728,
+    "area": 2928,
     "classList": [
       "tw-align-self-center",
       "tw-flex",
@@ -450,22 +507,24 @@
     "isButton": false,
     "location": {
       "height": 48,
-      "width": 36,
+      "width": 61,
       "x": 70,
       "y": 0
     },
     "name": null,
-    "neighborText": [],
-    "shape": 75,
+    "neighborText": [
+      "Browse"
+    ],
+    "shape": 127,
     "tag": "DIV",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 1728,
+    "area": 2928,
     "classList": [
       "navigation-link",
       "tw-interactive"
@@ -476,22 +535,24 @@
     "isButton": false,
     "location": {
       "height": 48,
-      "width": 36,
+      "width": 61,
       "x": 70,
       "y": 0
     },
     "name": "",
-    "neighborText": [],
-    "shape": 75,
+    "neighborText": [
+      "Browse"
+    ],
+    "shape": 127,
     "tag": "A",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
   },
   {
     "alt": "",
-    "area": 756,
+    "area": 1281,
     "classList": [],
     "href": "",
     "id": "",
@@ -499,24 +560,24 @@
     "isButton": false,
     "location": {
       "height": 21,
-      "width": 36,
+      "width": 61,
       "x": 70,
       "y": 13
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
-    "shape": 171,
+    "shape": 290,
     "tag": "DIV",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 756,
+    "area": 1281,
     "classList": [
       "tw-flex-column",
       "tw-hide",
@@ -528,24 +589,24 @@
     "isButton": false,
     "location": {
       "height": 21,
-      "width": 36,
+      "width": 61,
       "x": 70,
       "y": 13
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
-    "shape": 171,
+    "shape": 290,
     "tag": "DIV",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 756,
+    "area": 1281,
     "classList": [
       "tw-hide",
       "tw-xl-flex"
@@ -556,24 +617,24 @@
     "isButton": false,
     "location": {
       "height": 21,
-      "width": 36,
+      "width": 61,
       "x": 70,
       "y": 13
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
-    "shape": 171,
+    "shape": 290,
     "tag": "DIV",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 756,
+    "area": 1281,
     "classList": [
       "tw-font-size-4",
       "tw-line-height-heading",
@@ -586,22 +647,22 @@
     "isButton": false,
     "location": {
       "height": 21,
-      "width": 36,
+      "width": 61,
       "x": 70,
       "y": 13
     },
     "name": null,
     "neighborText": [],
-    "shape": 171,
+    "shape": 290,
     "tag": "P",
     "visibleText": [
-      "浏览"
+      "Browse"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]/div[1]/p[1]"
   },
   {
     "alt": "",
-    "area": 36,
+    "area": 61,
     "classList": [
       "navigation-link__indicator-container"
     ],
@@ -611,15 +672,15 @@
     "isButton": false,
     "location": {
       "height": 1,
-      "width": 36,
+      "width": 61,
       "x": 70,
       "y": 48
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
-    "shape": 3600,
+    "shape": 6100,
     "tag": "DIV",
     "visibleText": [
       ""
@@ -642,15 +703,16 @@
     "location": {
       "height": 50,
       "width": 50,
-      "x": 126,
+      "x": 151,
       "y": 0
     },
     "name": null,
     "neighborText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "浏览"
+      "community!",
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -673,12 +735,12 @@
     "location": {
       "height": 30,
       "width": 30,
-      "x": 136,
+      "x": 161,
       "y": 10
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -698,12 +760,12 @@
     "location": {
       "height": 30,
       "width": 30,
-      "x": 136,
+      "x": 161,
       "y": 10
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -725,12 +787,12 @@
     "location": {
       "height": 30,
       "width": 30,
-      "x": 136,
+      "x": 161,
       "y": 10
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -764,12 +826,12 @@
     "location": {
       "height": 30,
       "width": 30,
-      "x": 136,
+      "x": 161,
       "y": 10
     },
     "name": "",
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "BUTTON",
@@ -791,12 +853,12 @@
     "location": {
       "height": 20,
       "width": 20,
-      "x": 141,
+      "x": 166,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "SPAN",
@@ -816,12 +878,12 @@
     "location": {
       "height": 20,
       "width": 20,
-      "x": 141,
+      "x": 166,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -845,12 +907,12 @@
     "location": {
       "height": 20,
       "width": 20,
-      "x": 141,
+      "x": 166,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -874,12 +936,12 @@
     "location": {
       "height": 20,
       "width": 20,
-      "x": 141,
+      "x": 166,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -902,12 +964,12 @@
     "location": {
       "height": 20,
       "width": 20,
-      "x": 141,
+      "x": 166,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -930,12 +992,12 @@
     "location": {
       "height": 20,
       "width": 20,
-      "x": 141,
+      "x": 166,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "浏览"
+      "Browse"
     ],
     "shape": 100,
     "tag": "svg",
@@ -968,11 +1030,13 @@
     },
     "name": null,
     "neighborText": [
-      "登录",
-      "注册",
+      "Log",
+      "In",
+      "Sign",
+      "Up",
       "Skip",
       "navigation",
-      "浏览"
+      "Browse"
     ],
     "shape": 1194,
     "tag": "DIV",
@@ -1216,7 +1280,7 @@
     "shape": 986,
     "tag": "INPUT",
     "visibleText": [
-      "搜索"
+      "Search"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]"
   },
@@ -1254,7 +1318,7 @@
     },
     "name": "",
     "neighborText": [
-      "搜索"
+      "Search"
     ],
     "shape": 94,
     "tag": "BUTTON",
@@ -1284,7 +1348,7 @@
     },
     "name": null,
     "neighborText": [
-      "搜索"
+      "Search"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1313,7 +1377,7 @@
     },
     "name": null,
     "neighborText": [
-      "搜索"
+      "Search"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1342,7 +1406,7 @@
     },
     "name": null,
     "neighborText": [
-      "搜索"
+      "Search"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1370,7 +1434,7 @@
     },
     "name": null,
     "neighborText": [
-      "搜索"
+      "Search"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1398,7 +1462,7 @@
     },
     "name": null,
     "neighborText": [
-      "搜索"
+      "Search"
     ],
     "shape": 100,
     "tag": "svg",
@@ -1433,14 +1497,16 @@
     "shape": 1194,
     "tag": "DIV",
     "visibleText": [
-      "登录",
-      "注册"
+      "Log",
+      "In",
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]"
   },
   {
     "alt": "",
-    "area": 7350,
+    "area": 9050,
     "classList": [
       "tw-flex",
       "tw-full-height",
@@ -1453,23 +1519,25 @@
     "isButton": false,
     "location": {
       "height": 50,
-      "width": 147,
-      "x": 1635,
+      "width": 181,
+      "x": 1600,
       "y": 0
     },
     "name": null,
     "neighborText": [],
-    "shape": 294,
+    "shape": 362,
     "tag": "DIV",
     "visibleText": [
-      "登录",
-      "注册"
+      "Log",
+      "In",
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]"
   },
   {
     "alt": "",
-    "area": 4410,
+    "area": 5430,
     "classList": [
       "tw-flex",
       "tw-flex-nowrap"
@@ -1480,23 +1548,25 @@
     "isButton": false,
     "location": {
       "height": 30,
-      "width": 147,
-      "x": 1635,
+      "width": 181,
+      "x": 1600,
       "y": 10
     },
     "name": null,
     "neighborText": [],
-    "shape": 490,
+    "shape": 603,
     "tag": "DIV",
     "visibleText": [
-      "登录",
-      "注册"
+      "Log",
+      "In",
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]"
   },
   {
     "alt": "",
-    "area": 3360,
+    "area": 4380,
     "classList": [
       "anon-user",
       "tw-flex",
@@ -1508,23 +1578,28 @@
     "isButton": false,
     "location": {
       "height": 30,
-      "width": 112,
-      "x": 1635,
+      "width": 146,
+      "x": 1600,
       "y": 10
     },
     "name": null,
-    "neighborText": [],
-    "shape": 373,
+    "neighborText": [
+      "Sign",
+      "Up"
+    ],
+    "shape": 486,
     "tag": "DIV",
     "visibleText": [
-      "登录",
-      "注册"
+      "Log",
+      "In",
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 1680,
+    "area": 2040,
     "classList": [
       "tw-pd-x-05"
     ],
@@ -1534,24 +1609,26 @@
     "isButton": false,
     "location": {
       "height": 30,
-      "width": 56,
-      "x": 1635,
+      "width": 68,
+      "x": 1600,
       "y": 10
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
-    "shape": 186,
+    "shape": 226,
     "tag": "DIV",
     "visibleText": [
-      "登录"
+      "Log",
+      "In"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 1380,
+    "area": 1740,
     "classList": [
       "tw-align-items-center",
       "tw-align-middle",
@@ -1573,25 +1650,28 @@
     "isButton": true,
     "location": {
       "height": 30,
-      "width": 46,
-      "x": 1640,
+      "width": 58,
+      "x": 1605,
       "y": 10
     },
     "name": "",
     "neighborText": [
-      "登录",
-      "注册"
+      "Log",
+      "In",
+      "Sign",
+      "Up"
     ],
-    "shape": 153,
+    "shape": 193,
     "tag": "BUTTON",
     "visibleText": [
-      "登录"
+      "Log",
+      "In"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]"
   },
   {
     "alt": "",
-    "area": 874,
+    "area": 1102,
     "classList": [
       "tw-align-items-center",
       "tw-core-button-label",
@@ -1604,25 +1684,28 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 46,
-      "x": 1640,
+      "width": 58,
+      "x": 1605,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "注册",
-      "登录"
+      "Sign",
+      "Up",
+      "Log",
+      "In"
     ],
-    "shape": 242,
+    "shape": 305,
     "tag": "DIV",
     "visibleText": [
-      "登录"
+      "Log",
+      "In"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 494,
+    "area": 722,
     "classList": [
       "tw-flex-grow-0"
     ],
@@ -1632,24 +1715,26 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 26,
-      "x": 1650,
+      "width": 38,
+      "x": 1615,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
-    "shape": 136,
+    "shape": 200,
     "tag": "DIV",
     "visibleText": [
-      "登录"
+      "Log",
+      "In"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 1680,
+    "area": 2340,
     "classList": [
       "tw-pd-x-05"
     ],
@@ -1659,24 +1744,26 @@
     "isButton": false,
     "location": {
       "height": 30,
-      "width": 56,
-      "x": 1691,
+      "width": 78,
+      "x": 1668,
       "y": 10
     },
     "name": null,
     "neighborText": [
-      "登录"
+      "Log",
+      "In"
     ],
-    "shape": 186,
+    "shape": 260,
     "tag": "DIV",
     "visibleText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]"
   },
   {
     "alt": "",
-    "area": 1380,
+    "area": 2040,
     "classList": [
       "tw-align-items-center",
       "tw-align-middle",
@@ -1698,25 +1785,28 @@
     "isButton": true,
     "location": {
       "height": 30,
-      "width": 46,
-      "x": 1696,
+      "width": 68,
+      "x": 1673,
       "y": 10
     },
     "name": "",
     "neighborText": [
-      "注册",
-      "登录"
+      "Sign",
+      "Up",
+      "Log",
+      "In"
     ],
-    "shape": 153,
+    "shape": 226,
     "tag": "BUTTON",
     "visibleText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]"
   },
   {
     "alt": "",
-    "area": 874,
+    "area": 1292,
     "classList": [
       "tw-align-items-center",
       "tw-core-button-label",
@@ -1729,25 +1819,28 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 46,
-      "x": 1696,
+      "width": 68,
+      "x": 1673,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "登录",
-      "注册"
+      "Log",
+      "In",
+      "Sign",
+      "Up"
     ],
-    "shape": 242,
+    "shape": 357,
     "tag": "DIV",
     "visibleText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 494,
+    "area": 912,
     "classList": [
       "tw-flex-grow-0"
     ],
@@ -1757,18 +1850,20 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 26,
-      "x": 1706,
+      "width": 48,
+      "x": 1683,
       "y": 15
     },
     "name": null,
     "neighborText": [
-      "登录"
+      "Log",
+      "In"
     ],
-    "shape": 136,
+    "shape": 252,
     "tag": "DIV",
     "visibleText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/nav[1]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]/button[1]/div[1]/div[1]"
   },
@@ -1795,7 +1890,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 116,
     "tag": "DIV",
@@ -1823,7 +1919,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1848,7 +1945,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1887,7 +1985,8 @@
     },
     "name": "",
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "BUTTON",
@@ -1914,7 +2013,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "SPAN",
@@ -1939,7 +2039,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1968,7 +2069,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -1997,7 +2099,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -2025,7 +2128,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -2053,7 +2157,8 @@
     },
     "name": null,
     "neighborText": [
-      "注册"
+      "Sign",
+      "Up"
     ],
     "shape": 100,
     "tag": "svg",
@@ -2087,14 +2192,28 @@
     "shape": 195,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册",
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up",
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]"
   },
@@ -2117,11 +2236,18 @@
     "shape": 26,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
   },
@@ -2151,11 +2277,18 @@
     "shape": 26,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
   },
@@ -2180,11 +2313,18 @@
     "shape": 26,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
   },
@@ -2211,11 +2351,18 @@
     "shape": 26,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
   },
@@ -2240,11 +2387,18 @@
     "shape": 28,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
   },
@@ -2270,11 +2424,18 @@
     "shape": 26,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
   },
@@ -2297,11 +2458,18 @@
     "shape": 112,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]"
   },
@@ -2333,13 +2501,15 @@
     },
     "name": null,
     "neighborText": [
+      "Browse",
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 125,
     "tag": "DIV",
@@ -2378,13 +2548,15 @@
     },
     "name": "",
     "neighborText": [
+      "Browse",
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "BUTTON",
@@ -2413,11 +2585,12 @@
     "neighborText": [
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "SPAN",
@@ -2444,11 +2617,12 @@
     "neighborText": [
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -2479,11 +2653,12 @@
     "neighborText": [
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -2514,11 +2689,12 @@
     "neighborText": [
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -2548,11 +2724,12 @@
     "neighborText": [
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "DIV",
@@ -2582,11 +2759,12 @@
     "neighborText": [
       "Skip",
       "navigation",
-      "浏览",
+      "Browse",
       "Twitch",
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "shape": 100,
     "tag": "svg",
@@ -2616,11 +2794,18 @@
     "shape": 112,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
   },
@@ -2649,11 +2834,18 @@
     "shape": 112,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]"
   },
@@ -2676,11 +2868,18 @@
     "shape": 112,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
   },
@@ -2705,11 +2904,18 @@
     "shape": 123,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
   },
@@ -2732,11 +2938,18 @@
     "shape": 123,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]"
   },
@@ -2761,11 +2974,18 @@
     "shape": 123,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]"
   },
@@ -2796,11 +3016,18 @@
     "shape": 113,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
   },
@@ -2823,11 +3050,18 @@
     "shape": 116,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
   },
@@ -2852,10 +3086,16 @@
     "shape": 173,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere."
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
   },
@@ -2877,21 +3117,28 @@
     },
     "name": null,
     "neighborText": [
-      "浏览",
+      "Browse",
       "Skip",
       "navigation",
-      "浏览",
-      "加入",
+      "Browse",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "探索全球最精彩的直播内容。"
+      "community!",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere."
     ],
     "shape": 315,
     "tag": "DIV",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
   },
@@ -2916,24 +3163,30 @@
     },
     "name": null,
     "neighborText": [
-      "浏览",
+      "Browse",
       "Skip",
       "navigation",
-      "浏览",
-      "探索全球最精彩的直播内容。"
+      "Browse",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere."
     ],
     "shape": 315,
     "tag": "P",
     "visibleText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！"
+      "community!"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
   },
   {
     "alt": "",
-    "area": 2610,
+    "area": 2262,
     "classList": [
       "tw-c-text-link",
       "tw-font-size-3",
@@ -2945,19 +3198,24 @@
     "isButton": false,
     "location": {
       "height": 29,
-      "width": 90,
-      "x": 78,
+      "width": 78,
+      "x": 129,
       "y": 89
     },
     "name": null,
     "neighborText": [
-      "浏览",
+      "Browse",
       "Skip",
       "navigation",
-      "浏览",
-      "探索全球最精彩的直播内容。"
+      "Browse",
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere."
     ],
-    "shape": 310,
+    "shape": 268,
     "tag": "SPAN",
     "visibleText": [
       "Twitch"
@@ -2982,21 +3240,28 @@
     },
     "name": null,
     "neighborText": [
-      "加入",
+      "Join",
+      "the",
       "Twitch",
-      "社区！",
-      "注册"
+      "community!",
+      "Sign",
+      "up"
     ],
     "shape": 428,
     "tag": "P",
     "visibleText": [
-      "探索全球最精彩的直播内容。"
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere."
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
   },
   {
     "alt": "",
-    "area": 1380,
+    "area": 2010,
     "classList": [
       "tw-align-items-center",
       "tw-align-middle",
@@ -3018,24 +3283,32 @@
     "isButton": true,
     "location": {
       "height": 30,
-      "width": 46,
+      "width": 67,
       "x": 30,
       "y": 204
     },
     "name": "",
     "neighborText": [
-      "探索全球最精彩的直播内容。"
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
-    "shape": 153,
+    "shape": 223,
     "tag": "BUTTON",
     "visibleText": [
-      "注册"
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]"
   },
   {
     "alt": "",
-    "area": 874,
+    "area": 1273,
     "classList": [
       "tw-align-items-center",
       "tw-core-button-label",
@@ -3048,25 +3321,32 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 46,
+      "width": 67,
       "x": 30,
       "y": 209
     },
     "name": null,
     "neighborText": [
-      "探索全球最精彩的直播内容。",
-      "注册"
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere.",
+      "Sign",
+      "up"
     ],
-    "shape": 242,
+    "shape": 352,
     "tag": "DIV",
     "visibleText": [
-      "注册"
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 494,
+    "area": 893,
     "classList": [
       "tw-flex-grow-0"
     ],
@@ -3076,18 +3356,24 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 26,
+      "width": 47,
       "x": 40,
       "y": 209
     },
     "name": null,
     "neighborText": [
-      "探索全球最精彩的直播内容。"
+      "Discover",
+      "the",
+      "best",
+      "live",
+      "streams",
+      "anywhere."
     ],
-    "shape": 136,
+    "shape": 247,
     "tag": "DIV",
     "visibleText": [
-      "注册"
+      "Sign",
+      "up"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/button[1]/div[1]/div[1]"
   },
@@ -3114,9 +3400,16 @@
     "shape": 169,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]"
   },
@@ -3141,9 +3434,16 @@
     "shape": 171,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]"
   },
@@ -3169,9 +3469,16 @@
     "shape": 169,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]"
   },
@@ -3198,9 +3505,16 @@
     "shape": 169,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]"
   },
@@ -3225,9 +3539,16 @@
     "shape": 169,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]"
   },
@@ -3358,9 +3679,16 @@
     "shape": 434,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]"
   },
@@ -3385,9 +3713,16 @@
     "shape": 434,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]"
   },
@@ -3412,9 +3747,16 @@
     "shape": 434,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
   },
@@ -3439,9 +3781,16 @@
     "shape": 434,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
   },
@@ -3468,9 +3817,16 @@
     "shape": 509,
     "tag": "DIV",
     "visibleText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
   },
@@ -3521,7 +3877,9 @@
     "shape": 5525,
     "tag": "P",
     "visibleText": [
-      "出现错误…"
+      "Something",
+      "went",
+      "wrong..."
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]"
   },
@@ -3547,7 +3905,11 @@
     "shape": 7104,
     "tag": "P",
     "visibleText": [
-      "我们找不到推荐"
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]"
   },
@@ -3572,13 +3934,14 @@
     "shape": 3730,
     "tag": "DIV",
     "visibleText": [
-      "浏览频道"
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 2160,
+    "area": 3810,
     "classList": [
       "tw-align-items-center",
       "tw-align-middle",
@@ -3600,25 +3963,34 @@
     "isButton": true,
     "location": {
       "height": 30,
-      "width": 72,
-      "x": 980,
+      "width": 127,
+      "x": 952,
       "y": 693
     },
     "name": "",
     "neighborText": [
-      "出现错误…",
-      "我们找不到推荐"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
-    "shape": 240,
+    "shape": 423,
     "tag": "A",
     "visibleText": [
-      "浏览频道"
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]"
   },
   {
     "alt": "",
-    "area": 1368,
+    "area": 2413,
     "classList": [
       "tw-align-items-center",
       "tw-core-button-label",
@@ -3631,26 +4003,34 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 72,
-      "x": 980,
+      "width": 127,
+      "x": 952,
       "y": 698
     },
     "name": null,
     "neighborText": [
-      "出现错误…",
-      "我们找不到推荐",
-      "浏览频道"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations",
+      "Browse",
+      "channels"
     ],
-    "shape": 378,
+    "shape": 668,
     "tag": "DIV",
     "visibleText": [
-      "浏览频道"
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]"
   },
   {
     "alt": "",
-    "area": 988,
+    "area": 2033,
     "classList": [
       "tw-flex-grow-0"
     ],
@@ -3660,19 +4040,26 @@
     "isButton": false,
     "location": {
       "height": 19,
-      "width": 52,
-      "x": 990,
+      "width": 107,
+      "x": 962,
       "y": 698
     },
     "name": null,
     "neighborText": [
-      "出现错误…",
-      "我们找不到推荐"
+      "Something",
+      "went",
+      "wrong...",
+      "We",
+      "couldn't",
+      "find",
+      "your",
+      "recommendations"
     ],
-    "shape": 273,
+    "shape": 563,
     "tag": "DIV",
     "visibleText": [
-      "浏览频道"
+      "Browse",
+      "channels"
     ],
     "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/div[1]"
   },

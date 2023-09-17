@@ -188,7 +188,7 @@
   },
   {
     "alt": "",
-    "area": 3636,
+    "area": 3348,
     "classList": [
       "lang-select"
     ],
@@ -198,8 +198,8 @@
     "isButton": false,
     "location": {
       "height": 36,
-      "width": 101,
-      "x": 991,
+      "width": 93,
+      "x": 1052,
       "y": 0
     },
     "name": null,
@@ -211,7 +211,7 @@
       "Shop",
       "Business"
     ],
-    "shape": 280,
+    "shape": 258,
     "tag": "DIV",
     "visibleText": [
       "Current",
@@ -225,7 +225,7 @@
   },
   {
     "alt": "",
-    "area": 3636,
+    "area": 3348,
     "classList": [],
     "href": "https://www.usps.com/#",
     "id": "link-lang",
@@ -233,8 +233,8 @@
     "isButton": false,
     "location": {
       "height": 36,
-      "width": 101,
-      "x": 991,
+      "width": 93,
+      "x": 1052,
       "y": 0
     },
     "name": "",
@@ -243,7 +243,7 @@
       "Shop",
       "Business"
     ],
-    "shape": 280,
+    "shape": 258,
     "tag": "A",
     "visibleText": [
       "Current",
@@ -265,7 +265,7 @@
     "location": {
       "height": 30,
       "width": 0,
-      "x": 1093,
+      "x": 1146,
       "y": 0
     },
     "name": null,
@@ -285,7 +285,7 @@
   },
   {
     "alt": "",
-    "area": 1312,
+    "area": 1020,
     "classList": [
       "multi-lang-link"
     ],
@@ -294,9 +294,9 @@
     "idxpath": "//*[@id='utility-header']/div[1]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 41,
-      "x": 1093,
+      "height": 30,
+      "width": 34,
+      "x": 1146,
       "y": 0
     },
     "name": "",
@@ -305,9 +305,10 @@
       "Current",
       "language:",
       "English",
-      "Business"
+      "Business",
+      "International"
     ],
-    "shape": 128,
+    "shape": 113,
     "tag": "A",
     "visibleText": [
       "English"
@@ -327,7 +328,7 @@
     "location": {
       "height": 30,
       "width": 0,
-      "x": 1093,
+      "x": 1146,
       "y": 30
     },
     "name": null,
@@ -347,7 +348,7 @@
   },
   {
     "alt": "",
-    "area": 1440,
+    "area": 1140,
     "classList": [
       "multi-lang-link"
     ],
@@ -356,9 +357,9 @@
     "idxpath": "//*[@id='utility-header']/div[1]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 45,
-      "x": 1093,
+      "height": 30,
+      "width": 38,
+      "x": 1146,
       "y": 30
     },
     "name": "",
@@ -367,9 +368,10 @@
       "language:",
       "English",
       "Locations",
-      "Business"
+      "Business",
+      "International"
     ],
-    "shape": 140,
+    "shape": 126,
     "tag": "A",
     "visibleText": [
       "Español"
@@ -390,7 +392,7 @@
     "location": {
       "height": 30,
       "width": 0,
-      "x": 1093,
+      "x": 1146,
       "y": 60
     },
     "name": null,
@@ -421,7 +423,7 @@
     "location": {
       "height": 25,
       "width": 80,
-      "x": 1113,
+      "x": 1166,
       "y": 60
     },
     "name": "",
@@ -431,374 +433,8 @@
       "English",
       "Business",
       "Locations",
-      "Support",
       "International",
-      "Skip",
-      "Quick",
-      "Tools",
-      "Links",
-      "Quick",
-      "Tools",
-      "Track",
-      "a",
-      "Package",
-      "Informed",
-      "Delivery",
-      "Find",
-      "USPS",
-      "Locations",
-      "Buy",
-      "Stamps",
-      "Schedule",
-      "a",
-      "Pickup",
-      "Calculate",
-      "a",
-      "Price",
-      "Look",
-      "Up",
-      "a",
-      "ZIP",
-      "Code™",
-      "Hold",
-      "Mail",
-      "Change",
-      "My",
-      "Address",
-      "Rent/Renew",
-      "a",
-      "PO",
-      "Box",
-      "Free",
-      "Boxes",
-      "Click-N-Ship",
-      "Skip",
-      "Send",
-      "Links",
-      "Send",
-      "Tools",
-      "Click-N-Ship",
-      "Stamps",
-      "&",
-      "Supplies",
-      "Look",
-      "Up",
-      "a",
-      "ZIP",
-      "Code™",
-      "Calculate",
-      "a",
-      "Price",
-      "Schedule",
-      "a",
-      "Pickup",
-      "Find",
-      "USPS",
-      "Locations",
-      "Tracking",
-      "Learn",
-      "About",
-      "Sending",
-      "Sending",
-      "Mail",
-      "Sending",
-      "Packages",
-      "Insurance",
-      "&",
-      "Extra",
-      "Services",
-      "Shipping",
-      "Restrictions",
-      "Online",
-      "Shipping",
-      "Label",
-      "Broker",
-      "Custom",
-      "Mail,",
-      "Cards,",
-      "&",
-      "Envelopes",
-      "Postage",
-      "Prices",
-      "Mail",
-      "&",
-      "Shipping",
-      "Services",
-      "Priority",
-      "Mail",
-      "Express",
-      "Priority",
-      "Mail",
-      "First-Class",
-      "Mail",
-      "Military",
-      "&",
-      "Diplomatic",
-      "Mail",
-      "Redirecting",
-      "a",
-      "Package",
-      "Money",
-      "Orders",
-      "Print",
-      "and",
-      "ship",
-      "from",
-      "home.",
-      "Start",
-      "Click-N-Ship.",
-      "Search",
-      "USPS.com",
-      "Skip",
-      "Receive",
-      "Links",
-      "Receive",
-      "Tools",
-      "Tracking",
-      "Informed",
-      "Delivery",
-      "Intercept",
-      "a",
-      "Package",
-      "Schedule",
-      "a",
-      "Redelivery",
-      "Hold",
-      "Mail",
-      "Change",
-      "of",
-      "Address",
-      "Rent",
-      "or",
-      "Renew",
-      "PO",
-      "Box",
-      "Learn",
-      "About",
-      "Managing",
-      "Mail",
-      "Informed",
-      "Delivery",
-      "Forwarding",
-      "Mail",
-      "Redirecting",
-      "a",
-      "Package",
-      "PO",
-      "Boxes",
-      "Mailbox",
-      "Guidelines",
-      "Mail",
-      "for",
-      "the",
-      "Deceased",
-      "Search",
-      "USPS.com",
-      "Skip",
-      "Shop",
-      "Links",
-      "Shop",
-      "Shop",
-      "Stamps",
-      "Shipping",
-      "Supplies",
-      "Cards",
-      "&",
-      "Envelopes",
-      "Personalized",
-      "Stamped",
-      "Envelopes",
-      "Collectors",
-      "Gifts",
-      "Business",
-      "Supplies",
-      "Learn",
-      "About",
-      "Money",
-      "Orders",
-      "Returns",
-      "&",
-      "Exchanges",
-      "Shop",
-      "Forever",
-      "Stamps.",
-      "Shop",
-      "now.",
-      "Search",
-      "the",
-      "Postal",
-      "Store:",
-      "Keyword",
-      "or",
-      "SKU",
-      "Skip",
-      "Business",
-      "Links",
-      "Business",
-      "Tools",
-      "Calculate",
-      "a",
-      "Business",
-      "Price",
-      "Every",
-      "Door",
-      "Direct",
-      "Mail",
-      "Grow",
-      "your",
-      "business",
-      "with",
-      "Every",
-      "Door",
-      "Direct",
-      "Mail.",
-      "Try",
-      "EDDM",
-      "now.",
-      "Learn",
-      "About",
-      "Business",
-      "Shipping",
-      "Shipping",
-      "Consolidators",
-      "Advertising",
-      "with",
-      "Mail",
-      "Using",
-      "EDDM",
-      "Mailing",
-      "&",
-      "Printing",
-      "Services",
-      "Customized",
-      "Direct",
-      "Mail",
-      "Political",
-      "Mail",
-      "Promotions",
-      "&",
-      "Incentives",
-      "Informed",
-      "Delivery",
-      "Marketing",
-      "Product",
-      "Samples",
-      "Postage",
-      "Options",
-      "Verifying",
-      "Postage",
-      "Returns",
-      "Services",
-      "Label",
-      "Broker",
-      "International",
-      "Business",
-      "Shipping",
-      "Managing",
-      "Business",
-      "Mail",
-      "Web",
-      "Tools",
-      "(APIs)",
-      "Prices",
-      "Search",
-      "USPS.com",
-      "Skip",
-      "International",
-      "Links",
-      "International",
-      "Tools",
-      "Calculate",
-      "International",
-      "Prices",
-      "Print",
-      "International",
-      "Labels",
-      "Use",
-      "our",
-      "online",
-      "scheduler",
-      "to",
-      "make",
-      "a",
-      "passport",
-      "appointment.",
-      "Schedule",
-      "Today.",
-      "Learn",
-      "About",
-      "Printing",
-      "&",
-      "Shipping",
-      "International",
-      "International",
-      "Mail",
-      "Services",
-      "Global",
-      "Express",
-      "Guaranteed",
-      "Priority",
-      "Mail",
-      "Express",
-      "International",
-      "Priority",
-      "Mail",
-      "International",
-      "First-Class",
-      "Mail",
-      "International",
-      "International",
-      "Insurance",
-      "&",
-      "Extra",
-      "Services",
-      "Sending",
-      "International",
-      "Shipments",
-      "Shipping",
-      "Restrictions",
-      "Completing",
-      "Customs",
-      "Forms",
-      "Military",
-      "&",
-      "Diplomatic",
-      "Mail",
-      "Sending",
-      "Money",
-      "Abroad",
-      "Passports",
-      "Search",
-      "USPS.com",
-      "Skip",
-      "Help",
-      "Links",
-      "Help",
-      "FAQs",
-      "Finding",
-      "Missing",
-      "Mail",
-      "Filing",
-      "a",
-      "Claim",
-      "Requesting",
-      "a",
-      "Refund",
-      "Skip",
-      "Search",
-      "Search",
-      "USPS.com",
-      "Search",
-      "USPS.com",
-      "Search",
-      "USPS.com",
-      "Top",
-      "Searches",
-      "PO",
-      "BOXES",
-      "PASSPORTS",
-      "FREE",
-      "BOXES"
+      "Support"
     ],
     "shape": 320,
     "tag": "A",
@@ -809,7 +445,7 @@
   },
   {
     "alt": "",
-    "area": 4032,
+    "area": 3708,
     "classList": [],
     "href": "https://tools.usps.com/find-location.htm",
     "id": "link-locator",
@@ -817,8 +453,8 @@
     "isButton": false,
     "location": {
       "height": 36,
-      "width": 112,
-      "x": 1096,
+      "width": 103,
+      "x": 1149,
       "y": 0
     },
     "name": "",
@@ -830,7 +466,7 @@
       "Business",
       "International"
     ],
-    "shape": 311,
+    "shape": 286,
     "tag": "A",
     "visibleText": [
       "Locations"
@@ -839,7 +475,7 @@
   },
   {
     "alt": "",
-    "area": 3636,
+    "area": 3384,
     "classList": [],
     "href": "https://www.usps.com/help/contact-us.htm",
     "id": "link-customer",
@@ -847,8 +483,8 @@
     "isButton": false,
     "location": {
       "height": 36,
-      "width": 101,
-      "x": 1212,
+      "width": 94,
+      "x": 1255,
       "y": 0
     },
     "name": "",
@@ -859,7 +495,7 @@
       "Business",
       "International"
     ],
-    "shape": 280,
+    "shape": 261,
     "tag": "A",
     "visibleText": [
       "Support"
@@ -868,7 +504,7 @@
   },
   {
     "alt": "",
-    "area": 5652,
+    "area": 5040,
     "classList": [],
     "href": "https://informeddelivery.usps.com/",
     "id": "link-myusps",
@@ -876,8 +512,8 @@
     "isButton": false,
     "location": {
       "height": 36,
-      "width": 157,
-      "x": 1317,
+      "width": 140,
+      "x": 1351,
       "y": 0
     },
     "name": "",
@@ -890,7 +526,7 @@
       "International",
       "Help"
     ],
-    "shape": 436,
+    "shape": 388,
     "tag": "A",
     "visibleText": [
       "Informed",
@@ -900,7 +536,7 @@
   },
   {
     "alt": "",
-    "area": 4288,
+    "area": 3540,
     "classList": [
       "link-reg"
     ],
@@ -909,10 +545,10 @@
     "idxpath": "//*[@id='login-register-header']",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 134,
-      "x": 1478,
-      "y": 4
+      "height": 30,
+      "width": 118,
+      "x": 1495,
+      "y": 6
     },
     "name": "",
     "neighborText": [
@@ -1287,24 +923,6 @@
       "PASSPORTS",
       "FREE",
       "BOXES",
-      "Enter",
-      "Search",
-      "term",
-      "for",
-      "Search",
-      "USPS.com",
-      "Top",
-      "Searches",
-      "PO",
-      "BOXES",
-      "PASSPORTS",
-      "FREE",
-      "BOXES",
-      "Skip",
-      "all",
-      "category",
-      "navigation",
-      "links",
       "Skip",
       "Quick",
       "Tools",
@@ -1685,7 +1303,7 @@
       "FREE",
       "BOXES"
     ],
-    "shape": 418,
+    "shape": 393,
     "tag": "A",
     "visibleText": [
       "Register",
@@ -2604,7 +2222,7 @@
     "location": {
       "height": 42,
       "width": 180,
-      "x": 419,
+      "x": 418,
       "y": 36
     },
     "name": null,
@@ -2698,7 +2316,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navquicktools",
@@ -2727,7 +2345,7 @@
     "location": {
       "height": 42,
       "width": 180,
-      "x": 419,
+      "x": 418,
       "y": 36
     },
     "name": "",
@@ -2780,7 +2398,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 419,
+      "x": 418,
       "y": 79
     },
     "name": null,
@@ -2805,7 +2423,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 419,
+      "x": 418,
       "y": 79
     },
     "name": "",
@@ -2830,7 +2448,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 424,
+      "x": 423,
       "y": 166
     },
     "name": null,
@@ -2876,7 +2494,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 547,
+      "x": 546,
       "y": 79
     },
     "name": null,
@@ -2900,7 +2518,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 547,
+      "x": 546,
       "y": 79
     },
     "name": "",
@@ -2924,7 +2542,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 552,
+      "x": 551,
       "y": 166
     },
     "name": null,
@@ -2969,7 +2587,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 676,
+      "x": 674,
       "y": 79
     },
     "name": null,
@@ -2994,7 +2612,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 676,
+      "x": 674,
       "y": 79
     },
     "name": "",
@@ -3019,7 +2637,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 681,
+      "x": 679,
       "y": 166
     },
     "name": null,
@@ -3065,7 +2683,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 804,
+      "x": 802,
       "y": 79
     },
     "name": null,
@@ -3089,7 +2707,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 804,
+      "x": 802,
       "y": 79
     },
     "name": "",
@@ -3113,7 +2731,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 809,
+      "x": 807,
       "y": 166
     },
     "name": null,
@@ -3158,7 +2776,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 419,
+      "x": 418,
       "y": 228
     },
     "name": null,
@@ -3183,7 +2801,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 419,
+      "x": 418,
       "y": 228
     },
     "name": "",
@@ -3208,7 +2826,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 424,
+      "x": 423,
       "y": 315
     },
     "name": null,
@@ -3257,7 +2875,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 547,
+      "x": 546,
       "y": 228
     },
     "name": null,
@@ -3282,7 +2900,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 547,
+      "x": 546,
       "y": 228
     },
     "name": "",
@@ -3307,7 +2925,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 552,
+      "x": 551,
       "y": 315
     },
     "name": null,
@@ -3356,7 +2974,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 676,
+      "x": 674,
       "y": 228
     },
     "name": null,
@@ -3383,7 +3001,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 676,
+      "x": 674,
       "y": 228
     },
     "name": "",
@@ -3410,7 +3028,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 681,
+      "x": 679,
       "y": 315
     },
     "name": null,
@@ -3461,7 +3079,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 804,
+      "x": 802,
       "y": 228
     },
     "name": null,
@@ -3485,7 +3103,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 804,
+      "x": 802,
       "y": 228
     },
     "name": "",
@@ -3509,7 +3127,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 809,
+      "x": 807,
       "y": 315
     },
     "name": null,
@@ -3557,7 +3175,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 419,
+      "x": 418,
       "y": 377
     },
     "name": null,
@@ -3582,7 +3200,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 419,
+      "x": 418,
       "y": 377
     },
     "name": "",
@@ -3607,7 +3225,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 424,
+      "x": 423,
       "y": 464
     },
     "name": null,
@@ -3632,7 +3250,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 547,
+      "x": 546,
       "y": 377
     },
     "name": null,
@@ -3658,7 +3276,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 547,
+      "x": 546,
       "y": 377
     },
     "name": "",
@@ -3684,7 +3302,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 552,
+      "x": 551,
       "y": 464
     },
     "name": null,
@@ -3710,7 +3328,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 676,
+      "x": 674,
       "y": 377
     },
     "name": null,
@@ -3734,7 +3352,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 676,
+      "x": 674,
       "y": 377
     },
     "name": "",
@@ -3758,7 +3376,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 681,
+      "x": 679,
       "y": 464
     },
     "name": null,
@@ -3782,7 +3400,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 804,
+      "x": 802,
       "y": 377
     },
     "name": null,
@@ -3805,7 +3423,7 @@
     "location": {
       "height": 149,
       "width": 125,
-      "x": 804,
+      "x": 802,
       "y": 377
     },
     "name": "",
@@ -3828,7 +3446,7 @@
     "location": {
       "height": 55,
       "width": 115,
-      "x": 809,
+      "x": 807,
       "y": 464
     },
     "name": null,
@@ -3853,7 +3471,7 @@
     "location": {
       "height": 42,
       "width": 132,
-      "x": 602,
+      "x": 601,
       "y": 36
     },
     "name": null,
@@ -3986,7 +3604,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navmailship",
@@ -4013,7 +3631,7 @@
     "location": {
       "height": 42,
       "width": 132,
-      "x": 602,
+      "x": 601,
       "y": 36
     },
     "name": "",
@@ -4067,7 +3685,7 @@
     "location": {
       "height": 37,
       "width": 220,
-      "x": 602,
+      "x": 601,
       "y": 79
     },
     "name": null,
@@ -4126,8 +3744,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 117
+      "x": 601,
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -4156,8 +3774,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 117
+      "x": 601,
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -4188,8 +3806,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 172
+      "x": 601,
+      "y": 171
     },
     "name": null,
     "neighborText": [
@@ -4234,8 +3852,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 172
+      "x": 601,
+      "y": 171
     },
     "name": "",
     "neighborText": [
@@ -4282,8 +3900,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 227
+      "x": 601,
+      "y": 226
     },
     "name": null,
     "neighborText": [
@@ -4335,8 +3953,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 227
+      "x": 601,
+      "y": 226
     },
     "name": "",
     "neighborText": [
@@ -4390,8 +4008,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 282
+      "x": 601,
+      "y": 281
     },
     "name": null,
     "neighborText": [
@@ -4441,8 +4059,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 282
+      "x": 601,
+      "y": 281
     },
     "name": "",
     "neighborText": [
@@ -4494,8 +4112,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 337
+      "x": 601,
+      "y": 336
     },
     "name": null,
     "neighborText": [
@@ -4543,8 +4161,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 337
+      "x": 601,
+      "y": 336
     },
     "name": "",
     "neighborText": [
@@ -4594,8 +4212,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 392
+      "x": 601,
+      "y": 391
     },
     "name": null,
     "neighborText": [
@@ -4625,8 +4243,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 392
+      "x": 601,
+      "y": 391
     },
     "name": "",
     "neighborText": [
@@ -4658,8 +4276,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 447
+      "x": 601,
+      "y": 446
     },
     "name": null,
     "neighborText": [],
@@ -4681,8 +4299,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 602,
-      "y": 447
+      "x": 601,
+      "y": 446
     },
     "name": "",
     "neighborText": [],
@@ -4704,7 +4322,7 @@
     "location": {
       "height": 37,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 79
     },
     "name": null,
@@ -4761,8 +4379,8 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
-      "y": 117
+      "x": 854,
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -4790,8 +4408,8 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
-      "y": 117
+      "x": 854,
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -4819,7 +4437,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 145
     },
     "name": null,
@@ -4846,7 +4464,7 @@
     "location": {
       "height": 28,
       "width": 241,
-      "x": 856,
+      "x": 854,
       "y": 145
     },
     "name": "",
@@ -4873,7 +4491,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 174
     },
     "name": null,
@@ -4900,7 +4518,7 @@
     "location": {
       "height": 28,
       "width": 241,
-      "x": 856,
+      "x": 854,
       "y": 174
     },
     "name": "",
@@ -4927,7 +4545,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 203
     },
     "name": null,
@@ -4974,7 +4592,7 @@
     "location": {
       "height": 28,
       "width": 241,
-      "x": 856,
+      "x": 854,
       "y": 203
     },
     "name": "",
@@ -5021,7 +4639,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 231
     },
     "name": null,
@@ -5066,7 +4684,7 @@
     "location": {
       "height": 28,
       "width": 241,
-      "x": 856,
+      "x": 854,
       "y": 231
     },
     "name": "",
@@ -5111,7 +4729,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 260
     },
     "name": null,
@@ -5161,7 +4779,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 260
     },
     "name": "",
@@ -5211,7 +4829,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 289
     },
     "name": null,
@@ -5261,7 +4879,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 289
     },
     "name": "",
@@ -5311,7 +4929,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 317
     },
     "name": null,
@@ -5362,7 +4980,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 317
     },
     "name": "",
@@ -5413,7 +5031,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 346
     },
     "name": null,
@@ -5443,7 +5061,7 @@
     "location": {
       "height": 28,
       "width": 231,
-      "x": 856,
+      "x": 854,
       "y": 346
     },
     "name": "",
@@ -5475,7 +5093,7 @@
     "location": {
       "height": 36,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 79
     },
     "name": null,
@@ -5485,34 +5103,10 @@
       "English",
       "Business",
       "Locations",
-      "Go",
-      "to",
-      "USPS.com",
-      "Site",
-      "Index.",
-      "Skip",
-      "all",
-      "page",
-      "navigation.",
-      "Skip",
-      "All",
-      "Utility",
-      "Navigation",
-      "Current",
-      "language:",
-      "English",
-      "English",
-      "Español",
-      "Chinese",
-      "Locations",
+      "International",
       "Support",
       "Informed",
       "Delivery",
-      "Register",
-      "/",
-      "Sign",
-      "In",
-      "International",
       "Holiday",
       "Supplies"
     ],
@@ -5534,8 +5128,8 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
-      "y": 116
+      "x": 1119,
+      "y": 115
     },
     "name": null,
     "neighborText": [
@@ -5565,8 +5159,8 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
-      "y": 116
+      "x": 1119,
+      "y": 115
     },
     "name": "",
     "neighborText": [
@@ -5596,7 +5190,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 144
     },
     "name": null,
@@ -5624,7 +5218,7 @@
     "location": {
       "height": 28,
       "width": 230,
-      "x": 1121,
+      "x": 1119,
       "y": 144
     },
     "name": "",
@@ -5652,7 +5246,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 173
     },
     "name": null,
@@ -5679,7 +5273,7 @@
     "location": {
       "height": 28,
       "width": 230,
-      "x": 1121,
+      "x": 1119,
       "y": 173
     },
     "name": "",
@@ -5706,7 +5300,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 202
     },
     "name": null,
@@ -5733,7 +5327,7 @@
     "location": {
       "height": 28,
       "width": 230,
-      "x": 1121,
+      "x": 1119,
       "y": 202
     },
     "name": "",
@@ -5760,7 +5354,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 230
     },
     "name": null,
@@ -5789,7 +5383,7 @@
     "location": {
       "height": 28,
       "width": 230,
-      "x": 1121,
+      "x": 1119,
       "y": 230
     },
     "name": "",
@@ -5818,7 +5412,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 259
     },
     "name": null,
@@ -5846,7 +5440,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 259
     },
     "name": "",
@@ -5874,7 +5468,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 288
     },
     "name": null,
@@ -5901,7 +5495,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 288
     },
     "name": "",
@@ -5931,7 +5525,7 @@
     "location": {
       "height": 200,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 316
     },
     "name": null,
@@ -5960,7 +5554,7 @@
     "location": {
       "height": 154,
       "width": 220,
-      "x": 1121,
+      "x": 1119,
       "y": 316
     },
     "name": "",
@@ -5980,7 +5574,7 @@
   },
   {
     "alt": "",
-    "area": 33120,
+    "area": 33075,
     "classList": [
       "input--wrap"
     ],
@@ -5990,13 +5584,13 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 736,
-      "x": 603,
+      "width": 735,
+      "x": 602,
       "y": 532
     },
     "name": null,
     "neighborText": [],
-    "shape": 1635,
+    "shape": 1633,
     "tag": "SPAN",
     "visibleText": [
       "Search",
@@ -6006,7 +5600,7 @@
   },
   {
     "alt": "",
-    "area": 33930,
+    "area": 33885,
     "classList": [
       "search--track-input",
       "input--field",
@@ -6019,13 +5613,13 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 754,
-      "x": 603,
+      "width": 753,
+      "x": 602,
       "y": 532
     },
     "name": "q",
     "neighborText": [],
-    "shape": 1675,
+    "shape": 1673,
     "tag": "INPUT",
     "visibleText": [
       "Search",
@@ -6051,7 +5645,7 @@
     "location": {
       "height": 22,
       "width": 22,
-      "x": 1300,
+      "x": 1298,
       "y": 544
     },
     "name": "",
@@ -6093,7 +5687,7 @@
     "location": {
       "height": 42,
       "width": 132,
-      "x": 738,
+      "x": 736,
       "y": 36
     },
     "name": null,
@@ -6193,7 +5787,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navtrackmanage",
@@ -6220,7 +5814,7 @@
     "location": {
       "height": 42,
       "width": 132,
-      "x": 738,
+      "x": 736,
       "y": 36
     },
     "name": "",
@@ -6273,7 +5867,7 @@
     "location": {
       "height": 37,
       "width": 220,
-      "x": 738,
+      "x": 736,
       "y": 79
     },
     "name": null,
@@ -6331,8 +5925,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 117
+      "x": 736,
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -6360,8 +5954,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 117
+      "x": 736,
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -6391,8 +5985,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 172
+      "x": 736,
+      "y": 171
     },
     "name": null,
     "neighborText": [
@@ -6436,8 +6030,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 172
+      "x": 736,
+      "y": 171
     },
     "name": "",
     "neighborText": [
@@ -6483,8 +6077,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 227
+      "x": 736,
+      "y": 226
     },
     "name": null,
     "neighborText": [
@@ -6534,8 +6128,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 227
+      "x": 736,
+      "y": 226
     },
     "name": "",
     "neighborText": [
@@ -6587,8 +6181,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 282
+      "x": 736,
+      "y": 281
     },
     "name": null,
     "neighborText": [
@@ -6638,8 +6232,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 282
+      "x": 736,
+      "y": 281
     },
     "name": "",
     "neighborText": [
@@ -6691,8 +6285,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 337
+      "x": 736,
+      "y": 336
     },
     "name": null,
     "neighborText": [
@@ -6739,8 +6333,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 337
+      "x": 736,
+      "y": 336
     },
     "name": "",
     "neighborText": [
@@ -6789,8 +6383,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 392
+      "x": 736,
+      "y": 391
     },
     "name": null,
     "neighborText": [
@@ -6820,8 +6414,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 392
+      "x": 736,
+      "y": 391
     },
     "name": "",
     "neighborText": [
@@ -6853,8 +6447,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 447
+      "x": 736,
+      "y": 446
     },
     "name": null,
     "neighborText": [],
@@ -6880,8 +6474,8 @@
     "location": {
       "height": 55,
       "width": 220,
-      "x": 738,
-      "y": 447
+      "x": 736,
+      "y": 446
     },
     "name": "",
     "neighborText": [],
@@ -6907,7 +6501,7 @@
     "location": {
       "height": 37,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 79
     },
     "name": null,
@@ -6964,8 +6558,8 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
-      "y": 117
+      "x": 989,
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -6994,8 +6588,8 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
-      "y": 117
+      "x": 989,
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -7024,7 +6618,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 145
     },
     "name": null,
@@ -7051,7 +6645,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 145
     },
     "name": "",
@@ -7078,7 +6672,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 174
     },
     "name": null,
@@ -7105,7 +6699,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 174
     },
     "name": "",
@@ -7132,7 +6726,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 203
     },
     "name": null,
@@ -7160,7 +6754,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 203
     },
     "name": "",
@@ -7188,7 +6782,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 231
     },
     "name": null,
@@ -7215,7 +6809,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 231
     },
     "name": "",
@@ -7242,7 +6836,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 260
     },
     "name": null,
@@ -7269,7 +6863,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 260
     },
     "name": "",
@@ -7296,7 +6890,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 289
     },
     "name": null,
@@ -7325,7 +6919,7 @@
     "location": {
       "height": 28,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 289
     },
     "name": "",
@@ -7357,7 +6951,7 @@
     "location": {
       "height": 200,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 317
     },
     "name": null,
@@ -7380,7 +6974,7 @@
     "location": {
       "height": 182,
       "width": 237,
-      "x": 991,
+      "x": 989,
       "y": 317
     },
     "name": "",
@@ -7394,7 +6988,7 @@
   },
   {
     "alt": "",
-    "area": 21960,
+    "area": 21915,
     "classList": [
       "input--wrap"
     ],
@@ -7404,8 +6998,8 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 488,
-      "x": 739,
+      "width": 487,
+      "x": 737,
       "y": 518
     },
     "name": null,
@@ -7442,7 +7036,7 @@
       "Stamps:",
       "$0.35"
     ],
-    "shape": 1084,
+    "shape": 1082,
     "tag": "SPAN",
     "visibleText": [
       "Search",
@@ -7452,7 +7046,7 @@
   },
   {
     "alt": "",
-    "area": 22770,
+    "area": 22725,
     "classList": [
       "search--track-input",
       "input--field",
@@ -7465,8 +7059,8 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 506,
-      "x": 739,
+      "width": 505,
+      "x": 737,
       "y": 518
     },
     "name": "q",
@@ -7503,7 +7097,7 @@
       "Stamps:",
       "$0.35"
     ],
-    "shape": 1124,
+    "shape": 1122,
     "tag": "INPUT",
     "visibleText": [
       "Search",
@@ -7529,7 +7123,7 @@
     "location": {
       "height": 22,
       "width": 22,
-      "x": 1187,
+      "x": 1185,
       "y": 530
     },
     "name": "",
@@ -7558,7 +7152,7 @@
     "location": {
       "height": 42,
       "width": 156,
-      "x": 873,
+      "x": 871,
       "y": 36
     },
     "name": null,
@@ -7650,7 +7244,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navpostalstore",
@@ -7677,7 +7271,7 @@
     "location": {
       "height": 42,
       "width": 156,
-      "x": 873,
+      "x": 871,
       "y": 36
     },
     "name": "",
@@ -7730,7 +7324,7 @@
     "location": {
       "height": 37,
       "width": 277,
-      "x": 873,
+      "x": 871,
       "y": 79
     },
     "name": null,
@@ -7788,8 +7382,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 117
+      "x": 871,
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -7817,8 +7411,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 117
+      "x": 871,
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -7848,8 +7442,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 172
+      "x": 871,
+      "y": 171
     },
     "name": null,
     "neighborText": [
@@ -7893,8 +7487,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 172
+      "x": 871,
+      "y": 171
     },
     "name": "",
     "neighborText": [
@@ -7940,8 +7534,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 227
+      "x": 871,
+      "y": 226
     },
     "name": null,
     "neighborText": [
@@ -7991,8 +7585,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 227
+      "x": 871,
+      "y": 226
     },
     "name": "",
     "neighborText": [
@@ -8044,8 +7638,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 282
+      "x": 871,
+      "y": 281
     },
     "name": null,
     "neighborText": [
@@ -8095,8 +7689,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 282
+      "x": 871,
+      "y": 281
     },
     "name": "",
     "neighborText": [
@@ -8148,8 +7742,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 337
+      "x": 871,
+      "y": 336
     },
     "name": null,
     "neighborText": [
@@ -8195,8 +7789,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 337
+      "x": 871,
+      "y": 336
     },
     "name": "",
     "neighborText": [
@@ -8244,8 +7838,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 392
+      "x": 871,
+      "y": 391
     },
     "name": null,
     "neighborText": [
@@ -8273,8 +7867,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 392
+      "x": 871,
+      "y": 391
     },
     "name": "",
     "neighborText": [
@@ -8304,8 +7898,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 447
+      "x": 871,
+      "y": 446
     },
     "name": null,
     "neighborText": [],
@@ -8328,8 +7922,8 @@
     "location": {
       "height": 55,
       "width": 277,
-      "x": 873,
-      "y": 447
+      "x": 871,
+      "y": 446
     },
     "name": "",
     "neighborText": [],
@@ -8352,17 +7946,45 @@
     "location": {
       "height": 37,
       "width": 220,
-      "x": 1184,
+      "x": 1181,
       "y": 79
     },
     "name": null,
     "neighborText": [
-      "Locations",
+      "Current",
+      "language:",
+      "English",
       "Business",
-      "Support",
+      "Locations",
       "International",
+      "Support",
+      "Go",
+      "to",
+      "USPS.com",
+      "Site",
+      "Index.",
+      "Skip",
+      "all",
+      "page",
+      "navigation.",
+      "Skip",
+      "All",
+      "Utility",
+      "Navigation",
+      "Current",
+      "language:",
+      "English",
+      "English",
+      "Español",
+      "Chinese",
+      "Locations",
+      "Support",
       "Informed",
       "Delivery",
+      "Register",
+      "/",
+      "Sign",
+      "In",
       "Help",
       "Holiday",
       "Supplies"
@@ -8386,8 +8008,8 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1184,
-      "y": 117
+      "x": 1181,
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -8416,8 +8038,8 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1184,
-      "y": 117
+      "x": 1181,
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -8446,7 +8068,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1184,
+      "x": 1181,
       "y": 145
     },
     "name": null,
@@ -8474,7 +8096,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1184,
+      "x": 1181,
       "y": 145
     },
     "name": "",
@@ -8505,7 +8127,7 @@
     "location": {
       "height": 200,
       "width": 220,
-      "x": 1184,
+      "x": 1181,
       "y": 174
     },
     "name": null,
@@ -8532,7 +8154,7 @@
     "location": {
       "height": 182,
       "width": 220,
-      "x": 1184,
+      "x": 1181,
       "y": 174
     },
     "name": "",
@@ -8550,7 +8172,7 @@
   },
   {
     "alt": "",
-    "area": 23805,
+    "area": 23760,
     "classList": [
       "input--wrap"
     ],
@@ -8560,9 +8182,9 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 529,
-      "x": 874,
-      "y": 518
+      "width": 528,
+      "x": 872,
+      "y": 517
     },
     "name": null,
     "neighborText": [
@@ -8605,7 +8227,7 @@
       "incoming",
       "mail."
     ],
-    "shape": 1175,
+    "shape": 1173,
     "tag": "SPAN",
     "visibleText": [
       "Search",
@@ -8620,7 +8242,7 @@
   },
   {
     "alt": "",
-    "area": 24615,
+    "area": 24570,
     "classList": [
       "search--track-input",
       "input--field",
@@ -8633,9 +8255,9 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 547,
-      "x": 874,
-      "y": 518
+      "width": 546,
+      "x": 872,
+      "y": 517
     },
     "name": "q",
     "neighborText": [
@@ -8678,7 +8300,7 @@
       "incoming",
       "mail."
     ],
-    "shape": 1215,
+    "shape": 1213,
     "tag": "INPUT",
     "visibleText": [
       "Search",
@@ -8705,8 +8327,8 @@
     "location": {
       "height": 22,
       "width": 22,
-      "x": 1363,
-      "y": 530
+      "x": 1360,
+      "y": 529
     },
     "name": "",
     "neighborText": [
@@ -8733,7 +8355,7 @@
     "location": {
       "height": 42,
       "width": 180,
-      "x": 1032,
+      "x": 1029,
       "y": 36
     },
     "name": null,
@@ -8860,7 +8482,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navbusiness",
@@ -8887,7 +8509,7 @@
     "location": {
       "height": 42,
       "width": 180,
-      "x": 1032,
+      "x": 1029,
       "y": 36
     },
     "name": "",
@@ -8999,7 +8621,7 @@
       "height": 55,
       "width": 232,
       "x": 878,
-      "y": 117
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -9031,7 +8653,7 @@
       "height": 55,
       "width": 232,
       "x": 878,
-      "y": 117
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -9065,7 +8687,7 @@
       "height": 55,
       "width": 232,
       "x": 878,
-      "y": 172
+      "y": 171
     },
     "name": null,
     "neighborText": [
@@ -9112,7 +8734,7 @@
       "height": 55,
       "width": 232,
       "x": 878,
-      "y": 172
+      "y": 171
     },
     "name": "",
     "neighborText": [
@@ -9162,7 +8784,7 @@
       "height": 200,
       "width": 232,
       "x": 878,
-      "y": 227
+      "y": 226
     },
     "name": null,
     "neighborText": [],
@@ -9195,7 +8817,7 @@
       "height": 182,
       "width": 232,
       "x": 878,
-      "y": 227
+      "y": 226
     },
     "name": "",
     "neighborText": [],
@@ -9232,6 +8854,12 @@
     },
     "name": null,
     "neighborText": [
+      "Current",
+      "language:",
+      "English",
+      "Business",
+      "Locations",
+      "International",
       "Go",
       "to",
       "USPS.com",
@@ -9259,8 +8887,6 @@
       "/",
       "Sign",
       "In",
-      "Business",
-      "International",
       "Holiday",
       "Supplies"
     ],
@@ -9284,7 +8910,7 @@
       "height": 28,
       "width": 220,
       "x": 1144,
-      "y": 117
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -9313,7 +8939,7 @@
       "height": 28,
       "width": 220,
       "x": 1144,
-      "y": 117
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -9828,9 +9454,10 @@
     },
     "name": null,
     "neighborText": [
+      "Support",
+      "International",
       "Informed",
       "Delivery",
-      "International",
       "Help",
       "Register",
       "/",
@@ -9887,7 +9514,7 @@
       "height": 28,
       "width": 221,
       "x": 1397,
-      "y": 116
+      "y": 115
     },
     "name": null,
     "neighborText": [
@@ -9918,7 +9545,7 @@
       "height": 28,
       "width": 221,
       "x": 1397,
-      "y": 116
+      "y": 115
     },
     "name": "",
     "neighborText": [
@@ -10315,7 +9942,7 @@
   },
   {
     "alt": "",
-    "area": 22005,
+    "area": 21960,
     "classList": [
       "input--wrap"
     ],
@@ -10325,9 +9952,9 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 489,
+      "width": 488,
       "x": 879,
-      "y": 428
+      "y": 427
     },
     "name": null,
     "neighborText": [
@@ -10337,7 +9964,7 @@
       "holiday",
       "supplies"
     ],
-    "shape": 1086,
+    "shape": 1084,
     "tag": "SPAN",
     "visibleText": [
       "Search",
@@ -10347,7 +9974,7 @@
   },
   {
     "alt": "",
-    "area": 22815,
+    "area": 22770,
     "classList": [
       "search--track-input",
       "input--field",
@@ -10360,9 +9987,9 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 507,
+      "width": 506,
       "x": 879,
-      "y": 428
+      "y": 427
     },
     "name": "q",
     "neighborText": [
@@ -10372,7 +9999,7 @@
       "holiday",
       "supplies"
     ],
-    "shape": 1126,
+    "shape": 1124,
     "tag": "INPUT",
     "visibleText": [
       "Search",
@@ -10399,7 +10026,7 @@
       "height": 22,
       "width": 22,
       "x": 1328,
-      "y": 440
+      "y": 439
     },
     "name": "",
     "neighborText": [],
@@ -10423,7 +10050,7 @@
     "location": {
       "height": 42,
       "width": 192,
-      "x": 1216,
+      "x": 1212,
       "y": 36
     },
     "name": null,
@@ -10522,7 +10149,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navinternational",
@@ -10549,7 +10176,7 @@
     "location": {
       "height": 42,
       "width": 192,
-      "x": 1216,
+      "x": 1212,
       "y": 36
     },
     "name": "",
@@ -10584,16 +10211,36 @@
     },
     "name": null,
     "neighborText": [
+      "Go",
+      "to",
+      "USPS.com",
+      "Site",
+      "Index.",
+      "Skip",
+      "all",
+      "page",
+      "navigation.",
+      "Skip",
+      "All",
+      "Utility",
+      "Navigation",
       "Current",
       "language:",
       "English",
-      "Shop",
-      "Business",
+      "English",
+      "Español",
+      "Chinese",
       "Locations",
       "Support",
-      "International",
       "Informed",
       "Delivery",
+      "Register",
+      "/",
+      "Sign",
+      "In",
+      "Shop",
+      "Business",
+      "International",
       "Holiday",
       "Supplies"
     ],
@@ -10618,7 +10265,7 @@
       "height": 55,
       "width": 252,
       "x": 1054,
-      "y": 117
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -10649,7 +10296,7 @@
       "height": 55,
       "width": 252,
       "x": 1054,
-      "y": 117
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -10682,7 +10329,7 @@
       "height": 55,
       "width": 252,
       "x": 1054,
-      "y": 172
+      "y": 171
     },
     "name": null,
     "neighborText": [
@@ -10710,7 +10357,7 @@
       "height": 55,
       "width": 252,
       "x": 1054,
-      "y": 172
+      "y": 171
     },
     "name": "",
     "neighborText": [
@@ -10741,7 +10388,7 @@
       "height": 200,
       "width": 252,
       "x": 1054,
-      "y": 227
+      "y": 226
     },
     "name": null,
     "neighborText": [],
@@ -10774,7 +10421,7 @@
       "height": 182,
       "width": 252,
       "x": 1054,
-      "y": 227
+      "y": 226
     },
     "name": "",
     "neighborText": [],
@@ -10806,7 +10453,7 @@
     "location": {
       "height": 37,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 79
     },
     "name": null,
@@ -10871,8 +10518,8 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
-      "y": 117
+      "x": 1339,
+      "y": 116
     },
     "name": null,
     "neighborText": [
@@ -10904,8 +10551,8 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
-      "y": 117
+      "x": 1339,
+      "y": 116
     },
     "name": "",
     "neighborText": [
@@ -10937,7 +10584,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 145
     },
     "name": null,
@@ -10965,7 +10612,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 145
     },
     "name": "",
@@ -10993,7 +10640,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 174
     },
     "name": null,
@@ -11021,7 +10668,7 @@
     "location": {
       "height": 28,
       "width": 288,
-      "x": 1340,
+      "x": 1339,
       "y": 174
     },
     "name": "",
@@ -11049,7 +10696,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 203
     },
     "name": null,
@@ -11078,7 +10725,7 @@
     "location": {
       "height": 28,
       "width": 288,
-      "x": 1340,
+      "x": 1339,
       "y": 203
     },
     "name": "",
@@ -11107,7 +10754,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 231
     },
     "name": null,
@@ -11135,7 +10782,7 @@
     "location": {
       "height": 28,
       "width": 288,
-      "x": 1340,
+      "x": 1339,
       "y": 231
     },
     "name": "",
@@ -11163,7 +10810,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 260
     },
     "name": null,
@@ -11191,7 +10838,7 @@
     "location": {
       "height": 28,
       "width": 288,
-      "x": 1340,
+      "x": 1339,
       "y": 260
     },
     "name": "",
@@ -11219,7 +10866,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 289
     },
     "name": null,
@@ -11249,7 +10896,7 @@
     "location": {
       "height": 28,
       "width": 288,
-      "x": 1340,
+      "x": 1339,
       "y": 289
     },
     "name": "",
@@ -11279,7 +10926,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 317
     },
     "name": null,
@@ -11304,7 +10951,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 317
     },
     "name": "",
@@ -11329,7 +10976,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 346
     },
     "name": null,
@@ -11353,7 +11000,7 @@
     "location": {
       "height": 28,
       "width": 288,
-      "x": 1340,
+      "x": 1339,
       "y": 346
     },
     "name": "",
@@ -11377,7 +11024,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 375
     },
     "name": null,
@@ -11402,7 +11049,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 375
     },
     "name": "",
@@ -11427,8 +11074,8 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
-      "y": 404
+      "x": 1339,
+      "y": 403
     },
     "name": null,
     "neighborText": [],
@@ -11453,8 +11100,8 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
-      "y": 404
+      "x": 1339,
+      "y": 403
     },
     "name": "",
     "neighborText": [],
@@ -11479,7 +11126,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 432
     },
     "name": null,
@@ -11504,7 +11151,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 432
     },
     "name": "",
@@ -11529,7 +11176,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 461
     },
     "name": null,
@@ -11552,7 +11199,7 @@
     "location": {
       "height": 28,
       "width": 278,
-      "x": 1340,
+      "x": 1339,
       "y": 461
     },
     "name": "",
@@ -11566,7 +11213,7 @@
   },
   {
     "alt": "",
-    "area": 25290,
+    "area": 25245,
     "classList": [
       "input--wrap"
     ],
@@ -11576,7 +11223,7 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 562,
+      "width": 561,
       "x": 1055,
       "y": 506
     },
@@ -11589,7 +11236,7 @@
       "Informed",
       "Delivery®"
     ],
-    "shape": 1248,
+    "shape": 1246,
     "tag": "SPAN",
     "visibleText": [
       "Search",
@@ -11599,7 +11246,7 @@
   },
   {
     "alt": "",
-    "area": 26100,
+    "area": 26055,
     "classList": [
       "search--track-input",
       "input--field",
@@ -11612,7 +11259,7 @@
     "isButton": false,
     "location": {
       "height": 45,
-      "width": 580,
+      "width": 579,
       "x": 1055,
       "y": 506
     },
@@ -11625,7 +11272,7 @@
       "Informed",
       "Delivery®"
     ],
-    "shape": 1288,
+    "shape": 1286,
     "tag": "INPUT",
     "visibleText": [
       "Search",
@@ -11651,7 +11298,7 @@
     "location": {
       "height": 22,
       "width": 22,
-      "x": 1578,
+      "x": 1577,
       "y": 518
     },
     "name": "",
@@ -11676,7 +11323,7 @@
     "location": {
       "height": 42,
       "width": 144,
-      "x": 1411,
+      "x": 1407,
       "y": 36
     },
     "name": null,
@@ -11725,7 +11372,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navhelp",
@@ -11752,7 +11399,7 @@
     "location": {
       "height": 42,
       "width": 144,
-      "x": 1411,
+      "x": 1407,
       "y": 36
     },
     "name": "",
@@ -11785,7 +11432,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 79
     },
     "name": null,
@@ -11846,7 +11493,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 79
     },
     "name": "",
@@ -11907,7 +11554,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 107
     },
     "name": null,
@@ -11939,7 +11586,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 107
     },
     "name": "",
@@ -11971,7 +11618,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 136
     },
     "name": null,
@@ -11999,7 +11646,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 136
     },
     "name": "",
@@ -12027,7 +11674,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 165
     },
     "name": null,
@@ -12055,7 +11702,7 @@
     "location": {
       "height": 28,
       "width": 220,
-      "x": 1411,
+      "x": 1407,
       "y": 165
     },
     "name": "",
@@ -12086,7 +11733,7 @@
     "location": {
       "height": 42,
       "width": 50,
-      "x": 1558,
+      "x": 1554,
       "y": 36
     },
     "name": null,
@@ -12160,7 +11807,7 @@
     "location": {
       "height": 28,
       "width": 28,
-      "x": -9581,
+      "x": -9582,
       "y": 36
     },
     "name": "navsearch",
@@ -12186,7 +11833,7 @@
     "location": {
       "height": 42,
       "width": 50,
-      "x": 1558,
+      "x": 1554,
       "y": 36
     },
     "name": "",
@@ -12245,13 +11892,14 @@
     "location": {
       "height": 25,
       "width": 330,
-      "x": 1289,
+      "x": 1288,
       "y": 84
     },
     "name": null,
     "neighborText": [
-      "Support",
+      "Locations",
       "International",
+      "Support",
       "Informed",
       "Delivery",
       "Help",
@@ -12313,13 +11961,14 @@
     "location": {
       "height": 25,
       "width": 264,
-      "x": 1289,
+      "x": 1288,
       "y": 84
     },
     "name": "q",
     "neighborText": [
-      "Support",
+      "Locations",
       "International",
+      "Support",
       "Informed",
       "Delivery",
       "Help",
@@ -12355,7 +12004,7 @@
     "location": {
       "height": 2,
       "width": 330,
-      "x": 1309,
+      "x": 1308,
       "y": 109
     },
     "name": null,
@@ -12386,7 +12035,7 @@
     "location": {
       "height": 22,
       "width": 22,
-      "x": 1579,
+      "x": 1578,
       "y": 84
     },
     "name": "",
@@ -12444,8 +12093,8 @@
     "location": {
       "height": 14,
       "width": 330,
-      "x": 1309,
-      "y": 123
+      "x": 1308,
+      "y": 122
     },
     "name": null,
     "neighborText": [
@@ -12475,8 +12124,8 @@
     "location": {
       "height": 38,
       "width": 330,
-      "x": 1349,
-      "y": 148
+      "x": 1348,
+      "y": 147
     },
     "name": null,
     "neighborText": [
@@ -12502,8 +12151,8 @@
     "location": {
       "height": 28,
       "width": 330,
-      "x": 1349,
-      "y": 148
+      "x": 1348,
+      "y": 147
     },
     "name": "",
     "neighborText": [
@@ -12529,7 +12178,7 @@
     "location": {
       "height": 38,
       "width": 330,
-      "x": 1349,
+      "x": 1348,
       "y": 186
     },
     "name": null,
@@ -12555,7 +12204,7 @@
     "location": {
       "height": 28,
       "width": 330,
-      "x": 1349,
+      "x": 1348,
       "y": 186
     },
     "name": "",
@@ -12581,8 +12230,8 @@
     "location": {
       "height": 38,
       "width": 330,
-      "x": 1349,
-      "y": 225
+      "x": 1348,
+      "y": 224
     },
     "name": null,
     "neighborText": [
@@ -12608,8 +12257,8 @@
     "location": {
       "height": 28,
       "width": 330,
-      "x": 1349,
-      "y": 225
+      "x": 1348,
+      "y": 224
     },
     "name": "",
     "neighborText": [
@@ -12738,6 +12387,35 @@
     },
     "name": "",
     "neighborText": [
+      "Register",
+      "/",
+      "Sign",
+      "In",
+      "Search",
+      "USPS.com",
+      "Go",
+      "to",
+      "USPS.com",
+      "Site",
+      "Index.",
+      "Skip",
+      "all",
+      "page",
+      "navigation.",
+      "Skip",
+      "All",
+      "Utility",
+      "Navigation",
+      "Current",
+      "language:",
+      "English",
+      "English",
+      "Español",
+      "Chinese",
+      "Locations",
+      "Support",
+      "Informed",
+      "Delivery",
       "Register",
       "/",
       "Sign",
@@ -13107,34 +12785,7 @@
       "BOXES",
       "PASSPORTS",
       "FREE",
-      "BOXES",
-      "Go",
-      "to",
-      "USPS.com",
-      "Site",
-      "Index.",
-      "Skip",
-      "all",
-      "page",
-      "navigation.",
-      "Skip",
-      "All",
-      "Utility",
-      "Navigation",
-      "Current",
-      "language:",
-      "English",
-      "English",
-      "Español",
-      "Chinese",
-      "Locations",
-      "Support",
-      "Informed",
-      "Delivery",
-      "Register",
-      "/",
-      "Sign",
-      "In"
+      "BOXES"
     ],
     "shape": 100,
     "tag": "INPUT",
@@ -13145,7 +12796,7 @@
   },
   {
     "alt": "",
-    "area": 120000,
+    "area": 108000,
     "classList": [
       "empty-search"
     ],
@@ -13154,14 +12805,14 @@
     "idxpath": "//*[@id='search--display']/div[1]",
     "isButton": false,
     "location": {
-      "height": 80,
+      "height": 72,
       "width": 1500,
       "x": 146,
       "y": 132
     },
     "name": null,
     "neighborText": [],
-    "shape": 1875,
+    "shape": 2083,
     "tag": "DIV",
     "visibleText": [
       "Top",
@@ -13176,21 +12827,21 @@
   },
   {
     "alt": "",
-    "area": 17640,
+    "area": 14700,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search--display']/div[1]/p[1]",
     "isButton": false,
     "location": {
-      "height": 12,
+      "height": 10,
       "width": 1470,
       "x": 176,
       "y": 132
     },
     "name": null,
     "neighborText": [],
-    "shape": 12250,
+    "shape": 14700,
     "tag": "P",
     "visibleText": [
       "Top",
@@ -13200,21 +12851,21 @@
   },
   {
     "alt": "",
-    "area": 32340,
+    "area": 29400,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search--display']/div[1]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 20,
       "width": 1470,
       "x": 176,
-      "y": 144
+      "y": 142
     },
     "name": null,
     "neighborText": [],
-    "shape": 6681,
+    "shape": 7350,
     "tag": "LI",
     "visibleText": [
       "PO",
@@ -13224,21 +12875,21 @@
   },
   {
     "alt": "",
-    "area": 840,
+    "area": 550,
     "classList": [],
     "href": "https://www.usps.com/search/results.htm?PNO=1&keyword=PO%20Boxes",
     "id": "",
     "idxpath": "//*[@id='search--display']/div[1]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 60,
+      "height": 11,
+      "width": 50,
       "x": 191,
-      "y": 143
+      "y": 142
     },
     "name": "",
     "neighborText": [],
-    "shape": 428,
+    "shape": 454,
     "tag": "A",
     "visibleText": [
       "PO",
@@ -13248,21 +12899,21 @@
   },
   {
     "alt": "",
-    "area": 32340,
+    "area": 29400,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search--display']/div[1]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 20,
       "width": 1470,
       "x": 176,
-      "y": 167
+      "y": 163
     },
     "name": null,
     "neighborText": [],
-    "shape": 6681,
+    "shape": 7350,
     "tag": "LI",
     "visibleText": [
       "PASSPORTS"
@@ -13271,21 +12922,21 @@
   },
   {
     "alt": "",
-    "area": 966,
+    "area": 638,
     "classList": [],
     "href": "https://www.usps.com/search/results.htm?PNO=1&keyword=Passports",
     "id": "",
     "idxpath": "//*[@id='search--display']/div[1]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 69,
+      "height": 11,
+      "width": 58,
       "x": 191,
-      "y": 166
+      "y": 162
     },
     "name": "",
     "neighborText": [],
-    "shape": 492,
+    "shape": 527,
     "tag": "A",
     "visibleText": [
       "PASSPORTS"
@@ -13294,21 +12945,21 @@
   },
   {
     "alt": "",
-    "area": 32340,
+    "area": 29400,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='search--display']/div[1]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 22,
+      "height": 20,
       "width": 1470,
       "x": 176,
-      "y": 190
+      "y": 183
     },
     "name": null,
     "neighborText": [],
-    "shape": 6681,
+    "shape": 7350,
     "tag": "LI",
     "visibleText": [
       "FREE",
@@ -13318,21 +12969,21 @@
   },
   {
     "alt": "",
-    "area": 1008,
+    "area": 660,
     "classList": [],
     "href": "https://www.usps.com/search/results.htm?PNO=1&keyword=Free%20Boxes",
     "id": "",
     "idxpath": "//*[@id='search--display']/div[1]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 72,
+      "height": 11,
+      "width": 60,
       "x": 191,
-      "y": 189
+      "y": 183
     },
     "name": "",
     "neighborText": [],
-    "shape": 514,
+    "shape": 545,
     "tag": "A",
     "visibleText": [
       "FREE",
@@ -22495,7 +22146,7 @@
   },
   {
     "alt": "",
-    "area": 826112,
+    "area": 822528,
     "classList": [
       "global-footer--wrap"
     ],
@@ -22504,14 +22155,14 @@
     "idxpath": "//*[@id='global-footer--wrap']",
     "isButton": false,
     "location": {
-      "height": 461,
+      "height": 459,
       "width": 1792,
       "x": 0,
       "y": 6146
     },
     "name": null,
     "neighborText": [],
-    "shape": 388,
+    "shape": 390,
     "tag": "DIV",
     "visibleText": [
       "HELPFUL",
@@ -22620,7 +22271,7 @@
       "height": 185,
       "width": 302,
       "x": 276,
-      "y": 6239
+      "y": 6238
     },
     "name": null,
     "neighborText": [],
@@ -22653,7 +22304,7 @@
       "height": 20,
       "width": 302,
       "x": 276,
-      "y": 6259
+      "y": 6258
     },
     "name": null,
     "neighborText": [],
@@ -22667,21 +22318,21 @@
   },
   {
     "alt": "",
-    "area": 868,
+    "area": 741,
     "classList": [],
     "href": "https://www.usps.com/help/contact-us.htm",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 62,
+      "height": 13,
+      "width": 57,
       "x": 276,
       "y": 6262
     },
     "name": "",
     "neighborText": [],
-    "shape": 442,
+    "shape": 438,
     "tag": "A",
     "visibleText": [
       "Contact",
@@ -22701,7 +22352,7 @@
       "height": 20,
       "width": 302,
       "x": 276,
-      "y": 6279
+      "y": 6278
     },
     "name": null,
     "neighborText": [],
@@ -22715,21 +22366,21 @@
   },
   {
     "alt": "",
-    "area": 770,
+    "area": 650,
     "classList": [],
     "href": "https://www.usps.com/globals/site-index.htm",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 55,
+      "height": 13,
+      "width": 50,
       "x": 276,
       "y": 6282
     },
     "name": "",
     "neighborText": [],
-    "shape": 392,
+    "shape": 384,
     "tag": "A",
     "visibleText": [
       "Site",
@@ -22749,7 +22400,7 @@
       "height": 20,
       "width": 302,
       "x": 276,
-      "y": 6299
+      "y": 6298
     },
     "name": null,
     "neighborText": [],
@@ -22762,15 +22413,15 @@
   },
   {
     "alt": "",
-    "area": 406,
+    "area": 351,
     "classList": [],
     "href": "https://faq.usps.com/s/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 29,
+      "height": 13,
+      "width": 27,
       "x": 276,
       "y": 6302
     },
@@ -22795,7 +22446,7 @@
       "height": 20,
       "width": 302,
       "x": 276,
-      "y": 6319
+      "y": 6318
     },
     "name": null,
     "neighborText": [],
@@ -22808,21 +22459,21 @@
   },
   {
     "alt": "",
-    "area": 756,
+    "area": 650,
     "classList": [],
     "href": "https://www.usps.com/#",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 54,
+      "height": 13,
+      "width": 50,
       "x": 276,
       "y": 6322
     },
     "name": "",
     "neighborText": [],
-    "shape": 385,
+    "shape": 384,
     "tag": "A",
     "visibleText": [
       "Feedback"
@@ -22843,7 +22494,7 @@
       "height": 40,
       "width": 302,
       "x": 276,
-      "y": 6354
+      "y": 6353
     },
     "name": null,
     "neighborText": [],
@@ -22868,7 +22519,7 @@
       "height": 20,
       "width": 302,
       "x": 276,
-      "y": 6374
+      "y": 6373
     },
     "name": null,
     "neighborText": [],
@@ -22881,21 +22532,21 @@
   },
   {
     "alt": "",
-    "area": 602,
+    "area": 507,
     "classList": [],
     "href": "https://about.usps.com/careers/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[1]/li[1]/ol[1]/li[5]/ol[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 43,
+      "height": 13,
+      "width": 39,
       "x": 276,
       "y": 6377
     },
     "name": "",
     "neighborText": [],
-    "shape": 307,
+    "shape": 300,
     "tag": "A",
     "visibleText": [
       "Careers"
@@ -22916,7 +22567,7 @@
       "height": 120,
       "width": 302,
       "x": 581,
-      "y": 6239
+      "y": 6238
     },
     "name": null,
     "neighborText": [],
@@ -22952,7 +22603,7 @@
       "height": 20,
       "width": 302,
       "x": 581,
-      "y": 6259
+      "y": 6258
     },
     "name": null,
     "neighborText": [],
@@ -22967,21 +22618,21 @@
   },
   {
     "alt": "",
-    "area": 1470,
+    "area": 1248,
     "classList": [],
     "href": "https://about.usps.com/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 105,
+      "height": 13,
+      "width": 96,
       "x": 581,
       "y": 6262
     },
     "name": "",
     "neighborText": [],
-    "shape": 750,
+    "shape": 738,
     "tag": "A",
     "visibleText": [
       "About",
@@ -23002,7 +22653,7 @@
       "height": 20,
       "width": 302,
       "x": 581,
-      "y": 6279
+      "y": 6278
     },
     "name": null,
     "neighborText": [],
@@ -23015,21 +22666,21 @@
   },
   {
     "alt": "",
-    "area": 826,
+    "area": 702,
     "classList": [],
     "href": "https://about.usps.com/newsroom/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 59,
+      "height": 13,
+      "width": 54,
       "x": 581,
       "y": 6282
     },
     "name": "",
     "neighborText": [],
-    "shape": 421,
+    "shape": 415,
     "tag": "A",
     "visibleText": [
       "Newsroom"
@@ -23048,7 +22699,7 @@
       "height": 20,
       "width": 302,
       "x": 581,
-      "y": 6299
+      "y": 6298
     },
     "name": null,
     "neighborText": [],
@@ -23063,21 +22714,21 @@
   },
   {
     "alt": "",
-    "area": 1764,
+    "area": 1508,
     "classList": [],
     "href": "https://about.usps.com/newsroom/service-alerts/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 126,
+      "height": 13,
+      "width": 116,
       "x": 581,
       "y": 6302
     },
     "name": "",
     "neighborText": [],
-    "shape": 900,
+    "shape": 892,
     "tag": "A",
     "visibleText": [
       "USPS",
@@ -23098,7 +22749,7 @@
       "height": 20,
       "width": 302,
       "x": 581,
-      "y": 6319
+      "y": 6318
     },
     "name": null,
     "neighborText": [],
@@ -23113,21 +22764,21 @@
   },
   {
     "alt": "",
-    "area": 1652,
+    "area": 1404,
     "classList": [],
     "href": "https://about.usps.com/resources/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 118,
+      "height": 13,
+      "width": 108,
       "x": 581,
       "y": 6322
     },
     "name": "",
     "neighborText": [],
-    "shape": 842,
+    "shape": 830,
     "tag": "A",
     "visibleText": [
       "Forms",
@@ -23148,7 +22799,7 @@
       "height": 20,
       "width": 302,
       "x": 581,
-      "y": 6339
+      "y": 6338
     },
     "name": null,
     "neighborText": [],
@@ -23162,21 +22813,21 @@
   },
   {
     "alt": "",
-    "area": 1666,
+    "area": 1417,
     "classList": [],
     "href": "https://about.usps.com/what-we-are-doing/gov-services/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[1]/ol[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 119,
+      "height": 13,
+      "width": 109,
       "x": 581,
       "y": 6342
     },
     "name": "",
     "neighborText": [],
-    "shape": 850,
+    "shape": 838,
     "tag": "A",
     "visibleText": [
       "Government",
@@ -23197,8 +22848,8 @@
     "location": {
       "height": 160,
       "width": 302,
-      "x": 887,
-      "y": 6239
+      "x": 886,
+      "y": 6238
     },
     "name": null,
     "neighborText": [],
@@ -23238,8 +22889,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 887,
-      "y": 6259
+      "x": 886,
+      "y": 6258
     },
     "name": null,
     "neighborText": [],
@@ -23254,21 +22905,21 @@
   },
   {
     "alt": "",
-    "area": 2240,
+    "area": 1898,
     "classList": [],
     "href": "https://gateway.usps.com/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 160,
-      "x": 887,
+      "height": 13,
+      "width": 146,
+      "x": 886,
       "y": 6262
     },
     "name": "",
     "neighborText": [],
-    "shape": 1142,
+    "shape": 1123,
     "tag": "A",
     "visibleText": [
       "Business",
@@ -23288,8 +22939,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 887,
-      "y": 6279
+      "x": 886,
+      "y": 6278
     },
     "name": null,
     "neighborText": [],
@@ -23303,21 +22954,21 @@
   },
   {
     "alt": "",
-    "area": 1344,
+    "area": 1144,
     "classList": [],
     "href": "https://www.uspis.gov/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 96,
-      "x": 887,
+      "height": 13,
+      "width": 88,
+      "x": 886,
       "y": 6282
     },
     "name": "",
     "neighborText": [],
-    "shape": 685,
+    "shape": 676,
     "tag": "A",
     "visibleText": [
       "Postal",
@@ -23336,8 +22987,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 887,
-      "y": 6299
+      "x": 886,
+      "y": 6298
     },
     "name": null,
     "neighborText": [],
@@ -23351,21 +23002,21 @@
   },
   {
     "alt": "",
-    "area": 1372,
+    "area": 1170,
     "classList": [],
     "href": "https://www.uspsoig.gov/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 98,
-      "x": 887,
+      "height": 13,
+      "width": 90,
+      "x": 886,
       "y": 6302
     },
     "name": "",
     "neighborText": [],
-    "shape": 700,
+    "shape": 692,
     "tag": "A",
     "visibleText": [
       "Inspector",
@@ -23384,8 +23035,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 887,
-      "y": 6319
+      "x": 886,
+      "y": 6318
     },
     "name": null,
     "neighborText": [],
@@ -23399,21 +23050,21 @@
   },
   {
     "alt": "",
-    "area": 1176,
+    "area": 1001,
     "classList": [],
     "href": "https://pe.usps.com/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 84,
-      "x": 887,
+      "height": 13,
+      "width": 77,
+      "x": 886,
       "y": 6322
     },
     "name": "",
     "neighborText": [],
-    "shape": 600,
+    "shape": 592,
     "tag": "A",
     "visibleText": [
       "Postal",
@@ -23432,8 +23083,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 887,
-      "y": 6339
+      "x": 886,
+      "y": 6338
     },
     "name": null,
     "neighborText": [],
@@ -23448,21 +23099,21 @@
   },
   {
     "alt": "",
-    "area": 1890,
+    "area": 1599,
     "classList": [],
     "href": "https://postalmuseum.si.edu/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 135,
-      "x": 887,
+      "height": 13,
+      "width": 123,
+      "x": 886,
       "y": 6342
     },
     "name": "",
     "neighborText": [],
-    "shape": 964,
+    "shape": 946,
     "tag": "A",
     "visibleText": [
       "National",
@@ -23482,8 +23133,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 887,
-      "y": 6359
+      "x": 886,
+      "y": 6358
     },
     "name": null,
     "neighborText": [],
@@ -23498,21 +23149,21 @@
   },
   {
     "alt": "",
-    "area": 2002,
+    "area": 1703,
     "classList": [],
     "href": "https://www.usps.com/business/web-tools-apis/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 143,
-      "x": 887,
+      "height": 13,
+      "width": 131,
+      "x": 886,
       "y": 6362
     },
     "name": "",
     "neighborText": [],
-    "shape": 1021,
+    "shape": 1007,
     "tag": "A",
     "visibleText": [
       "Resources",
@@ -23532,8 +23183,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 887,
-      "y": 6379
+      "x": 886,
+      "y": 6378
     },
     "name": null,
     "neighborText": [],
@@ -23546,21 +23197,21 @@
   },
   {
     "alt": "",
-    "area": 756,
+    "area": 637,
     "classList": [],
     "href": "https://postalpro.usps.com/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[2]/ol[1]/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 54,
-      "x": 887,
+      "height": 13,
+      "width": 49,
+      "x": 886,
       "y": 6382
     },
     "name": "",
     "neighborText": [],
-    "shape": 385,
+    "shape": 376,
     "tag": "A",
     "visibleText": [
       "PostalPro"
@@ -23580,8 +23231,8 @@
     "location": {
       "height": 100,
       "width": 302,
-      "x": 1193,
-      "y": 6239
+      "x": 1192,
+      "y": 6238
     },
     "name": null,
     "neighborText": [],
@@ -23615,8 +23266,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 1193,
-      "y": 6259
+      "x": 1192,
+      "y": 6258
     },
     "name": null,
     "neighborText": [],
@@ -23630,21 +23281,21 @@
   },
   {
     "alt": "",
-    "area": 1092,
+    "area": 923,
     "classList": [],
     "href": "https://about.usps.com/who/legal/privacy-policy/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 78,
-      "x": 1193,
+      "height": 13,
+      "width": 71,
+      "x": 1192,
       "y": 6262
     },
     "name": "",
     "neighborText": [],
-    "shape": 557,
+    "shape": 546,
     "tag": "A",
     "visibleText": [
       "Privacy",
@@ -23663,8 +23314,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 1193,
-      "y": 6279
+      "x": 1192,
+      "y": 6278
     },
     "name": null,
     "neighborText": [],
@@ -23679,21 +23330,21 @@
   },
   {
     "alt": "",
-    "area": 1008,
+    "area": 858,
     "classList": [],
     "href": "https://about.usps.com/who/legal/terms-of-use.htm",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 72,
-      "x": 1193,
+      "height": 13,
+      "width": 66,
+      "x": 1192,
       "y": 6282
     },
     "name": "",
     "neighborText": [],
-    "shape": 514,
+    "shape": 507,
     "tag": "A",
     "visibleText": [
       "Terms",
@@ -23713,8 +23364,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 1193,
-      "y": 6299
+      "x": 1192,
+      "y": 6298
     },
     "name": null,
     "neighborText": [],
@@ -23727,16 +23378,16 @@
   },
   {
     "alt": "",
-    "area": 378,
+    "area": 325,
     "classList": [],
     "href": "https://about.usps.com/who/legal/foia/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 27,
-      "x": 1193,
+      "height": 13,
+      "width": 25,
+      "x": 1192,
       "y": 6302
     },
     "name": "",
@@ -23759,8 +23410,8 @@
     "location": {
       "height": 20,
       "width": 302,
-      "x": 1193,
-      "y": 6319
+      "x": 1192,
+      "y": 6318
     },
     "name": null,
     "neighborText": [],
@@ -23777,21 +23428,21 @@
   },
   {
     "alt": "",
-    "area": 1806,
+    "area": 1534,
     "classList": [],
     "href": "https://about.usps.com/who/legal/no-fear-act/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/nav[1]/ol[2]/li[3]/ol[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 129,
-      "x": 1193,
+      "height": 13,
+      "width": 118,
+      "x": 1192,
       "y": 6322
     },
     "name": "",
     "neighborText": [],
-    "shape": 921,
+    "shape": 907,
     "tag": "A",
     "visibleText": [
       "No",
@@ -23804,7 +23455,7 @@
   },
   {
     "alt": "",
-    "area": 60760,
+    "area": 58280,
     "classList": [
       "global-footer--copyright"
     ],
@@ -23813,14 +23464,14 @@
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 49,
+      "height": 47,
       "width": 1240,
       "x": 276,
-      "y": 6454
+      "y": 6453
     },
     "name": null,
     "neighborText": [],
-    "shape": 2530,
+    "shape": 2638,
     "tag": "DIV",
     "visibleText": [
       "Copyright",
@@ -23845,7 +23496,7 @@
       "height": 50,
       "width": 70,
       "x": 276,
-      "y": 6523
+      "y": 6521
     },
     "name": null,
     "neighborText": [],
@@ -23858,21 +23509,21 @@
   },
   {
     "alt": "",
-    "area": 700,
+    "area": 550,
     "classList": [],
     "href": "https://www.facebook.com/USPS?rf=108501355848630",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
+      "height": 11,
       "width": 50,
       "x": 276,
       "y": 6539
     },
     "name": "",
     "neighborText": [],
-    "shape": 357,
+    "shape": 454,
     "tag": "A",
     "visibleText": [
       ""
@@ -23890,8 +23541,8 @@
     "location": {
       "height": 48,
       "width": 70,
-      "x": 349,
-      "y": 6524
+      "x": 348,
+      "y": 6522
     },
     "name": null,
     "neighborText": [],
@@ -23904,21 +23555,21 @@
   },
   {
     "alt": "",
-    "area": 700,
+    "area": 550,
     "classList": [],
     "href": "https://twitter.com/usps",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
+      "height": 11,
       "width": 50,
-      "x": 349,
+      "x": 348,
       "y": 6539
     },
     "name": "",
     "neighborText": [],
-    "shape": 357,
+    "shape": 454,
     "tag": "A",
     "visibleText": [
       ""
@@ -23936,8 +23587,8 @@
     "location": {
       "height": 50,
       "width": 70,
-      "x": 422,
-      "y": 6523
+      "x": 421,
+      "y": 6521
     },
     "name": null,
     "neighborText": [],
@@ -23950,21 +23601,21 @@
   },
   {
     "alt": "",
-    "area": 700,
+    "area": 550,
     "classList": [],
     "href": "http://www.pinterest.com/uspsstamps/",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
+      "height": 11,
       "width": 50,
-      "x": 422,
+      "x": 421,
       "y": 6539
     },
     "name": "",
     "neighborText": [],
-    "shape": 357,
+    "shape": 454,
     "tag": "A",
     "visibleText": [
       ""
@@ -23982,8 +23633,8 @@
     "location": {
       "height": 35,
       "width": 70,
-      "x": 496,
-      "y": 6530
+      "x": 494,
+      "y": 6528
     },
     "name": null,
     "neighborText": [],
@@ -23996,21 +23647,21 @@
   },
   {
     "alt": "",
-    "area": 700,
+    "area": 550,
     "classList": [],
     "href": "https://www.youtube.com/usps",
     "id": "",
     "idxpath": "//*[@id='global-footer--wrap']/footer[1]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 14,
+      "height": 11,
       "width": 50,
-      "x": 496,
+      "x": 494,
       "y": 6539
     },
     "name": "",
     "neighborText": [],
-    "shape": 357,
+    "shape": 454,
     "tag": "A",
     "visibleText": [
       ""
@@ -24059,128 +23710,5 @@
       ""
     ],
     "xpath": "/html[1]/body[1]/div[15]"
-  },
-  {
-    "alt": "",
-    "area": 0,
-    "classList": [],
-    "href": "",
-    "id": "",
-    "idxpath": "/html[1]/body[1]/span[1]",
-    "isButton": false,
-    "location": {
-      "height": 14,
-      "width": 0,
-      "x": 0,
-      "y": 6610
-    },
-    "name": null,
-    "neighborText": [],
-    "shape": 0,
-    "tag": "SPAN",
-    "visibleText": [
-      ""
-    ],
-    "xpath": "/html[1]/body[1]/span[1]"
-  },
-  {
-    "alt": "",
-    "area": 0,
-    "classList": [],
-    "href": "",
-    "id": "kampyleButtonContainer",
-    "idxpath": "//*[@id='kampyleButtonContainer']",
-    "isButton": false,
-    "location": {
-      "height": 14,
-      "width": 0,
-      "x": 0,
-      "y": 6610
-    },
-    "name": null,
-    "neighborText": [],
-    "shape": 0,
-    "tag": "SPAN",
-    "visibleText": [
-      "Feedback"
-    ],
-    "xpath": "/html[1]/body[1]/span[2]"
-  },
-  {
-    "alt": "",
-    "area": 4375,
-    "classList": [
-      "kampyle_vertical_button",
-      "kampyle_right",
-      "wcagOutline"
-    ],
-    "href": "",
-    "id": "nebula_div_btn",
-    "idxpath": "//*[@id='nebula_div_btn']",
-    "isButton": true,
-    "location": {
-      "height": 125,
-      "width": 35,
-      "x": 1757,
-      "y": 389
-    },
-    "name": "",
-    "neighborText": [],
-    "shape": 28,
-    "tag": "BUTTON",
-    "visibleText": [
-      "Feedback"
-    ],
-    "xpath": "/html[1]/body[1]/span[2]/button[1]"
-  },
-  {
-    "alt": "",
-    "area": 4375,
-    "classList": [
-      "kampyle_button"
-    ],
-    "href": "",
-    "id": "",
-    "idxpath": "//*[@id='nebula_div_btn']/div[1]",
-    "isButton": false,
-    "location": {
-      "height": 125,
-      "width": 35,
-      "x": 1757,
-      "y": 389
-    },
-    "name": null,
-    "neighborText": [],
-    "shape": 28,
-    "tag": "DIV",
-    "visibleText": [
-      ""
-    ],
-    "xpath": "/html[1]/body[1]/span[2]/button[1]/div[1]"
-  },
-  {
-    "alt": "",
-    "area": 4375,
-    "classList": [
-      "kampyle_button-text"
-    ],
-    "href": "",
-    "id": "",
-    "idxpath": "//*[@id='nebula_div_btn']/div[2]",
-    "isButton": false,
-    "location": {
-      "height": 125,
-      "width": 35,
-      "x": 1757,
-      "y": 389
-    },
-    "name": null,
-    "neighborText": [],
-    "shape": 28,
-    "tag": "DIV",
-    "visibleText": [
-      "Feedback"
-    ],
-    "xpath": "/html[1]/body[1]/span[2]/button[1]/div[2]"
   }
 ]

@@ -5756,7 +5756,7 @@
   },
   {
     "alt": "",
-    "area": 156,
+    "area": 154,
     "classList": [
       "arrow"
     ],
@@ -5766,7 +5766,7 @@
     "isButton": false,
     "location": {
       "height": 2,
-      "width": 78,
+      "width": 77,
       "x": 1618,
       "y": 715
     },
@@ -5778,7 +5778,7 @@
       "Zero",
       "Trust"
     ],
-    "shape": 3900,
+    "shape": 3850,
     "tag": "DIV",
     "visibleText": [
       ""

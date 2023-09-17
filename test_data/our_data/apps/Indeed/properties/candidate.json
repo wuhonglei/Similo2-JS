@@ -2442,7 +2442,8 @@
     "alt": "",
     "area": 16588,
     "classList": [
-      "icl-TextInput"
+      "icl-TextInput",
+      "is-focused"
     ],
     "href": "",
     "id": "",
@@ -3487,7 +3488,8 @@
     "area": 20202,
     "classList": [
       "mosaic",
-      "mosaic-provider-postjob"
+      "mosaic-provider-postjob",
+      "mosaic-provider-hydrated"
     ],
     "href": "",
     "id": "mosaic-provider-postjob",

@@ -10,7 +10,7 @@
     "location": {
       "height": 21,
       "width": 42,
-      "x": 544,
+      "x": 549,
       "y": 166
     },
     "name": null,
@@ -40,7 +40,7 @@
     "location": {
       "height": 21,
       "width": 53,
-      "x": 856,
+      "x": 861,
       "y": 166
     },
     "name": null,
@@ -167,7 +167,7 @@
     "location": {
       "height": 30,
       "width": 309,
-      "x": 541,
+      "x": 546,
       "y": 191
     },
     "name": "q",
@@ -209,7 +209,7 @@
     "location": {
       "height": 30,
       "width": 271,
-      "x": 853,
+      "x": 858,
       "y": 191
     },
     "name": "l",
@@ -253,7 +253,7 @@
     "location": {
       "height": 25,
       "width": 83,
-      "x": 1128,
+      "x": 1133,
       "y": 194
     },
     "name": "",

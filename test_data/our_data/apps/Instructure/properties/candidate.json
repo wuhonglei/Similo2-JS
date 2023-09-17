@@ -1570,7 +1570,7 @@
   },
   {
     "alt": "",
-    "area": 5720,
+    "area": 4576,
     "classList": [
       "left-side"
     ],
@@ -1579,16 +1579,16 @@
     "idxpath": "//*[@id='overnav']/div[1]",
     "isButton": false,
     "location": {
-      "height": 20,
+      "height": 16,
       "width": 286,
       "x": 20,
-      "y": 7
+      "y": 9
     },
     "name": null,
     "neighborText": [
       "800.203.6755"
     ],
-    "shape": 1430,
+    "shape": 1787,
     "tag": "DIV",
     "visibleText": [
       "United",
@@ -1615,7 +1615,7 @@
   },
   {
     "alt": "",
-    "area": 3780,
+    "area": 3024,
     "classList": [
       "lang-switcher"
     ],
@@ -1624,16 +1624,16 @@
     "idxpath": "//*[@id='overnav']/div[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 20,
+      "height": 16,
       "width": 189,
       "x": 20,
-      "y": 7
+      "y": 9
     },
     "name": null,
     "neighborText": [
       "800.203.6755"
     ],
-    "shape": 945,
+    "shape": 1181,
     "tag": "DIV",
     "visibleText": [
       "United",
@@ -1659,7 +1659,7 @@
   },
   {
     "alt": "",
-    "area": 3140,
+    "area": 2355,
     "classList": [
       "switcher"
     ],
@@ -1668,16 +1668,16 @@
     "idxpath": "//*[@id='overnav']/div[1]/div[1]/select[1]",
     "isButton": false,
     "location": {
-      "height": 20,
+      "height": 15,
       "width": 157,
       "x": 41,
-      "y": 7
+      "y": 9
     },
     "name": "",
     "neighborText": [
       "800.203.6755"
     ],
-    "shape": 785,
+    "shape": 1046,
     "tag": "SELECT",
     "visibleText": [
       "United",

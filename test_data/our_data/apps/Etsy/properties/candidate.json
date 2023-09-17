@@ -7260,7 +7260,7 @@
   },
   {
     "alt": "",
-    "area": 22454,
+    "area": 22660,
     "classList": [
       "v2-listing-card__info"
     ],
@@ -7269,14 +7269,14 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]",
     "isButton": false,
     "location": {
-      "height": 109,
+      "height": 110,
       "width": 206,
       "x": 232,
       "y": 755
     },
     "name": null,
     "neighborText": [],
-    "shape": 188,
+    "shape": 187,
     "tag": "DIV",
     "visibleText": [
       "PREORDER",
@@ -7307,21 +7307,21 @@
   },
   {
     "alt": "",
-    "area": 22042,
+    "area": 22248,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 107,
+      "height": 108,
       "width": 206,
       "x": 232,
       "y": 757
     },
     "name": null,
     "neighborText": [],
-    "shape": 192,
+    "shape": 190,
     "tag": "DIV",
     "visibleText": [
       "PREORDER",
@@ -8323,8 +8323,8 @@
       "LenacchiStore",
       "(142)",
       "$",
-      "Bestseller",
       "17.50",
+      "Bestseller",
       "$17.50"
     ],
     "shape": 100,
@@ -8365,8 +8365,8 @@
       "LenacchiStore",
       "(142)",
       "$",
-      "Bestseller",
       "17.50",
+      "Bestseller",
       "$17.50"
     ],
     "shape": 100,
@@ -8404,8 +8404,8 @@
       "LenacchiStore",
       "(142)",
       "$",
-      "Bestseller",
       "17.50",
+      "Bestseller",
       "$17.50"
     ],
     "shape": 100,
@@ -8681,7 +8681,7 @@
   },
   {
     "alt": "",
-    "area": 1494,
+    "area": 1404,
     "classList": [
       "wt-badge",
       "wt-badge--small",
@@ -8693,9 +8693,9 @@
     "isButton": false,
     "location": {
       "height": 18,
-      "width": 83,
+      "width": 78,
       "x": 232,
-      "y": 846
+      "y": 847
     },
     "name": null,
     "neighborText": [
@@ -8723,7 +8723,7 @@
       "142",
       "reviews"
     ],
-    "shape": 461,
+    "shape": 433,
     "tag": "SPAN",
     "visibleText": [
       "Bestseller"
@@ -8804,7 +8804,7 @@
   },
   {
     "alt": "",
-    "area": 672,
+    "area": 572,
     "classList": [
       "display-inline-block"
     ],
@@ -8813,10 +8813,10 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]/div[2]/div[1]/span[2]/span[2]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 56,
+      "height": 11,
+      "width": 52,
       "x": 252,
-      "y": 849
+      "y": 850
     },
     "name": null,
     "neighborText": [
@@ -8826,16 +8826,11 @@
       "of",
       "5",
       "stars",
-      "17.50",
-      "$17.50",
-      "5",
-      "out",
-      "of",
-      "5",
-      "stars",
       "(142)",
       "142",
       "reviews",
+      "17.50",
+      "$17.50",
       "LenacchiStore",
       "From",
       "shop",
@@ -8849,7 +8844,7 @@
       "142",
       "reviews"
     ],
-    "shape": 466,
+    "shape": 472,
     "tag": "SPAN",
     "visibleText": [
       "Bestseller"
@@ -12398,7 +12393,7 @@
   },
   {
     "alt": "",
-    "area": 1209,
+    "area": 1131,
     "classList": [
       "text-body-smaller",
       "text-truncate"
@@ -12409,7 +12404,7 @@
     "isButton": false,
     "location": {
       "height": 13,
-      "width": 93,
+      "width": 87,
       "x": 456,
       "y": 851
     },
@@ -12456,7 +12451,7 @@
       "FREE",
       "shipping"
     ],
-    "shape": 715,
+    "shape": 669,
     "tag": "SPAN",
     "visibleText": [
       "FREE",
@@ -12466,7 +12461,7 @@
   },
   {
     "alt": "",
-    "area": 1674,
+    "area": 1479,
     "classList": [
       "wt-badge",
       "wt-badge--small",
@@ -12477,10 +12472,10 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]/div[2]/div[1]/div[2]/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 93,
+      "height": 17,
+      "width": 87,
       "x": 456,
-      "y": 849
+      "y": 850
     },
     "name": null,
     "neighborText": [
@@ -12503,6 +12498,9 @@
       "of",
       "5",
       "stars",
+      "(167)",
+      "167",
+      "reviews",
       "$",
       "35.70",
       "42.00",
@@ -12525,7 +12523,7 @@
       "(15%",
       "off)"
     ],
-    "shape": 516,
+    "shape": 511,
     "tag": "SPAN",
     "visibleText": [
       "FREE",
@@ -13054,7 +13052,7 @@
   },
   {
     "alt": "",
-    "area": 22454,
+    "area": 22660,
     "classList": [
       "v2-listing-card__info"
     ],
@@ -13063,14 +13061,14 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]",
     "isButton": false,
     "location": {
-      "height": 109,
+      "height": 110,
       "width": 206,
       "x": 680,
       "y": 755
     },
     "name": null,
     "neighborText": [],
-    "shape": 188,
+    "shape": 187,
     "tag": "DIV",
     "visibleText": [
       "Schitts",
@@ -13100,21 +13098,21 @@
   },
   {
     "alt": "",
-    "area": 22042,
+    "area": 22248,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 107,
+      "height": 108,
       "width": 206,
       "x": 680,
       "y": 757
     },
     "name": null,
     "neighborText": [],
-    "shape": 192,
+    "shape": 190,
     "tag": "DIV",
     "visibleText": [
       "Schitts",
@@ -13970,8 +13968,8 @@
       "FREE",
       "shipping",
       "$",
-      "Bestseller",
       "15.00",
+      "Bestseller",
       "$15.00"
     ],
     "shape": 500,
@@ -14058,8 +14056,8 @@
       "FREE",
       "shipping",
       "$",
-      "Bestseller",
-      "15.00"
+      "15.00",
+      "Bestseller"
     ],
     "shape": 100,
     "tag": "SPAN",
@@ -14142,8 +14140,8 @@
       "FREE",
       "shipping",
       "$",
-      "Bestseller",
-      "15.00"
+      "15.00",
+      "Bestseller"
     ],
     "shape": 100,
     "tag": "svg",
@@ -15313,7 +15311,7 @@
   },
   {
     "alt": "",
-    "area": 1494,
+    "area": 1404,
     "classList": [
       "wt-badge",
       "wt-badge--small",
@@ -15325,9 +15323,9 @@
     "isButton": false,
     "location": {
       "height": 18,
-      "width": 83,
+      "width": 78,
       "x": 680,
-      "y": 846
+      "y": 847
     },
     "name": null,
     "neighborText": [
@@ -15373,7 +15371,7 @@
       "FREE",
       "shipping"
     ],
-    "shape": 461,
+    "shape": 433,
     "tag": "SPAN",
     "visibleText": [
       "Bestseller"
@@ -15502,7 +15500,7 @@
   },
   {
     "alt": "",
-    "area": 672,
+    "area": 572,
     "classList": [
       "display-inline-block"
     ],
@@ -15511,10 +15509,10 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/a[1]/div[2]/div[1]/span[2]/span[2]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 56,
+      "height": 11,
+      "width": 52,
       "x": 701,
-      "y": 849
+      "y": 850
     },
     "name": null,
     "neighborText": [
@@ -15546,15 +15544,10 @@
       "of",
       "5",
       "stars",
-      "15.00",
-      "5",
-      "out",
-      "of",
-      "5",
-      "stars",
       "(278)",
       "278",
       "reviews",
+      "15.00",
       "$15.00",
       "CraftieColleenie",
       "From",
@@ -15571,7 +15564,7 @@
       "FREE",
       "shipping"
     ],
-    "shape": 466,
+    "shape": 472,
     "tag": "SPAN",
     "visibleText": [
       "Bestseller"
@@ -18871,7 +18864,7 @@
   },
   {
     "alt": "",
-    "area": 1209,
+    "area": 1131,
     "classList": [
       "text-body-smaller",
       "text-truncate"
@@ -18882,7 +18875,7 @@
     "isButton": false,
     "location": {
       "height": 13,
-      "width": 93,
+      "width": 87,
       "x": 904,
       "y": 851
     },
@@ -18929,7 +18922,7 @@
       "FREE",
       "shipping"
     ],
-    "shape": 715,
+    "shape": 669,
     "tag": "SPAN",
     "visibleText": [
       "FREE",
@@ -18939,7 +18932,7 @@
   },
   {
     "alt": "",
-    "area": 1674,
+    "area": 1479,
     "classList": [
       "wt-badge",
       "wt-badge--small",
@@ -18950,10 +18943,10 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]/div[2]/div[1]/div[2]/span[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 93,
+      "height": 17,
+      "width": 87,
       "x": 904,
-      "y": 849
+      "y": 850
     },
     "name": null,
     "neighborText": [
@@ -18976,10 +18969,12 @@
       "of",
       "5",
       "stars",
+      "(114,152)",
+      "114,152",
+      "reviews",
       "$",
       "19.50",
       "26.00",
-      "(114,152)",
       "CaitlynMinimalist",
       "From",
       "shop",
@@ -18999,7 +18994,7 @@
       "(25%",
       "off)"
     ],
-    "shape": 516,
+    "shape": 511,
     "tag": "SPAN",
     "visibleText": [
       "FREE",
@@ -21382,6 +21377,9 @@
       "ChefandBakerCo",
       "27.50",
       "FREE",
+      "shipping",
+      "$27.50",
+      "FREE",
       "shipping"
     ],
     "shape": 110,
@@ -21712,7 +21710,7 @@
   },
   {
     "alt": "",
-    "area": 1209,
+    "area": 1131,
     "classList": [
       "text-body-smaller",
       "no-wrap"
@@ -21723,7 +21721,7 @@
     "isButton": false,
     "location": {
       "height": 13,
-      "width": 93,
+      "width": 87,
       "x": 1185,
       "y": 826
     },
@@ -21747,12 +21745,12 @@
       "(87)",
       "87",
       "reviews",
-      "FREE",
-      "shipping",
       "$",
-      "27.50"
+      "27.50",
+      "FREE",
+      "shipping"
     ],
-    "shape": 715,
+    "shape": 669,
     "tag": "SPAN",
     "visibleText": [
       "FREE",
@@ -21762,7 +21760,7 @@
   },
   {
     "alt": "",
-    "area": 1674,
+    "area": 1479,
     "classList": [
       "wt-badge",
       "wt-badge--small",
@@ -21773,10 +21771,10 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[5]/a[1]/div[2]/div[1]/span[1]/span[3]/span[1]",
     "isButton": false,
     "location": {
-      "height": 18,
-      "width": 93,
+      "height": 17,
+      "width": 87,
       "x": 1185,
-      "y": 824
+      "y": 825
     },
     "name": null,
     "neighborText": [
@@ -21801,7 +21799,7 @@
       "$",
       "27.50"
     ],
-    "shape": 516,
+    "shape": 511,
     "tag": "SPAN",
     "visibleText": [
       "FREE",
@@ -22352,7 +22350,7 @@
   },
   {
     "alt": "",
-    "area": 22454,
+    "area": 22660,
     "classList": [
       "v2-listing-card__info"
     ],
@@ -22361,14 +22359,14 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]/div[2]",
     "isButton": false,
     "location": {
-      "height": 109,
+      "height": 110,
       "width": 206,
       "x": 1353,
       "y": 755
     },
     "name": null,
     "neighborText": [],
-    "shape": 188,
+    "shape": 187,
     "tag": "DIV",
     "visibleText": [
       "Fire",
@@ -22409,21 +22407,21 @@
   },
   {
     "alt": "",
-    "area": 22042,
+    "area": 22248,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 107,
+      "height": 108,
       "width": 206,
       "x": 1353,
       "y": 757
     },
     "name": null,
     "neighborText": [],
-    "shape": 192,
+    "shape": 190,
     "tag": "DIV",
     "visibleText": [
       "Fire",
@@ -23099,8 +23097,8 @@
       "FREE",
       "shipping",
       "$",
-      "Bestseller",
       "5.00",
+      "Bestseller",
       "$5.00"
     ],
     "shape": 500,
@@ -23169,8 +23167,8 @@
       "FREE",
       "shipping",
       "$",
-      "Bestseller",
       "5.00",
+      "Bestseller",
       "$5.00"
     ],
     "shape": 100,
@@ -23236,8 +23234,8 @@
       "FREE",
       "shipping",
       "$",
-      "Bestseller",
       "5.00",
+      "Bestseller",
       "$5.00"
     ],
     "shape": 100,
@@ -24296,7 +24294,7 @@
   },
   {
     "alt": "",
-    "area": 1494,
+    "area": 1404,
     "classList": [
       "wt-badge",
       "wt-badge--small",
@@ -24308,9 +24306,9 @@
     "isButton": false,
     "location": {
       "height": 18,
-      "width": 83,
+      "width": 78,
       "x": 1353,
-      "y": 846
+      "y": 847
     },
     "name": null,
     "neighborText": [
@@ -24346,7 +24344,7 @@
       "787",
       "reviews"
     ],
-    "shape": 461,
+    "shape": 433,
     "tag": "SPAN",
     "visibleText": [
       "Bestseller"
@@ -24457,7 +24455,7 @@
   },
   {
     "alt": "",
-    "area": 672,
+    "area": 572,
     "classList": [
       "display-inline-block"
     ],
@@ -24466,10 +24464,10 @@
     "idxpath": "//*[@id='content']/div[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]/div[2]/div[1]/span[2]/span[2]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 56,
+      "height": 11,
+      "width": 52,
       "x": 1374,
-      "y": 849
+      "y": 850
     },
     "name": null,
     "neighborText": [
@@ -24494,6 +24492,9 @@
       "of",
       "5",
       "stars",
+      "(787)",
+      "787",
+      "reviews",
       "5.00",
       "$5.00",
       "jordydraws",
@@ -24509,7 +24510,7 @@
       "787",
       "reviews"
     ],
-    "shape": 466,
+    "shape": 472,
     "tag": "SPAN",
     "visibleText": [
       "Bestseller"

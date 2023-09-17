@@ -1,14 +1,14 @@
 [
   {
     "alt": "",
-    "area": 14870448,
+    "area": 14802960,
     "classList": [],
     "href": "",
     "id": "app",
     "idxpath": "//*[@id='app']",
     "isButton": false,
     "location": {
-      "height": 8373,
+      "height": 8335,
       "width": 1776,
       "x": 8,
       "y": 8
@@ -1395,7 +1395,7 @@
   },
   {
     "alt": "",
-    "area": 33930,
+    "area": 31590,
     "classList": [
       "css-8pe5zk"
     ],
@@ -1404,14 +1404,14 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]",
     "isButton": false,
     "location": {
-      "height": 29,
+      "height": 27,
       "width": 1170,
       "x": 311,
       "y": 14
     },
     "name": null,
     "neighborText": [],
-    "shape": 4034,
+    "shape": 4333,
     "tag": "DIV",
     "visibleText": [
       "U.S.INTERNATIONALCANADAESPAÑOL中文"
@@ -1420,7 +1420,7 @@
   },
   {
     "alt": "",
-    "area": 975,
+    "area": 805,
     "classList": [
       "css-vktqhz"
     ],
@@ -1429,9 +1429,9 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 39,
-      "x": 756,
+      "height": 23,
+      "width": 35,
+      "x": 775,
       "y": 17
     },
     "name": null,
@@ -1439,7 +1439,7 @@
       "U.S.",
       "INTERNATIONAL"
     ],
-    "shape": 156,
+    "shape": 152,
     "tag": "LI",
     "visibleText": [
       "U.S."
@@ -1448,7 +1448,7 @@
   },
   {
     "alt": "",
-    "area": 975,
+    "area": 805,
     "classList": [
       "css-ogiugu"
     ],
@@ -1457,16 +1457,16 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 39,
-      "x": 756,
+      "height": 23,
+      "width": 35,
+      "x": 775,
       "y": 17
     },
     "name": "",
     "neighborText": [
       "INTERNATIONAL"
     ],
-    "shape": 156,
+    "shape": 152,
     "tag": "A",
     "visibleText": [
       "U.S."
@@ -1475,7 +1475,7 @@
   },
   {
     "alt": "",
-    "area": 2675,
+    "area": 2116,
     "classList": [
       "css-1vlye70"
     ],
@@ -1484,18 +1484,18 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 107,
-      "x": 796,
+      "height": 23,
+      "width": 92,
+      "x": 811,
       "y": 17
     },
     "name": null,
     "neighborText": [
+      "INTERNATIONAL",
       "CANADA",
-      "U.S.",
-      "INTERNATIONAL"
+      "U.S."
     ],
-    "shape": 428,
+    "shape": 400,
     "tag": "LI",
     "visibleText": [
       "INTERNATIONAL"
@@ -1504,7 +1504,7 @@
   },
   {
     "alt": "",
-    "area": 2675,
+    "area": 2116,
     "classList": [
       "css-ogiugu"
     ],
@@ -1513,9 +1513,9 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 107,
-      "x": 796,
+      "height": 23,
+      "width": 92,
+      "x": 811,
       "y": 17
     },
     "name": "",
@@ -1523,7 +1523,7 @@
       "CANADA",
       "U.S."
     ],
-    "shape": 428,
+    "shape": 400,
     "tag": "A",
     "visibleText": [
       "INTERNATIONAL"
@@ -1532,7 +1532,7 @@
   },
   {
     "alt": "",
-    "area": 1550,
+    "area": 1265,
     "classList": [
       "css-1vlye70"
     ],
@@ -1541,18 +1541,17 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 62,
-      "x": 903,
+      "height": 23,
+      "width": 55,
+      "x": 904,
       "y": 17
     },
     "name": null,
     "neighborText": [
-      "CANADA",
       "ESPAÑOL",
       "INTERNATIONAL"
     ],
-    "shape": 248,
+    "shape": 239,
     "tag": "LI",
     "visibleText": [
       "CANADA"
@@ -1561,7 +1560,7 @@
   },
   {
     "alt": "",
-    "area": 1550,
+    "area": 1265,
     "classList": [
       "css-ogiugu"
     ],
@@ -1570,9 +1569,9 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 62,
-      "x": 903,
+      "height": 23,
+      "width": 55,
+      "x": 904,
       "y": 17
     },
     "name": "",
@@ -1580,7 +1579,7 @@
       "ESPAÑOL",
       "INTERNATIONAL"
     ],
-    "shape": 248,
+    "shape": 239,
     "tag": "A",
     "visibleText": [
       "CANADA"
@@ -1589,7 +1588,7 @@
   },
   {
     "alt": "",
-    "area": 1700,
+    "area": 1380,
     "classList": [
       "css-1vlye70"
     ],
@@ -1598,9 +1597,9 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 68,
-      "x": 965,
+      "height": 23,
+      "width": 60,
+      "x": 959,
       "y": 17
     },
     "name": null,
@@ -1609,7 +1608,7 @@
       "中文",
       "CANADA"
     ],
-    "shape": 272,
+    "shape": 260,
     "tag": "LI",
     "visibleText": [
       "ESPAÑOL"
@@ -1618,7 +1617,7 @@
   },
   {
     "alt": "",
-    "area": 1700,
+    "area": 1380,
     "classList": [
       "css-ogiugu"
     ],
@@ -1627,9 +1626,9 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 25,
-      "width": 68,
-      "x": 965,
+      "height": 23,
+      "width": 60,
+      "x": 959,
       "y": 17
     },
     "name": "",
@@ -1637,7 +1636,7 @@
       "中文",
       "CANADA"
     ],
-    "shape": 272,
+    "shape": 260,
     "tag": "A",
     "visibleText": [
       "ESPAÑOL"
@@ -1646,7 +1645,7 @@
   },
   {
     "alt": "",
-    "area": 1160,
+    "area": 972,
     "classList": [
       "css-1vlye70"
     ],
@@ -1655,9 +1654,9 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 29,
-      "width": 40,
-      "x": 1034,
+      "height": 27,
+      "width": 36,
+      "x": 1019,
       "y": 14
     },
     "name": null,
@@ -1665,7 +1664,7 @@
       "中文",
       "ESPAÑOL"
     ],
-    "shape": 137,
+    "shape": 133,
     "tag": "LI",
     "visibleText": [
       "中文"
@@ -1674,7 +1673,7 @@
   },
   {
     "alt": "",
-    "area": 1160,
+    "area": 972,
     "classList": [
       "css-ogiugu"
     ],
@@ -1683,16 +1682,16 @@
     "idxpath": "//*[@id='app']/div[1]/div[1]/header[1]/section[1]/div[3]/ul[1]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 29,
-      "width": 40,
-      "x": 1034,
+      "height": 27,
+      "width": 36,
+      "x": 1019,
       "y": 14
     },
     "name": "",
     "neighborText": [
       "ESPAÑOL"
     ],
-    "shape": 137,
+    "shape": 133,
     "tag": "A",
     "visibleText": [
       "中文"
@@ -3217,14 +3216,14 @@
   },
   {
     "alt": "",
-    "area": 14568528,
+    "area": 14501040,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='app']/div[2]",
     "isButton": false,
     "location": {
-      "height": 8203,
+      "height": 8165,
       "width": 1776,
       "x": 8,
       "y": 178
@@ -8460,7 +8459,7 @@
   },
   {
     "alt": "",
-    "area": 2562,
+    "area": 1836,
     "classList": [
       "credit"
     ],
@@ -8469,14 +8468,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 183,
-      "x": 1797,
-      "y": 1409
+      "height": 12,
+      "width": 153,
+      "x": 1827,
+      "y": 1411
     },
     "name": null,
     "neighborText": [],
-    "shape": 1307,
+    "shape": 1275,
     "tag": "SPAN",
     "visibleText": [
       "Al",
@@ -11684,7 +11683,7 @@
   },
   {
     "alt": "",
-    "area": 3276,
+    "area": 2352,
     "classList": [
       "credit"
     ],
@@ -11693,14 +11692,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[4]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 234,
-      "x": 1746,
-      "y": 2764
+      "height": 12,
+      "width": 196,
+      "x": 1784,
+      "y": 2765
     },
     "name": null,
     "neighborText": [],
-    "shape": 1671,
+    "shape": 1633,
     "tag": "SPAN",
     "visibleText": [
       "Kriston",
@@ -12599,7 +12598,7 @@
   },
   {
     "alt": "",
-    "area": 3164,
+    "area": 2280,
     "classList": [
       "credit"
     ],
@@ -12608,14 +12607,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[5]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 226,
-      "x": 1754,
-      "y": 3537
+      "height": 12,
+      "width": 190,
+      "x": 1790,
+      "y": 3538
     },
     "name": null,
     "neighborText": [],
-    "shape": 1614,
+    "shape": 1583,
     "tag": "SPAN",
     "visibleText": [
       "Carlos",
@@ -13160,7 +13159,7 @@
   },
   {
     "alt": "",
-    "area": 2800,
+    "area": 2016,
     "classList": [
       "credit"
     ],
@@ -13169,14 +13168,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[6]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 200,
-      "x": 1780,
-      "y": 4236
+      "height": 12,
+      "width": 168,
+      "x": 1812,
+      "y": 4238
     },
     "name": null,
     "neighborText": [],
-    "shape": 1428,
+    "shape": 1400,
     "tag": "SPAN",
     "visibleText": [
       "Rene",
@@ -14148,7 +14147,7 @@
   },
   {
     "alt": "",
-    "area": 8344,
+    "area": 6000,
     "classList": [
       "credit"
     ],
@@ -14157,14 +14156,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[7]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[2]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 596,
-      "x": 1384,
-      "y": 5545
+      "height": 12,
+      "width": 500,
+      "x": 1480,
+      "y": 5547
     },
     "name": null,
     "neighborText": [],
-    "shape": 4257,
+    "shape": 4166,
     "tag": "SPAN",
     "visibleText": [
       "Johnny",
@@ -16089,7 +16088,7 @@
   },
   {
     "alt": "",
-    "area": 59136,
+    "area": 55552,
     "classList": [
       "css-131kqdc"
     ],
@@ -16098,14 +16097,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/h3[1]",
     "isButton": false,
     "location": {
-      "height": 33,
+      "height": 31,
       "width": 1792,
       "x": 577,
       "y": 5688
     },
     "name": null,
     "neighborText": [],
-    "shape": 5430,
+    "shape": 5780,
     "tag": "H3",
     "visibleText": [
       "ADVERTISEMENT"
@@ -16124,7 +16123,7 @@
       "height": 1,
       "width": 1,
       "x": 576,
-      "y": 5730
+      "y": 5728
     },
     "name": "",
     "neighborText": [],
@@ -16991,7 +16990,7 @@
   },
   {
     "alt": "",
-    "area": 3276,
+    "area": 2352,
     "classList": [
       "credit"
     ],
@@ -17000,14 +16999,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 234,
-      "x": 1762,
-      "y": 6546
+      "height": 12,
+      "width": 196,
+      "x": 1800,
+      "y": 6548
     },
     "name": null,
     "neighborText": [],
-    "shape": 1671,
+    "shape": 1633,
     "tag": "SPAN",
     "visibleText": [
       "David",
@@ -17628,7 +17627,7 @@
   },
   {
     "alt": "",
-    "area": 3248,
+    "area": 2340,
     "classList": [
       "credit"
     ],
@@ -17637,14 +17636,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[4]/div[1]/section[1]/div[1]/div[2]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 232,
-      "x": 1764,
-      "y": 7231
+      "height": 12,
+      "width": 195,
+      "x": 1801,
+      "y": 7233
     },
     "name": null,
     "neighborText": [],
-    "shape": 1657,
+    "shape": 1625,
     "tag": "SPAN",
     "visibleText": [
       "Michael",
@@ -21092,7 +21091,7 @@
   },
   {
     "alt": "",
-    "area": 4886,
+    "area": 3504,
     "classList": [
       "credit"
     ],
@@ -21101,14 +21100,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 349,
-      "x": 2236,
-      "y": 6549
+      "height": 12,
+      "width": 292,
+      "x": 2292,
+      "y": 6551
     },
     "name": null,
     "neighborText": [],
-    "shape": 2492,
+    "shape": 2433,
     "tag": "SPAN",
     "visibleText": [
       "Craig",
@@ -21720,7 +21719,7 @@
   },
   {
     "alt": "",
-    "area": 1834,
+    "area": 1308,
     "classList": [
       "credit"
     ],
@@ -21729,14 +21728,14 @@
     "idxpath": "//*[@id='site-content']/div[1]/div[2]/div[1]/div[5]/section[1]/div[1]/div[2]/div[1]/article[1]/div[1]/div[1]/div[1]/a[1]/div[1]/figure[1]/figcaption[1]/section[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 14,
-      "width": 131,
-      "x": 2454,
-      "y": 7269
+      "height": 12,
+      "width": 109,
+      "x": 2475,
+      "y": 7270
     },
     "name": null,
     "neighborText": [],
-    "shape": 935,
+    "shape": 908,
     "tag": "SPAN",
     "visibleText": [
       "Illustration",
@@ -22296,7 +22295,7 @@
   },
   {
     "alt": "",
-    "area": 607200,
+    "area": 562800,
     "classList": [
       "css-uw59u"
     ],
@@ -22305,14 +22304,14 @@
     "idxpath": "//*[@id='site-index']/div[1]",
     "isButton": false,
     "location": {
-      "height": 506,
+      "height": 469,
       "width": 1200,
       "x": 296,
       "y": 7791
     },
     "name": null,
     "neighborText": [],
-    "shape": 237,
+    "shape": 255,
     "tag": "DIV",
     "visibleText": [
       "NEWS",
@@ -22480,7 +22479,7 @@
   },
   {
     "alt": "",
-    "area": 542400,
+    "area": 498000,
     "classList": [
       "css-v0l3hm"
     ],
@@ -22489,14 +22488,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]",
     "isButton": false,
     "location": {
-      "height": 452,
+      "height": 415,
       "width": 1200,
       "x": 296,
       "y": 7845
     },
     "name": null,
     "neighborText": [],
-    "shape": 265,
+    "shape": 289,
     "tag": "DIV",
     "visibleText": [
       "NEWS",
@@ -22616,7 +22615,7 @@
   },
   {
     "alt": "",
-    "area": 542400,
+    "area": 498000,
     "classList": [
       "css-g4gku8"
     ],
@@ -22625,14 +22624,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]",
     "isButton": false,
     "location": {
-      "height": 452,
+      "height": 415,
       "width": 1200,
       "x": 296,
       "y": 7845
     },
     "name": null,
     "neighborText": [],
-    "shape": 265,
+    "shape": 289,
     "tag": "DIV",
     "visibleText": [
       "NEWS",
@@ -22777,7 +22776,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -22786,14 +22785,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
       "y": 7870
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Home",
@@ -22815,7 +22814,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 7875
+      "y": 7873
     },
     "name": "",
     "neighborText": [],
@@ -22829,7 +22828,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -22838,14 +22837,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 7898
+      "y": 7896
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "World"
@@ -22866,7 +22865,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 7904
+      "y": 7899
     },
     "name": "",
     "neighborText": [],
@@ -22879,7 +22878,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -22888,14 +22887,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 7927
+      "y": 7922
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Coronavirus"
@@ -22916,7 +22915,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 7932
+      "y": 7925
     },
     "name": "",
     "neighborText": [],
@@ -22929,7 +22928,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -22938,14 +22937,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 7955
+      "y": 7948
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "U.S."
@@ -22966,7 +22965,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 7961
+      "y": 7951
     },
     "name": "",
     "neighborText": [],
@@ -22979,7 +22978,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -22988,14 +22987,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 7984
+      "y": 7974
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Politics"
@@ -23016,7 +23015,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 7989
+      "y": 7977
     },
     "name": "",
     "neighborText": [],
@@ -23029,7 +23028,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23038,14 +23037,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[6]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8012
+      "y": 8000
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Election",
@@ -23067,7 +23066,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8018
+      "y": 8003
     },
     "name": "",
     "neighborText": [],
@@ -23081,7 +23080,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23090,14 +23089,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[7]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8041
+      "y": 8026
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "New",
@@ -23119,7 +23118,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8046
+      "y": 8029
     },
     "name": "",
     "neighborText": [],
@@ -23133,7 +23132,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23142,14 +23141,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[8]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8069
+      "y": 8052
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Business"
@@ -23170,7 +23169,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8075
+      "y": 8055
     },
     "name": "",
     "neighborText": [],
@@ -23183,7 +23182,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23192,14 +23191,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[9]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8098
+      "y": 8078
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Tech"
@@ -23220,7 +23219,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8103
+      "y": 8081
     },
     "name": "",
     "neighborText": [],
@@ -23233,7 +23232,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23242,14 +23241,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[10]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8126
+      "y": 8104
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Science"
@@ -23270,7 +23269,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8132
+      "y": 8107
     },
     "name": "",
     "neighborText": [],
@@ -23283,7 +23282,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23292,14 +23291,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[12]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8155
+      "y": 8130
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Sports"
@@ -23320,7 +23319,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8160
+      "y": 8133
     },
     "name": "",
     "neighborText": [],
@@ -23333,7 +23332,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23342,14 +23341,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[13]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8183
+      "y": 8156
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Obituaries"
@@ -23370,7 +23369,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8189
+      "y": 8159
     },
     "name": "",
     "neighborText": [],
@@ -23383,7 +23382,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23392,14 +23391,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[19]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8212
+      "y": 8182
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Today's",
@@ -23421,7 +23420,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8217
+      "y": 8185
     },
     "name": "",
     "neighborText": [],
@@ -23435,7 +23434,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23444,14 +23443,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[1]/ul[1]/li[20]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 296,
-      "y": 8240
+      "y": 8208
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Corrections"
@@ -23472,7 +23471,7 @@
       "height": 23,
       "width": 150,
       "x": 296,
-      "y": 8246
+      "y": 8211
     },
     "name": "",
     "neighborText": [],
@@ -23510,7 +23509,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23519,14 +23518,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[2]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 493,
       "y": 7870
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Today's",
@@ -23548,7 +23547,7 @@
       "height": 23,
       "width": 150,
       "x": 493,
-      "y": 7875
+      "y": 7873
     },
     "name": "",
     "neighborText": [],
@@ -23562,7 +23561,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23571,14 +23570,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[2]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 493,
-      "y": 7898
+      "y": 7896
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Op-Ed",
@@ -23600,7 +23599,7 @@
       "height": 23,
       "width": 150,
       "x": 493,
-      "y": 7904
+      "y": 7899
     },
     "name": "",
     "neighborText": [],
@@ -23614,7 +23613,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23623,14 +23622,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[2]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 493,
-      "y": 7927
+      "y": 7922
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Editorials"
@@ -23651,7 +23650,7 @@
       "height": 23,
       "width": 150,
       "x": 493,
-      "y": 7932
+      "y": 7925
     },
     "name": "",
     "neighborText": [],
@@ -23664,7 +23663,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23673,14 +23672,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[2]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 493,
-      "y": 7955
+      "y": 7948
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Op-Ed",
@@ -23702,7 +23701,7 @@
       "height": 23,
       "width": 150,
       "x": 493,
-      "y": 7961
+      "y": 7951
     },
     "name": "",
     "neighborText": [],
@@ -23716,7 +23715,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23725,14 +23724,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[2]/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 493,
-      "y": 7984
+      "y": 7974
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Letters"
@@ -23753,7 +23752,7 @@
       "height": 23,
       "width": 150,
       "x": 493,
-      "y": 7989
+      "y": 7977
     },
     "name": "",
     "neighborText": [],
@@ -23766,7 +23765,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23775,14 +23774,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[2]/ul[1]/li[6]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 493,
-      "y": 8012
+      "y": 8000
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Sunday",
@@ -23804,7 +23803,7 @@
       "height": 23,
       "width": 150,
       "x": 493,
-      "y": 8018
+      "y": 8003
     },
     "name": "",
     "neighborText": [],
@@ -23818,7 +23817,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23827,14 +23826,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[2]/ul[1]/li[7]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 493,
-      "y": 8041
+      "y": 8026
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Video:",
@@ -23856,7 +23855,7 @@
       "height": 23,
       "width": 150,
       "x": 493,
-      "y": 8046
+      "y": 8029
     },
     "name": "",
     "neighborText": [],
@@ -23895,7 +23894,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23904,14 +23903,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
       "y": 7870
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Today's",
@@ -23933,7 +23932,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 7875
+      "y": 7873
     },
     "name": "",
     "neighborText": [],
@@ -23947,7 +23946,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -23956,14 +23955,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 7898
+      "y": 7896
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Art",
@@ -23986,7 +23985,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 7904
+      "y": 7899
     },
     "name": "",
     "neighborText": [],
@@ -24001,7 +24000,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24010,14 +24009,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 7927
+      "y": 7922
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Books"
@@ -24038,7 +24037,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 7932
+      "y": 7925
     },
     "name": "",
     "neighborText": [],
@@ -24051,7 +24050,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24060,14 +24059,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 7955
+      "y": 7948
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Dance"
@@ -24088,7 +24087,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 7961
+      "y": 7951
     },
     "name": "",
     "neighborText": [],
@@ -24101,7 +24100,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24110,14 +24109,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 7984
+      "y": 7974
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Movies"
@@ -24138,7 +24137,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 7989
+      "y": 7977
     },
     "name": "",
     "neighborText": [],
@@ -24151,7 +24150,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24160,14 +24159,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[6]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 8012
+      "y": 8000
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Music"
@@ -24188,7 +24187,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 8018
+      "y": 8003
     },
     "name": "",
     "neighborText": [],
@@ -24201,7 +24200,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24210,14 +24209,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[7]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 8041
+      "y": 8026
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Pop",
@@ -24239,7 +24238,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 8046
+      "y": 8029
     },
     "name": "",
     "neighborText": [],
@@ -24253,7 +24252,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24262,14 +24261,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[8]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 8069
+      "y": 8052
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Television"
@@ -24290,7 +24289,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 8075
+      "y": 8055
     },
     "name": "",
     "neighborText": [],
@@ -24303,7 +24302,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24312,14 +24311,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[9]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 8098
+      "y": 8078
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Theater"
@@ -24340,7 +24339,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 8103
+      "y": 8081
     },
     "name": "",
     "neighborText": [],
@@ -24353,7 +24352,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24362,14 +24361,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[3]/ul[1]/li[11]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 690,
-      "y": 8126
+      "y": 8104
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Video:",
@@ -24391,7 +24390,7 @@
       "height": 23,
       "width": 150,
       "x": 690,
-      "y": 8132
+      "y": 8107
     },
     "name": "",
     "neighborText": [],
@@ -24430,7 +24429,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24439,14 +24438,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
       "y": 7870
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "At",
@@ -24468,7 +24467,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 7875
+      "y": 7873
     },
     "name": "",
     "neighborText": [],
@@ -24482,7 +24481,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24491,14 +24490,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 7898
+      "y": 7896
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Automobiles"
@@ -24519,7 +24518,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 7904
+      "y": 7899
     },
     "name": "",
     "neighborText": [],
@@ -24532,7 +24531,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24541,14 +24540,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 7927
+      "y": 7922
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Games"
@@ -24569,7 +24568,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 7932
+      "y": 7925
     },
     "name": "",
     "neighborText": [],
@@ -24582,7 +24581,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24591,14 +24590,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 7955
+      "y": 7948
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Education"
@@ -24619,7 +24618,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 7961
+      "y": 7951
     },
     "name": "",
     "neighborText": [],
@@ -24632,7 +24631,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24641,14 +24640,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 7984
+      "y": 7974
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Food"
@@ -24669,7 +24668,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 7989
+      "y": 7977
     },
     "name": "",
     "neighborText": [],
@@ -24682,7 +24681,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24691,14 +24690,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[6]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8012
+      "y": 8000
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Health"
@@ -24719,7 +24718,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8018
+      "y": 8003
     },
     "name": "",
     "neighborText": [],
@@ -24732,7 +24731,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24741,14 +24740,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[7]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8041
+      "y": 8026
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Jobs"
@@ -24769,7 +24768,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8046
+      "y": 8029
     },
     "name": "",
     "neighborText": [],
@@ -24782,7 +24781,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24791,14 +24790,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[8]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8069
+      "y": 8052
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Love"
@@ -24819,7 +24818,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8075
+      "y": 8055
     },
     "name": "",
     "neighborText": [],
@@ -24832,7 +24831,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24841,14 +24840,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[9]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8098
+      "y": 8078
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Magazine"
@@ -24869,7 +24868,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8103
+      "y": 8081
     },
     "name": "",
     "neighborText": [],
@@ -24882,7 +24881,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24891,14 +24890,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[10]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8126
+      "y": 8104
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Parenting"
@@ -24919,7 +24918,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8132
+      "y": 8107
     },
     "name": "",
     "neighborText": [],
@@ -24932,7 +24931,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24941,14 +24940,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[11]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8155
+      "y": 8130
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Real",
@@ -24970,7 +24969,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8160
+      "y": 8133
     },
     "name": "",
     "neighborText": [],
@@ -24984,7 +24983,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -24993,14 +24992,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[12]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8183
+      "y": 8156
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Recipes"
@@ -25021,7 +25020,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8189
+      "y": 8159
     },
     "name": "",
     "neighborText": [],
@@ -25034,7 +25033,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25043,14 +25042,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[13]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8212
+      "y": 8182
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Style"
@@ -25071,7 +25070,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8217
+      "y": 8185
     },
     "name": "",
     "neighborText": [],
@@ -25084,7 +25083,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25093,14 +25092,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[14]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8240
+      "y": 8208
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "T",
@@ -25122,7 +25121,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8246
+      "y": 8211
     },
     "name": "",
     "neighborText": [],
@@ -25136,7 +25135,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25145,14 +25144,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[4]/ul[1]/li[15]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 888,
-      "y": 8269
+      "y": 8234
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Travel"
@@ -25173,7 +25172,7 @@
       "height": 23,
       "width": 150,
       "x": 888,
-      "y": 8274
+      "y": 8237
     },
     "name": "",
     "neighborText": [],
@@ -25211,7 +25210,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25220,14 +25219,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
       "y": 7870
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Reader",
@@ -25249,7 +25248,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 7875
+      "y": 7873
     },
     "name": "",
     "neighborText": [],
@@ -25263,7 +25262,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25272,14 +25271,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 7898
+      "y": 7896
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Wirecutter"
@@ -25300,7 +25299,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 7904
+      "y": 7899
     },
     "name": "",
     "neighborText": [],
@@ -25313,7 +25312,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25322,14 +25321,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 7927
+      "y": 7922
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Live",
@@ -25351,7 +25350,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 7932
+      "y": 7925
     },
     "name": "",
     "neighborText": [],
@@ -25365,7 +25364,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25374,14 +25373,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 7955
+      "y": 7948
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "The",
@@ -25404,7 +25403,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 7961
+      "y": 7951
     },
     "name": "",
     "neighborText": [],
@@ -25419,7 +25418,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25428,14 +25427,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[5]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 7984
+      "y": 7974
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Tools",
@@ -25458,7 +25457,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 7989
+      "y": 7977
     },
     "name": "",
     "neighborText": [],
@@ -25473,7 +25472,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25482,14 +25481,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[6]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8012
+      "y": 8000
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Multimedia"
@@ -25510,7 +25509,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8018
+      "y": 8003
     },
     "name": "",
     "neighborText": [],
@@ -25523,7 +25522,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25532,14 +25531,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[7]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8041
+      "y": 8026
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Photography"
@@ -25560,7 +25559,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8046
+      "y": 8029
     },
     "name": "",
     "neighborText": [],
@@ -25573,7 +25572,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25582,14 +25581,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[8]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8069
+      "y": 8052
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Video"
@@ -25610,7 +25609,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8075
+      "y": 8055
     },
     "name": "",
     "neighborText": [],
@@ -25623,7 +25622,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25632,14 +25631,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[9]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8098
+      "y": 8078
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Newsletters"
@@ -25660,7 +25659,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8103
+      "y": 8081
     },
     "name": "",
     "neighborText": [],
@@ -25673,7 +25672,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25682,14 +25681,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[10]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8126
+      "y": 8104
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "TimesMachine"
@@ -25710,7 +25709,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8132
+      "y": 8107
     },
     "name": "",
     "neighborText": [],
@@ -25723,7 +25722,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25732,14 +25731,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[11]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8155
+      "y": 8130
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "NYT",
@@ -25761,7 +25760,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8160
+      "y": 8133
     },
     "name": "",
     "neighborText": [],
@@ -25775,7 +25774,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25784,14 +25783,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[12]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8183
+      "y": 8156
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Times",
@@ -25813,7 +25812,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8189
+      "y": 8159
     },
     "name": "",
     "neighborText": [],
@@ -25827,7 +25826,7 @@
   },
   {
     "alt": "",
-    "area": 5516,
+    "area": 5122,
     "classList": [
       "css-ist4u3"
     ],
@@ -25836,14 +25835,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/section[5]/ul[1]/li[13]",
     "isButton": false,
     "location": {
-      "height": 28,
+      "height": 26,
       "width": 197,
       "x": 1085,
-      "y": 8212
+      "y": 8182
     },
     "name": null,
     "neighborText": [],
-    "shape": 703,
+    "shape": 757,
     "tag": "LI",
     "visibleText": [
       "Manage",
@@ -25866,7 +25865,7 @@
       "height": 23,
       "width": 150,
       "x": 1085,
-      "y": 8217
+      "y": 8185
     },
     "name": "",
     "neighborText": [],
@@ -25881,7 +25880,7 @@
   },
   {
     "alt": "",
-    "area": 96276,
+    "area": 88395,
     "classList": [
       "css-6xhk3s"
     ],
@@ -25890,14 +25889,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]",
     "isButton": false,
     "location": {
-      "height": 452,
+      "height": 415,
       "width": 213,
       "x": 1282,
       "y": 7845
     },
     "name": null,
     "neighborText": [],
-    "shape": 47,
+    "shape": 51,
     "tag": "DIV",
     "visibleText": [
       "SUBSCRIBE",
@@ -25951,7 +25950,7 @@
   },
   {
     "alt": "",
-    "area": 5910,
+    "area": 5319,
     "classList": [
       "css-tj0ten"
     ],
@@ -25960,14 +25959,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 30,
+      "height": 27,
       "width": 197,
       "x": 1298,
       "y": 7870
     },
     "name": null,
     "neighborText": [],
-    "shape": 656,
+    "shape": 729,
     "tag": "LI",
     "visibleText": [
       "Home",
@@ -25989,7 +25988,7 @@
       "height": 25,
       "width": 150,
       "x": 1298,
-      "y": 7875
+      "y": 7872
     },
     "name": "",
     "neighborText": [],
@@ -26015,7 +26014,7 @@
       "height": 13,
       "width": 13,
       "x": 1298,
-      "y": 7876
+      "y": 7874
     },
     "name": null,
     "neighborText": [],
@@ -26028,7 +26027,7 @@
   },
   {
     "alt": "",
-    "area": 5910,
+    "area": 5319,
     "classList": [
       "css-tj0ten"
     ],
@@ -26037,14 +26036,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]",
     "isButton": false,
     "location": {
-      "height": 30,
+      "height": 27,
       "width": 197,
       "x": 1298,
-      "y": 7905
+      "y": 7902
     },
     "name": null,
     "neighborText": [],
-    "shape": 656,
+    "shape": 729,
     "tag": "LI",
     "visibleText": [
       "Digital",
@@ -26066,7 +26065,7 @@
       "height": 25,
       "width": 150,
       "x": 1298,
-      "y": 7910
+      "y": 7905
     },
     "name": "",
     "neighborText": [],
@@ -26092,7 +26091,7 @@
       "height": 13,
       "width": 13,
       "x": 1298,
-      "y": 7911
+      "y": 7906
     },
     "name": null,
     "neighborText": [],
@@ -26105,7 +26104,7 @@
   },
   {
     "alt": "",
-    "area": 5910,
+    "area": 5319,
     "classList": [
       "css-tj0ten"
     ],
@@ -26114,14 +26113,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]",
     "isButton": false,
     "location": {
-      "height": 30,
+      "height": 27,
       "width": 197,
       "x": 1298,
-      "y": 7940
+      "y": 7935
     },
     "name": null,
     "neighborText": [],
-    "shape": 656,
+    "shape": 729,
     "tag": "LI",
     "visibleText": [
       "Games"
@@ -26142,7 +26141,7 @@
       "height": 25,
       "width": 150,
       "x": 1298,
-      "y": 7945
+      "y": 7937
     },
     "name": "",
     "neighborText": [],
@@ -26167,7 +26166,7 @@
       "height": 13,
       "width": 13,
       "x": 1298,
-      "y": 7946
+      "y": 7939
     },
     "name": null,
     "neighborText": [],
@@ -26180,7 +26179,7 @@
   },
   {
     "alt": "",
-    "area": 5910,
+    "area": 5319,
     "classList": [
       "css-tj0ten"
     ],
@@ -26189,14 +26188,14 @@
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]",
     "isButton": false,
     "location": {
-      "height": 30,
+      "height": 27,
       "width": 197,
       "x": 1298,
-      "y": 7975
+      "y": 7967
     },
     "name": null,
     "neighborText": [],
-    "shape": 656,
+    "shape": 729,
     "tag": "LI",
     "visibleText": [
       "Cooking"
@@ -26217,7 +26216,7 @@
       "height": 25,
       "width": 150,
       "x": 1298,
-      "y": 7980
+      "y": 7970
     },
     "name": "",
     "neighborText": [],
@@ -26242,7 +26241,7 @@
       "height": 13,
       "width": 13,
       "x": 1298,
-      "y": 7981
+      "y": 7971
     },
     "name": null,
     "neighborText": [],
@@ -26255,21 +26254,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8015
+      "y": 8005
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "Email",
@@ -26291,7 +26290,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8018
+      "y": 8006
     },
     "name": "",
     "neighborText": [],
@@ -26305,21 +26304,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8041
+      "y": 8029
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "Corporate",
@@ -26341,7 +26340,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8045
+      "y": 8030
     },
     "name": "",
     "neighborText": [],
@@ -26355,21 +26354,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8068
+      "y": 8053
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "Education",
@@ -26391,7 +26390,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8071
+      "y": 8054
     },
     "name": "",
     "neighborText": [],
@@ -26405,21 +26404,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[3]/li[1]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8107
+      "y": 8090
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "Mobile",
@@ -26441,7 +26440,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8111
+      "y": 8091
     },
     "name": "",
     "neighborText": [],
@@ -26455,21 +26454,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[3]/li[2]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8134
+      "y": 8114
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "Replica",
@@ -26491,7 +26490,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8137
+      "y": 8115
     },
     "name": "",
     "neighborText": [],
@@ -26505,21 +26504,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[3]/li[3]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8160
+      "y": 8138
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "International"
@@ -26540,7 +26539,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8164
+      "y": 8139
     },
     "name": "",
     "neighborText": [],
@@ -26553,21 +26552,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[3]/li[4]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8187
+      "y": 8162
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "Canada"
@@ -26588,7 +26587,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8190
+      "y": 8163
     },
     "name": "",
     "neighborText": [],
@@ -26601,21 +26600,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[3]/li[5]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8213
+      "y": 8186
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "Español"
@@ -26636,7 +26635,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8217
+      "y": 8187
     },
     "name": "",
     "neighborText": [],
@@ -26649,21 +26648,21 @@
   },
   {
     "alt": "",
-    "area": 5122,
+    "area": 4728,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='site-index']/div[1]/div[2]/div[1]/div[1]/ul[3]/li[6]",
     "isButton": false,
     "location": {
-      "height": 26,
+      "height": 24,
       "width": 197,
       "x": 1298,
-      "y": 8240
+      "y": 8210
     },
     "name": null,
     "neighborText": [],
-    "shape": 757,
+    "shape": 820,
     "tag": "LI",
     "visibleText": [
       "中文网"
@@ -26684,7 +26683,7 @@
       "height": 23,
       "width": 150,
       "x": 1298,
-      "y": 8243
+      "y": 8211
     },
     "name": "",
     "neighborText": [],
@@ -26709,7 +26708,7 @@
       "height": 1,
       "width": 1,
       "x": 295,
-      "y": 8315
+      "y": 8278
     },
     "name": null,
     "neighborText": [],
@@ -26724,21 +26723,21 @@
   },
   {
     "alt": "",
-    "area": 3088,
+    "area": 2301,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[1]/li[1]",
     "isButton": false,
     "location": {
-      "height": 16,
-      "width": 193,
-      "x": 319,
-      "y": 8318
+      "height": 13,
+      "width": 177,
+      "x": 357,
+      "y": 8282
     },
     "name": null,
     "neighborText": [],
-    "shape": 1206,
+    "shape": 1361,
     "tag": "LI",
     "visibleText": [
       "©",
@@ -26753,7 +26752,7 @@
   },
   {
     "alt": "",
-    "area": 6176,
+    "area": 5487,
     "classList": [
       "css-jq1cx6"
     ],
@@ -26762,14 +26761,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[1]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 193,
-      "x": 319,
-      "y": 8311
+      "height": 31,
+      "width": 177,
+      "x": 357,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 603,
+    "shape": 570,
     "tag": "A",
     "visibleText": [
       "©",
@@ -26784,21 +26783,21 @@
   },
   {
     "alt": "",
-    "area": 324,
+    "area": 275,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[1]/li[1]/a[1]/span[1]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 27,
-      "x": 331,
-      "y": 8321
+      "height": 11,
+      "width": 25,
+      "x": 368,
+      "y": 8284
     },
     "name": null,
     "neighborText": [],
-    "shape": 225,
+    "shape": 227,
     "tag": "SPAN",
     "visibleText": [
       "2020"
@@ -26807,21 +26806,21 @@
   },
   {
     "alt": "",
-    "area": 1812,
+    "area": 1529,
     "classList": [],
     "href": "",
     "id": "",
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[1]/li[1]/a[1]/span[2]",
     "isButton": false,
     "location": {
-      "height": 12,
-      "width": 151,
-      "x": 361,
-      "y": 8321
+      "height": 11,
+      "width": 139,
+      "x": 395,
+      "y": 8284
     },
     "name": null,
     "neighborText": [],
-    "shape": 1258,
+    "shape": 1263,
     "tag": "SPAN",
     "visibleText": [
       "The",
@@ -26834,7 +26833,7 @@
   },
   {
     "alt": "",
-    "area": 1134,
+    "area": 1040,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -26844,14 +26843,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[1]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 54,
-      "x": 513,
-      "y": 8316
+      "height": 20,
+      "width": 52,
+      "x": 535,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 257,
+    "shape": 260,
     "tag": "LI",
     "visibleText": [
       "NYTCo"
@@ -26860,7 +26859,7 @@
   },
   {
     "alt": "",
-    "area": 1088,
+    "area": 992,
     "classList": [
       "css-jq1cx6"
     ],
@@ -26869,14 +26868,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[1]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 34,
-      "x": 523,
-      "y": 8311
+      "height": 31,
+      "width": 32,
+      "x": 545,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 106,
+    "shape": 103,
     "tag": "A",
     "visibleText": [
       "NYTCo"
@@ -26885,7 +26884,7 @@
   },
   {
     "alt": "",
-    "area": 1575,
+    "area": 1420,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -26895,14 +26894,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[2]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 75,
-      "x": 568,
-      "y": 8316
+      "height": 20,
+      "width": 71,
+      "x": 587,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 357,
+    "shape": 355,
     "tag": "LI",
     "visibleText": [
       "Contact",
@@ -26912,7 +26911,7 @@
   },
   {
     "alt": "",
-    "area": 1760,
+    "area": 1581,
     "classList": [
       "css-jq1cx6"
     ],
@@ -26921,14 +26920,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[2]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 55,
-      "x": 578,
-      "y": 8311
+      "height": 31,
+      "width": 51,
+      "x": 597,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 171,
+    "shape": 164,
     "tag": "A",
     "visibleText": [
       "Contact",
@@ -26938,7 +26937,7 @@
   },
   {
     "alt": "",
-    "area": 1764,
+    "area": 1580,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -26948,14 +26947,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[3]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 84,
-      "x": 643,
-      "y": 8316
+      "height": 20,
+      "width": 79,
+      "x": 658,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 400,
+    "shape": 395,
     "tag": "LI",
     "visibleText": [
       "Work",
@@ -26966,7 +26965,7 @@
   },
   {
     "alt": "",
-    "area": 2048,
+    "area": 1829,
     "classList": [
       "css-jq1cx6"
     ],
@@ -26975,14 +26974,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[3]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 64,
-      "x": 653,
-      "y": 8311
+      "height": 31,
+      "width": 59,
+      "x": 668,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 200,
+    "shape": 190,
     "tag": "A",
     "visibleText": [
       "Work",
@@ -26993,7 +26992,7 @@
   },
   {
     "alt": "",
-    "area": 1407,
+    "area": 1260,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27003,14 +27002,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[4]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 67,
-      "x": 728,
-      "y": 8316
+      "height": 20,
+      "width": 63,
+      "x": 737,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 319,
+    "shape": 315,
     "tag": "LI",
     "visibleText": [
       "Advertise"
@@ -27019,7 +27018,7 @@
   },
   {
     "alt": "",
-    "area": 1504,
+    "area": 1333,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27028,14 +27027,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[4]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 47,
-      "x": 738,
-      "y": 8311
+      "height": 31,
+      "width": 43,
+      "x": 747,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 146,
+    "shape": 138,
     "tag": "A",
     "visibleText": [
       "Advertise"
@@ -27044,7 +27043,7 @@
   },
   {
     "alt": "",
-    "area": 1995,
+    "area": 1780,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27054,14 +27053,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[5]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 95,
-      "x": 796,
-      "y": 8316
+      "height": 20,
+      "width": 89,
+      "x": 801,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 452,
+    "shape": 445,
     "tag": "LI",
     "visibleText": [
       "T",
@@ -27072,7 +27071,7 @@
   },
   {
     "alt": "",
-    "area": 2400,
+    "area": 2139,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27081,14 +27080,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[5]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 75,
-      "x": 806,
-      "y": 8311
+      "height": 31,
+      "width": 69,
+      "x": 811,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 234,
+    "shape": 222,
     "tag": "A",
     "visibleText": [
       "T",
@@ -27099,7 +27098,7 @@
   },
   {
     "alt": "",
-    "area": 2121,
+    "area": 1880,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27109,14 +27108,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[6]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 101,
-      "x": 891,
-      "y": 8316
+      "height": 20,
+      "width": 94,
+      "x": 890,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 480,
+    "shape": 470,
     "tag": "LI",
     "visibleText": [
       "Your",
@@ -27127,7 +27126,7 @@
   },
   {
     "alt": "",
-    "area": 2592,
+    "area": 2294,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27136,14 +27135,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[6]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 81,
-      "x": 901,
-      "y": 8311
+      "height": 31,
+      "width": 74,
+      "x": 900,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 253,
+    "shape": 238,
     "tag": "A",
     "visibleText": [
       "Your",
@@ -27154,7 +27153,7 @@
   },
   {
     "alt": "",
-    "area": 1869,
+    "area": 1660,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27164,14 +27163,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[7]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 89,
-      "x": 992,
-      "y": 8316
+      "height": 20,
+      "width": 83,
+      "x": 984,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 423,
+    "shape": 415,
     "tag": "LI",
     "visibleText": [
       "Privacy",
@@ -27181,7 +27180,7 @@
   },
   {
     "alt": "",
-    "area": 2208,
+    "area": 1953,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27190,14 +27189,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[7]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 69,
-      "x": 1002,
-      "y": 8311
+      "height": 31,
+      "width": 63,
+      "x": 994,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 215,
+    "shape": 203,
     "tag": "A",
     "visibleText": [
       "Privacy",
@@ -27207,7 +27206,7 @@
   },
   {
     "alt": "",
-    "area": 2184,
+    "area": 1940,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27217,14 +27216,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[8]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 104,
-      "x": 1082,
-      "y": 8316
+      "height": 20,
+      "width": 97,
+      "x": 1068,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 495,
+    "shape": 485,
     "tag": "LI",
     "visibleText": [
       "Terms",
@@ -27235,7 +27234,7 @@
   },
   {
     "alt": "",
-    "area": 2688,
+    "area": 2387,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27244,14 +27243,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[8]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 84,
-      "x": 1092,
-      "y": 8311
+      "height": 31,
+      "width": 77,
+      "x": 1078,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 262,
+    "shape": 248,
     "tag": "A",
     "visibleText": [
       "Terms",
@@ -27262,7 +27261,7 @@
   },
   {
     "alt": "",
-    "area": 1848,
+    "area": 1640,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27272,14 +27271,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[9]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 88,
-      "x": 1186,
-      "y": 8316
+      "height": 20,
+      "width": 82,
+      "x": 1165,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 419,
+    "shape": 410,
     "tag": "LI",
     "visibleText": [
       "Terms",
@@ -27290,7 +27289,7 @@
   },
   {
     "alt": "",
-    "area": 2176,
+    "area": 1922,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27299,14 +27298,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[9]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 68,
-      "x": 1196,
-      "y": 8311
+      "height": 31,
+      "width": 62,
+      "x": 1175,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 212,
+    "shape": 200,
     "tag": "A",
     "visibleText": [
       "Terms",
@@ -27317,7 +27316,7 @@
   },
   {
     "alt": "",
-    "area": 1365,
+    "area": 1220,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27327,14 +27326,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[10]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 65,
-      "x": 1274,
-      "y": 8316
+      "height": 20,
+      "width": 61,
+      "x": 1248,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 309,
+    "shape": 305,
     "tag": "LI",
     "visibleText": [
       "Site",
@@ -27344,7 +27343,7 @@
   },
   {
     "alt": "",
-    "area": 1440,
+    "area": 1271,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27353,14 +27352,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[10]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 45,
-      "x": 1284,
-      "y": 8311
+      "height": 31,
+      "width": 41,
+      "x": 1258,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 140,
+    "shape": 132,
     "tag": "A",
     "visibleText": [
       "Site",
@@ -27370,7 +27369,7 @@
   },
   {
     "alt": "",
-    "area": 903,
+    "area": 820,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27380,14 +27379,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[13]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 43,
-      "x": 1340,
-      "y": 8316
+      "height": 20,
+      "width": 41,
+      "x": 1309,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 204,
+    "shape": 205,
     "tag": "LI",
     "visibleText": [
       "Help"
@@ -27396,7 +27395,7 @@
   },
   {
     "alt": "",
-    "area": 736,
+    "area": 651,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27405,14 +27404,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[13]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 23,
-      "x": 1350,
-      "y": 8311
+      "height": 31,
+      "width": 21,
+      "x": 1319,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 71,
+    "shape": 67,
     "tag": "A",
     "visibleText": [
       "Help"
@@ -27421,7 +27420,7 @@
   },
   {
     "alt": "",
-    "area": 1848,
+    "area": 1660,
     "classList": [
       "css-a7htku",
       "e5u916q2"
@@ -27431,14 +27430,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[14]",
     "isButton": false,
     "location": {
-      "height": 21,
-      "width": 88,
-      "x": 1383,
-      "y": 8316
+      "height": 20,
+      "width": 83,
+      "x": 1351,
+      "y": 8279
     },
     "name": null,
     "neighborText": [],
-    "shape": 419,
+    "shape": 415,
     "tag": "LI",
     "visibleText": [
       "Subscriptions"
@@ -27447,7 +27446,7 @@
   },
   {
     "alt": "",
-    "area": 2176,
+    "area": 1953,
     "classList": [
       "css-jq1cx6"
     ],
@@ -27456,14 +27455,14 @@
     "idxpath": "//*[@id='app']/div[2]/footer[1]/nav[1]/ul[2]/li[14]/a[1]",
     "isButton": false,
     "location": {
-      "height": 32,
-      "width": 68,
-      "x": 1393,
-      "y": 8311
+      "height": 31,
+      "width": 63,
+      "x": 1361,
+      "y": 8274
     },
     "name": "",
     "neighborText": [],
-    "shape": 212,
+    "shape": 203,
     "tag": "A",
     "visibleText": [
       "Subscriptions"

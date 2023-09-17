@@ -6,6 +6,9 @@ import type { Property, ElementLocation } from './interface/property';
 
 import { elementIsVisible, getElementByXPath, uniqElements } from './utils/index';
 import { getIdXPath, getXPath } from './utils/locator';
+export { getAusDomPath } from './utils/aus_selector';
+export { getRobustXPath } from './utils/robula';
+export { getElementByXPath } from './utils/index';
 
 /**
  * 获取元素 classList
