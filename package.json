@@ -1,6 +1,6 @@
 {
   "name": "@opa/similo2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Similarity-based Web Element Localization for Robust Test Automation",
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",
@@ -21,7 +21,9 @@
     "url": "https://github.com/wuhonglei/Similo2-JS.git"
   },
   "keywords": [
-    "Similo2", "web element", "Similarity"
+    "Similo2",
+    "web element",
+    "Similarity"
   ],
   "files": [
     "lib"

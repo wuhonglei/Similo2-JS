@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.0...v1.0.1) (2023-09-18)
+
+
+### Features
+
+* 暴露 getIdXPath, getXPath 方法 ([1164f2c](https://github.com/wuhonglei/Similo2-JS/commit/1164f2cbbd57927e0ee960c1b8f741966cf9138f))
+
 ## 1.0.0 (2023-09-18)
 
 
