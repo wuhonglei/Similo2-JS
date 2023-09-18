@@ -3,6 +3,7 @@
  */
 import type { Property, ElementLocation } from './interface/property';
 export { getElementByXPath } from './utils/index';
+export { getIdXPath, getXPath } from './utils/locator';
 /**
  * 获取元素周围 50px 的文本
  * @param location 元素区域
