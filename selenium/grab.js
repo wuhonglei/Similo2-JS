@@ -207,7 +207,7 @@ async function getPropertyOfSite(driver, site) {
       return {
         // ...Silimon.getElementPropertiesByXpath(xpath),
         ausSelector: Silimon.getAusDomPath(element),
-        roluSelector: Silimon.getRobustXPath(element, document).replace("@class=' ", "@class='"),
+        roluSelector: Silimon.getRobustXPath(element, document),
       };
     }, oneTarget.old),
   );
