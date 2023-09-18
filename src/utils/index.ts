@@ -1,5 +1,8 @@
 export function elementIsVisible(element: Element) {
-  if (getComputedStyle(element).visibility === 'hidden' || element.getBoundingClientRect().height == 0) {
+  const style = getComputedStyle(element);
+  const rect = element.getBoundingClientRect();
+
+  if (style.visibility === 'hidden' || style.display === 'none' || rect.height == 0 || rect.width == 0) {
     return false;
   }
 

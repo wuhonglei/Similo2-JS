@@ -10,6 +10,7 @@ import { getIdXPath, getXPath } from './utils/locator';
 // export { getRobustXPath } from './utils/robula';
 export { getElementByXPath } from './utils/index';
 export { getIdXPath, getXPath } from './utils/locator';
+export { elementIsVisible } from './utils/index';
 
 /**
  * 获取元素 classList
@@ -155,6 +156,11 @@ export function getNeighborText(element: Element, location: ElementLocation): st
 export function getElementProperties(element: Element): Property {
   if (!element) {
     console.warn('element is null');
+    return {} as Property;
+  }
+
+  if (!document.contains(element)) {
+    console.warn('element is not in document');
     return {} as Property;
   }
 
