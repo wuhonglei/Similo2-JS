@@ -9,6 +9,7 @@ import { getIdXPath, getXPath } from './utils/locator';
 // export { getAusDomPath } from './utils/aus_selector';
 // export { getRobustXPath } from './utils/robula';
 export { getElementByXPath } from './utils/index';
+export { getIdXPath, getXPath } from './utils/locator';
 
 /**
  * 获取元素 classList
