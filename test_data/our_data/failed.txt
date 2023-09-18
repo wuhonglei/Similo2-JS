@@ -8,9 +8,5 @@ Bing
 Ebay
 Myshopify
 Usps
-Yahoo
-Youtube
 Zoom
-Adobe
-Aliexpress
 Etsy
