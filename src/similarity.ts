@@ -11,6 +11,10 @@ export function findPropertyByXpath(xpath: string, properties: Property[]): Prop
 }
 
 export function findPropertyIndexByXpath(xpath: string, properties: Property[]): number {
+  if (!Array.isArray(properties)) {
+    properties = [properties];
+  }
+
   return properties.findIndex((p) => p.xpath === xpath);
 }
 
