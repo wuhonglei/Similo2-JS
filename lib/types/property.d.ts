@@ -1,7 +1,7 @@
 /**
  * 获取 element 的属性
  */
-import type { Property, ElementLocation } from './interface/property';
+import type { Property, ElementLocation, CandidateOption } from './interface/property';
 export { getElementByXPath } from './utils/index';
 export { getIdXPath, getXPath } from './utils/locator';
 export { elementIsVisible } from './utils/index';
@@ -22,5 +22,5 @@ export declare function getElementProperties(element: Element): Property;
  * @param selector
  * @returns
  */
-export declare function getCandidateElementsPropertiesBySelector(selector: Parameters<ParentNode['querySelectorAll']>[0]): Property[];
+export declare function getCandidateElementsPropertiesBySelector(selector: Parameters<ParentNode['querySelectorAll']>[0], option?: CandidateOption): Property[];
 export declare function getElementPropertiesByXpath(xpath: string): Property;
