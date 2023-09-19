@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.2...v1.0.3) (2023-09-19)
+
+
+### Features
+
+* 允许获取隐藏的候选元素 ([ea312f6](https://github.com/wuhonglei/Similo2-JS/commit/ea312f60786ad41d64b831432f74eae1a0f435bb))
+
 ### [1.0.2](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.1...v1.0.2) (2023-09-18)
 
 
