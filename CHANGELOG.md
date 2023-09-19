@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.3...v1.0.4) (2023-09-19)
+
+
+### Features
+
+* 返回最佳匹配的相似度(分数百分比) ([a99f6b1](https://github.com/wuhonglei/Similo2-JS/commit/a99f6b13a3ff49e1b60f0d250104a303abd5571d))
+
 ### [1.0.3](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.2...v1.0.3) (2023-09-19)
 
 
