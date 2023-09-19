@@ -44,6 +44,7 @@ export interface SimilarPropertyResult {
     maxIndex: number;
     scores: number[];
     similarProperty: Property;
+    normalizedMaxScore: number;
     scoreDetails: SimilarScoreDetail[][];
 }
 export interface SimilarScoreDetail {
