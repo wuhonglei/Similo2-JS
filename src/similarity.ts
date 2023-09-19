@@ -50,18 +50,25 @@ function sumScore(scoreDetails: SimilarScoreDetail[]): number {
  * @param scores
  * @param idealScore
  */
-function normalizeScore(scores: number[], idealScore: number): number[] {
-  return scores.map((score) => {
-    if (!idealScore) {
-      return 0;
-    }
-
-    const normalized = (score * 100) / idealScore;
-    return toPrecision(normalized, 6);
-  });
+function normalizeScores(scores: number[], idealScore: number): number[] {
+  return scores.map((score) => normalizeScore(score, idealScore));
 }
 
-function getMaxScoreDetail(scoreDetailsList: SimilarScoreDetail[][], idealScore: number): MaxScoreDetail {
+/**
+ * 将分数转为 0-100 之间的数
+ * @param scores
+ * @param idealScore
+ */
+function normalizeScore(score: number, idealScore: number): number {
+  if (!idealScore) {
+    return 0;
+  }
+
+  const normalized = (score * 100) / idealScore;
+  return toPrecision(normalized, 6);
+}
+
+function getMaxScoreDetail(scoreDetailsList: SimilarScoreDetail[][]): MaxScoreDetail {
   const scores = scoreDetailsList.map((detail) => sumScore(detail));
   let index = -1;
   let max = -Infinity;
@@ -97,7 +104,7 @@ export function getIdealScore(property: Property): number {
 export function findSimilarProperty(property: Property, properties: Property[]): SimilarPropertyResult {
   const scoreDetailsList = properties.map((p) => getSimilarScoreDetails(property, p));
   const idealScore = getIdealScore(property);
-  const { scores, max, index } = getMaxScoreDetail(scoreDetailsList, idealScore);
+  const { scores, max, index } = getMaxScoreDetail(scoreDetailsList);
 
   return {
     scores,
@@ -105,5 +112,6 @@ export function findSimilarProperty(property: Property, properties: Property[]):
     maxIndex: index,
     scoreDetails: scoreDetailsList,
     similarProperty: properties[index],
+    normalizedMaxScore: normalizeScore(max, idealScore),
   };
 }
