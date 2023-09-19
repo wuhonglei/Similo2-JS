@@ -4,6 +4,7 @@
 
 import { intersection, isEmpty, isNil, isString, stripString, toPrecision, union } from '.';
 import { Point } from '../interface';
+import { tagGroupList } from '../constant';
 
 export function equalSimilarity<T extends string | number | boolean>(a: T, b: T): number {
   if (isNil(a) || isNil(b)) {
@@ -34,6 +35,45 @@ export function equalSimilarityCaseInsensitive(a: string, b: string): number {
 
   if (String(a).toLowerCase() === String(b).toLowerCase()) {
     return 1;
+  }
+
+  return 0;
+}
+
+/**
+ * 寻找标签分类索引
+ * @param tag
+ * @returns {number} -1 未找到, 否则返回索引
+ */
+function findTagGroupIndex(tag: string): number {
+  tag = tag.toLowerCase();
+  return tagGroupList.findIndex((tagGroup) => tagGroup.includes(tag));
+}
+
+/**
+ * 比较 tag 标签的相似度
+ * @param a
+ * @param b
+ */
+export function tagSimilarity(a: string, b: string): number {
+  if (isEmpty(a) || isEmpty(b)) {
+    return 0;
+  }
+
+  a = String(a).toLowerCase();
+  b = String(b).toLowerCase();
+  if (a === b) {
+    return 1;
+  }
+
+  const aIndex = findTagGroupIndex(a);
+  const bIndex = findTagGroupIndex(b);
+  if (aIndex === -1 || bIndex === -1) {
+    return 0;
+  }
+
+  if (aIndex === bIndex) {
+    return 0.5;
   }
 
   return 0;
