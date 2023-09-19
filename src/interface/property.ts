@@ -66,3 +66,7 @@ export interface MaxScoreDetail {
   index: number;
   scores: number[];
 }
+
+export interface CandidateOption {
+  isAllDom: boolean;
+}

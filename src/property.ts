@@ -2,7 +2,7 @@
  * 获取 element 的属性
  */
 
-import type { Property, ElementLocation } from './interface/property';
+import type { Property, ElementLocation, CandidateOption } from './interface/property';
 
 import { elementIsVisible, getElementByXPath, uniqElements } from './utils/index';
 import { getIdXPath, getXPath } from './utils/locator';
@@ -204,9 +204,13 @@ export function getElementProperties(element: Element): Property {
  */
 export function getCandidateElementsPropertiesBySelector(
   selector: Parameters<ParentNode['querySelectorAll']>[0],
+  option?: CandidateOption,
 ): Property[] {
   const elements = document.querySelectorAll(selector);
-  return [...elements].filter((element) => elementIsVisible(element)).map((element) => getElementProperties(element));
+  option = { isAllDom: false, ...option };
+  return [...elements]
+    .filter((element) => option.isAllDom || elementIsVisible(element))
+    .map((element) => getElementProperties(element));
 }
 
 export function getElementPropertiesByXpath(xpath: string): Property {
