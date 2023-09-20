@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.8](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.7...v1.0.8) (2023-09-20)
+
+
+### Features
+
+* 提供获取常见 selector 的方法 ([8545626](https://github.com/wuhonglei/Similo2-JS/commit/8545626b1138cf0cd526d09ddaf846366ea86638))
+
 ### [1.0.7](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.6...v1.0.7) (2023-09-20)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@opa/similo2",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Similarity-based Web Element Localization for Robust Test Automation",
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",
