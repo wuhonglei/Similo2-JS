@@ -61,3 +61,6 @@ export interface MaxScoreDetail {
 export interface CandidateOption {
     isAllDom: boolean;
 }
+export interface ElementPropertiesOption {
+    excludeContainers: string[];
+}

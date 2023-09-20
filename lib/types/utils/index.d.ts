@@ -1,3 +1,4 @@
+import { Point } from '../interface';
 export declare function elementIsVisible(element: Element): boolean;
 export declare function uniq<T extends any>(arr: T[]): T[];
 export declare function uniqElements(elements: Element[]): Element[];
@@ -28,3 +29,15 @@ export declare function intersection<T extends any>(a: T[], b: T[]): T[];
  * @returns
  */
 export declare function union<T extends any>(a: T[], b: T[]): T[];
+/**
+ * 获取指定坐标的元素, 排除指定的元素
+ * @param excludeContainers
+ * @param point
+ * @returns
+ */
+export declare function getOwnElement(excludeContainers: Element[], point: Point): Element;
+/**
+ * 根据选择器获取元素列表
+ * @param selector
+ */
+export declare function getElementList(selectors: string[]): Element[];
