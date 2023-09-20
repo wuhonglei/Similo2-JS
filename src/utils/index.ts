@@ -1,3 +1,5 @@
+import { Point } from '../interface';
+
 export function elementIsVisible(element: Element) {
   const style = getComputedStyle(element);
   const rect = element.getBoundingClientRect();
@@ -100,4 +102,34 @@ export function intersection<T extends any>(a: T[], b: T[]): T[] {
  */
 export function union<T extends any>(a: T[], b: T[]): T[] {
   return [...new Set([...a, ...b])];
+}
+
+function inContainerList(element: Element, containerList: Element[]): boolean {
+  return containerList.some((container) => container.contains(element));
+}
+
+/**
+ * 获取指定坐标的元素, 排除指定的元素
+ * @param excludeContainers
+ * @param point
+ * @returns
+ */
+export function getOwnElement(excludeContainers: Element[], point: Point) {
+  const pointElement = document.elementFromPoint(point.x, point.y);
+  if (!inContainerList(pointElement, excludeContainers)) {
+    return pointElement;
+  }
+
+  const elements = document.elementsFromPoint(point.x, point.y);
+  return elements.find((element) => !inContainerList(element, excludeContainers));
+}
+
+/**
+ * 根据选择器获取元素列表
+ * @param selector
+ */
+export function getElementList(selectors: string[]): Element[] {
+  return selectors.reduce((acc, selector) => {
+    return [...acc, ...document.querySelectorAll(selector)];
+  }, []);
 }

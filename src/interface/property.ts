@@ -71,3 +71,7 @@ export interface MaxScoreDetail {
 export interface CandidateOption {
   isAllDom: boolean;
 }
+
+export interface ElementPropertiesOption {
+  excludeContainers: string[]; // 采集邻居文本时, 需要排除的容器 selector
+}

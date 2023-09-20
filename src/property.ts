@@ -2,9 +2,9 @@
  * 获取 element 的属性
  */
 
-import type { Property, ElementLocation, CandidateOption } from './interface/property';
+import type { Property, ElementLocation, CandidateOption, ElementPropertiesOption, Point } from './interface/property';
 
-import { elementIsVisible, getElementByXPath, uniqElements } from './utils/index';
+import { elementIsVisible, getElementByXPath, getElementList, getOwnElement, uniqElements } from './utils/index';
 import { getIdXPath, getXPath } from './utils/locator';
 export { getElementByXPath } from './utils/index';
 export { getIdXPath, getXPath } from './utils/locator';
@@ -97,7 +97,11 @@ function isValidNeighborElement(currentElement: Element, element: Element): bool
  * @param location 元素区域
  * @returns string
  */
-export function getNeighborText(element: Element, location: ElementLocation): string[] {
+export function getNeighborText(
+  element: Element,
+  location: ElementLocation,
+  option: Partial<Pick<ElementPropertiesOption, 'excludeContainers'>>,
+): string[] {
   const { x, y, width, height } = location;
 
   /**
@@ -106,6 +110,8 @@ export function getNeighborText(element: Element, location: ElementLocation): st
   if (height > 100 || width > 600) {
     return [];
   }
+
+  const excludeContainers = getElementList(option?.excludeContainers || []);
 
   /**
    * 元素周围区域(top,right,bottom,left)的起始和结束坐标
@@ -123,7 +129,7 @@ export function getNeighborText(element: Element, location: ElementLocation): st
     const [x1, y1, x2, y2] = area;
     for (let i = x1; i < x2; i += xStep) {
       for (let j = y1; j < y2; j += yStep) {
-        const pointElement = document.elementFromPoint(i, j);
+        const pointElement = getOwnElement(excludeContainers, { x: i, y: j });
         isValidNeighborElement(pointElement, element) && neighborElements.push(pointElement);
       }
     }
@@ -149,9 +155,10 @@ export function getNeighborText(element: Element, location: ElementLocation): st
 /**
  * 获取单个元素的属性定位参数
  * @param element
+ * @param option
  * @returns
  */
-export function getElementProperties(element: Element): Property {
+export function getElementProperties(element: Element, option?: Partial<ElementPropertiesOption>): Property {
   if (!element) {
     console.warn('element is null');
     return {} as Property;
@@ -175,7 +182,7 @@ export function getElementProperties(element: Element): Property {
   const area = getElementArea(location);
   const shape = getElementShape(location);
   const visibleText = getVisibleText(element);
-  const neighborText = getNeighborText(element, location);
+  const neighborText = getNeighborText(element, location, option);
 
   return {
     tag,
@@ -202,16 +209,16 @@ export function getElementProperties(element: Element): Property {
  */
 export function getCandidateElementsPropertiesBySelector(
   selector: Parameters<ParentNode['querySelectorAll']>[0],
-  option?: CandidateOption,
+  option?: Partial<CandidateOption & ElementPropertiesOption>,
 ): Property[] {
   const elements = document.querySelectorAll(selector);
   option = { isAllDom: false, ...option };
   return [...elements]
     .filter((element) => option.isAllDom || elementIsVisible(element))
-    .map((element) => getElementProperties(element));
+    .map((element) => getElementProperties(element, option));
 }
 
-export function getElementPropertiesByXpath(xpath: string): Property {
+export function getElementPropertiesByXpath(xpath: string, option?: Partial<ElementPropertiesOption>): Property {
   const element = getElementByXPath(xpath);
   return getElementProperties(element);
 }
