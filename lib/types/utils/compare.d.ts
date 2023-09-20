@@ -11,6 +11,12 @@ export declare function equalSimilarity<T extends string | number | boolean>(a: 
  */
 export declare function equalSimilarityCaseInsensitive(a: string, b: string): number;
 /**
+ * 比较 tag 标签的相似度
+ * @param a
+ * @param b
+ */
+export declare function tagSimilarity(a: string, b: string): number;
+/**
  * 比较字符串编辑距离
  * @param a
  * @param b
