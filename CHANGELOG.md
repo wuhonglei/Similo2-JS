@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.4...v1.0.5) (2023-09-20)
+
+
+### Features
+
+* 临时新增 tag 标签比较函数(未使用,没有效果) ([8eeb9f6](https://github.com/wuhonglei/Similo2-JS/commit/8eeb9f6aaa94157d14cd5f457e1108dccd39ddbc))
+* 将 window 暴露的对象由 Silimon 改为Silimo ([ec68879](https://github.com/wuhonglei/Similo2-JS/commit/ec68879adcf292076c079796957f010203c35211))
+
 ### [1.0.4](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.3...v1.0.4) (2023-09-19)
 
 
