@@ -20,6 +20,12 @@ export declare function getNeighborText(element: Element, location: ElementLocat
 export declare function getElementProperties(element: Element, option?: Partial<ElementPropertiesOption>): Property;
 /**
  * 获取候选元素的属性定位参数
+ * @param tagList
+ * @returns 返回逗号分隔的选择器, 例如 div,span,p
+ */
+export declare function getCommonSelector(tagList?: string[]): string;
+/**
+ * 获取候选元素的属性定位参数
  * @param selector
  * @returns
  */
