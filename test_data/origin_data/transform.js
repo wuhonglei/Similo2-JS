@@ -1,4 +1,4 @@
-// 将 Silimon2 原有的 name.properties 数据格式转为 json 格式
+// 将 Silimo2 原有的 name.properties 数据格式转为 json 格式
 
 const path = require('path');
 const fs = require('fs');

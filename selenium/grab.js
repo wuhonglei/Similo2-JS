@@ -198,16 +198,16 @@ async function getPropertyOfSite(driver, site) {
 
   const promiseList = xpath.map((oneTarget) =>
     driver.executeScript(function getProperties(xpath) {
-      if (!window.Silimon) {
+      if (!window.Silimo) {
         return {};
       }
 
-      const element = Silimon.getElementByXPath(xpath);
+      const element = Silimo.getElementByXPath(xpath);
 
       return {
-        // ...Silimon.getElementPropertiesByXpath(xpath),
-        ausSelector: Silimon.getAusDomPath(element),
-        roluSelector: Silimon.getRobustXPath(element, document),
+        // ...Silimo.getElementPropertiesByXpath(xpath),
+        ausSelector: Silimo.getAusDomPath(element),
+        roluSelector: Silimo.getRobustXPath(element, document),
       };
     }, oneTarget.old),
   );
@@ -233,19 +233,19 @@ async function getPropertyOfSite(driver, site) {
   const promiseList1 = xpath.map((oneTarget, index) =>
     driver.executeScript(
       function getProperties(xpath, ausSelector, roluSelector) {
-        if (!window.Silimon) {
+        if (!window.Silimo) {
           return {};
         }
 
-        const correctElement = Silimon.getElementByXPath(xpath);
+        const correctElement = Silimo.getElementByXPath(xpath);
         const ausElement = ausSelector.startsWith('//')
-          ? Silimon.getElementByXPath(ausSelector)
+          ? Silimo.getElementByXPath(ausSelector)
           : document.querySelector(ausSelector);
-        const roluElement = Silimon.getElementByXPath(roluSelector);
+        const roluElement = Silimo.getElementByXPath(roluSelector);
 
         return {
-          ausSelector: Silimon.getAusDomPath(correctElement),
-          roluSelector: Silimon.getRobustXPath(correctElement, document),
+          ausSelector: Silimo.getAusDomPath(correctElement),
+          roluSelector: Silimo.getRobustXPath(correctElement, document),
           ausMatched: correctElement === ausElement,
           roluMatched: correctElement === roluElement,
         };
@@ -259,10 +259,10 @@ async function getPropertyOfSite(driver, site) {
   compareSelector(targetProperties, targetPropertiesInNewSite, xpath);
   // const elementsToExtract = 'input,textarea,button,select,a,h1,h2,h3,h4,h5,li,span,div,p,th,tr,td,label,svg';
   // const candidateProperties = await driver.executeScript(function getProperties(selector) {
-  //   if (!window.Silimon) {
+  //   if (!window.Silimo) {
   //     return [];
   //   }
-  //   return Silimon.getCandidateElementsPropertiesBySelector(selector);
+  //   return Silimo.getCandidateElementsPropertiesBySelector(selector);
   // }, elementsToExtract);
   // if (isEmptyProperties(candidateProperties)) {
   // throw new Error('candidateProperties is empty');
