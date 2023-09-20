@@ -21,7 +21,7 @@ export default defineConfig([
     output: {
       file: 'lib/index.js',
       format: 'umd',
-      name: 'Silimo',
+      name: 'Similo',
       sourcemap: true, // Enable source map generation
     },
     plugins: [cleandir('lib'), ...plugins],
@@ -31,7 +31,7 @@ export default defineConfig([
     output: {
       file: 'lib/property.js',
       format: 'umd',
-      name: 'Silimo',
+      name: 'Similo',
       sourcemap: true, // Enable source map generation
     },
     plugins,
@@ -41,7 +41,7 @@ export default defineConfig([
     output: {
       file: 'lib/similarity.js',
       format: 'umd',
-      name: 'Silimo',
+      name: 'Similo',
       sourcemap: true, // Enable source map generation
     },
     plugins,
