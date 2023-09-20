@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.6](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.5...v1.0.6) (2023-09-20)
+
+
+### Bug Fixes
+
+* 解决 window 暴露的全局变量属性名称错误问题 ([0207ff8](https://github.com/wuhonglei/Similo2-JS/commit/0207ff8ea6f32d2685af1bc10d79a0e0d2f82f98))
+
 ### [1.0.5](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.4...v1.0.5) (2023-09-20)
 
 
