@@ -2,6 +2,7 @@
  * 获取 element 的属性
  */
 
+import { commonTagList } from './constant';
 import type { Property, ElementLocation, CandidateOption, ElementPropertiesOption, Point } from './interface/property';
 
 import { elementIsVisible, getElementByXPath, getElementList, getOwnElement, uniqElements } from './utils/index';
@@ -200,6 +201,15 @@ export function getElementProperties(element: Element, option?: Partial<ElementP
     visibleText,
     neighborText,
   };
+}
+
+/**
+ * 获取候选元素的属性定位参数
+ * @param tagList
+ * @returns 返回逗号分隔的选择器, 例如 div,span,p
+ */
+export function getCommonSelector(tagList?: string[]): string {
+  return [...new Set([...commonTagList, ...(tagList || [])])].join(',');
 }
 
 /**
