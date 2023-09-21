@@ -5,9 +5,13 @@
 import numpy as np
 from matplotlib import pyplot as plt
 from utils.helper import get_train_data
+import json
 
 x_train, y_train = get_train_data()
 weight = np.ones(14)
+# weight = np.array(
+#     [0.6, 0.45, 0.45, 1.,  0.5, 0.45, 0.55, 0.45, 0.45, 0.45, 0.45, 0.5, 0.4, 0.4]
+# )
 
 
 def is_equal(a, b):
@@ -27,7 +31,10 @@ for m in range(14):
         new_x[i, :] = x_train[i, index, :]
         if (not is_equal(x_train[i, index, :], y_train[i, :])):
             current_error += 1
-    errors[m] = round((current_error / 561) * 100) / 20.
+    # print(current_error)
+    errors[m] = current_error
 
+errors = np.round((errors / y_train.shape[0]) * 100, 0)
+errors = np.round(errors / np.max(errors), 2)
 # [0.6  0.45 0.45 1.   0.5  0.45 0.55 0.45 0.45 0.45 0.45 0.5  0.4  0.4 ]
-print(errors)
+print(json.dumps(errors.tolist()))
