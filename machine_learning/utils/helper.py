@@ -5,6 +5,8 @@ from pathlib import Path
 data_root = str(Path.joinpath(Path(__file__).parent.parent, 'data/score'))
 
 # 文件夹遍历
+
+
 def get_file_list(dir_path):
     """
     获取文件夹下所有文件的路径
@@ -17,6 +19,7 @@ def get_file_list(dir_path):
             file_list.append(os.path.join(root, file))
     return file_list
 
+
 def read_json(filepath):
     """
     读取 json 文件
@@ -28,13 +31,16 @@ def read_json(filepath):
         data = json.load(f)
     return data
 
+
 def get_train_data():
     """
     获取训练数据
     """
-    x_train = np.zeros((561, 2000, 14), dtype=np.float16) # 561 个样本, 每个样本 2000 候选元素，每个元素 14 个特征
-    y_train = np.zeros((561, 14), dtype=np.float16)
     file_list = get_file_list(data_root)
+    total = len(file_list)
+    x_train = np.zeros(
+        (total, 2000, 14), dtype=np.float32)  # total 个样本, 每个样本 2000 候选元素，每个元素 14 个特征
+    y_train = np.zeros((total, 14), dtype=np.float32)
     for i, file in enumerate(file_list):
         candidate = read_json(file)
         x_train[i, 0:len(candidate), :] = candidate
