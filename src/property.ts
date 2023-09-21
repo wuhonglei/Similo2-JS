@@ -209,7 +209,8 @@ export function getElementProperties(element: Element, option?: Partial<ElementP
  * @returns 返回逗号分隔的选择器, 例如 div,span,p
  */
 export function getCommonSelector(tagList?: string[]): string {
-  return [...new Set([...commonTagList, ...(tagList || [])])].join(',');
+  const lowerCaseTagList = (tagList || []).map((tag) => tag.toLowerCase());
+  return [...new Set([...commonTagList, ...lowerCaseTagList])].join(',');
 }
 
 /**

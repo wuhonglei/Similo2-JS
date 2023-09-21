@@ -10,6 +10,8 @@ import {
   xpathSimilarity,
 } from '../utils/compare';
 
+// [0.52, 0.48, 0.48, 1, 0.57, 0.48, 0.57, 0.48, 0.48, 0.48, 0.48, 0.52, 0.39, 0.52];
+
 export const propertyConfigByName: PropertyConfigByName<PropertyName> = {
   tag: {
     weight: 1.5,
