@@ -52,7 +52,7 @@ console.info(`similoPlusImage: ${similoPlusImage}`, `errorRata: ${toPercent(1 - 
 
 /**
  * total: 491
- * ausPlusImage: 351 errorRata: 28.51%
+ * ausPlusImage: 390 errorRata: 20.57%
  * robulaPlusImage: 390 errorRata: 20.57%
  *
  * similoTotal: 572

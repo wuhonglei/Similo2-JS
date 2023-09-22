@@ -30,7 +30,7 @@ console.info(`ausSuccess: ${ausSuccess}`, `errorRata: ${toPercent(1 - ausSuccess
 console.info(`robulaSuccess: ${robulaSuccess}`, `errorRata: ${toPercent(1 - robulaSuccess / total)}`);
 
 /**
- * total: 491
- * ausSuccess: 243 errorRata: 50.51%
- * robulaSuccess: 319 errorRata: 35.03%
+total: 491
+ausSuccess: 320 errorRata: 34.83%
+robulaSuccess: 319 errorRata: 35.03%
  */
