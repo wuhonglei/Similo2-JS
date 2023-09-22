@@ -198,7 +198,6 @@ function getSelectorElement(target, rootNode, relativePath, childPath, isAllDom)
   }
   tempPath = elementPath + (childPath ? ` > ${childPath}` : '');
   if (checkUniqueSelector(rootNode, relativePath + tempPath, isAllDom)) {
-    tempPath = fixedElementPath + (childPath ? ` > ${childPath}` : '');
     return `!${tempPath}`;
   }
   return tempPath;
