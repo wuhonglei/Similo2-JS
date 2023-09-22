@@ -10,8 +10,8 @@ import json
 x_train, y_train = get_train_data()
 weight = np.ones(14)
 weight = np.array(
-    [0.52, 0.48, 0.48, 1, 0.57, 0.48, 0.57,
-        0.48, 0.48, 0.48, 0.48, 0.52, 0.39, 0.52]
+    [0.7001953125, 0.7001953125, 0.7001953125, 1.2998046875, 0.80029296875, 0.60009765625, 0.7001953125,
+        0.7001953125, 0.60009765625, 0.7001953125, 0.7001953125, 0.7001953125, 0.60009765625, 0.7001953125]
 )
 
 
@@ -35,7 +35,7 @@ for m in range(1):
     print(current_error)
     errors[m] = current_error
 
-errors = np.round((errors / y_train.shape[0]) * 100, 0)
-errors = np.round(errors / np.max(errors), 2)
+errors = np.round(errors / np.sum(errors), 2)
+# print(errors * 10)
 # [0.6  0.45 0.45 1.   0.5  0.45 0.55 0.45 0.45 0.45 0.45 0.5  0.4  0.4 ]
-print(json.dumps(np.round(errors * 100, 0,).tolist()))
+print(json.dumps((errors * 10).tolist()))
