@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.9](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.8...v1.0.9) (2023-10-11)
+
+
+### Features
+
+* 暴露 element 选择器方法 ([707acbe](https://github.com/wuhonglei/Similo2-JS/commit/707acbedd5d25241aaac70d032e86135d6685375))
+
+
+### Bug Fixes
+
+* 纠正 aus 选择器的错误写法 ([7db35d8](https://github.com/wuhonglei/Similo2-JS/commit/7db35d8f2c6910a0983610392fe3176f1ac3d02e))
+
 ### [1.0.8](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.7...v1.0.8) (2023-09-20)
 
 
