@@ -28,6 +28,15 @@ export function getElementByXPath(xpath: string): Element {
   return document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as Element;
 }
 
+export function getElementByCssSelector(selector: string): Element {
+  return document.querySelector(selector) as Element;
+}
+
+export function getElementBySelector(selector: string): Element {
+  const isXpath = selector.startsWith('/');
+  return isXpath ? getElementByXPath(selector) : getElementByCssSelector(selector);
+}
+
 export function toPrecision(num: number, precision = 6): number {
   return Number(num.toFixed(precision));
 }

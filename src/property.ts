@@ -7,7 +7,7 @@ import type { Property, ElementLocation, CandidateOption, ElementPropertiesOptio
 
 import { elementIsVisible, getElementByXPath, getElementList, getOwnElement, uniqElements } from './utils/index';
 import { getIdXPath, getXPath } from './utils/locator';
-export { getElementByXPath } from './utils/index';
+export { getElementByXPath, getElementByCssSelector, getElementBySelector } from './utils/index';
 export { getIdXPath, getXPath } from './utils/locator';
 export { elementIsVisible } from './utils/index';
 
