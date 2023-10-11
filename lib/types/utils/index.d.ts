@@ -3,6 +3,8 @@ export declare function elementIsVisible(element: Element): boolean;
 export declare function uniq<T extends any>(arr: T[]): T[];
 export declare function uniqElements(elements: Element[]): Element[];
 export declare function getElementByXPath(xpath: string): Element;
+export declare function getElementByCssSelector(selector: string): Element;
+export declare function getElementBySelector(selector: string): Element;
 export declare function toPrecision(num: number, precision?: number): number;
 /**
  * 移除非法字段，仅保留字母和数字

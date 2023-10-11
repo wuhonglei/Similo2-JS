@@ -2,7 +2,7 @@
  * 获取 element 的属性
  */
 import type { Property, ElementLocation, CandidateOption, ElementPropertiesOption } from './interface/property';
-export { getElementByXPath } from './utils/index';
+export { getElementByXPath, getElementByCssSelector, getElementBySelector } from './utils/index';
 export { getIdXPath, getXPath } from './utils/locator';
 export { elementIsVisible } from './utils/index';
 /**
