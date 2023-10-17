@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.10](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.9...v1.0.10) (2023-10-17)
+
+
+### Features
+
+* 数据采集时，使用浏览器内置的分词 Intl.Segmenter ([1c42bb6](https://github.com/wuhonglei/Similo2-JS/commit/1c42bb63d9effa071c7b71a7d75e7b3ad328d33b))
+
 ### [1.0.9](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.8...v1.0.9) (2023-10-11)
 
 
