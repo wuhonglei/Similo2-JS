@@ -5,7 +5,14 @@
 import { commonTagList } from './constant';
 import type { Property, ElementLocation, CandidateOption, ElementPropertiesOption, Point } from './interface/property';
 
-import { elementIsVisible, getElementByXPath, getElementList, getOwnElement, uniqElements } from './utils/index';
+import {
+  elementIsVisible,
+  getElementByXPath,
+  getElementList,
+  getOwnElement,
+  isEmpty,
+  uniqElements,
+} from './utils/index';
 import { getIdXPath, getXPath } from './utils/locator';
 export { getElementByXPath, getElementByCssSelector, getElementBySelector } from './utils/index';
 export { getIdXPath, getXPath } from './utils/locator';
@@ -61,10 +68,29 @@ function getElementShape(location: ElementLocation): number {
   return Math.floor((width * 100) / height);
 }
 
+/**
+ * 使用浏览器内置的 Intl.Segmenter API 进行分词
+ * 分词性能和 replace 相当
+ * @param text
+ */
+function wordSegmentation(text: string): string[] {
+  if (isEmpty(text)) {
+    return [];
+  }
+
+  const segmenter = new Intl.Segmenter('en', {
+    granularity: 'word',
+  });
+  const segments = segmenter.segment(text);
+  return Array.from(segments)
+    .filter((segment) => segment.isWordLike)
+    .map((segment) => segment.segment);
+}
+
 function getVisibleText(element: Element): string[] {
   // textContent 会获取到隐藏元素的文本，所以使用 innerText
   const text = ['innerText', 'value', 'placeholder'].map((name) => ((element as any)[name] || '').trim()).find(Boolean);
-  return (text || '').split(/[\n\s]+/);
+  return wordSegmentation(text);
 }
 
 function getElementHeight(element: Element): number {

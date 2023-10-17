@@ -201,7 +201,7 @@ function wordSanitize(str: string): string {
 }
 
 function worldListSanitize(wordList: string[]): string[] {
-  return wordList.map((word) => wordSanitize(word).toLowerCase()).filter(Boolean);
+  return wordList.map((word) => (word || '').toLowerCase()).filter(Boolean);
 }
 
 /**
