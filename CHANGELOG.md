@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.11](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.10...v1.0.11) (2023-10-26)
+
+
+### Features
+
+* 优化邻居文本采集方式 ([5000926](https://github.com/wuhonglei/Similo2-JS/commit/5000926e748e5e12ad05c20190fc6c24865dc29d))
+
 ### [1.0.10](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.9...v1.0.10) (2023-10-17)
 
 
