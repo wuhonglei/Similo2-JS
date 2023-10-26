@@ -1,6 +1,7 @@
-import { Point } from '../interface';
+import { ElementLocation, Point, Property, PropertyName } from '../interface';
 export declare function elementIsVisible(element: Element): boolean;
 export declare function uniq<T extends any>(arr: T[]): T[];
+export declare function isBoolean(value: any): value is boolean;
 export declare function uniqElements(elements: Element[]): Element[];
 export declare function getElementByXPath(xpath: string): Element;
 export declare function getElementByCssSelector(selector: string): Element;
@@ -43,3 +44,15 @@ export declare function getOwnElement(excludeContainers: Element[], point: Point
  * @param selector
  */
 export declare function getElementList(selectors: string[]): Element[];
+/**
+ * 获取指定 location 的元素
+ * @param location
+ * @returns
+ */
+export declare function getElementFromLocation(location: ElementLocation): Element | null;
+/**
+ * 获取有效属性值的属性名列表
+ * @param properties
+ * @returns
+ */
+export declare function getValidPropertyNames(properties: Partial<Property>): PropertyName[];

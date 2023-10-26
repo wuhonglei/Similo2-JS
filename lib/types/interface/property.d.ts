@@ -62,5 +62,7 @@ export interface CandidateOption {
     isAllDom: boolean;
 }
 export interface ElementPropertiesOption {
+    propertyByElement?: Map<Element, Partial<Property>>;
+    propertyNames?: PropertyName[];
     excludeContainers: string[];
 }
