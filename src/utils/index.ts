@@ -1,4 +1,5 @@
-import { Point } from '../interface';
+import { propertyNames } from '../constant';
+import { ElementLocation, Point, Property, PropertyName } from '../interface';
 
 export function elementIsVisible(element: Element) {
   const style = getComputedStyle(element);
@@ -13,6 +14,10 @@ export function elementIsVisible(element: Element) {
 
 export function uniq<T extends any>(arr: T[]): T[] {
   return Array.from(new Set(arr));
+}
+
+export function isBoolean(value: any): value is boolean {
+  return typeof value === 'boolean';
 }
 
 export function uniqElements(elements: Element[]): Element[] {
@@ -141,4 +146,31 @@ export function getElementList(selectors: string[]): Element[] {
   return selectors.reduce((acc, selector) => {
     return [...acc, ...document.querySelectorAll(selector)];
   }, []);
+}
+
+/**
+ * 获取指定 location 的元素
+ * @param location
+ * @returns
+ */
+export function getElementFromLocation(location: ElementLocation): Element | null {
+  const { x, y } = location;
+  const point = { x: Math.floor(x + 1), y: Math.floor(y + 1) }; // 这里没有使用中心点，因为中心可能是子元素
+  return document.elementFromPoint(point.x, point.y);
+}
+
+/**
+ * 获取有效属性值的属性名列表
+ * @param properties
+ * @returns
+ */
+export function getValidPropertyNames(properties: Partial<Property>): PropertyName[] {
+  return propertyNames.filter((name) => {
+    const value = properties[name];
+    if (isBoolean(value) || isNumber(value)) {
+      return true;
+    }
+
+    return !isEmpty(value);
+  });
 }

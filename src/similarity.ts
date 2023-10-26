@@ -4,7 +4,7 @@
 
 import { propertyConfigByName, propertyNames } from './config';
 import type { MaxScoreDetail, Property, SimilarPropertyResult, SimilarScoreDetail } from './interface/property';
-import { toPrecision } from './utils';
+import { getValidPropertyNames, toPrecision } from './utils';
 
 export function findPropertyByXpath(xpath: string, properties: Property[]): Property | undefined {
   return properties.find((p) => p.xpath === xpath);
@@ -19,7 +19,8 @@ export function findPropertyIndexByXpath(xpath: string, properties: Property[]):
 }
 
 export function getSimilarScoreDetails(property1: Property, property2: Property): SimilarScoreDetail[] {
-  const scoreDetails = propertyNames.map((name) => {
+  const validPropertyNames = getValidPropertyNames(property1);
+  const scoreDetails = validPropertyNames.map((name) => {
     const { weight, compare } = propertyConfigByName[name];
     const value1 = property1[name];
     const value2 = property2[name];

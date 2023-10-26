@@ -73,5 +73,7 @@ export interface CandidateOption {
 }
 
 export interface ElementPropertiesOption {
+  propertyByElement?: Map<Element, Partial<Property>>; // 初始数据
+  propertyNames?: PropertyName[]; // 需要采集的属性名
   excludeContainers: string[]; // 采集邻居文本时, 需要排除的容器 selector
 }

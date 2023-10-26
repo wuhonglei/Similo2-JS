@@ -1,3 +1,5 @@
+import type { PropertyName } from '../interface';
+
 /**
  * 根据经验，将表现一致的表情符号放在一起
  */
@@ -35,4 +37,21 @@ export const commonTagList = [
   'td',
   'label',
   'svg',
+];
+
+export const propertyNames: PropertyName[] = [
+  'tag',
+  'classList',
+  'id',
+  'name',
+  'href',
+  'alt',
+  'xpath',
+  'idxpath',
+  'isButton',
+  'location',
+  'area',
+  'shape',
+  'visibleText',
+  'neighborText',
 ];
