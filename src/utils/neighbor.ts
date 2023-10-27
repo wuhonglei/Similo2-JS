@@ -123,8 +123,10 @@ export function getNeighborText(
         }
 
         const neighborElement = getOwnElement(excludeContainers, point);
-        neighborElement && elementLocations.push(getElementLocation(neighborElement));
-        isValidNeighborElement(neighborElement, element) && neighborElements.push(neighborElement);
+        if (isValidNeighborElement(neighborElement, element)) {
+          neighborElements.push(neighborElement);
+          elementLocations.push(getElementLocation(neighborElement));
+        }
       }
     }
   });
