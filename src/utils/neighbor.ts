@@ -64,6 +64,11 @@ function isValidNeighborElement(neighborElement: Element, targetElement: Element
     return false;
   }
 
+  // 过滤掉高度大于 100 的元素
+  if (getElementHeight(neighborElement) > 100) {
+    return false;
+  }
+
   return true;
 }
 
@@ -132,11 +137,7 @@ export function getNeighborText(
   });
 
   // 获取元素周围的文本
-  const textListByString = uniqElements(
-    neighborElements
-      // 过滤掉高度大于 100 的元素
-      .filter((element) => getElementHeight(element) <= 100),
-  ).reduce(
+  const textListByString = neighborElements.reduce(
     (textMap, currentElement) => {
       const text = getVisibleText(currentElement); // 'src \n  上传打包后的内容'
       textMap[text.join(' ')] = text; // 使用 map 是为了解决元素周围的文本重复的问题

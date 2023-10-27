@@ -174,7 +174,7 @@ export function getCommonSelector(tagList?: string[]): string {
  * @param selector
  * @returns
  */
-export function getCandidateElementsPropertiesBySelector(
+export function getCandidateElementsProperties(
   elements: Element[],
   option?: Partial<CandidateOption & ElementPropertiesOption & { returnElement?: boolean }>,
 ): Partial<Property>[] {
@@ -206,18 +206,15 @@ export function getElementPropertiesByXpath(
  * @param scores
  * @returns
  */
-export function getElementsNeighborProperties(properties: Partial<Property>[], scores: number[]): Partial<Property>[] {
-  const propertiesWithScores = properties.map((property, index) => ({
-    property,
-    score: scores[index],
-  }));
-  const sortedProperties = propertiesWithScores.sort((a, b) => b.score - a.score); // 降序
-
-  const maxScore = sortedProperties[0].score;
+export function getElementsNeighborProperties(
+  maxScore: number,
+  scores: number[],
+  properties: Partial<Property>[],
+): Partial<Property>[] {
   const lastScore = maxScore - propertyConfigByName.neighborText.weight;
-  return sortedProperties
-    .filter((p) => p.score >= lastScore)
-    .map((p) =>
-      getElementProperties(p.property.extra.element, { propertyNames: ['neighborText'], initialData: p.property }),
+  return properties
+    .filter((_, index) => scores[index] >= lastScore)
+    .map((property) =>
+      getElementProperties(property.extra.element, { propertyNames: ['neighborText'], initialData: property }),
     );
 }
