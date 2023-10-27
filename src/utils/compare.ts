@@ -226,8 +226,8 @@ function jaccardSimilarity(wordList1: string[], wordList2: string[]): number {
  * @param wordList2
  */
 export function wordSimilarity(wordList1: string[], wordList2: string[]): number {
-  const cleanWorldList1 = worldListSanitize(wordList1);
-  const cleanWorldList2 = worldListSanitize(wordList2);
+  const cleanWorldList1 = worldListSanitize(wordList1 || []);
+  const cleanWorldList2 = worldListSanitize(wordList2 || []);
   const score = jaccardSimilarity(cleanWorldList1, cleanWorldList2);
   return toPrecision(score);
 }

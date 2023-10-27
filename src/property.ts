@@ -2,6 +2,7 @@
  * 获取 element 的属性
  */
 
+import { propertyConfigByName } from './config';
 import { commonTagList, propertyNames } from './constant';
 import type {
   Property,
@@ -105,6 +106,28 @@ const funcByPropertyName: Record<
   neighborText: (element, data, option) => getNeighborText(element, data.location, option),
 };
 
+function getPropertyNames(option: Partial<ElementPropertiesOption>): PropertyName[] {
+  const { propertyNames, ignoreNames, initialData } = option;
+  return propertyNames.filter((name) => !ignoreNames.includes(name) && !(name in initialData));
+}
+
+/**
+ * 选项配置默认值处理
+ * @param option
+ * @returns
+ */
+function formatOption(option?: Partial<ElementPropertiesOption>): ElementPropertiesOption {
+  const newOption: ElementPropertiesOption = {
+    initialData: {},
+    excludeContainers: [],
+    ignoreNames: [],
+    propertyNames: [...propertyNames],
+    ...(option || {}),
+  };
+  newOption.propertyNames = getPropertyNames(newOption);
+  return newOption;
+}
+
 /**
  * 获取单个元素的属性定位参数
  * @param element
@@ -123,15 +146,12 @@ export function getElementProperties(element: Element, option?: Partial<ElementP
   }
 
   // 处理 option
-  const newOption: ElementPropertiesOption = {
-    excludeContainers: [],
-    propertyNames: [...propertyNames],
-    ...(option || {}),
+  const newOption = formatOption(option);
+  const { initialData, propertyNames } = newOption;
+  const data: Partial<Property> = {
+    ...initialData,
   };
-  newOption.propertyNames = Array.from(new Set(['location', ...newOption.propertyNames])); // location 一定会被获取到
-
-  const data: Partial<Property> = {};
-  newOption.propertyNames.forEach((propertyName) => {
+  propertyNames.forEach((propertyName) => {
     // @ts-ignore
     data[propertyName] = funcByPropertyName[propertyName](element, data, newOption);
   });
@@ -155,14 +175,19 @@ export function getCommonSelector(tagList?: string[]): string {
  * @returns
  */
 export function getCandidateElementsPropertiesBySelector(
-  selector: Parameters<ParentNode['querySelectorAll']>[0],
-  option?: Partial<CandidateOption & ElementPropertiesOption>,
+  elements: Element[],
+  option?: Partial<CandidateOption & ElementPropertiesOption & { returnElement?: boolean }>,
 ): Partial<Property>[] {
-  const elements = document.querySelectorAll(selector);
-  option = { isAllDom: false, ...option };
+  option = { isAllDom: false, returnElement: false, ...option };
   return [...elements]
     .filter((element) => option.isAllDom || elementIsVisible(element))
-    .map((element) => getElementProperties(element, option));
+    .map((element) => {
+      const extra = {
+        element: option.returnElement ? element : undefined,
+      };
+      const initialData = { extra, ...option.initialData };
+      return getElementProperties(element, { ...option, initialData });
+    });
 }
 
 export function getElementPropertiesByXpath(
@@ -171,4 +196,28 @@ export function getElementPropertiesByXpath(
 ): Partial<Property> {
   const element = getElementByXPath(xpath);
   return getElementProperties(element, option);
+}
+
+/**
+ * 返回包含 NeighborText 的属性列表
+ * 首先，将不包含 NeighborText 的属性得分进行降序排序
+ * 然后，截取得分 >= maxScore - neighborText.weight 属性列表，并重新计算 NeighborText
+ * @param properties
+ * @param scores
+ * @returns
+ */
+export function getElementsNeighborProperties(properties: Partial<Property>[], scores: number[]): Partial<Property>[] {
+  const propertiesWithScores = properties.map((property, index) => ({
+    property,
+    score: scores[index],
+  }));
+  const sortedProperties = propertiesWithScores.sort((a, b) => b.score - a.score); // 降序
+
+  const maxScore = sortedProperties[0].score;
+  const lastScore = maxScore - propertyConfigByName.neighborText.weight;
+  return sortedProperties
+    .filter((p) => p.score >= lastScore)
+    .map((p) =>
+      getElementProperties(p.property.extra.element, { propertyNames: ['neighborText'], initialData: p.property }),
+    );
 }

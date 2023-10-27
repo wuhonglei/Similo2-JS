@@ -27,6 +27,10 @@ export interface Property {
   shape: number; // (width * 100) / height; 整形
   visibleText: string[]; // 可见文本(textContent, value, placeholder)
   neighborText: string[]; // 元素四周的邻居文本
+  extra?: {
+    // 额外信息
+    element: Element | undefined; // 元素引用
+  };
 }
 
 export interface Point {
@@ -34,7 +38,7 @@ export interface Point {
   y: number;
 }
 
-export type PropertyName = keyof Property;
+export type PropertyName = keyof Omit<Property, 'extra'>;
 export type CompareFunction<T extends PropertyName> = (a: Property[T], b: Property[T]) => number;
 
 export interface PropertyConfig<T extends PropertyName> {
@@ -73,7 +77,8 @@ export interface CandidateOption {
 }
 
 export interface ElementPropertiesOption {
-  propertyByElement?: Map<Element, Partial<Property>>; // 初始数据
+  initialData?: Partial<Property>; // 初始数据
   propertyNames?: PropertyName[]; // 需要采集的属性名
+  ignoreNames?: PropertyName[]; // 需要忽略的属性名
   excludeContainers: string[]; // 采集邻居文本时, 需要排除的容器 selector
 }
