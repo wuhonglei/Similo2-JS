@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.12](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.11...v1.0.12) (2023-10-30)
+
+
+### Features
+
+* neighbor text 延迟采集，加快匹配速度 ([e7091a4](https://github.com/wuhonglei/Similo2-JS/commit/e7091a41487a5a1cec31cbc9a22a06d8f045b1fe))
+
+
+### Bug Fixes
+
+* 移除 Neighbor text 采集时，多于的循环 ([7caa817](https://github.com/wuhonglei/Similo2-JS/commit/7caa817c59b656401704b2fb10d97af738f8aa58))
+* 解决邻居文本采集错误问题 ([34a64a2](https://github.com/wuhonglei/Similo2-JS/commit/34a64a2dd0c5139623305156fe9953f4b08f0e3e))
+
 ### [1.0.11](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.10...v1.0.11) (2023-10-26)
 
 
