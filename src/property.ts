@@ -214,9 +214,7 @@ export function getElementsNeighborProperties(
   const lastScore = maxScore - propertyConfigByName.neighborText.weight;
   return properties
     .filter((_, index) => scores[index] >= lastScore)
-    .map((property) => {
-      const element = property.extra.element;
-      const initialData: Partial<Property> = { ...property, extra: { element: undefined } }; // 不再返回 element
-      return getElementProperties(element, { propertyNames: ['neighborText'], initialData });
-    });
+    .map((property) =>
+      getElementProperties(property.extra.element, { propertyNames: ['neighborText'], initialData: property }),
+    );
 }
