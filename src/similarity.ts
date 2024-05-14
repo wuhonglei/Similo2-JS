@@ -26,18 +26,16 @@ export function getSimilarScoreDetails(property1: Property, property2: Property)
     const value2 = property2[name];
     // @ts-ignore
     const similarity = compare(value1, value2);
-    if (similarity) {
-      return {
-        name,
-        value: {
-          target: value1,
-          candidate: value2,
-        },
-        weight,
-        similarity,
-        score: toPrecision(weight * similarity, 6),
-      };
-    }
+    return {
+      name,
+      value: {
+        target: value1,
+        candidate: value2,
+      },
+      weight,
+      similarity,
+      score: toPrecision(weight * similarity, 6),
+    };
   });
   return scoreDetails.filter(Boolean);
 }
