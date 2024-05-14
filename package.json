@@ -7,6 +7,7 @@
   "scripts": {
     "test": "jest",
     "build": "rollup -c",
+    "release:alpha": "npx standard-version --prerelease alpha && npm publish --tag alpha && git push --follow-tags",
     "release:patch": "npx standard-version --release-as patch && npm run postversion",
     "release:minor": "npx standard-version --release-as minor && npm run postversion",
     "release:major": "npx standard-version --release-as major && npm run postversion",
