@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-alpha.0](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.15...v1.1.0-alpha.0) (2024-07-04)
+
+
+### Features
+
+* 允许用户自定义属性权重 ([ab9a41f](https://github.com/wuhonglei/Similo2-JS/commit/ab9a41f1a43439dda878b4399c5128a1673f5708))
+
 ### [1.0.15](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.15-alpha.1...v1.0.15) (2024-05-15)
 
 ### [1.0.15-alpha.1](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.15-alpha.0...v1.0.15-alpha.1) (2024-05-14)
