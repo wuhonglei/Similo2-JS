@@ -3,7 +3,13 @@
  */
 
 import { propertyConfigByName, propertyNames } from './config';
-import type { MaxScoreDetail, Property, SimilarPropertyResult, SimilarScoreDetail } from './interface/property';
+import type {
+  MaxScoreDetail,
+  Property,
+  SimilarPropertyResult,
+  SimilarScoreDetail,
+  WeightByName,
+} from './interface/property';
 import { getValidPropertyNames, toPrecision } from './utils';
 
 export function findPropertyByXpath(xpath: string, properties: Property[]): Property | undefined {
@@ -18,10 +24,15 @@ export function findPropertyIndexByXpath(xpath: string, properties: Property[]):
   return properties.findIndex((p) => p.xpath === xpath);
 }
 
-export function getSimilarScoreDetails(property1: Property, property2: Property): SimilarScoreDetail[] {
+export function getSimilarScoreDetails(
+  property1: Property,
+  property2: Property,
+  weightByName?: WeightByName,
+): SimilarScoreDetail[] {
   const validPropertyNames = getValidPropertyNames(property1);
   const scoreDetails = validPropertyNames.map((name) => {
     const { weight, compare } = propertyConfigByName[name];
+    const newWeight = weightByName?.[name] ?? weight;
     const value1 = property1[name];
     const value2 = property2[name];
     // @ts-ignore
@@ -32,9 +43,9 @@ export function getSimilarScoreDetails(property1: Property, property2: Property)
         target: value1,
         candidate: value2,
       },
-      weight,
+      weight: newWeight,
       similarity,
-      score: toPrecision(weight * similarity, 6),
+      score: toPrecision(newWeight * similarity, 6),
     };
   });
   return scoreDetails.filter(Boolean);
@@ -90,8 +101,8 @@ function getMaxScoreDetail(scoreDetailsList: SimilarScoreDetail[][]): MaxScoreDe
  * @param property
  * @returns
  */
-export function getIdealScore(property: Property): number {
-  const scoreDetails = getSimilarScoreDetails(property, property);
+export function getIdealScore(property: Property, weightByName?: WeightByName): number {
+  const scoreDetails = getSimilarScoreDetails(property, property, weightByName);
   return sumScore(scoreDetails);
 }
 
@@ -100,9 +111,13 @@ export function getIdealScore(property: Property): number {
  * @param property
  * @param properties
  */
-export function findSimilarProperty(property: Property, properties: Property[]): SimilarPropertyResult {
-  const scoreDetailsList = properties.map((p) => getSimilarScoreDetails(property, p));
-  const idealScore = getIdealScore(property);
+export function findSimilarProperty(
+  property: Property,
+  properties: Property[],
+  weightByName?: WeightByName,
+): SimilarPropertyResult {
+  const scoreDetailsList = properties.map((p) => getSimilarScoreDetails(property, p, weightByName));
+  const idealScore = getIdealScore(property, weightByName);
   const { scores, max, index } = getMaxScoreDetail(scoreDetailsList);
 
   return {

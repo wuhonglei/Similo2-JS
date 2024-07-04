@@ -82,3 +82,6 @@ export interface ElementPropertiesOption {
   ignoreNames?: PropertyName[]; // 需要忽略的属性名
   excludeContainers: string[]; // 采集邻居文本时, 需要排除的容器 selector
 }
+
+// 允许用户自定义属性权重
+export type WeightByName = Partial<Record<PropertyName, number>>;
