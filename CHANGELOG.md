@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-alpha.1](https://github.com/wuhonglei/Similo2-JS/compare/v1.1.0-alpha.0...v1.1.0-alpha.1) (2024-07-08)
+
+
+### Bug Fixes
+
+* 解决子元素为 input、textarea 时，text 无法被采集的问题 ([6e7c8dc](https://github.com/wuhonglei/Similo2-JS/commit/6e7c8dcaa3eb75f50a5865a223e8d7694f530eca))
+
 ## [1.1.0-alpha.0](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.15...v1.1.0-alpha.0) (2024-07-04)
 
 
