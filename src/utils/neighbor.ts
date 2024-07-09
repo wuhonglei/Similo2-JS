@@ -42,9 +42,14 @@ export function getVisibleTextWithoutSegmentation(element: Element): string {
 
 export function getVisibleText(element: Element): string[] {
   const text = getVisibleTextWithoutSegmentation(element);
-  const inputElements: NodeListOf<HTMLInputElement> = element.querySelectorAll('input, textarea');
+  const inputElements: HTMLInputElement[] = [...element.querySelectorAll('input')].filter((input) =>
+    ['color', 'date', 'email', 'file', 'password', 'range', 'search', 'tel', 'text', 'time', 'url', 'week'].includes(
+      input.type,
+    ),
+  );
+  const textareaElements: HTMLTextAreaElement[] = [...element.querySelectorAll('textarea')];
   // 解决 element 包含 input 元素时，input 元素的文本无法被获取的问题
-  const valueTexts = Array.from(inputElements)
+  const valueTexts = [...inputElements, ...textareaElements]
     .map((inputElement) => getVisibleTextWithoutSegmentation(inputElement))
     .filter(Boolean);
   const textList = [text, ...valueTexts].filter(Boolean);
