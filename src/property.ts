@@ -12,14 +12,7 @@ import type {
   PropertyName,
 } from './interface/property';
 
-import {
-  elementIsVisible,
-  getElementByXPath,
-  getElementList,
-  getOwnElement,
-  isEmpty,
-  uniqElements,
-} from './utils/index';
+import { elementIsVisible, getElementByXPath } from './utils/index';
 import { getIdXPath, getXPath } from './utils/locator';
 import { getElementLocation, getNeighborText, getVisibleText } from './utils/neighbor';
 export { getElementByXPath, getElementByCssSelector, getElementBySelector } from './utils/index';

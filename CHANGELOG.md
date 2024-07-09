@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-alpha.2](https://github.com/wuhonglei/Similo2-JS/compare/v1.1.0-alpha.1...v1.1.0-alpha.2) (2024-07-08)
+
+
+### Bug Fixes
+
+* 解决 input placeholder 未被采集问题 ([c11a3ca](https://github.com/wuhonglei/Similo2-JS/commit/c11a3ca02f6c5c176e7d4fa8ac28bdf0e1e94475))
+
+## [1.1.0-alpha.1](https://github.com/wuhonglei/Similo2-JS/compare/v1.1.0-alpha.0...v1.1.0-alpha.1) (2024-07-08)
+
+
+### Bug Fixes
+
+* 解决子元素为 input、textarea 时，text 无法被采集的问题 ([6e7c8dc](https://github.com/wuhonglei/Similo2-JS/commit/6e7c8dcaa3eb75f50a5865a223e8d7694f530eca))
+
+## [1.1.0-alpha.0](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.15...v1.1.0-alpha.0) (2024-07-04)
+
+
+### Features
+
+* 允许用户自定义属性权重 ([ab9a41f](https://github.com/wuhonglei/Similo2-JS/commit/ab9a41f1a43439dda878b4399c5128a1673f5708))
+
 ### [1.0.15](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.15-alpha.1...v1.0.15) (2024-05-15)
 
 ### [1.0.15-alpha.1](https://github.com/wuhonglei/Similo2-JS/compare/v1.0.15-alpha.0...v1.0.15-alpha.1) (2024-05-14)

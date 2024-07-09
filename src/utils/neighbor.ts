@@ -34,10 +34,26 @@ function wordSegmentation(text: string): string[] {
     .map((segment) => segment.segment);
 }
 
-export function getVisibleText(element: Element): string[] {
+export function getVisibleTextWithoutSegmentation(element: Element): string {
   // textContent 会获取到隐藏元素的文本，所以使用 innerText
   const text = ['innerText', 'value', 'placeholder'].map((name) => ((element as any)[name] || '').trim()).find(Boolean);
-  return wordSegmentation(text);
+  return text;
+}
+
+export function getVisibleText(element: Element): string[] {
+  const text = getVisibleTextWithoutSegmentation(element);
+  const inputElements: HTMLInputElement[] = [...element.querySelectorAll('input')].filter((input) =>
+    ['color', 'date', 'email', 'file', 'password', 'range', 'search', 'tel', 'text', 'time', 'url', 'week'].includes(
+      input.type,
+    ),
+  );
+  const textareaElements: HTMLTextAreaElement[] = [...element.querySelectorAll('textarea')];
+  // 解决 element 包含 input 元素时，input 元素的文本无法被获取的问题
+  const valueTexts = [...inputElements, ...textareaElements]
+    .map((inputElement) => getVisibleTextWithoutSegmentation(inputElement))
+    .filter(Boolean);
+  const textList = [text, ...valueTexts].filter(Boolean);
+  return wordSegmentation(textList.join(' '));
 }
 
 function getElementHeight(element: Element): number {
