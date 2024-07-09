@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/wuhonglei/Similo2-JS/compare/v1.1.0-alpha.2...v1.1.0) (2024-07-09)
+
+
+### Bug Fixes
+
+* 仅采集 input 制定 type 类型的 value 属性值 ([7278ce3](https://github.com/wuhonglei/Similo2-JS/commit/7278ce3995afab0cd03464166e03c512178f080b))
+
 ## [1.1.0-alpha.2](https://github.com/wuhonglei/Similo2-JS/compare/v1.1.0-alpha.1...v1.1.0-alpha.2) (2024-07-08)
 
 
