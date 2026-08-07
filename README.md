@@ -33,6 +33,7 @@ npm run test
 ```typescript
 import {
   getElementProperties,          // 获取单个元素的属性
+  getCommonSelector,             // 生成候选元素的 CSS 选择器
   getCandidateElementsProperties, // 获取所有候选元素的属性
   findSimilarProperty,           // 从候选中找最相似的
 } from '@opa/similo2';
@@ -41,7 +42,10 @@ import {
 const targetProp = getElementProperties(targetElement);
 
 // 步骤 2: 回放时 - 提取所有候选元素属性
+// getCommonSelector() 返回常见标签选择器（如 input,button,a,div,...），可传入额外标签扩展
+const visibleElements = [...document.querySelectorAll(getCommonSelector())];
 const candidates = getCandidateElementsProperties(visibleElements);
+// 默认会过滤不可见元素；若需保留全部 DOM，可传 { isAllDom: true }
 
 // 步骤 3: 匹配 - 找到最相似的元素
 const result = findSimilarProperty(targetProp, candidates);
