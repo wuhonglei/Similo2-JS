@@ -41,10 +41,10 @@
 2.  参数的比较
     | 算法名称                    | 说明                                                              | 示例                                                                                                                                          |
     | ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-    | 编辑距离                    | 两个字串之间由一个转成另一个所需的最少编辑操作次数。允许的编辑操作包括将一个字符替换成另一个字符，插入一个字符，删除一个字符。 | const distance = LevenshteinDistance(s1, s2);&#xA;const score = (s1.length - distance) \* maxScore / s1.length;                             |
-    | 欧氏距离（一维）                | 两点之间的绝对距离.                                                      | const distance = Math.abs(value1 - value2);&#xA;const max = Math.max(value1, value2);&#xA;const score = (max - distance) \* maxScore / max; |
-    | 欧氏距离（二维）                | Math.sqrt((x1-x2)\*\*2 + (y1-y2) \*\*2)                         | const pixelDistance = Math.sqrt(dx\**dx + dy*\*dy);&#xA;const similarity = Math.max(100 - pixelDistance, 0))/100;                           |
-    | 单词相似度&#xA;(Jaccard 相似度) | \|A ∩ B\| / \|A ∪ B\|                                           | A,B 表示单词列表                                                                                                                                  |
+    | 编辑距离                    | 两个字串之间由一个转成另一个所需的最少编辑操作次数。允许的编辑操作包括将一个字符替换成另一个字符，插入一个字符，删除一个字符。 | $d = \mathrm{Levenshtein}(s_1, s_2)$&#xA;$\mathrm{score} = \dfrac{(\|s_1\| - d) \cdot \mathrm{maxScore}}{\|s_1\|}$                             |
+    | 欧氏距离（一维）                | 两点之间的绝对距离.                                                      | $d = \|v_1 - v_2\|$&#xA;$\mathrm{score} = \dfrac{(\max(v_1, v_2) - d) \cdot \mathrm{maxScore}}{\max(v_1, v_2)}$ |
+    | 欧氏距离（二维）                | $\sqrt{(x_1-x_2)^2 + (y_1-y_2)^2}$                         | $d = \sqrt{(x_1-x_2)^2 + (y_1-y_2)^2}$&#xA;$\mathrm{similarity} = \dfrac{\max(100 - d,\ 0)}{100}$                           |
+    | 单词相似度&#xA;(Jaccard 相似度) | $\dfrac{\|A \cap B\|}{\|A \cup B\|}$                                           | $J(A,B) = \dfrac{\|A \cap B\|}{\|A \cup B\|}$（A、B 为单词列表）                                                                                                                                  |
 
 ### 三、定位效果展示
 
