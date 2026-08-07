@@ -3,14 +3,80 @@
 -   [基于相似性的 Web 元素本地化实现稳健的测试自动化](https://dl.acm.org/doi/10.1145/3571855 "基于相似性的 Web 元素本地化实现稳健的测试自动化")
 
     源代码：[https://github.com/michelnass/Similo2](https://github.com/michelnass/Similo2 "https://github.com/michelnass/Similo2")
-    #### 名词解释
-    **目标元素**：录制用例时，我们点击的元素
 
-    ![](image/image_-UAUHKLekN.png)
+---
 
-    候选元素：回放时，页面所有可见的元素
+## 使用说明
 
-    ![](image/image_p0-qDjA3Ht.png)
+### 安装
+
+```bash
+npm install
+```
+
+### 构建
+
+```bash
+npm run build
+```
+
+### 运行测试
+
+```bash
+npm run test
+```
+
+### 核心 API
+
+在浏览器环境中使用（需要 DOM）：
+
+```typescript
+import {
+  getElementProperties,          // 获取单个元素的属性
+  getCandidateElementsProperties, // 获取所有候选元素的属性
+  findSimilarProperty,           // 从候选中找最相似的
+} from '@opa/similo2';
+
+// 步骤 1: 录制时 - 提取目标元素属性
+const targetProp = getElementProperties(targetElement);
+
+// 步骤 2: 回放时 - 提取所有候选元素属性
+const candidates = getCandidateElementsProperties(visibleElements);
+
+// 步骤 3: 匹配 - 找到最相似的元素
+const result = findSimilarProperty(targetProp, candidates);
+console.log(result.similarProperty);     // 最匹配的元素
+console.log(result.maxScore);            // 最高分
+console.log(result.normalizedMaxScore);  // 归一化分数 (0-100)
+```
+
+### 自定义权重
+
+```typescript
+const result = findSimilarProperty(targetProp, candidates, {
+  tag: 2.0,         // 自定义 tag 权重
+  visibleText: 0,   // 忽略 visibleText
+});
+```
+
+### 发布
+
+```bash
+npm run release:patch   # 补丁版本
+npm run release:minor   # 次版本
+npm run release:major   # 主版本
+```
+
+---
+
+### 名词解释
+**目标元素**：录制用例时，我们点击的元素
+
+![目标元素示例](image/image_-UAUHKLekN.png)
+
+候选元素：回放时，页面所有可见的元素
+
+![候选元素示例](image/image_p0-qDjA3Ht.png)
 
 ### 一、问题
 
